@@ -1,14 +1,64 @@
 {
-  "meta": { "district_id": 101, "district": "Taplejung", "province_id": 1, "total": 9 },
+  "meta": {
+    "district_id": 101,
+    "district": "Taplejung",
+    "province_id": 1,
+    "total": 9
+  },
   "municipalities": [
-    { "id": 10101, "name": "Phungling", "type": "Municipality", "wards": 11 },
-    { "id": 10102, "name": "Aathrai Tribeni", "type": "Rural Municipality", "wards": 5 },
-    { "id": 10103, "name": "Sidingwa", "type": "Rural Municipality", "wards": 7 },
-    { "id": 10104, "name": "Phaktanglung", "type": "Rural Municipality", "wards": 7 },
-    { "id": 10105, "name": "Mikkwakhola", "type": "Rural Municipality", "wards": 5 },
-    { "id": 10106, "name": "Meringden", "type": "Rural Municipality", "wards": 6 },
-    { "id": 10107, "name": "Maiwakhola", "type": "Rural Municipality", "wards": 6 },
-    { "id": 10108, "name": "Pathibhara Yangwarak", "type": "Rural Municipality", "wards": 6 },
-    { "id": 10109, "name": "Sirijangha", "type": "Rural Municipality", "wards": 8 }
+    {
+      "id": 10101,
+      "name": "Phungling",
+      "type": "Municipality",
+      "wards": 11
+    },
+    {
+      "id": 10102,
+      "name": "Aathrai Tribeni",
+      "type": "Rural Municipality",
+      "wards": 5
+    },
+    {
+      "id": 10103,
+      "name": "Sidingwa",
+      "type": "Rural Municipality",
+      "wards": 7
+    },
+    {
+      "id": 10104,
+      "name": "Phaktanglung",
+      "type": "Rural Municipality",
+      "wards": 7
+    },
+    {
+      "id": 10105,
+      "name": "Mikkwakhola",
+      "type": "Rural Municipality",
+      "wards": 5
+    },
+    {
+      "id": 10106,
+      "name": "Meringden",
+      "type": "Rural Municipality",
+      "wards": 6
+    },
+    {
+      "id": 10107,
+      "name": "Maiwakhola",
+      "type": "Rural Municipality",
+      "wards": 6
+    },
+    {
+      "id": 10108,
+      "name": "Pathibhara Yangwarak",
+      "type": "Rural Municipality",
+      "wards": 6
+    },
+    {
+      "id": 10109,
+      "name": "Sirijangha",
+      "type": "Rural Municipality",
+      "wards": 8
+    }
   ]
 }
