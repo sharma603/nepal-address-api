@@ -1,14 +1,63 @@
 {
-  "meta": { "province_id": 7, "province": "Sudurpashchim", "total": 9 },
-  "districts": [
-    { "id": 701, "name": "Bajura",       "name_np": "बाजुरा",     "province_id": 7, "headquarters": "Martadi"     },
-    { "id": 702, "name": "Bajhang",      "name_np": "बझाङ",       "province_id": 7, "headquarters": "Chainpur"    },
-    { "id": 703, "name": "Darchula",     "name_np": "डार्चुला",  "province_id": 7, "headquarters": "Darchula"    },
-    { "id": 704, "name": "Baitadi",      "name_np": "बैतडी",     "province_id": 7, "headquarters": "Dasharathchand"},
-    { "id": 705, "name": "Dadeldhura",   "name_np": "डडेलधुरा", "province_id": 7, "headquarters": "Dadeldhura"  },
-    { "id": 706, "name": "Doti",         "name_np": "डोटी",      "province_id": 7, "headquarters": "Dipayal"     },
-    { "id": 707, "name": "Achham",       "name_np": "अछाम",      "province_id": 7, "headquarters": "Mangalsen"   },
-    { "id": 708, "name": "Kailali",      "name_np": "कैलाली",    "province_id": 7, "headquarters": "Dhangadhi"   },
-    { "id": 709, "name": "Kanchanpur",   "name_np": "कञ्चनपुर", "province_id": 7, "headquarters": "Mahendranagar"}
-  ]
+    "meta":  {
+                 "province_id":  7,
+                 "province":  "Sudurpashchim",
+                 "total":  9
+             },
+    "districts":  [
+                      {
+                          "id":  701,
+                          "name":  "Bajura",
+                          "name_np":  "बाजुरा",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  702,
+                          "name":  "Bajhang",
+                          "name_np":  "बझाङ",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  703,
+                          "name":  "Darchula",
+                          "name_np":  "डार्चुला",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  704,
+                          "name":  "Baitadi",
+                          "name_np":  "बैतडी",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  705,
+                          "name":  "Dadeldhura",
+                          "name_np":  "डडेलधुरा",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  706,
+                          "name":  "Doti",
+                          "name_np":  "डोटी",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  707,
+                          "name":  "Achham",
+                          "name_np":  "अछाम",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  708,
+                          "name":  "Kailali",
+                          "name_np":  "कैलाली",
+                          "province_id":  7
+                      },
+                      {
+                          "id":  709,
+                          "name":  "Kanchanpur",
+                          "name_np":  "कञ्चनपुर",
+                          "province_id":  7
+                      }
+                  ]
 }

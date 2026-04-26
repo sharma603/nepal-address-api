@@ -1,29 +1,26 @@
 {
   "meta": { 
     "description": "Full Nepal Address Dataset (Aggregated)", 
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "provinces": [
     {
       "id": 1, "name": "Koshi", "name_np": "कोशी", "iso": "NP-P1", "capital": "Biratnagar",
-      "governor": "Parshuram Khapung", "chief_minister": "Hikmat Kumar Karki",
       "districts": [
-        { "id": 101, "name": "Taplejung", "headquarters": "Taplejung" },
-        { "id": 102, "name": "Panchthar", "headquarters": "Phidim" },
-        { "id": 103, "name": "Ilam", "headquarters": "Ilam" },
-        { "id": 104, "name": "Jhapa", "headquarters": "Chandragadhi" },
-        { "id": 105, "name": "Morang", "headquarters": "Biratnagar" }
+        { "id": 101, "name": "Taplejung" },
+        { "id": 102, "name": "Panchthar" },
+        { "id": 103, "name": "Ilam" },
+        { "id": 104, "name": "Jhapa" },
+        { "id": 105, "name": "Morang" }
       ]
     },
     {
       "id": 2, "name": "Madhesh", "name_np": "मधेश", "iso": "NP-P2", "capital": "Janakpur",
-      "governor": "Surendra Labh Karn", "chief_minister": "Krishna Prasad Yadav",
       "districts": [
-        { "id": 201, "name": "Saptari", "headquarters": "Rajbiraj" },
-        { "id": 202, "name": "Siraha", "headquarters": "Siraha" },
-        { "id": 203, "name": "Dhanusha", "headquarters": "Janakpur" }
+        { "id": 201, "name": "Saptari" },
+        { "id": 202, "name": "Siraha" },
+        { "id": 203, "name": "Dhanusha" }
       ]
     }
-  ],
-  "note": "This file is truncated for demonstration."
+  ]
 }

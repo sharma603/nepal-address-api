@@ -1,17 +1,81 @@
 {
-  "meta": { "province_id": 5, "province": "Lumbini", "total": 12 },
-  "districts": [
-    { "id": 501, "name": "Rukum East",   "name_np": "रुकुम पूर्व", "province_id": 5, "headquarters": "Rukumkot"   },
-    { "id": 502, "name": "Rolpa",         "name_np": "रोल्पा",      "province_id": 5, "headquarters": "Liwang"     },
-    { "id": 503, "name": "Pyuthan",       "name_np": "प्युठान",    "province_id": 5, "headquarters": "Pyuthan"    },
-    { "id": 504, "name": "Gulmi",         "name_np": "गुल्मी",     "province_id": 5, "headquarters": "Tamghas"    },
-    { "id": 505, "name": "Arghakhanchi", "name_np": "अर्घाखाँची", "province_id": 5, "headquarters": "Sandhikharka"},
-    { "id": 506, "name": "Palpa",         "name_np": "पाल्पा",     "province_id": 5, "headquarters": "Tansen"     },
-    { "id": 507, "name": "Nawalparasi West","name_np":"नवलपरासी पश्चिम","province_id":5,"headquarters":"Ramgram"  },
-    { "id": 508, "name": "Rupandehi",     "name_np": "रुपन्देही",  "province_id": 5, "headquarters": "Siddharthanagar"},
-    { "id": 509, "name": "Kapilvastu",    "name_np": "कपिलवस्तु",  "province_id": 5, "headquarters": "Taulihawa"  },
-    { "id": 510, "name": "Dang",          "name_np": "दाङ",        "province_id": 5, "headquarters": "Ghorahi"    },
-    { "id": 511, "name": "Banke",         "name_np": "बाँके",      "province_id": 5, "headquarters": "Nepalgunj"  },
-    { "id": 512, "name": "Bardiya",       "name_np": "बर्दिया",    "province_id": 5, "headquarters": "Gulariya"   }
-  ]
+    "meta":  {
+                 "province_id":  5,
+                 "province":  "Lumbini",
+                 "total":  12
+             },
+    "districts":  [
+                      {
+                          "id":  501,
+                          "name":  "Rukum East",
+                          "name_np":  "रुकुम पूर्व",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  502,
+                          "name":  "Rolpa",
+                          "name_np":  "रोल्पा",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  503,
+                          "name":  "Pyuthan",
+                          "name_np":  "प्युठान",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  504,
+                          "name":  "Gulmi",
+                          "name_np":  "गुल्मी",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  505,
+                          "name":  "Arghakhanchi",
+                          "name_np":  "अर्घाखाँची",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  506,
+                          "name":  "Palpa",
+                          "name_np":  "पाल्पा",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  507,
+                          "name":  "Nawalparasi West",
+                          "name_np":  "नवलपरासी पश्चिम",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  508,
+                          "name":  "Rupandehi",
+                          "name_np":  "रुपन्देही",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  509,
+                          "name":  "Kapilvastu",
+                          "name_np":  "कपिलवस्तु",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  510,
+                          "name":  "Dang",
+                          "name_np":  "दाङ",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  511,
+                          "name":  "Banke",
+                          "name_np":  "बाँके",
+                          "province_id":  5
+                      },
+                      {
+                          "id":  512,
+                          "name":  "Bardiya",
+                          "name_np":  "बर्दिया",
+                          "province_id":  5
+                      }
+                  ]
 }

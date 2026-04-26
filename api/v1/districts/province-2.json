@@ -1,13 +1,57 @@
 {
-  "meta": { "province_id": 2, "province": "Madhesh", "total": 8 },
-  "districts": [
-    { "id": 201, "name": "Saptari",   "name_np": "सप्तरी",  "province_id": 2, "headquarters": "Rajbiraj"  },
-    { "id": 202, "name": "Siraha",    "name_np": "सिरहा",   "province_id": 2, "headquarters": "Siraha"    },
-    { "id": 203, "name": "Dhanusha",  "name_np": "धनुषा",   "province_id": 2, "headquarters": "Janakpur"  },
-    { "id": 204, "name": "Mahottari", "name_np": "महोत्तरी","province_id": 2, "headquarters": "Jaleshwor" },
-    { "id": 205, "name": "Sarlahi",   "name_np": "सर्लाही", "province_id": 2, "headquarters": "Malangwa"  },
-    { "id": 206, "name": "Rautahat",  "name_np": "रौतहट",   "province_id": 2, "headquarters": "Gaur"      },
-    { "id": 207, "name": "Bara",      "name_np": "बारा",    "province_id": 2, "headquarters": "Kalaiya"   },
-    { "id": 208, "name": "Parsa",     "name_np": "पर्सा",   "province_id": 2, "headquarters": "Birgunj"   }
-  ]
+    "meta":  {
+                 "province_id":  2,
+                 "province":  "Madhesh",
+                 "total":  8
+             },
+    "districts":  [
+                      {
+                          "id":  201,
+                          "name":  "Saptari",
+                          "name_np":  "सप्तरी",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  202,
+                          "name":  "Siraha",
+                          "name_np":  "सिरहा",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  203,
+                          "name":  "Dhanusha",
+                          "name_np":  "धनुषा",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  204,
+                          "name":  "Mahottari",
+                          "name_np":  "महोत्तरी",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  205,
+                          "name":  "Sarlahi",
+                          "name_np":  "सर्लाही",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  206,
+                          "name":  "Rautahat",
+                          "name_np":  "रौतहट",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  207,
+                          "name":  "Bara",
+                          "name_np":  "बारा",
+                          "province_id":  2
+                      },
+                      {
+                          "id":  208,
+                          "name":  "Parsa",
+                          "name_np":  "पर्सा",
+                          "province_id":  2
+                      }
+                  ]
 }

@@ -1,18 +1,87 @@
 {
-  "meta": { "province_id": 3, "province": "Bagmati", "total": 13 },
-  "districts": [
-    { "id": 301, "name": "Sindhuli",     "name_np": "सिन्धुली",    "province_id": 3, "headquarters": "Sindhuli"    },
-    { "id": 302, "name": "Ramechhap",    "name_np": "रामेछाप",     "province_id": 3, "headquarters": "Manthali"    },
-    { "id": 303, "name": "Dolakha",      "name_np": "दोलखा",       "province_id": 3, "headquarters": "Charikot"    },
-    { "id": 304, "name": "Sindhupalchok","name_np": "सिन्धुपाल्चोक","province_id": 3,"headquarters": "Chautara"   },
-    { "id": 305, "name": "Kavrepalanchok","name_np":"काभ्रेपलाञ्चोक","province_id": 3,"headquarters":"Dhulikhel"  },
-    { "id": 306, "name": "Lalitpur",     "name_np": "ललितपुर",     "province_id": 3, "headquarters": "Lalitpur"    },
-    { "id": 307, "name": "Bhaktapur",    "name_np": "भक्तपुर",     "province_id": 3, "headquarters": "Bhaktapur"   },
-    { "id": 308, "name": "Kathmandu",    "name_np": "काठमाडौं",    "province_id": 3, "headquarters": "Kathmandu"   },
-    { "id": 309, "name": "Nuwakot",      "name_np": "नुवाकोट",     "province_id": 3, "headquarters": "Bidur"       },
-    { "id": 310, "name": "Rasuwa",       "name_np": "रसुवा",       "province_id": 3, "headquarters": "Dhunche"     },
-    { "id": 311, "name": "Dhading",      "name_np": "धादिङ",       "province_id": 3, "headquarters": "Dhadingbesi" },
-    { "id": 312, "name": "Makwanpur",    "name_np": "मकवानपुर",    "province_id": 3, "headquarters": "Hetauda"     },
-    { "id": 313, "name": "Chitwan",      "name_np": "चितवन",       "province_id": 3, "headquarters": "Bharatpur"   }
-  ]
+    "meta":  {
+                 "province_id":  3,
+                 "province":  "Bagmati",
+                 "total":  13
+             },
+    "districts":  [
+                      {
+                          "id":  301,
+                          "name":  "Sindhuli",
+                          "name_np":  "सिन्धुली",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  302,
+                          "name":  "Ramechhap",
+                          "name_np":  "रामेछाप",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  303,
+                          "name":  "Dolakha",
+                          "name_np":  "दोलखा",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  304,
+                          "name":  "Sindhupalchok",
+                          "name_np":  "सिन्धुपाल्चोक",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  305,
+                          "name":  "Kavrepalanchok",
+                          "name_np":  "काभ्रेपलाञ्चोक",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  306,
+                          "name":  "Lalitpur",
+                          "name_np":  "ललितपुर",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  307,
+                          "name":  "Bhaktapur",
+                          "name_np":  "भक्तपुर",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  308,
+                          "name":  "Kathmandu",
+                          "name_np":  "काठमाडौं",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  309,
+                          "name":  "Nuwakot",
+                          "name_np":  "नुवाकोट",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  310,
+                          "name":  "Rasuwa",
+                          "name_np":  "रसुवा",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  311,
+                          "name":  "Dhading",
+                          "name_np":  "धादिङ",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  312,
+                          "name":  "Makwanpur",
+                          "name_np":  "मकवानपुर",
+                          "province_id":  3
+                      },
+                      {
+                          "id":  313,
+                          "name":  "Chitwan",
+                          "name_np":  "चितवन",
+                          "province_id":  3
+                      }
+                  ]
 }

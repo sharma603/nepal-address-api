@@ -1,16 +1,75 @@
 {
-  "meta": { "province_id": 4, "province": "Gandaki", "total": 11 },
-  "districts": [
-    { "id": 401, "name": "Gorkha",       "name_np": "गोरखा",       "province_id": 4, "headquarters": "Gorkha"      },
-    { "id": 402, "name": "Manang",        "name_np": "मनाङ",        "province_id": 4, "headquarters": "Chame"       },
-    { "id": 403, "name": "Mustang",       "name_np": "मुस्ताङ",    "province_id": 4, "headquarters": "Jomsom"      },
-    { "id": 404, "name": "Myagdi",        "name_np": "म्याग्दी",   "province_id": 4, "headquarters": "Beni"        },
-    { "id": 405, "name": "Kaski",         "name_np": "कास्की",     "province_id": 4, "headquarters": "Pokhara"     },
-    { "id": 406, "name": "Lamjung",       "name_np": "लमजुङ",      "province_id": 4, "headquarters": "Besisahar"   },
-    { "id": 407, "name": "Tanahu",        "name_np": "तनहुँ",      "province_id": 4, "headquarters": "Damauli"     },
-    { "id": 408, "name": "Nawalpur",      "name_np": "नवलपुर",     "province_id": 4, "headquarters": "Kawasoti"    },
-    { "id": 409, "name": "Syangja",       "name_np": "स्याङ्जा",  "province_id": 4, "headquarters": "Syangja"     },
-    { "id": 410, "name": "Parbat",        "name_np": "पर्वत",      "province_id": 4, "headquarters": "Kusma"       },
-    { "id": 411, "name": "Baglung",       "name_np": "बागलुङ",     "province_id": 4, "headquarters": "Baglung"     }
-  ]
+    "meta":  {
+                 "province_id":  4,
+                 "province":  "Gandaki",
+                 "total":  11
+             },
+    "districts":  [
+                      {
+                          "id":  401,
+                          "name":  "Gorkha",
+                          "name_np":  "गोरखा",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  402,
+                          "name":  "Manang",
+                          "name_np":  "मनाङ",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  403,
+                          "name":  "Mustang",
+                          "name_np":  "मुस्ताङ",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  404,
+                          "name":  "Myagdi",
+                          "name_np":  "म्याग्दी",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  405,
+                          "name":  "Kaski",
+                          "name_np":  "कास्की",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  406,
+                          "name":  "Lamjung",
+                          "name_np":  "लमजुङ",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  407,
+                          "name":  "Tanahu",
+                          "name_np":  "तनहुँ",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  408,
+                          "name":  "Nawalpur",
+                          "name_np":  "नवलपुर",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  409,
+                          "name":  "Syangja",
+                          "name_np":  "स्याङ्जा",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  410,
+                          "name":  "Parbat",
+                          "name_np":  "पर्वत",
+                          "province_id":  4
+                      },
+                      {
+                          "id":  411,
+                          "name":  "Baglung",
+                          "name_np":  "बागलुङ",
+                          "province_id":  4
+                      }
+                  ]
 }
