@@ -1,0 +1,24 @@
+{
+  "meta": { "municipality_id": 10501, "municipality": "Biratnagar", "type": "Metropolitan City", "district_id": 105, "total_wards": 19 },
+  "wards": [
+    { "ward": 1,  "area_sq_km": 2.1, "notable": "Rani, Itahari road area"       },
+    { "ward": 2,  "area_sq_km": 1.8, "notable": "Buddhashanti tole"              },
+    { "ward": 3,  "area_sq_km": 2.3, "notable": "Ganesh Chowk area"             },
+    { "ward": 4,  "area_sq_km": 1.6, "notable": "Traffic Chowk, Mainroad"       },
+    { "ward": 5,  "area_sq_km": 1.9, "notable": "Golpark, Tinkune"              },
+    { "ward": 6,  "area_sq_km": 2.0, "notable": "Biratnagar Jute Mill area"     },
+    { "ward": 7,  "area_sq_km": 1.7, "notable": "Chhatahar road"                },
+    { "ward": 8,  "area_sq_km": 2.4, "notable": "Hanuman Chowk"                 },
+    { "ward": 9,  "area_sq_km": 1.5, "notable": "Line PKT area"                 },
+    { "ward": 10, "area_sq_km": 2.2, "notable": "Naya Bazar"                    },
+    { "ward": 11, "area_sq_km": 3.1, "notable": "Airport road"                  },
+    { "ward": 12, "area_sq_km": 2.8, "notable": "Chulachuli tole"               },
+    { "ward": 13, "area_sq_km": 1.4, "notable": "Rangeli road side"             },
+    { "ward": 14, "area_sq_km": 2.6, "notable": "Keshaliya tole"                },
+    { "ward": 15, "area_sq_km": 2.0, "notable": "Tin Paini"                     },
+    { "ward": 16, "area_sq_km": 1.9, "notable": "Sahid Chowk"                   },
+    { "ward": 17, "area_sq_km": 3.4, "notable": "Rani Bazar, Rani bus park"     },
+    { "ward": 18, "area_sq_km": 2.7, "notable": "Tankisinuwari area"            },
+    { "ward": 19, "area_sq_km": 4.2, "notable": "Koshi river side, Ghopa camp"  }
+  ]
+}

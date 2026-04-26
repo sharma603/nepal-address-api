@@ -1,0 +1,16 @@
+{
+  "meta": { "district_id": 308, "district": "Kathmandu", "province_id": 3, "total": 11 },
+  "municipalities": [
+    { "id": 30801, "name": "Kathmandu",         "name_np": "काठमाडौं",    "type": "Metropolitan City", "type_np": "महानगरपालिका",  "district_id": 308, "wards": 32 },
+    { "id": 30802, "name": "Kirtipur",           "name_np": "कीर्तिपुर",  "type": "Municipality",       "type_np": "नगरपालिका",     "district_id": 308, "wards": 10 },
+    { "id": 30803, "name": "Shankharapur",       "name_np": "शङ्खरापुर", "type": "Municipality",        "type_np": "नगरपालिका",     "district_id": 308, "wards": 9  },
+    { "id": 30804, "name": "Gokarneshwor",       "name_np": "गोकर्णेश्वर","type": "Municipality",       "type_np": "नगरपालिका",     "district_id": 308, "wards": 9  },
+    { "id": 30805, "name": "Tokha",              "name_np": "टोखा",        "type": "Municipality",       "type_np": "नगरपालिका",     "district_id": 308, "wards": 11 },
+    { "id": 30806, "name": "Tarakeshwor",        "name_np": "तारकेश्वर",  "type": "Municipality",       "type_np": "नगरपालिका",     "district_id": 308, "wards": 11 },
+    { "id": 30807, "name": "Nagarjun",           "name_np": "नागार्जुन",  "type": "Municipality",        "type_np": "नगरपालिका",     "district_id": 308, "wards": 10 },
+    { "id": 30808, "name": "Chandragiri",        "name_np": "चन्द्रागिरी","type": "Municipality",        "type_np": "नगरपालिका",     "district_id": 308, "wards": 15 },
+    { "id": 30809, "name": "Dakshinkali",        "name_np": "दक्षिणकाली", "type": "Municipality",        "type_np": "नगरपालिका",     "district_id": 308, "wards": 11 },
+    { "id": 30810, "name": "Budhanilkantha",     "name_np": "बुढानीलकण्ठ","type": "Municipality",       "type_np": "नगरपालिका",     "district_id": 308, "wards": 13 },
+    { "id": 30811, "name": "Kageshwori Manohara","name_np": "कागेश्वरी मनहरा","type":"Municipality",    "type_np": "नगरपालिका",     "district_id": 308, "wards": 9  }
+  ]
+}

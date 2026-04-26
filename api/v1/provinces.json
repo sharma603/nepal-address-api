@@ -1,0 +1,12 @@
+{
+  "meta": { "total": 7 },
+  "provinces": [
+    { "id": 1, "name": "Koshi",         "name_np": "कोशी",          "districts_count": 14 },
+    { "id": 2, "name": "Madhesh",       "name_np": "मधेश",          "districts_count": 8  },
+    { "id": 3, "name": "Bagmati",       "name_np": "बागमती",        "districts_count": 13 },
+    { "id": 4, "name": "Gandaki",       "name_np": "गण्डकी",        "districts_count": 11 },
+    { "id": 5, "name": "Lumbini",       "name_np": "लुम्बिनी",       "districts_count": 12 },
+    { "id": 6, "name": "Karnali",       "name_np": "कर्णाली",       "districts_count": 10 },
+    { "id": 7, "name": "Sudurpashchim", "name_np": "सुदूरपश्चिम",   "districts_count": 9  }
+  ]
+}

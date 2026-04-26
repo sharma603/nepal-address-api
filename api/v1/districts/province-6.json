@@ -1,0 +1,15 @@
+{
+  "meta": { "province_id": 6, "province": "Karnali", "total": 10 },
+  "districts": [
+    { "id": 601, "name": "Dolpa",        "name_np": "डोल्पा",     "province_id": 6, "headquarters": "Dunai"       },
+    { "id": 602, "name": "Mugu",          "name_np": "मुगु",       "province_id": 6, "headquarters": "Gamgadhi"    },
+    { "id": 603, "name": "Humla",         "name_np": "हुम्ला",    "province_id": 6, "headquarters": "Simikot"     },
+    { "id": 604, "name": "Jumla",         "name_np": "जुम्ला",    "province_id": 6, "headquarters": "Khalanga"    },
+    { "id": 605, "name": "Kalikot",       "name_np": "कालीकोट",   "province_id": 6, "headquarters": "Manma"       },
+    { "id": 606, "name": "Dailekh",       "name_np": "दैलेख",     "province_id": 6, "headquarters": "Narayan"     },
+    { "id": 607, "name": "Jajarkot",      "name_np": "जाजरकोट",  "province_id": 6, "headquarters": "Khalanga"    },
+    { "id": 608, "name": "Rukum West",   "name_np": "रुकुम पश्चिम","province_id": 6,"headquarters": "Musikot"    },
+    { "id": 609, "name": "Salyan",        "name_np": "सल्यान",    "province_id": 6, "headquarters": "Salyan"      },
+    { "id": 610, "name": "Surkhet",       "name_np": "सुर्खेत",  "province_id": 6, "headquarters": "Birendranagar"}
+  ]
+}

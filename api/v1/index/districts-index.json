@@ -1,0 +1,9 @@
+{
+  "meta": { "description": "Maps district ID to municipalities file path. Only districts with municipality files are listed.", "base": "/api/v1/" },
+  "index": {
+    "105": "municipalities/district-morang.json",
+    "308": "municipalities/district-kathmandu.json",
+    "405": "municipalities/district-kaski.json",
+    "508": "municipalities/district-rupandehi.json"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "meta": { "district_id": 405, "district": "Kaski", "province_id": 4, "total": 8 },
+  "municipalities": [
+    { "id": 40501, "name": "Pokhara",      "name_np": "पोखरा",       "type": "Metropolitan City", "type_np": "महानगरपालिका", "district_id": 405, "wards": 33 },
+    { "id": 40502, "name": "Annapurna",    "name_np": "अन्नपूर्ण",  "type": "Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 6  },
+    { "id": 40503, "name": "Machhapuchchhre","name_np":"माछापुच्छ्रे","type":"Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 6  },
+    { "id": 40504, "name": "Madi",         "name_np": "माडी",        "type": "Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 6  },
+    { "id": 40505, "name": "Rupa",         "name_np": "रूपा",        "type": "Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 6  },
+    { "id": 40506, "name": "Pumdi Bhumdi", "name_np": "पुम्दी भुम्दी","type":"Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 5  },
+    { "id": 40507, "name": "Kaskikot",    "name_np": "कास्कीकोट",  "type": "Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 6  },
+    { "id": 40508, "name": "Batulechaur", "name_np": "बाटुलेचौर",  "type": "Rural Municipality","type_np": "गाउँपालिका",  "district_id": 405, "wards": 5  }
+  ]
+}

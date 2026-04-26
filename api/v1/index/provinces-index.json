@@ -1,0 +1,12 @@
+{
+  "meta": { "description": "Maps province ID to districts file path", "base": "/api/v1/" },
+  "index": {
+    "1": "districts/province-1.json",
+    "2": "districts/province-2.json",
+    "3": "districts/province-3.json",
+    "4": "districts/province-4.json",
+    "5": "districts/province-5.json",
+    "6": "districts/province-6.json",
+    "7": "districts/province-7.json"
+  }
+}

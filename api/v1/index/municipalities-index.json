@@ -1,0 +1,8 @@
+{
+  "meta": { "description": "Maps municipality ID to wards file path. Only metros with ward files listed.", "base": "/api/v1/" },
+  "index": {
+    "10501": "wards/biratnagar.json",
+    "30801": "wards/kathmandu-metro.json",
+    "40501": "wards/pokhara-metro.json"
+  }
+}

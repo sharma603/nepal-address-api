@@ -1,0 +1,19 @@
+{
+  "meta": { "province_id": 1, "province": "Koshi", "total": 14 },
+  "districts": [
+    { "id": 101, "name": "Taplejung",    "name_np": "ताप्लेजुङ",   "province_id": 1, "headquarters": "Taplejung"   },
+    { "id": 102, "name": "Panchthar",    "name_np": "पाँचथर",      "province_id": 1, "headquarters": "Phidim"      },
+    { "id": 103, "name": "Ilam",         "name_np": "इलाम",        "province_id": 1, "headquarters": "Ilam"        },
+    { "id": 104, "name": "Jhapa",        "name_np": "झापा",        "province_id": 1, "headquarters": "Chandragadhi"},
+    { "id": 105, "name": "Morang",       "name_np": "मोरङ",        "province_id": 1, "headquarters": "Biratnagar"  },
+    { "id": 106, "name": "Sunsari",      "name_np": "सुनसरी",      "province_id": 1, "headquarters": "Inaruwa"     },
+    { "id": 107, "name": "Dhankuta",     "name_np": "धनकुटा",      "province_id": 1, "headquarters": "Dhankuta"    },
+    { "id": 108, "name": "Terhathum",    "name_np": "तेह्रथुम",   "province_id": 1, "headquarters": "Myanglung"   },
+    { "id": 109, "name": "Sankhuwasabha","name_np": "सङ्खुवासभा", "province_id": 1, "headquarters": "Khandbari"   },
+    { "id": 110, "name": "Bhojpur",      "name_np": "भोजपुर",      "province_id": 1, "headquarters": "Bhojpur"     },
+    { "id": 111, "name": "Solukhumbu",   "name_np": "सोलुखुम्बु", "province_id": 1, "headquarters": "Salleri"     },
+    { "id": 112, "name": "Okhaldhunga", "name_np": "ओखलढुङ्गा",  "province_id": 1, "headquarters": "Okhaldhunga" },
+    { "id": 113, "name": "Khotang",      "name_np": "खोटाङ",       "province_id": 1, "headquarters": "Diktel"      },
+    { "id": 114, "name": "Udayapur",     "name_np": "उदयपुर",      "province_id": 1, "headquarters": "Gaighat"     }
+  ]
+}
