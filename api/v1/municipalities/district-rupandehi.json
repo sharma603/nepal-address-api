@@ -1,15 +1,100 @@
 {
-  "meta": { "district_id": 508, "district": "Rupandehi", "province_id": 5, "total": 10 },
-  "municipalities": [
-    { "id": 50801, "name": "Siddharthanagar","name_np": "सिद्धार्थनगर","type": "Sub-Metropolitan City","type_np": "उपमहानगरपालिका","district_id": 508,"wards": 19 },
-    { "id": 50802, "name": "Butwal",          "name_np": "बुटवल",        "type": "Sub-Metropolitan City","type_np": "उपमहानगरपालिका","district_id": 508,"wards": 19 },
-    { "id": 50803, "name": "Tilottama",       "name_np": "तिलोत्तमा",   "type": "Municipality",          "type_np": "नगरपालिका",     "district_id": 508,"wards": 17 },
-    { "id": 50804, "name": "Devdaha",         "name_np": "देवदह",        "type": "Municipality",          "type_np": "नगरपालिका",     "district_id": 508,"wards": 13 },
-    { "id": 50805, "name": "Sainamaina",      "name_np": "सैनामैना",    "type": "Municipality",           "type_np": "नगरपालिका",     "district_id": 508,"wards": 13 },
-    { "id": 50806, "name": "Lumbini Sanskritik","name_np":"लुम्बिनी सांस्कृतिक","type":"Municipality",   "type_np": "नगरपालिका",     "district_id": 508,"wards": 9  },
-    { "id": 50807, "name": "Marchawari",      "name_np": "मर्चवारी",    "type": "Rural Municipality",    "type_np": "गाउँपालिका",    "district_id": 508,"wards": 5  },
-    { "id": 50808, "name": "Rohini",          "name_np": "रोहिणी",      "type": "Rural Municipality",    "type_np": "गाउँपालिका",    "district_id": 508,"wards": 5  },
-    { "id": 50809, "name": "Sammarimai",      "name_np": "सम्मरीमाई",  "type": "Rural Municipality",    "type_np": "गाउँपालिका",    "district_id": 508,"wards": 5  },
-    { "id": 50810, "name": "Suddhodhan",      "name_np": "शुद्धोधन",   "type": "Rural Municipality",    "type_np": "गाउँपालिका",    "district_id": 508,"wards": 5  }
-  ]
+    "meta":  {
+                 "district_id":  508,
+                 "district":  "Rupandehi",
+                 "province_id":  5,
+                 "total":  10
+             },
+    "municipalities":  [
+                           {
+                               "id":  50801,
+                               "name":  "Siddharthanagar",
+                               "name_np":  "सिद्धार्थनगर",
+                               "type":  "Sub-Metropolitan City",
+                               "type_np":  "उपमहानगरपालिका",
+                               "district_id":  508,
+                               "wards":  19
+                           },
+                           {
+                               "id":  50802,
+                               "name":  "Butwal",
+                               "name_np":  "बुटवल",
+                               "type":  "Sub-Metropolitan City",
+                               "type_np":  "उपमहानगरपालिका",
+                               "district_id":  508,
+                               "wards":  19
+                           },
+                           {
+                               "id":  50803,
+                               "name":  "Tilottama",
+                               "name_np":  "तिलोत्तमा",
+                               "type":  "Municipality",
+                               "type_np":  "नगरपालिका",
+                               "district_id":  508,
+                               "wards":  17
+                           },
+                           {
+                               "id":  50804,
+                               "name":  "Devdaha",
+                               "name_np":  "देवदह",
+                               "type":  "Municipality",
+                               "type_np":  "नगरपालिका",
+                               "district_id":  508,
+                               "wards":  13
+                           },
+                           {
+                               "id":  50805,
+                               "name":  "Sainamaina",
+                               "name_np":  "सैनामैना",
+                               "type":  "Municipality",
+                               "type_np":  "नगरपालिका",
+                               "district_id":  508,
+                               "wards":  13
+                           },
+                           {
+                               "id":  50806,
+                               "name":  "Lumbini Sanskritik",
+                               "name_np":  "लुम्बिनी सांस्कृतिक",
+                               "type":  "Municipality",
+                               "type_np":  "नगरपालिका",
+                               "district_id":  508,
+                               "wards":  9
+                           },
+                           {
+                               "id":  50807,
+                               "name":  "Marchawari",
+                               "name_np":  "मर्चवारी",
+                               "type":  "Rural Municipality",
+                               "type_np":  "गाउँपालिका",
+                               "district_id":  508,
+                               "wards":  5
+                           },
+                           {
+                               "id":  50808,
+                               "name":  "Rohini",
+                               "name_np":  "रोहिणी",
+                               "type":  "Rural Municipality",
+                               "type_np":  "गाउँपालिका",
+                               "district_id":  508,
+                               "wards":  5
+                           },
+                           {
+                               "id":  50809,
+                               "name":  "Sammarimai",
+                               "name_np":  "सम्मरीमाई",
+                               "type":  "Rural Municipality",
+                               "type_np":  "गाउँपालिका",
+                               "district_id":  508,
+                               "wards":  5
+                           },
+                           {
+                               "id":  50810,
+                               "name":  "Suddhodhan",
+                               "name_np":  "शुद्धोधन",
+                               "type":  "Rural Municipality",
+                               "type_np":  "गाउँपालिका",
+                               "district_id":  508,
+                               "wards":  5
+                           }
+                       ]
 }

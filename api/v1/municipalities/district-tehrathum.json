@@ -1,11 +1,46 @@
 {
-  "meta": { "district_id": 108, "district": "Tehrathum", "province_id": 1, "total": 6 },
-  "municipalities": [
-    { "id": 10801, "name": "Myanglung", "name_np": "म्याङलुङ", "type": "Municipality", "population_2011": 18750 },
-    { "id": 10802, "name": "Laligurans", "name_np": "लालीगुराँस", "type": "Municipality", "population_2011": 15329 },
-    { "id": 10803, "name": "Aathrai", "name_np": "आठराई", "type": "Rural Municipality", "population_2011": 18156 },
-    { "id": 10804, "name": "Chhathar", "name_np": "छथर", "type": "Rural Municipality", "population_2011": 14197 },
-    { "id": 10805, "name": "Menchhayayem", "name_np": "मेन्छयायेम", "type": "Rural Municipality", "population_2011": 6678 },
-    { "id": 10806, "name": "Phedap", "name_np": "फेदाप", "type": "Rural Municipality", "population_2011": 15169 }
-  ]
+    "meta":  {
+                 "district_id":  108,
+                 "district":  "Tehrathum",
+                 "province_id":  1,
+                 "total":  6
+             },
+    "municipalities":  [
+                           {
+                               "id":  10801,
+                               "name":  "Myanglung",
+                               "name_np":  "म्याङलुङ",
+                               "type":  "Municipality"
+                           },
+                           {
+                               "id":  10802,
+                               "name":  "Laligurans",
+                               "name_np":  "लालीगुराँस",
+                               "type":  "Municipality"
+                           },
+                           {
+                               "id":  10803,
+                               "name":  "Aathrai",
+                               "name_np":  "आठराई",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10804,
+                               "name":  "Chhathar",
+                               "name_np":  "छथर",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10805,
+                               "name":  "Menchhayayem",
+                               "name_np":  "मेन्छयायेम",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10806,
+                               "name":  "Phedap",
+                               "name_np":  "फेदाप",
+                               "type":  "Rural Municipality"
+                           }
+                       ]
 }

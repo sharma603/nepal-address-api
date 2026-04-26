@@ -1,195 +1,195 @@
 {
-  "meta": {
-    "district_id": 102,
-    "district": "Panchthar",
-    "province_id": 1,
-    "total": 37
-  },
-  "municipalities": [
-    {
-      "id": 10201,
-      "name": "Phidim",
-      "type": "Municipality"
-    },
-    {
-      "id": 10202,
-      "name": "Aangna",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10203,
-      "name": "Aangsarang",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10204,
-      "name": "Ambarpur",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10205,
-      "name": "Bharapa",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10206,
-      "name": "Chilingdin",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10207,
-      "name": "Chyangthapu",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10208,
-      "name": "Durdimba",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10209,
-      "name": "Ektin",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10210,
-      "name": "Embung",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10211,
-      "name": "Phalaicha",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10212,
-      "name": "Hangum",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10213,
-      "name": "Kurumba",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10214,
-      "name": "Limba",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10215,
-      "name": "Lungrupa",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10216,
-      "name": "Mangjabung",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10217,
-      "name": "Mauwa",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10218,
-      "name": "Memeng",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10219,
-      "name": "Nagi",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10220,
-      "name": "Nangin",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10221,
-      "name": "Nawamidanda",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10222,
-      "name": "Olane",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10223,
-      "name": "Oyam",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10224,
-      "name": "Panchami",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10225,
-      "name": "Prangbung",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10226,
-      "name": "Pauwa Sartap",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10227,
-      "name": "Phaktep",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10228,
-      "name": "Rabi",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10229,
-      "name": "Rani Gaun",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10230,
-      "name": "Ranitar",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10231,
-      "name": "Sarangdanda",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10232,
-      "name": "Sidin",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10233,
-      "name": "Subhang",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10234,
-      "name": "Syabarumba",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10235,
-      "name": "Tharpu",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10236,
-      "name": "Yangnam",
-      "type": "Rural Municipality"
-    },
-    {
-      "id": 10237,
-      "name": "Yasok",
-      "type": "Rural Municipality"
-    }
-  ]
+    "meta":  {
+                 "district_id":  102,
+                 "district":  "Panchthar",
+                 "province_id":  1,
+                 "total":  37
+             },
+    "municipalities":  [
+                           {
+                               "id":  10201,
+                               "name":  "Phidim",
+                               "type":  "Municipality"
+                           },
+                           {
+                               "id":  10202,
+                               "name":  "Aangna",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10203,
+                               "name":  "Aangsarang",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10204,
+                               "name":  "Ambarpur",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10205,
+                               "name":  "Bharapa",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10206,
+                               "name":  "Chilingdin",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10207,
+                               "name":  "Chyangthapu",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10208,
+                               "name":  "Durdimba",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10209,
+                               "name":  "Ektin",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10210,
+                               "name":  "Embung",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10211,
+                               "name":  "Phalaicha",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10212,
+                               "name":  "Hangum",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10213,
+                               "name":  "Kurumba",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10214,
+                               "name":  "Limba",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10215,
+                               "name":  "Lungrupa",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10216,
+                               "name":  "Mangjabung",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10217,
+                               "name":  "Mauwa",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10218,
+                               "name":  "Memeng",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10219,
+                               "name":  "Nagi",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10220,
+                               "name":  "Nangin",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10221,
+                               "name":  "Nawamidanda",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10222,
+                               "name":  "Olane",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10223,
+                               "name":  "Oyam",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10224,
+                               "name":  "Panchami",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10225,
+                               "name":  "Prangbung",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10226,
+                               "name":  "Pauwa Sartap",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10227,
+                               "name":  "Phaktep",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10228,
+                               "name":  "Rabi",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10229,
+                               "name":  "Rani Gaun",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10230,
+                               "name":  "Ranitar",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10231,
+                               "name":  "Sarangdanda",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10232,
+                               "name":  "Sidin",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10233,
+                               "name":  "Subhang",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10234,
+                               "name":  "Syabarumba",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10235,
+                               "name":  "Tharpu",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10236,
+                               "name":  "Yangnam",
+                               "type":  "Rural Municipality"
+                           },
+                           {
+                               "id":  10237,
+                               "name":  "Yasok",
+                               "type":  "Rural Municipality"
+                           }
+                       ]
 }

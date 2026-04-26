@@ -1,20 +1,100 @@
 {
-  "meta": { "district_id": 104, "district": "Jhapa", "province_id": 1, "total": 15 },
-  "municipalities": [
-    { "id": 10401, "name": "Mechinagar", "type": "Municipality", "wards": 15, "population_2011": 111162 },
-    { "id": 10402, "name": "Bhadrapur", "type": "Municipality", "wards": 10, "population_2011": 93529 },
-    { "id": 10403, "name": "Birtamod", "type": "Municipality", "wards": 10, "population_2011": 100780 },
-    { "id": 10404, "name": "Arjundhara", "type": "Municipality", "wards": 11, "population_2011": 91313 },
-    { "id": 10405, "name": "Kankai", "type": "Municipality", "wards": 9, "population_2011": 82018 },
-    { "id": 10406, "name": "Shivasatakshi", "type": "Municipality", "wards": 11, "population_2011": 85315 },
-    { "id": 10407, "name": "Gauradaha", "type": "Municipality", "wards": 9, "population_2011": 67356 },
-    { "id": 10408, "name": "Damak", "type": "Municipality", "wards": 10, "population_2011": 75771 },
-    { "id": 10409, "name": "Buddhashanti", "type": "Rural Municipality", "wards": 7, "population_2011": 41315 },
-    { "id": 10410, "name": "Haldibari", "type": "Rural Municipality", "wards": 5, "population_2011": 30265 },
-    { "id": 10411, "name": "Kachankawal", "type": "Rural Municipality", "wards": 7, "population_2011": 47936 },
-    { "id": 10412, "name": "Barhadashi", "type": "Rural Municipality", "wards": 7, "population_2011": 42515 },
-    { "id": 10413, "name": "Jhapa", "type": "Rural Municipality", "wards": 7, "population_2011": 35308 },
-    { "id": 10414, "name": "Gauriganj", "type": "Rural Municipality", "wards": 6, "population_2011": 35932 },
-    { "id": 10415, "name": "Kamal", "type": "Rural Municipality", "wards": 7, "population_2011": 44615 }
-  ]
+    "meta":  {
+                 "district_id":  104,
+                 "district":  "Jhapa",
+                 "province_id":  1,
+                 "total":  15
+             },
+    "municipalities":  [
+                           {
+                               "id":  10401,
+                               "name":  "Mechinagar",
+                               "type":  "Municipality",
+                               "wards":  15
+                           },
+                           {
+                               "id":  10402,
+                               "name":  "Bhadrapur",
+                               "type":  "Municipality",
+                               "wards":  10
+                           },
+                           {
+                               "id":  10403,
+                               "name":  "Birtamod",
+                               "type":  "Municipality",
+                               "wards":  10
+                           },
+                           {
+                               "id":  10404,
+                               "name":  "Arjundhara",
+                               "type":  "Municipality",
+                               "wards":  11
+                           },
+                           {
+                               "id":  10405,
+                               "name":  "Kankai",
+                               "type":  "Municipality",
+                               "wards":  9
+                           },
+                           {
+                               "id":  10406,
+                               "name":  "Shivasatakshi",
+                               "type":  "Municipality",
+                               "wards":  11
+                           },
+                           {
+                               "id":  10407,
+                               "name":  "Gauradaha",
+                               "type":  "Municipality",
+                               "wards":  9
+                           },
+                           {
+                               "id":  10408,
+                               "name":  "Damak",
+                               "type":  "Municipality",
+                               "wards":  10
+                           },
+                           {
+                               "id":  10409,
+                               "name":  "Buddhashanti",
+                               "type":  "Rural Municipality",
+                               "wards":  7
+                           },
+                           {
+                               "id":  10410,
+                               "name":  "Haldibari",
+                               "type":  "Rural Municipality",
+                               "wards":  5
+                           },
+                           {
+                               "id":  10411,
+                               "name":  "Kachankawal",
+                               "type":  "Rural Municipality",
+                               "wards":  7
+                           },
+                           {
+                               "id":  10412,
+                               "name":  "Barhadashi",
+                               "type":  "Rural Municipality",
+                               "wards":  7
+                           },
+                           {
+                               "id":  10413,
+                               "name":  "Jhapa",
+                               "type":  "Rural Municipality",
+                               "wards":  7
+                           },
+                           {
+                               "id":  10414,
+                               "name":  "Gauriganj",
+                               "type":  "Rural Municipality",
+                               "wards":  6
+                           },
+                           {
+                               "id":  10415,
+                               "name":  "Kamal",
+                               "type":  "Rural Municipality",
+                               "wards":  7
+                           }
+                       ]
 }
