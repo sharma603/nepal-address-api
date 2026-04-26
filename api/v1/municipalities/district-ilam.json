@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "district_id": 103,
+    "district": "Ilam",
+    "province_id": 1,
+    "total": 10
+  },
+  "municipalities": [
+    {
+      "id": 10301,
+      "name": "Ilam",
+      "name_np": "इलाम",
+      "type": "Municipality"
+    },
+    {
+      "id": 10302,
+      "name": "Deumai",
+      "name_np": "देउमाई",
+      "type": "Municipality"
+    },
+    {
+      "id": 10303,
+      "name": "Mai",
+      "name_np": "माई",
+      "type": "Municipality"
+    },
+    {
+      "id": 10304,
+      "name": "Suryodaya",
+      "name_np": "सूर्योदय",
+      "type": "Municipality"
+    },
+    {
+      "id": 10305,
+      "name": "Phakphokthum",
+      "name_np": "फाकफोकथुम",
+      "type": "Rural Municipality"
+    },
+    {
+      "id": 10306,
+      "name": "Mai Jogmai",
+      "name_np": "माईजोगमाई",
+      "type": "Rural Municipality"
+    },
+    {
+      "id": 10307,
+      "name": "Chulachuli",
+      "name_np": "चुलाचुली",
+      "type": "Rural Municipality"
+    },
+    {
+      "id": 10308,
+      "name": "Rong",
+      "name_np": "रोङ",
+      "type": "Rural Municipality"
+    },
+    {
+      "id": 10309,
+      "name": "Mangsebung",
+      "name_np": "माङसेबुङ",
+      "type": "Rural Municipality"
+    },
+    {
+      "id": 10310,
+      "name": "Sandakpur",
+      "name_np": "सन्दकपुर",
+      "type": "Rural Municipality"
+    }
+  ]
+}
