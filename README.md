@@ -53,7 +53,7 @@ const results = nepal.search('Pokhara');
 
 ## 🎨 3. Live Demo
 See the API in action with the cascading dropdown demo:
-👉 **[Live Demo](https://sharma603.github.io/nepal-address-api/demo.html)**
+👉 **[Live Demo](https://sharma603.github.io/nepal-address-api/docs/demo.html)**
 
 ---
 
