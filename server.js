@@ -12,6 +12,9 @@ app.use(express.json());
 // Serve static JSON files from the api directory
 app.use('/api', express.static(path.join(__dirname, 'api')));
 
+// Serve the docs folder (for the demo)
+app.use('/docs', express.static(path.join(__dirname, 'docs')));
+
 // Documentation / Home Page
 app.get('/', (req, res) => {
   res.send(`
