@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Address Selector Demo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #111827;
+            --card-bg: #1f2937;
+            --primary-blue: #3b82f6;
+            --text-color: #f3f4f6;
+            --label-color: #9ca3af;
+            --border-color: #374151;
+            --input-bg: #111827;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            padding: 3rem;
+            border-radius: 2rem;
+            width: 100%;
+            max-width: 500px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        h2 {
+            text-align: center;
+            color: var(--primary-blue);
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 2.5rem;
+            margin-top: 0;
+        }
+
+        .form-group {
+            margin-bottom: 2rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.75rem;
+            color: var(--label-color);
+            font-size: 0.95rem;
+            font-weight: 500;
+        }
+
+        select {
+            width: 100%;
+            padding: 1rem;
+            border-radius: 0.75rem;
+            background-color: var(--input-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            font-family: 'Outfit', sans-serif;
+            font-size: 1rem;
+            outline: none;
+            cursor: pointer;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239ca3af'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 1rem center;
+            background-size: 1.25rem;
+        }
+
+        select:focus {
+            border-color: var(--primary-blue);
+            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+        }
+
+        select:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .result {
+            margin-top: 2rem;
+            padding: 1.25rem;
+            background-color: rgba(59, 130, 246, 0.1);
+            border-radius: 1rem;
+            border-left: 4px solid var(--primary-blue);
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <h2>Address Selector</h2>
+
+        <div class="form-group">
+            <label>1. Select Province</label>
+            <select id="province">
+                <option value="">Choose Province...</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>2. Select District</label>
+            <select id="district" disabled>
+                <option value="">Choose District...</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>3. Select Municipality</label>
+            <select id="municipality" disabled>
+                <option value="">Choose Municipality...</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>4. Select Ward</label>
+            <select id="ward" disabled>
+                <option value="">Choose Ward...</option>
+            </select>
+        </div>
+
+        <div id="selectionResult" class="result">
+            <strong>Selection:</strong> <span id="finalText"></span>
+        </div>
+    </div>
+
+    <script>
+        const BASE_URL = '../api/v1';
+
+        const provinceEl = document.getElementById('province');
+        const districtEl = document.getElementById('district');
+        const municipalityEl = document.getElementById('municipality');
+        const wardEl = document.getElementById('ward');
+        const resultEl = document.getElementById('selectionResult');
+        const finalText = document.getElementById('finalText');
+
+        async function loadProvinces() {
+            try {
+                const res = await fetch(`${BASE_URL}/provinces.json`);
+                const data = await res.json();
+                data.provinces.forEach(p => {
+                    const opt = new Option(`${p.name} (${p.name_np})`, p.id);
+                    provinceEl.add(opt);
+                });
+            } catch (err) { console.error(err); }
+        }
+
+        provinceEl.onchange = async () => {
+            const pid = provinceEl.value;
+            resetFields(['district', 'municipality', 'ward']);
+            if (!pid) return;
+
+            try {
+                const res = await fetch(`${BASE_URL}/districts/province-${pid}.json`);
+                const data = await res.json();
+                data.districts.forEach(d => {
+                    const slug = d.name.toLowerCase().replace(/ /g, '-');
+                    districtEl.add(new Option(d.name, slug));
+                });
+                districtEl.disabled = false;
+            } catch (err) { console.error(err); }
+        };
+
+        districtEl.onchange = async () => {
+            const slug = districtEl.value;
+            resetFields(['municipality', 'ward']);
+            if (!slug) return;
+
+            try {
+                const res = await fetch(`${BASE_URL}/municipalities/district-${slug}.json`);
+                if (!res.ok) throw new Error("Data not available");
+                const data = await res.json();
+                data.municipalities.forEach(m => {
+                    const mSlug = m.name.toLowerCase().replace(/ /g, '-');
+                    municipalityEl.add(new Option(`${m.name} (${m.type})`, mSlug));
+                });
+                municipalityEl.disabled = false;
+            } catch (err) { }
+        };
+
+        municipalityEl.onchange = async () => {
+            const slug = municipalityEl.value;
+            resetFields(['ward']);
+            if (!slug) return;
+
+            try {
+                const res = await fetch(`${BASE_URL}/wards/${slug}.json`);
+                if (res.ok) {
+                    const data = await res.json();
+                    data.wards.forEach(w => {
+                        wardEl.add(new Option(`Ward No. ${w.ward}`, w.ward));
+                    });
+                    wardEl.disabled = false;
+                }
+            } catch (err) { }
+            updateResult();
+        };
+
+        wardEl.onchange = updateResult;
+
+        function resetFields(fields) {
+            fields.forEach(f => {
+                const el = document.getElementById(f);
+                el.innerHTML = `<option value="">Choose ${f.charAt(0).toUpperCase() + f.slice(1)}...</option>`;
+                el.disabled = true;
+            });
+            resultEl.style.display = 'none';
+        }
+
+        function updateResult() {
+            let text = `${municipalityEl.options[municipalityEl.selectedIndex].text}, ${districtEl.options[districtEl.selectedIndex].text}, ${provinceEl.options[provinceEl.selectedIndex].text}`;
+            if (wardEl.value) text = `Ward ${wardEl.value}, ` + text;
+            finalText.textContent = text;
+            resultEl.style.display = 'block';
+        }
+
+        loadProvinces();
+    </script>
+</body>
+
+</html>

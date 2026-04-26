@@ -1,76 +1,29 @@
 {
-  "meta": {
-    "description": "Full Nepal Address Dataset (Aggregated)",
-    "version": "1.1.0",
-    "last_updated": "2021 Census Data"
+  "meta": { 
+    "description": "Full Nepal Address Dataset (Aggregated)", 
+    "version": "1.1.1"
   },
   "provinces": [
     {
-      "id": 1,
-      "name": "Koshi",
-      "name_np": "कोशी",
-      "iso": "NP-P1",
-      "capital": "Biratnagar",
-      "governor": "Parshuram Khapung",
-      "chief_minister": "Hikmat Kumar Karki",
-      "area_km2": 25905,
-      "population_2021": 4961412,
+      "id": 1, "name": "Koshi", "name_np": "कोशी", "iso": "NP-P1", "capital": "Biratnagar",
+      "governor": "Parshuram Khapung", "chief_minister": "Hikmat Kumar Karki",
       "districts": [
-        {
-          "id": 101,
-          "name": "Taplejung",
-          "headquarters": "Taplejung"
-        },
-        {
-          "id": 102,
-          "name": "Panchthar",
-          "headquarters": "Phidim"
-        },
-        {
-          "id": 103,
-          "name": "Ilam",
-          "headquarters": "Ilam"
-        },
-        {
-          "id": 104,
-          "name": "Jhapa",
-          "headquarters": "Chandragadhi"
-        },
-        {
-          "id": 105,
-          "name": "Morang",
-          "headquarters": "Biratnagar"
-        }
+        { "id": 101, "name": "Taplejung", "headquarters": "Taplejung" },
+        { "id": 102, "name": "Panchthar", "headquarters": "Phidim" },
+        { "id": 103, "name": "Ilam", "headquarters": "Ilam" },
+        { "id": 104, "name": "Jhapa", "headquarters": "Chandragadhi" },
+        { "id": 105, "name": "Morang", "headquarters": "Biratnagar" }
       ]
     },
     {
-      "id": 2,
-      "name": "Madhesh",
-      "name_np": "मधेश",
-      "iso": "NP-P2",
-      "capital": "Janakpur",
-      "governor": "Surendra Labh Karn",
-      "chief_minister": "Krishna Prasad Yadav",
-      "area_km2": 9661,
-      "population_2021": 6114600,
+      "id": 2, "name": "Madhesh", "name_np": "मधेश", "iso": "NP-P2", "capital": "Janakpur",
+      "governor": "Surendra Labh Karn", "chief_minister": "Krishna Prasad Yadav",
       "districts": [
-        {
-          "id": 201,
-          "name": "Saptari",
-          "headquarters": "Rajbiraj"
-        },
-        {
-          "id": 202,
-          "name": "Siraha",
-          "headquarters": "Siraha"
-        },
-        {
-          "id": 203,
-          "name": "Dhanusha",
-          "headquarters": "Janakpur"
-        }
+        { "id": 201, "name": "Saptari", "headquarters": "Rajbiraj" },
+        { "id": 202, "name": "Siraha", "headquarters": "Siraha" },
+        { "id": 203, "name": "Dhanusha", "headquarters": "Janakpur" }
       ]
     }
   ],
-  "note": "This file is truncated for demonstration. In a full production environment, it would contain all 7 provinces and 77 districts with full metadata."
+  "note": "This file is truncated for demonstration."
 }
