@@ -61,32 +61,52 @@ See the API in action with the cascading dropdown demo:
 You can copy this into a single `index.html` file to build a cascading dropdown immediately:
 
 ```html
-<select id="province"><option value="">Select Province</option></select>
-<select id="district" disabled><option value="">Select District</option></select>
-<select id="municipality" disabled><option value="">Select Municipality</option></select>
+  <select id="province"><option value="">Select Province</option></select>
+  <select id="district" disabled><option value="">Select District</option></select>
+  <select id="municipality" disabled><option value="">Select Municipality</option></select>
+  <select id="ward" disabled><option value="">Select Ward</option></select>
+  <select id="village" disabled><option value="">Select Village/Tole</option></select>
 
-<script>
-  const BASE = 'https://sharma603.github.io/nepal-address-api/api/v1';
-  
-  // 1. Load Provinces
-  fetch(`${BASE}/provinces.json`)
-    .then(r => r.json())
-    .then(d => d.provinces.forEach(p => province.add(new Option(p.name, p.id))));
+  <script>
+    const BASE = 'https://sharma603.github.io/nepal-address-api/api/v1';
+    let currentWards = [];
 
-  // 2. Load Districts
-  province.onchange = async () => {
-    district.innerHTML = '<option>Select District</option>';
-    const d = await fetch(`${BASE}/districts/province-${province.value}.json`).then(r => r.json());
-    d.districts.forEach(dist => district.add(new Option(dist.name, dist.name.toLowerCase().replace(/ /g, '-'))));
-    district.disabled = false;
-  };
+    // 1. Load Provinces
+    fetch(`${BASE}/provinces.json`)
+      .then(r => r.json())
+      .then(d => d.provinces.forEach(p => province.add(new Option(p.name, p.id))));
 
-  // 3. Load Municipalities
-  district.onchange = async () => {
-    municipality.innerHTML = '<option>Select Municipality</option>';
-    const m = await fetch(`${BASE}/municipalities/district-${district.value}.json`).then(r => r.json());
-    m.municipalities.forEach(mun => municipality.add(new Option(mun.name, mun.id)));
-    municipality.disabled = false;
-  };
-</script>
+    // 2. Load Districts
+    province.onchange = async () => {
+      const d = await fetch(`${BASE}/districts/province-${province.value}.json`).then(r => r.json());
+      district.innerHTML = '<option>Select District</option>';
+      d.districts.forEach(dist => district.add(new Option(dist.name, dist.name.toLowerCase().replace(/ /g, '-'))));
+      district.disabled = false;
+    };
+
+    // 3. Load Municipalities
+    district.onchange = async () => {
+      const m = await fetch(`${BASE}/municipalities/district-${district.value}.json`).then(r => r.json());
+      municipality.innerHTML = '<option>Select Municipality</option>';
+      m.municipalities.forEach(mun => municipality.add(new Option(mun.name, mun.name.toLowerCase().replace(/ /g, '-'))));
+      municipality.disabled = false;
+    };
+
+    // 4. Load Wards
+    municipality.onchange = async () => {
+      const w = await fetch(`${BASE}/wards/${municipality.value}.json`).then(r => r.json());
+      currentWards = w.wards;
+      ward.innerHTML = '<option>Select Ward</option>';
+      currentWards.forEach(wd => ward.add(new Option(`Ward ${wd.ward_no}`, wd.ward_no)));
+      ward.disabled = false;
+    };
+
+    // 5. Load Villages/Toles
+    ward.onchange = () => {
+      const wdData = currentWards.find(w => w.ward_no == ward.value);
+      village.innerHTML = '<option>Select Village/Tole</option>';
+      wdData.villages_toles.forEach(v => village.add(new Option(v, v)));
+      village.disabled = false;
+    };
+  </script>
 ```
