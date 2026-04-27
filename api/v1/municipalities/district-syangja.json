@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "district_id": 409,
+        "district": "Syangja",
+        "province_id": 4,
+        "total": 11
+    },
+    "municipalities": [
+        {
+            "id": 40901,
+            "name": "Putalibazar",
+            "name_np": "पुतलीबजार",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 409,
+            "wards": 14
+        },
+        {
+            "id": 40902,
+            "name": "Waling",
+            "name_np": "वालिङ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 409,
+            "wards": 14
+        },
+        {
+            "id": 40903,
+            "name": "Chapakot",
+            "name_np": "चापाकोट",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 409,
+            "wards": 10
+        },
+        {
+            "id": 40904,
+            "name": "Bhirkot",
+            "name_np": "भिरकोट",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 409,
+            "wards": 9
+        },
+        {
+            "id": 40905,
+            "name": "Galyang",
+            "name_np": "गल्याङ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 409,
+            "wards": 11
+        }
+    ]
+}

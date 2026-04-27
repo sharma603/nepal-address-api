@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "district_id": 205,
+        "district": "Sarlahi",
+        "province_id": 2,
+        "total": 20
+    },
+    "municipalities": [
+        {
+            "id": 20501,
+            "name": "Malangwa",
+            "name_np": "मलङ्गवा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 12
+        },
+        {
+            "id": 20502,
+            "name": "Barahathawa",
+            "name_np": "बरहथवा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 18
+        },
+        {
+            "id": 20503,
+            "name": "Harion",
+            "name_np": "हरिवन",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 11
+        },
+        {
+            "id": 20504,
+            "name": "Ishwarpur",
+            "name_np": "ईश्वरपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 15
+        },
+        {
+            "id": 20505,
+            "name": "Lalbandi",
+            "name_np": "लालबन्दी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 17
+        },
+        {
+            "id": 20506,
+            "name": "Godaita",
+            "name_np": "गोडैता",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 12
+        },
+        {
+            "id": 20507,
+            "name": "Balara",
+            "name_np": "बलरा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 11
+        },
+        {
+            "id": 20508,
+            "name": "Kabilasi",
+            "name_np": "कविलासी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 10
+        },
+        {
+            "id": 20509,
+            "name": "Bagmati",
+            "name_np": "बागमती",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 12
+        },
+        {
+            "id": 20510,
+            "name": "Haripur",
+            "name_np": "हरिपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 9
+        },
+        {
+            "id": 20511,
+            "name": "Haripurwa",
+            "name_np": "हरिपुर्वा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 205,
+            "wards": 9
+        }
+    ]
+}

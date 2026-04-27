@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "municipality_id": 40901,
+        "municipality": "Putalibazar",
+        "type": "Municipality",
+        "district_id": 409,
+        "total_wards": 14
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Putalibazar Bazar", "Naudanda"] },
+        { "ward_no": 2, "villages_toles": ["Syangja Bazar", "Galyang Road"] },
+        { "ward_no": 3, "villages_toles": ["Siddharthanagar", "Taukhel"] },
+        { "ward_no": 4, "villages_toles": ["Bhaisepati", "Chitlang"] },
+        { "ward_no": 5, "villages_toles": ["Khairenitar", "Bafal"] }
+    ]
+}

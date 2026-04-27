@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "municipality_id": 70801,
+        "municipality": "Dhangadhi",
+        "type": "Sub-Metropolitan City",
+        "district_id": 708,
+        "total_wards": 19
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Dhangadhi Bazar",
+                "Park Mode"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Santoshi Chowk",
+                "Campus Road"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Chaturakali",
+                "Bhadrapur"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Uttar Behadi",
+                "Shantipura"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Hasanpur",
+                "Pipal Chowk"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Jhalari",
+                "Attariya Road"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Manhera",
+                "Dhangadhi Gate"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Puranobazar",
+                "Madi"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Bangra",
+                "Phulbari"
+            ]
+        },
+        {
+            "ward_no": 10,
+            "villages_toles": [
+                "Ghodaghodi",
+                "Tikapur Road"
+            ]
+        }
+    ]
+}

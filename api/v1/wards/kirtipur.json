@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "municipality_id": 30802,
+        "municipality": "Kirtipur",
+        "type": "Municipality",
+        "district_id": 308,
+        "total_wards": 10
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Kirtipur Bazar", "Nagaun"] },
+        { "ward_no": 2, "villages_toles": ["Panga", "Chitlang"] },
+        { "ward_no": 3, "villages_toles": ["Naikap", "Balambu"] },
+        { "ward_no": 4, "villages_toles": ["Thankot", "Chalnakhel"] },
+        { "ward_no": 5, "villages_toles": ["Lumanti", "Machhegaun"] },
+        { "ward_no": 6, "villages_toles": ["Syuchatar", "Gairigaun"] },
+        { "ward_no": 7, "villages_toles": ["Khairenitar", "Bafal"] },
+        { "ward_no": 8, "villages_toles": ["Bhaisepati", "Taukhel"] },
+        { "ward_no": 9, "villages_toles": ["Danda Gaun", "Champi"] },
+        { "ward_no": 10, "villages_toles": ["Khokana", "Bungamati"] }
+    ]
+}

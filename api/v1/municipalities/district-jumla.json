@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "district_id": 604,
+        "district": "Jumla",
+        "province_id": 6,
+        "total": 8
+    },
+    "municipalities": [
+        {
+            "id": 60401,
+            "name": "Chandannath",
+            "name_np": "चन्दननाथ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 604,
+            "wards": 10
+        },
+        {
+            "id": 60402,
+            "name": "Kankasundari",
+            "name_np": "कनकासुन्दरी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 604,
+            "wards": 8
+        },
+        {
+            "id": 60403,
+            "name": "Sinja",
+            "name_np": "सिञ्जा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 604,
+            "wards": 6
+        },
+        {
+            "id": 60404,
+            "name": "Hima",
+            "name_np": "हिमा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 604,
+            "wards": 7
+        }
+    ]
+}

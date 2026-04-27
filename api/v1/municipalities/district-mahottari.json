@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "district_id": 204,
+        "district": "Mahottari",
+        "province_id": 2,
+        "total": 15
+    },
+    "municipalities": [
+        {
+            "id": 20401,
+            "name": "Jaleshwor",
+            "name_np": "जलेश्वर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 12
+        },
+        {
+            "id": 20402,
+            "name": "Bardibas",
+            "name_np": "बर्दिबास",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 14
+        },
+        {
+            "id": 20403,
+            "name": "Gaushala",
+            "name_np": "गौशाला",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 12
+        },
+        {
+            "id": 20404,
+            "name": "Loharpatti",
+            "name_np": "लोहारपट्टी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 9
+        },
+        {
+            "id": 20405,
+            "name": "Ramgopalpur",
+            "name_np": "रामगोपालपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 9
+        },
+        {
+            "id": 20406,
+            "name": "Manra Siswa",
+            "name_np": "मनरा शिसवा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 10
+        },
+        {
+            "id": 20407,
+            "name": "Matihani",
+            "name_np": "मटिहानी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 9
+        },
+        {
+            "id": 20408,
+            "name": "Bhangaha",
+            "name_np": "भँगाहा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 9
+        },
+        {
+            "id": 20409,
+            "name": "Balwa",
+            "name_np": "बलवा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 11
+        },
+        {
+            "id": 20410,
+            "name": "Aurahi",
+            "name_np": "औरही",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 204,
+            "wards": 9
+        },
+        {
+            "id": 20411,
+            "name": "Ekdara",
+            "name_np": "एकडारा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 204,
+            "wards": 6
+        },
+        {
+            "id": 20412,
+            "name": "Mahottari",
+            "name_np": "महोत्तरी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 204,
+            "wards": 6
+        },
+        {
+            "id": 20413,
+            "name": "Pipra",
+            "name_np": "पिपरा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 204,
+            "wards": 7
+        },
+        {
+            "id": 20414,
+            "name": "Samsi",
+            "name_np": "सामसी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 204,
+            "wards": 7
+        },
+        {
+            "id": 20415,
+            "name": "Sonama",
+            "name_np": "सोनमा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 204,
+            "wards": 8
+        }
+    ]
+}

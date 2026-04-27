@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "municipality_id": 20801,
+        "municipality": "Birgunj",
+        "type": "Metropolitan City",
+        "district_id": 208,
+        "total_wards": 32
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Bhanu Chowk", "Maisthan"] },
+        { "ward_no": 2, "villages_toles": ["Chhapakaiya", "Rani Ghat"] },
+        { "ward_no": 3, "villages_toles": ["Murli", "Belwa"] },
+        { "ward_no": 4, "villages_toles": ["Birta", "Link Road"] },
+        { "ward_no": 5, "villages_toles": ["Resham Kothi", "Adarshnagar"] },
+        { "ward_no": 6, "villages_toles": ["Geeta Mandir", "Pani Tanki"] },
+        { "ward_no": 7, "villages_toles": ["Alau", "Sirsiya"] },
+        { "ward_no": 8, "villages_toles": ["Inaruwa", "Ramgadhawa"] },
+        { "ward_no": 9, "villages_toles": ["Parwanipur", "Lipanimal"] },
+        { "ward_no": 10, "villages_toles": ["Basdilwa", "Hussaini Chowk"] },
+        { "ward_no": 11, "villages_toles": ["Sugauwa", "Bindabasini"] },
+        { "ward_no": 12, "villages_toles": ["Dhobini", "Laxmipur"] },
+        { "ward_no": 13, "villages_toles": ["Jagarnathpur", "Pipra"] },
+        { "ward_no": 14, "villages_toles": ["Nagawa", "Bhediharwa"] },
+        { "ward_no": 15, "villages_toles": ["Bahudarmai", "Gamdahawa"] },
+        { "ward_no": 16, "villages_toles": ["Pokhariya", "Basatpur"] },
+        { "ward_no": 17, "villages_toles": ["Bishrampur", "Harpatgunj"] },
+        { "ward_no": 18, "villages_toles": ["Sathiwan", "Hardiya"] },
+        { "ward_no": 19, "villages_toles": ["Bahaurwa", "Chorni"] },
+        { "ward_no": 20, "villages_toles": ["Prasurampur", "Bairiya"] },
+        { "ward_no": 21, "villages_toles": ["Patelnagar", "Sukhsaina"] },
+        { "ward_no": 22, "villages_toles": ["Manihari", "Bhediharwa"] },
+        { "ward_no": 23, "villages_toles": ["Itiyahi", "Sabaithawa"] },
+        { "ward_no": 24, "villages_toles": ["Bagahi", "Pidarari"] },
+        { "ward_no": 25, "villages_toles": ["Khutawa", "Belwa"] },
+        { "ward_no": 26, "villages_toles": ["Pratapiya", "Sankat Mochan"] },
+        { "ward_no": 27, "villages_toles": ["Ramnagar", "Bairiya"] },
+        { "ward_no": 28, "villages_toles": ["Pathlaiya", "Belhi"] },
+        { "ward_no": 29, "villages_toles": ["Ekdara", "Bathanaha"] },
+        { "ward_no": 30, "villages_toles": ["Tilathi", "Sakhuwa"] },
+        { "ward_no": 31, "villages_toles": ["Maheshpur", "Ghurna"] },
+        { "ward_no": 32, "villages_toles": ["Narayanpur", "Sultanpur"] }
+    ]
+}

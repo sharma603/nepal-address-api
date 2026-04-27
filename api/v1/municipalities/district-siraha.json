@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "district_id": 202,
+        "district": "Siraha",
+        "province_id": 2,
+        "total": 17
+    },
+    "municipalities": [
+        {
+            "id": 20201,
+            "name": "Siraha",
+            "name_np": "सिराहा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 22
+        },
+        {
+            "id": 20202,
+            "name": "Lahan",
+            "name_np": "लहान",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 24
+        },
+        {
+            "id": 20203,
+            "name": "Golbazar",
+            "name_np": "गोलबजार",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 13
+        },
+        {
+            "id": 20204,
+            "name": "Mirchaiya",
+            "name_np": "मिर्चैया",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 12
+        },
+        {
+            "id": 20205,
+            "name": "Kalyanpur",
+            "name_np": "कल्याणपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 12
+        },
+        {
+            "id": 20206,
+            "name": "Dhangadhimai",
+            "name_np": "धनगढीमाई",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 14
+        },
+        {
+            "id": 20207,
+            "name": "Sukhipur",
+            "name_np": "सुखीपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 10
+        },
+        {
+            "id": 20208,
+            "name": "Karjanha",
+            "name_np": "कर्जन्हा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 202,
+            "wards": 11
+        },
+        {
+            "id": 20209,
+            "name": "Bishnupur",
+            "name_np": "विष्णुपुर",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 202,
+            "wards": 5
+        },
+        {
+            "id": 20210,
+            "name": "Arnama",
+            "name_np": "अर्नमा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 202,
+            "wards": 5
+        },
+        {
+            "id": 20211,
+            "name": "Aurahi",
+            "name_np": "औरही",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 202,
+            "wards": 5
+        },
+        {
+            "id": 20212,
+            "name": "Bariyarpatti",
+            "name_np": "वरीयारपट्टी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 202,
+            "wards": 5
+        }
+    ]
+}

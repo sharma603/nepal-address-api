@@ -9,7 +9,23 @@
     "10505": "wards/urlabari.json",
     "10602": "wards/dharan.json",
     "10603": "wards/inaruwa.json",
+    "20201": "wards/siraha.json",
+    "20301": "wards/janakpur.json",
+    "20302": "wards/mithila.json",
+    "20801": "wards/birgunj.json",
+    "30601": "wards/lalitpur.json",
+    "30701": "wards/bhaktapur.json",
     "30801": "wards/kathmandu.json",
-    "40501": "wards/pokhara.json"
+    "30802": "wards/kirtipur.json",
+    "40501": "wards/pokhara.json",
+    "40901": "wards/putalibazar.json",
+    "50801": "wards/butwal.json",
+    "50802": "wards/siddharthanagar.json",
+    "50901": "wards/kapilvastu.json",
+    "60401": "wards/chandannath.json",
+    "61001": "wards/birendranagar.json",
+    "70101": "wards/dhangadhi.json",
+    "70102": "wards/tikapur.json",
+    "70601": "wards/dipayal-silgadhi.json"
   }
 }

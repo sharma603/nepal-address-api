@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "municipality_id": 30701,
+        "municipality": "Bhaktapur",
+        "type": "Municipality",
+        "district_id": 307,
+        "total_wards": 10
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Taumadhi", "Dattatraya"] },
+        { "ward_no": 2, "villages_toles": ["Suryamadhi", "Golmadhi"] },
+        { "ward_no": 3, "villages_toles": ["Tadhunchen", "Chuping"] },
+        { "ward_no": 4, "villages_toles": ["Kamal Binayak", "Nagarkot Road"] },
+        { "ward_no": 5, "villages_toles": ["Sipadol", "Sallaghari"] },
+        { "ward_no": 6, "villages_toles": ["Dudhpati", "Mahadevsthan"] },
+        { "ward_no": 7, "villages_toles": ["Chunikhel", "Jhaukhel"] },
+        { "ward_no": 8, "villages_toles": ["Gatathok", "Lokanthali"] },
+        { "ward_no": 9, "villages_toles": ["Nilbarahi", "Thimi"] },
+        { "ward_no": 10, "villages_toles": ["Bode", "Madhyapur"] }
+    ]
+}

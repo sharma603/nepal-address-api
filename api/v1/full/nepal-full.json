@@ -52,18 +52,14 @@
       "iso": "NP-P2",
       "capital": "Janakpur",
       "districts": [
-        {
-          "id": 201,
-          "name": "Saptari"
-        },
-        {
-          "id": 202,
-          "name": "Siraha"
-        },
-        {
-          "id": 203,
-          "name": "Dhanusha"
-        }
+        { "id": 201, "name": "Saptari" },
+        { "id": 202, "name": "Siraha" },
+        { "id": 203, "name": "Dhanusha" },
+        { "id": 204, "name": "Mahottari" },
+        { "id": 205, "name": "Sarlahi" },
+        { "id": 206, "name": "Rautahat" },
+        { "id": 207, "name": "Bara" },
+        { "id": 208, "name": "Parsa" }
       ]
     }
   ]

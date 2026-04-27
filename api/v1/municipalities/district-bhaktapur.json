@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "district_id": 307,
+        "district": "Bhaktapur",
+        "province_id": 3,
+        "total": 4
+    },
+    "municipalities": [
+        {
+            "id": 30701,
+            "name": "Bhaktapur",
+            "name_np": "भक्तपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 307,
+            "wards": 10
+        },
+        {
+            "id": 30702,
+            "name": "Madhyapur Thimi",
+            "name_np": "मध्यपुर थिमि",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 307,
+            "wards": 9
+        },
+        {
+            "id": 30703,
+            "name": "Changunarayan",
+            "name_np": "चाँगुनारायण",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 307,
+            "wards": 9
+        },
+        {
+            "id": 30704,
+            "name": "Suryabinayak",
+            "name_np": "सूर्यविनायक",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 307,
+            "wards": 10
+        }
+    ]
+}

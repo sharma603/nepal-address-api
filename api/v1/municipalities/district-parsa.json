@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "district_id": 208,
+        "district": "Parsa",
+        "province_id": 2,
+        "total": 14
+    },
+    "municipalities": [
+        {
+            "id": 20801,
+            "name": "Birgunj",
+            "name_np": "वीरगञ्ज",
+            "type": "Metropolitan City",
+            "type_np": "महानगरपालिका",
+            "district_id": 208,
+            "wards": 32
+        },
+        {
+            "id": 20802,
+            "name": "Bahudarmai",
+            "name_np": "बहुदरमाई",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 208,
+            "wards": 9
+        },
+        {
+            "id": 20803,
+            "name": "Parsagadhi",
+            "name_np": "पर्सागढी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 208,
+            "wards": 9
+        },
+        {
+            "id": 20804,
+            "name": "Pokhariya",
+            "name_np": "पोखरिया",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 208,
+            "wards": 10
+        },
+        {
+            "id": 20805,
+            "name": "Bindabasini",
+            "name_np": "विन्दवासिनी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 208,
+            "wards": 5
+        },
+        {
+            "id": 20806,
+            "name": "Chhipaharmai",
+            "name_np": "छिपहरमाई",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 208,
+            "wards": 5
+        },
+        {
+            "id": 20807,
+            "name": "Jagarnathpur",
+            "name_np": "जगरनाथपुर",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 208,
+            "wards": 6
+        },
+        {
+            "id": 20808,
+            "name": "Jirabhawani",
+            "name_np": "जिराभवानी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 208,
+            "wards": 5
+        }
+    ]
+}

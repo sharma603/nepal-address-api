@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "municipality_id": 20302,
+        "municipality": "Mithila",
+        "type": "Municipality",
+        "district_id": 203,
+        "total_wards": 9
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Mithila Bazar",
+                "Dhalkebar"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Harpur",
+                "Bhagwatpur"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Aurahi",
+                "Gaushala Road"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Phulparasi",
+                "Lakhnaur"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Hanumanpatti",
+                "Kataiya"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Bharatpur",
+                "Sonpur"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Basantnagar",
+                "Kamtaul"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Danushipur",
+                "Laxminiya"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Singhia",
+                "Rajanpur"
+            ]
+        }
+    ]
+}

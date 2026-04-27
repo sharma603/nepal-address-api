@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "municipality_id": 50801,
+        "municipality": "Butwal",
+        "type": "Sub-Metropolitan City",
+        "district_id": 508,
+        "total_wards": 19
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Traffic Chowk", "Puspalal Park"] },
+        { "ward_no": 2, "villages_toles": ["Milanchowk", "Amarpath"] },
+        { "ward_no": 3, "villages_toles": ["Golpark", "Chauraha"] },
+        { "ward_no": 4, "villages_toles": ["Devinagar", "Kalikanagar"] },
+        { "ward_no": 5, "villages_toles": ["Yogikuti", "Manigram"] },
+        { "ward_no": 6, "villages_toles": ["Belhiya", "Bhairahawa Road"] },
+        { "ward_no": 7, "villages_toles": ["Siddharthanagar", "Lumbini Gate"] },
+        { "ward_no": 8, "villages_toles": ["Nayabazar", "Old Buspark"] },
+        { "ward_no": 9, "villages_toles": ["Siddhababa", "Phulbari"] },
+        { "ward_no": 10, "villages_toles": ["Shivanagar", "Deepnagar"] },
+        { "ward_no": 11, "villages_toles": ["Janakinagar", "Shantinagar"] },
+        { "ward_no": 12, "villages_toles": ["Tamnagar", "Nayagaun"] },
+        { "ward_no": 13, "villages_toles": ["Motipur", "Semlar"] },
+        { "ward_no": 14, "villages_toles": ["Madauli", "Sauraha"] },
+        { "ward_no": 15, "villages_toles": ["Tikuligadh", "Bhalwari"] },
+        { "ward_no": 16, "villages_toles": ["Mangalapur", "Karniya"] },
+        { "ward_no": 17, "villages_toles": ["Lumbini", "Buddha Chowk"] },
+        { "ward_no": 18, "villages_toles": ["Khairiya", "Piprahawa"] },
+        { "ward_no": 19, "villages_toles": ["Basantapur", "Dandakhet"] }
+    ]
+}

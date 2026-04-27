@@ -1,0 +1,91 @@
+{
+    "meta": {
+        "district_id": 207,
+        "district": "Bara",
+        "province_id": 2,
+        "total": 16
+    },
+    "municipalities": [
+        {
+            "id": 20701,
+            "name": "Kalaiya",
+            "name_np": "कलैया",
+            "type": "Sub-Metropolitan City",
+            "type_np": "उप-महानगरपालिका",
+            "district_id": 207,
+            "wards": 27
+        },
+        {
+            "id": 20702,
+            "name": "Jeetpur Simara",
+            "name_np": "जीतपुर सिमरा",
+            "type": "Sub-Metropolitan City",
+            "type_np": "उप-महानगरपालिका",
+            "district_id": 207,
+            "wards": 24
+        },
+        {
+            "id": 20703,
+            "name": "Nijgadh",
+            "name_np": "निजगढ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 207,
+            "wards": 13
+        },
+        {
+            "id": 20704,
+            "name": "Simraungadh",
+            "name_np": "सिम्रौनगढ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 207,
+            "wards": 11
+        },
+        {
+            "id": 20705,
+            "name": "Kolhabi",
+            "name_np": "कोल्हवी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 207,
+            "wards": 11
+        },
+        {
+            "id": 20706,
+            "name": "Mahagadhimai",
+            "name_np": "महागढीमाई",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 207,
+            "wards": 11
+        },
+        {
+            "id": 20707,
+            "name": "Pacharauta",
+            "name_np": "पचरौता",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 207,
+            "wards": 9
+        },
+        {
+            "id": 20708,
+            "name": "Adarsh Kotwal",
+            "name_np": "आदर्श कोतवाल",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 207,
+            "wards": 8
+        },
+        {
+            "id": 20709,
+            "name": "Karaiya Mai",
+            "name_np": "करैयामाई",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 207,
+            "wards": 8
+        }
+    ]
+}

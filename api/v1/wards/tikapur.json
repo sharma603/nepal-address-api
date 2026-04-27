@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "municipality_id": 70802,
+        "municipality": "Tikapur",
+        "type": "Municipality",
+        "district_id": 708,
+        "total_wards": 9
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Tikapur Bazar",
+                "Park Road"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Siddharthanagar",
+                "Manigram"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Birendranagar",
+                "Ghantaghar"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Karnali Bridge Area",
+                "Sauraha"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Belhiya",
+                "Bhairahawa Road"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Janakpur",
+                "Ram Mandir"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Dhangadhi",
+                "Attariya"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Pokhara",
+                "Lakeside"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Kathmandu",
+                "New Road"
+            ]
+        }
+    ]
+}

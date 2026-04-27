@@ -8,8 +8,24 @@
     "106": "municipalities/district-sunsari.json",
     "107": "municipalities/district-dhankuta.json",
     "109": "municipalities/district-sankhuwasabha.json",
+    "201": "municipalities/district-saptari.json",
+    "202": "municipalities/district-siraha.json",
+    "203": "municipalities/district-dhanusha.json",
+    "204": "municipalities/district-mahottari.json",
+    "205": "municipalities/district-sarlahi.json",
+    "206": "municipalities/district-rautahat.json",
+    "207": "municipalities/district-bara.json",
+    "208": "municipalities/district-parsa.json",
+    "306": "municipalities/district-lalitpur.json",
+    "307": "municipalities/district-bhaktapur.json",
     "308": "municipalities/district-kathmandu.json",
     "405": "municipalities/district-kaski.json",
-    "508": "municipalities/district-rupandehi.json"
+    "409": "municipalities/district-syangja.json",
+    "508": "municipalities/district-rupandehi.json",
+    "509": "municipalities/district-kapilvastu.json",
+    "604": "municipalities/district-jumla.json",
+    "610": "municipalities/district-surkhet.json",
+    "706": "municipalities/district-doti.json",
+    "708": "municipalities/district-kailali.json"
   }
 }

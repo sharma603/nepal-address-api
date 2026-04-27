@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "municipality_id": 30601,
+        "municipality": "Lalitpur",
+        "type": "Metropolitan City",
+        "district_id": 306,
+        "total_wards": 29
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Mangalbazar", "Sundaridhoka"] },
+        { "ward_no": 2, "villages_toles": ["Lagankhel", "Kumaripati"] },
+        { "ward_no": 3, "villages_toles": ["Jawalakhel", "Pulchowk"] },
+        { "ward_no": 4, "villages_toles": ["Sanepa", "Ekantakuna"] },
+        { "ward_no": 5, "villages_toles": ["Satdobato", "Tikathali"] },
+        { "ward_no": 6, "villages_toles": ["Nakhu", "Imadol"] },
+        { "ward_no": 7, "villages_toles": ["Gwarko", "Kupandol"] },
+        { "ward_no": 8, "villages_toles": ["Jhamsikhel", "Chakupat"] },
+        { "ward_no": 9, "villages_toles": ["Sukedhara", "Bagdole"] },
+        { "ward_no": 10, "villages_toles": ["Balkhu", "Kalimati"] },
+        { "ward_no": 11, "villages_toles": ["Patan Dhoka", "Ashoka"] },
+        { "ward_no": 12, "villages_toles": ["Mahalaxmisthan", "Tibhuwan"] },
+        { "ward_no": 13, "villages_toles": ["Thaiba", "Lubhu"] },
+        { "ward_no": 14, "villages_toles": ["Godavari", "Chapagaun"] },
+        { "ward_no": 15, "villages_toles": ["Bungamati", "Khokana"] },
+        { "ward_no": 16, "villages_toles": ["Harisiddhi", "Thaecho"] },
+        { "ward_no": 17, "villages_toles": ["Sunakothi", "Khumaltar"] },
+        { "ward_no": 18, "villages_toles": ["Nakhkhu", "Dhapakhel"] },
+        { "ward_no": 19, "villages_toles": ["Sainbu", "Bhaisepati"] },
+        { "ward_no": 20, "villages_toles": ["Badikhel", "Pyutar"] },
+        { "ward_no": 21, "villages_toles": ["Lamatar", "Chalnakhel"] },
+        { "ward_no": 22, "villages_toles": ["Phulchoki", "Tika Bhairab"] },
+        { "ward_no": 23, "villages_toles": ["Lele", "Magarsthali"] },
+        { "ward_no": 24, "villages_toles": ["Champi", "Bandegaun"] },
+        { "ward_no": 25, "villages_toles": ["Kalupur", "Mahadevsthan"] },
+        { "ward_no": 26, "villages_toles": ["Kupondole", "Thapathali"] },
+        { "ward_no": 27, "villages_toles": ["Sunchhok", "Sisneri"] },
+        { "ward_no": 28, "villages_toles": ["Karyabinayak", "Pyangaon"] },
+        { "ward_no": 29, "villages_toles": ["Dakshinkali Road", "Hatiban"] }
+    ]
+}

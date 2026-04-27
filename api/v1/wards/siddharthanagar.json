@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "municipality_id": 50802,
+        "municipality": "Siddharthanagar",
+        "type": "Municipality",
+        "district_id": 508,
+        "total_wards": 13
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Bhairahawa Bazar", "Belhiya"] },
+        { "ward_no": 2, "villages_toles": ["Lumbini Road", "Buddha Chowk"] },
+        { "ward_no": 3, "villages_toles": ["Milanchowk", "Galla Mandi"] },
+        { "ward_no": 4, "villages_toles": ["Bankasiya", "Basantapur"] },
+        { "ward_no": 5, "villages_toles": ["Meudi", "Dandakhet"] },
+        { "ward_no": 6, "villages_toles": ["Piprahawa", "Janaki Mandir"] },
+        { "ward_no": 7, "villages_toles": ["Khairiya", "Semari"] },
+        { "ward_no": 8, "villages_toles": ["Paklihawa", "Hatari"] },
+        { "ward_no": 9, "villages_toles": ["Kunuwa", "Bhagawanpur"] },
+        { "ward_no": 10, "villages_toles": ["Asari", "Mahadevi"] },
+        { "ward_no": 11, "villages_toles": ["Shantinagar", "Deepnagar"] },
+        { "ward_no": 12, "villages_toles": ["Tamnagar", "Nayagaun"] },
+        { "ward_no": 13, "villages_toles": ["Motipur", "Semlar"] }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "district_id": 509,
+        "district": "Kapilvastu",
+        "province_id": 5,
+        "total": 10
+    },
+    "municipalities": [
+        {
+            "id": 50901,
+            "name": "Kapilvastu",
+            "name_np": "कपिलवस्तु",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 509,
+            "wards": 12
+        },
+        {
+            "id": 50902,
+            "name": "Banganga",
+            "name_np": "वाणगंगा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 509,
+            "wards": 11
+        },
+        {
+            "id": 20503,
+            "name": "Buddhabhumi",
+            "name_np": "बुद्धभूमि",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 509,
+            "wards": 10
+        },
+        {
+            "id": 50904,
+            "name": "Shivaraj",
+            "name_np": "शिवराज",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 509,
+            "wards": 11
+        },
+        {
+            "id": 50905,
+            "name": "Maharajgunj",
+            "name_np": "महाराजगञ्ज",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 509,
+            "wards": 11
+        },
+        {
+            "id": 50906,
+            "name": "Krishnanagar",
+            "name_np": "कृष्णनगर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 509,
+            "wards": 12
+        }
+    ]
+}

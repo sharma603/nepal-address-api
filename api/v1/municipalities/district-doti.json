@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "district_id": 706,
+        "district": "Doti",
+        "province_id": 7,
+        "total": 9
+    },
+    "municipalities": [
+        {
+            "id": 70601,
+            "name": "Dipayal Silgadhi",
+            "name_np": "दिपायल सिलगढी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 706,
+            "wards": 9
+        },
+        {
+            "id": 70602,
+            "name": "Shikhar",
+            "name_np": "शिखर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 706,
+            "wards": 11
+        },
+        {
+            "id": 70603,
+            "name": "Adarsha",
+            "name_np": "आदर्श",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 706,
+            "wards": 7
+        },
+        {
+            "id": 70604,
+            "name": "Purbichowki",
+            "name_np": "पूर्वीचौकी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 706,
+            "wards": 7
+        },
+        {
+            "id": 70605,
+            "name": "K.I. Singh",
+            "name_np": "के.आई. सिंह",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 706,
+            "wards": 7
+        }
+    ]
+}

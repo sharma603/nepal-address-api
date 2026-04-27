@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "municipality_id": 20301,
+        "municipality": "Janakpur",
+        "type": "Sub-Metropolitan City",
+        "district_id": 203,
+        "total_wards": 24
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Janakpur Dham", "Ram Mandir Road"] },
+        { "ward_no": 2, "villages_toles": ["Ramanand Chowk", "Pipra"] },
+        { "ward_no": 3, "villages_toles": ["Musahar Basti", "Kuwa"] },
+        { "ward_no": 4, "villages_toles": ["Dhanauji", "Mahinathpur"] },
+        { "ward_no": 5, "villages_toles": ["Parsa", "Hanumannagar"] },
+        { "ward_no": 6, "villages_toles": ["Dhalkebar", "Laxminiya"] },
+        { "ward_no": 7, "villages_toles": ["Gaushala", "Phulparasi"] },
+        { "ward_no": 8, "villages_toles": ["Kamala Bridge", "Singhia"] },
+        { "ward_no": 9, "villages_toles": ["Jankibash", "Kataiya"] },
+        { "ward_no": 10, "villages_toles": ["Danushipur", "Bhagwatpur"] },
+        { "ward_no": 11, "villages_toles": ["Janaki Temple Area", "Vivah Panchami"] },
+        { "ward_no": 12, "villages_toles": ["Ramkhelawan", "Sundarpur"] },
+        { "ward_no": 13, "villages_toles": ["Bhiswa", "Laxmipur"] },
+        { "ward_no": 14, "villages_toles": ["Saptari Road", "Amahi"] },
+        { "ward_no": 15, "villages_toles": ["Dhenganapur", "Musafirkhana"] },
+        { "ward_no": 16, "villages_toles": ["Ramnagar", "Bairiya"] },
+        { "ward_no": 17, "villages_toles": ["Pathlaiya", "Belhi"] },
+        { "ward_no": 18, "villages_toles": ["Ekdara", "Bathanaha"] },
+        { "ward_no": 19, "villages_toles": ["Tilathi", "Sakhuwa"] },
+        { "ward_no": 20, "villages_toles": ["Maheshpur", "Ghurna"] },
+        { "ward_no": 21, "villages_toles": ["Narayanpur", "Sultanpur"] },
+        { "ward_no": 22, "villages_toles": ["Alinagar", "Dhankaul"] },
+        { "ward_no": 23, "villages_toles": ["Bideha", "Parsauni"] },
+        { "ward_no": 24, "villages_toles": ["Kusmaha", "Badhaiya"] }
+    ]
+}

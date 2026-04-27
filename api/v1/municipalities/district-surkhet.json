@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "district_id": 610,
+        "district": "Surkhet",
+        "province_id": 6,
+        "total": 9
+    },
+    "municipalities": [
+        {
+            "id": 61001,
+            "name": "Birendranagar",
+            "name_np": "वीरेन्द्रनगर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 610,
+            "wards": 16
+        },
+        {
+            "id": 61002,
+            "name": "Bheriganga",
+            "name_np": "भेरीगंगा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 610,
+            "wards": 13
+        },
+        {
+            "id": 61003,
+            "name": "Gurbhakot",
+            "name_np": "गुर्भाकोट",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 610,
+            "wards": 14
+        },
+        {
+            "id": 61004,
+            "name": "Panchpuri",
+            "name_np": "पञ्चपुरी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 610,
+            "wards": 11
+        },
+        {
+            "id": 61005,
+            "name": "Lekhbeshi",
+            "name_np": "लेकवेशी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 610,
+            "wards": 10
+        }
+    ]
+}

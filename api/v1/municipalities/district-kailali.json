@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "district_id": 708,
+        "district": "Kailali",
+        "province_id": 7,
+        "total": 13
+    },
+    "municipalities": [
+        {
+            "id": 70801,
+            "name": "Dhangadhi",
+            "name_np": "धनगढी",
+            "type": "Sub-Metropolitan City",
+            "type_np": "उप-महानगरपालिका",
+            "district_id": 708,
+            "wards": 19
+        },
+        {
+            "id": 70802,
+            "name": "Tikapur",
+            "name_np": "टीकापुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 708,
+            "wards": 9
+        },
+        {
+            "id": 70803,
+            "name": "Ghodaghodi",
+            "name_np": "घोडाघोडी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 708,
+            "wards": 12
+        },
+        {
+            "id": 70804,
+            "name": "Lamki Chuha",
+            "name_np": "लम्की चुहा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 708,
+            "wards": 10
+        },
+        {
+            "id": 70805,
+            "name": "Bhajani",
+            "name_np": "भजनी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 708,
+            "wards": 9
+        },
+        {
+            "id": 70806,
+            "name": "Gauriganga",
+            "name_np": "गौरीगंगा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 708,
+            "wards": 11
+        }
+    ]
+}

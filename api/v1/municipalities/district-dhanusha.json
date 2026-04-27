@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "district_id": 203,
+        "district": "Dhanusha",
+        "province_id": 2,
+        "total": 18
+    },
+    "municipalities": [
+        {
+            "id": 20301,
+            "name": "Janakpur",
+            "name_np": "जनकपुर",
+            "type": "Sub-Metropolitan City",
+            "type_np": "उप-महानगरपालिका",
+            "district_id": 203,
+            "wards": 24
+        },
+        {
+            "id": 20302,
+            "name": "Mithila",
+            "name_np": "मिथिला",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 11
+        },
+        {
+            "id": 20303,
+            "name": "Ganeshman Charnath",
+            "name_np": "गणेशमान चारनाथ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 11
+        },
+        {
+            "id": 20304,
+            "name": "Dhanushadham",
+            "name_np": "धनुषाधाम",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 9
+        },
+        {
+            "id": 20305,
+            "name": "Nagarain",
+            "name_np": "नगराइन",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 9
+        },
+        {
+            "id": 20306,
+            "name": "Bideha",
+            "name_np": "विदेह",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 9
+        },
+        {
+            "id": 20307,
+            "name": "Mithila Bihari",
+            "name_np": "मिथिला बिहारी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 10
+        },
+        {
+            "id": 20308,
+            "name": "Sabaila",
+            "name_np": "सबैला",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 13
+        },
+        {
+            "id": 20309,
+            "name": "Shahidnagar",
+            "name_np": "शहीदनगर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 9
+        },
+        {
+            "id": 20310,
+            "name": "Hansapur",
+            "name_np": "हंसपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 203,
+            "wards": 9
+        },
+        {
+            "id": 20311,
+            "name": "Aurahi",
+            "name_np": "औरही",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 203,
+            "wards": 6
+        },
+        {
+            "id": 20312,
+            "name": "Kamala",
+            "name_np": "कमला",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 203,
+            "wards": 9
+        },
+        {
+            "id": 20313,
+            "name": "Janaknandani",
+            "name_np": "जनकनन्दनी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 203,
+            "wards": 6
+        },
+        {
+            "id": 20314,
+            "name": "Bateshwor",
+            "name_np": "वटेश्वर",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 203,
+            "wards": 5
+        },
+        {
+            "id": 20315,
+            "name": "Mukhiyapatti Musharniya",
+            "name_np": "मुखियापट्टी मुसहरनिया",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 203,
+            "wards": 6
+        },
+        {
+            "id": 20316,
+            "name": "Lakshminiya",
+            "name_np": "लक्ष्मीनिया",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 203,
+            "wards": 7
+        }
+    ]
+}

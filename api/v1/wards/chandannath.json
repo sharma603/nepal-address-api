@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "municipality_id": 60401,
+        "municipality": "Chandannath",
+        "type": "Municipality",
+        "district_id": 604,
+        "total_wards": 10
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Chandannath Bazar",
+                "Khalanga"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Tallokot",
+                "Mathillokot"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Tatopani",
+                "Hima"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Sinja",
+                "Kankasundari"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Mugu Road",
+                "Gamgadhi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "municipality_id": 70601,
+        "municipality": "Dipayal Silgadhi",
+        "type": "Municipality",
+        "district_id": 706,
+        "total_wards": 9
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Dipayal Bazar",
+                "Silgadhi"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Shikhar",
+                "Bangesimal"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Jarbuta",
+                "Satkhani"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Dandapara",
+                "Ghariani"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Bulbule",
+                "Kankrebihar"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Mulpani",
+                "Bame"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Dharapani",
+                "Guranse"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Baglung",
+                "Parbat"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Myagdi",
+                "Mustang"
+            ]
+        }
+    ]
+}

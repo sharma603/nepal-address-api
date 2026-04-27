@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "district_id": 201,
+        "district": "Saptari",
+        "province_id": 2,
+        "total": 18
+    },
+    "municipalities": [
+        {
+            "id": 20101,
+            "name": "Rajbiraj",
+            "name_np": "राजविराज",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 16
+        },
+        {
+            "id": 20102,
+            "name": "Hanumannagar Kankalini",
+            "name_np": "हनुमाननगर कंकालिनी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 14
+        },
+        {
+            "id": 20103,
+            "name": "Kanchanrup",
+            "name_np": "कञ्चनरुप",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 12
+        },
+        {
+            "id": 20104,
+            "name": "Dakneshwori",
+            "name_np": "डाक्नेश्वरी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 10
+        },
+        {
+            "id": 20105,
+            "name": "Bode Barsain",
+            "name_np": "बोदे बरसाइन",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 10
+        },
+        {
+            "id": 20106,
+            "name": "Khadak",
+            "name_np": "खडक",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 11
+        },
+        {
+            "id": 20107,
+            "name": "Surunga",
+            "name_np": "सुरुङ्गा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 11
+        },
+        {
+            "id": 20108,
+            "name": "Shambhunath",
+            "name_np": "शम्भुनाथ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 12
+        },
+        {
+            "id": 20109,
+            "name": "Saptakoshi",
+            "name_np": "सप्तकोशी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 201,
+            "wards": 11
+        },
+        {
+            "id": 20110,
+            "name": "Agnisair Krishna Sabaran",
+            "name_np": "अग्नीसाइर कृष्णा सवरन",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 6
+        },
+        {
+            "id": 20111,
+            "name": "Balan-Bihul",
+            "name_np": "बलान-विहुल",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 6
+        },
+        {
+            "id": 20112,
+            "name": "Bishnupur",
+            "name_np": "विष्णुपुर",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 7
+        },
+        {
+            "id": 20113,
+            "name": "Chhinnamasta",
+            "name_np": "छिन्नमस्ता",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 7
+        },
+        {
+            "id": 20114,
+            "name": "Mahadeva",
+            "name_np": "महादेवा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 6
+        },
+        {
+            "id": 20115,
+            "name": "Rupani",
+            "name_np": "रुपनी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 6
+        },
+        {
+            "id": 20116,
+            "name": "Tilathi Koiladi",
+            "name_np": "तिलाठी कोइलाडी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 8
+        },
+        {
+            "id": 20117,
+            "name": "Tirahut",
+            "name_np": "तिरहुत",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 201,
+            "wards": 5
+        }
+    ]
+}

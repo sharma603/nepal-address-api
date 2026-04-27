@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "district_id": 306,
+        "district": "Lalitpur",
+        "province_id": 3,
+        "total": 6
+    },
+    "municipalities": [
+        {
+            "id": 30601,
+            "name": "Lalitpur",
+            "name_np": "ललितपुर",
+            "type": "Metropolitan City",
+            "type_np": "महानगरपालिका",
+            "district_id": 306,
+            "wards": 29
+        },
+        {
+            "id": 30602,
+            "name": "Mahalaxmi",
+            "name_np": "महालक्ष्मी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 306,
+            "wards": 10
+        },
+        {
+            "id": 30603,
+            "name": "Godawari",
+            "name_np": "गोदावरी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 306,
+            "wards": 14
+        },
+        {
+            "id": 30604,
+            "name": "Konjyosom",
+            "name_np": "कोन्ज्योसोम",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 306,
+            "wards": 5
+        },
+        {
+            "id": 30605,
+            "name": "Bagmati",
+            "name_np": "बागमती",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 306,
+            "wards": 7
+        },
+        {
+            "id": 30606,
+            "name": "Mahankal",
+            "name_np": "महाङ्काल",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 306,
+            "wards": 6
+        }
+    ]
+}

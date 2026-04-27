@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "municipality_id": 50901,
+        "municipality": "Kapilvastu",
+        "type": "Municipality",
+        "district_id": 509,
+        "total_wards": 12
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Taulihawa Bazar",
+                "Tilaurakot"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Gautambudhha",
+                "Mayadevi"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Bhakari",
+                "Dharmapaniya"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Pipari",
+                "Semari"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Banganga",
+                "Kudarat"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Thunhiya",
+                "Bhalwari"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Lumbini Road",
+                "Paklihawa"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Niglihawa",
+                "Gotihawa"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Kunuwa",
+                "Bhagawanpur"
+            ]
+        }
+    ]
+}

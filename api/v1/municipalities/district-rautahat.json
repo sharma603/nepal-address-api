@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "district_id": 206,
+        "district": "Rautahat",
+        "province_id": 2,
+        "total": 18
+    },
+    "municipalities": [
+        {
+            "id": 20601,
+            "name": "Gaur",
+            "name_np": "गौर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20602,
+            "name": "Garuda",
+            "name_np": "गरुडा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20603,
+            "name": "Chandrapur",
+            "name_np": "चन्द्रपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 10
+        },
+        {
+            "id": 20604,
+            "name": "Ishanath",
+            "name_np": "ईशनाथ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20605,
+            "name": "Katariya",
+            "name_np": "कटहरिया",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20606,
+            "name": "Gadhimai",
+            "name_np": "गढीमाई",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20607,
+            "name": "Madhav Narayan",
+            "name_np": "माधव नारायण",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20608,
+            "name": "Maulapur",
+            "name_np": "मौलपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20609,
+            "name": "Phatuwa Vijayapur",
+            "name_np": "फतुवा विजयपुर",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 11
+        },
+        {
+            "id": 20610,
+            "name": "Baudhimai",
+            "name_np": "बौधिमाई",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20611,
+            "name": "Brindaban",
+            "name_np": "वृन्दावन",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        },
+        {
+            "id": 20612,
+            "name": "Devahi Gonahi",
+            "name_np": "देवाही गोनाही",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 206,
+            "wards": 9
+        }
+    ]
+}

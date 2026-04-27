@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "municipality_id": 61001,
+        "municipality": "Birendranagar",
+        "type": "Municipality",
+        "district_id": 610,
+        "total_wards": 16
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Surkhet Bazar",
+                "Erikhola"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Itram",
+                "Shantinagar"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Birendranagar Chowk",
+                "Ghantaghar"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Kalinchowk",
+                "Kuwali"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Chisapani",
+                "Balkumari"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Latikoili",
+                "Subbakuna"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Bangesimal",
+                "Tatopani"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Jarbuta",
+                "Satkhani"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Dandapara",
+                "Ghariani"
+            ]
+        },
+        {
+            "ward_no": 10,
+            "villages_toles": [
+                "Bulbule Tal",
+                "Kankrebihar"
+            ]
+        },
+        {
+            "ward_no": 11,
+            "villages_toles": [
+                "Mulpani",
+                "Bame"
+            ]
+        },
+        {
+            "ward_no": 12,
+            "villages_toles": [
+                "Dharapani",
+                "Guranse"
+            ]
+        }
+    ]
+}
