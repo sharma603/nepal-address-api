@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "municipality_id": 20413,
+        "municipality": "Pipra",
+        "type": "Rural Municipality",
+        "district_id": 204,
+        "total_wards": 7
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Pipra Bazar",
+                "Sahodawa"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Bishrampur",
+                "Ekrahi"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Sarsawa",
+                "Parsa"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Damhi Maheshpur",
+                "Khadak"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Loharpatti Road",
+                "Phulparasi"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Ratauli",
+                "Tola 6"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Belhi",
+                "Sakhuwa"
+            ]
+        }
+    ]
+}

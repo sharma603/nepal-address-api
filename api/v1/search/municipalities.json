@@ -518,5 +518,13 @@
     "district_id": 508,
     "district": "Rupandehi",
     "province_id": 5
+  },
+  {
+    "id": 20413,
+    "name": "Pipra",
+    "type": "Rural Municipality",
+    "district_id": 204,
+    "district": "Mahottari",
+    "province_id": 2
   }
 ]
