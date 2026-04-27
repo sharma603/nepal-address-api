@@ -526,5 +526,125 @@
     "district_id": 204,
     "district": "Mahottari",
     "province_id": 2
+  },
+  {
+    "id": 20301,
+    "name": "Janakpur",
+    "type": "Sub-Metropolitan City",
+    "district_id": 203,
+    "district": "Dhanusha",
+    "province_id": 2
+  },
+  {
+    "id": 20302,
+    "name": "Mithila",
+    "type": "Municipality",
+    "district_id": 203,
+    "district": "Dhanusha",
+    "province_id": 2
+  },
+  {
+    "id": 20201,
+    "name": "Siraha",
+    "type": "Municipality",
+    "district_id": 202,
+    "district": "Siraha",
+    "province_id": 2
+  },
+  {
+    "id": 20801,
+    "name": "Birgunj",
+    "type": "Metropolitan City",
+    "district_id": 208,
+    "district": "Parsa",
+    "province_id": 2
+  },
+  {
+    "id": 30601,
+    "name": "Lalitpur",
+    "type": "Metropolitan City",
+    "district_id": 306,
+    "district": "Lalitpur",
+    "province_id": 3
+  },
+  {
+    "id": 30701,
+    "name": "Bhaktapur",
+    "type": "Municipality",
+    "district_id": 307,
+    "district": "Bhaktapur",
+    "province_id": 3
+  },
+  {
+    "id": 40901,
+    "name": "Putalibazar",
+    "type": "Municipality",
+    "district_id": 409,
+    "district": "Syangja",
+    "province_id": 4
+  },
+  {
+    "id": 50801,
+    "name": "Butwal",
+    "type": "Sub-Metropolitan City",
+    "district_id": 508,
+    "district": "Rupandehi",
+    "province_id": 5
+  },
+  {
+    "id": 50802,
+    "name": "Siddharthanagar",
+    "type": "Municipality",
+    "district_id": 508,
+    "district": "Rupandehi",
+    "province_id": 5
+  },
+  {
+    "id": 50901,
+    "name": "Kapilvastu",
+    "type": "Municipality",
+    "district_id": 509,
+    "district": "Kapilvastu",
+    "province_id": 5
+  },
+  {
+    "id": 61001,
+    "name": "Birendranagar",
+    "type": "Municipality",
+    "district_id": 610,
+    "district": "Surkhet",
+    "province_id": 6
+  },
+  {
+    "id": 60401,
+    "name": "Chandannath",
+    "type": "Municipality",
+    "district_id": 604,
+    "district": "Jumla",
+    "province_id": 6
+  },
+  {
+    "id": 70801,
+    "name": "Dhangadhi",
+    "type": "Sub-Metropolitan City",
+    "district_id": 708,
+    "district": "Kailali",
+    "province_id": 7
+  },
+  {
+    "id": 70802,
+    "name": "Tikapur",
+    "type": "Municipality",
+    "district_id": 708,
+    "district": "Kailali",
+    "province_id": 7
+  },
+  {
+    "id": 70601,
+    "name": "Dipayal Silgadhi",
+    "type": "Municipality",
+    "district_id": 706,
+    "district": "Doti",
+    "province_id": 7
   }
 ]
