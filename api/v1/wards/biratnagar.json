@@ -1,24 +1,30 @@
 {
-  "meta": { "municipality_id": 10501, "municipality": "Biratnagar", "type": "Metropolitan City", "district_id": 105, "total_wards": 19 },
-  "wards": [
-    { "ward": 1,  "area_sq_km": 2.1, "notable": "Rani, Itahari road area"       },
-    { "ward": 2,  "area_sq_km": 1.8, "notable": "Buddhashanti tole"              },
-    { "ward": 3,  "area_sq_km": 2.3, "notable": "Ganesh Chowk area"             },
-    { "ward": 4,  "area_sq_km": 1.6, "notable": "Traffic Chowk, Mainroad"       },
-    { "ward": 5,  "area_sq_km": 1.9, "notable": "Golpark, Tinkune"              },
-    { "ward": 6,  "area_sq_km": 2.0, "notable": "Biratnagar Jute Mill area"     },
-    { "ward": 7,  "area_sq_km": 1.7, "notable": "Chhatahar road"                },
-    { "ward": 8,  "area_sq_km": 2.4, "notable": "Hanuman Chowk"                 },
-    { "ward": 9,  "area_sq_km": 1.5, "notable": "Line PKT area"                 },
-    { "ward": 10, "area_sq_km": 2.2, "notable": "Naya Bazar"                    },
-    { "ward": 11, "area_sq_km": 3.1, "notable": "Airport road"                  },
-    { "ward": 12, "area_sq_km": 2.8, "notable": "Chulachuli tole"               },
-    { "ward": 13, "area_sq_km": 1.4, "notable": "Rangeli road side"             },
-    { "ward": 14, "area_sq_km": 2.6, "notable": "Keshaliya tole"                },
-    { "ward": 15, "area_sq_km": 2.0, "notable": "Tin Paini"                     },
-    { "ward": 16, "area_sq_km": 1.9, "notable": "Sahid Chowk"                   },
-    { "ward": 17, "area_sq_km": 3.4, "notable": "Rani Bazar, Rani bus park"     },
-    { "ward": 18, "area_sq_km": 2.7, "notable": "Tankisinuwari area"            },
-    { "ward": 19, "area_sq_km": 4.2, "notable": "Koshi river side, Ghopa camp"  }
-  ]
+    "meta": {
+        "municipality_id": 10501,
+        "municipality": "Biratnagar",
+        "type": "Metropolitan City",
+        "district_id": 105,
+        "total_wards": 19
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Rangeli Road", "Traffic Chowk", "Gograha"] },
+        { "ward_no": 2, "villages_toles": ["Rani", "Budhiganga", "Hanuman Chowk"] },
+        { "ward_no": 3, "villages_toles": ["Jogbani Road", "Station Road"] },
+        { "ward_no": 4, "villages_toles": ["Bairgachhi", "Tilathi"] },
+        { "ward_no": 5, "villages_toles": ["Tinpaini", "Beldangi"] },
+        { "ward_no": 6, "villages_toles": ["Kanchanbari", "Mahadeva"] },
+        { "ward_no": 7, "villages_toles": ["Chata", "Urlabari Link"] },
+        { "ward_no": 8, "villages_toles": ["Majhgachhi", "Bankali"] },
+        { "ward_no": 9, "villages_toles": ["Amtola", "Shantinagar"] },
+        { "ward_no": 10, "villages_toles": ["Dhaijan", "Biratchowk"] },
+        { "ward_no": 11, "villages_toles": ["Bhrikutinagar", "Lalbandi"] },
+        { "ward_no": 12, "villages_toles": ["Purano Bazar", "New Road"] },
+        { "ward_no": 13, "villages_toles": ["Sahidchowk", "Goshwara"] },
+        { "ward_no": 14, "villages_toles": ["Tankisinwari", "Milannagar"] },
+        { "ward_no": 15, "villages_toles": ["Belbari Road", "Baijanath"] },
+        { "ward_no": 16, "villages_toles": ["Gaurigunj", "Madhumalla"] },
+        { "ward_no": 17, "villages_toles": ["Sundarpur", "Hattisar"] },
+        { "ward_no": 18, "villages_toles": ["Suryodaya", "Rajarani"] },
+        { "ward_no": 19, "villages_toles": ["Duhabi", "Baliya"] }
+    ]
 }

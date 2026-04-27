@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "municipality_id": 10602,
+        "municipality": "Dharan",
+        "type": "Sub-Metropolitan City",
+        "district_id": 106,
+        "total_wards": 20
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Pindeshwor",
+                "Bijaypur"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Chainpur Road",
+                "Budhabare"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Pahade Bazar",
+                "Dhankuta Road"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Bhedetar Road",
+                "Barahachhetra"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Lohar Bazar",
+                "Mahendrapath"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "New Bazar",
+                "Hattisar"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Bijaypur Khola",
+                "Damak Road"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Jhumka",
+                "Rani"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Bhaluwa",
+                "Sundar Basti"
+            ]
+        },
+        {
+            "ward_no": 10,
+            "villages_toles": [
+                "Birat Chowk",
+                "Bhanu Chowk"
+            ]
+        },
+        {
+            "ward_no": 11,
+            "villages_toles": [
+                "Bhanu Chowk",
+                "Station Road"
+            ]
+        },
+        {
+            "ward_no": 12,
+            "villages_toles": [
+                "Sainik Basti",
+                "Bijaypur"
+            ]
+        },
+        {
+            "ward_no": 13,
+            "villages_toles": [
+                "Koshi Tappu",
+                "Chatara"
+            ]
+        },
+        {
+            "ward_no": 14,
+            "villages_toles": [
+                "Machchhapokhari",
+                "Golbazar"
+            ]
+        },
+        {
+            "ward_no": 15,
+            "villages_toles": [
+                "Rani Bazar",
+                "Bhardaha"
+            ]
+        },
+        {
+            "ward_no": 16,
+            "villages_toles": [
+                "Lalit Bazar",
+                "Amardaha"
+            ]
+        },
+        {
+            "ward_no": 17,
+            "villages_toles": [
+                "Lakhantari",
+                "Rajbiraj Road"
+            ]
+        },
+        {
+            "ward_no": 18,
+            "villages_toles": [
+                "Dhulabari",
+                "Belbari"
+            ]
+        },
+        {
+            "ward_no": 19,
+            "villages_toles": [
+                "Itahari Road",
+                "Duhabi"
+            ]
+        },
+        {
+            "ward_no": 20,
+            "villages_toles": [
+                "Katahari",
+                "Bhutahi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "district_id": 106,
+        "district": "Sunsari",
+        "province_id": 1,
+        "total": 12
+    },
+    "municipalities": [
+        {
+            "id": 10601,
+            "name": "Itahari",
+            "name_np": "इटहरी",
+            "type": "Sub-Metropolitan City",
+            "type_np": "उप-महानगरपालिका",
+            "district_id": 106,
+            "wards": 20
+        },
+        {
+            "id": 10602,
+            "name": "Dharan",
+            "name_np": "धरान",
+            "type": "Sub-Metropolitan City",
+            "type_np": "उप-महानगरपालिका",
+            "district_id": 106,
+            "wards": 20
+        },
+        {
+            "id": 10603,
+            "name": "Inaruwa",
+            "name_np": "इनरुवा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 106,
+            "wards": 10
+        },
+        {
+            "id": 10604,
+            "name": "Duhabi",
+            "name_np": "दुहबी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 106,
+            "wards": 12
+        },
+        {
+            "id": 10605,
+            "name": "Ramdhuni",
+            "name_np": "रामधुनी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 106,
+            "wards": 10
+        },
+        {
+            "id": 10606,
+            "name": "Barahachhetra",
+            "name_np": "बराहक्षेत्र",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 106,
+            "wards": 11
+        },
+        {
+            "id": 10607,
+            "name": "Koshi",
+            "name_np": "कोशी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 106,
+            "wards": 8
+        },
+        {
+            "id": 10608,
+            "name": "Gadhi",
+            "name_np": "गढी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 106,
+            "wards": 6
+        },
+        {
+            "id": 10609,
+            "name": "Barju",
+            "name_np": "बर्जु",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 106,
+            "wards": 6
+        },
+        {
+            "id": 10610,
+            "name": "Bhokraha Narsingh",
+            "name_np": "भोक्राहा नरसिंह",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 106,
+            "wards": 8
+        },
+        {
+            "id": 10611,
+            "name": "Harinagar",
+            "name_np": "हरिनगर",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 106,
+            "wards": 6
+        },
+        {
+            "id": 10612,
+            "name": "Dewanganj",
+            "name_np": "देवान्गञ्ज",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 106,
+            "wards": 7
+        }
+    ]
+}

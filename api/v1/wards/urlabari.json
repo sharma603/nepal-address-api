@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "municipality_id": 10505,
+        "municipality": "Urlabari",
+        "type": "Municipality",
+        "district_id": 105,
+        "total_wards": 9
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Urlabari Bazar",
+                "Naya Bazar"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Dharan Road",
+                "Surunga"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Rampur",
+                "Birgunj Tole"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Kanchanbari",
+                "Shreepur"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Sundar Basti",
+                "Devi Tole"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Majha Bazar",
+                "Indrapur"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Gopalpur",
+                "Motipur"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Haripur",
+                "Laxmipur"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Pathari",
+                "Shantipur"
+            ]
+        }
+    ]
+}

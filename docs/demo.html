@@ -130,6 +130,13 @@
             </select>
         </div>
 
+        <div class="form-group">
+            <label>5. Select Village/Tole</label>
+            <select id="village" disabled>
+                <option value="">Choose Village/Tole...</option>
+            </select>
+        </div>
+
         <div id="selectionResult" class="result">
             <strong>Selection:</strong> <span id="finalText"></span>
         </div>
@@ -142,8 +149,11 @@
         const districtEl = document.getElementById('district');
         const municipalityEl = document.getElementById('municipality');
         const wardEl = document.getElementById('ward');
+        const villageEl = document.getElementById('village');
         const resultEl = document.getElementById('selectionResult');
         const finalText = document.getElementById('finalText');
+
+        let currentWardsData = [];
 
         async function loadProvinces() {
             try {
@@ -158,7 +168,7 @@
 
         provinceEl.onchange = async () => {
             const pid = provinceEl.value;
-            resetFields(['district', 'municipality', 'ward']);
+            resetFields(['district', 'municipality', 'ward', 'village']);
             if (!pid) return;
 
             try {
@@ -174,7 +184,7 @@
 
         districtEl.onchange = async () => {
             const slug = districtEl.value;
-            resetFields(['municipality', 'ward']);
+            resetFields(['municipality', 'ward', 'village']);
             if (!slug) return;
 
             try {
@@ -191,23 +201,52 @@
 
         municipalityEl.onchange = async () => {
             const slug = municipalityEl.value;
-            resetFields(['ward']);
+            console.log(`Municipality changed to: ${slug}`);
+            resetFields(['ward', 'village']);
             if (!slug) return;
 
+            const url = `${BASE_URL}/wards/${slug}.json`;
+            console.log(`Fetching wards from: ${url}`);
             try {
-                const res = await fetch(`${BASE_URL}/wards/${slug}.json`);
+                const res = await fetch(url);
                 if (res.ok) {
                     const data = await res.json();
+                    console.log('Ward data loaded:', data);
+                    currentWardsData = data.wards;
                     data.wards.forEach(w => {
-                        wardEl.add(new Option(`Ward No. ${w.ward}`, w.ward));
+                        const wardNo = w.ward || w.ward_no;
+                        wardEl.add(new Option(`Ward No. ${wardNo}`, wardNo));
                     });
                     wardEl.disabled = false;
+                } else {
+                    console.warn(`Wards file not found: ${url}`);
                 }
-            } catch (err) { }
+            } catch (err) { 
+                console.error('Error fetching wards:', err);
+            }
             updateResult();
         };
 
-        wardEl.onchange = updateResult;
+        wardEl.onchange = () => {
+            const wardNo = wardEl.value;
+            console.log(`Ward changed to: ${wardNo}`);
+            resetFields(['village']);
+            if (!wardNo) return;
+
+            const wardData = currentWardsData.find(w => (w.ward || w.ward_no) == wardNo);
+            if (wardData && wardData.villages_toles) {
+                console.log('Populating villages for ward:', wardNo);
+                wardData.villages_toles.forEach(vt => {
+                    villageEl.add(new Option(vt, vt));
+                });
+                villageEl.disabled = false;
+            } else {
+                console.warn('No village data found for ward:', wardNo);
+            }
+            updateResult();
+        };
+
+        villageEl.onchange = updateResult;
 
         function resetFields(fields) {
             fields.forEach(f => {
@@ -221,6 +260,7 @@
         function updateResult() {
             let text = `${municipalityEl.options[municipalityEl.selectedIndex].text}, ${districtEl.options[districtEl.selectedIndex].text}, ${provinceEl.options[provinceEl.selectedIndex].text}`;
             if (wardEl.value) text = `Ward ${wardEl.value}, ` + text;
+            if (villageEl.value) text = `${villageEl.value}, ` + text;
             finalText.textContent = text;
             resultEl.style.display = 'block';
         }

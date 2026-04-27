@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "municipality_id": 10502,
+        "municipality": "Sundar Haraicha",
+        "type": "Municipality",
+        "district_id": 105,
+        "total_wards": 9
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Haraicha Bazar", "Katahari"] },
+        { "ward_no": 2, "villages_toles": ["Phulbari", "Baijanathpur"] },
+        { "ward_no": 3, "villages_toles": ["Dhanushadham", "Kamala"] },
+        { "ward_no": 4, "villages_toles": ["Sundarpur", "Kerabari"] },
+        { "ward_no": 5, "villages_toles": ["Madhuban", "Haraicha Chowk"] },
+        { "ward_no": 6, "villages_toles": ["Beldangi", "Majhgachhi"] },
+        { "ward_no": 7, "villages_toles": ["Laxmipur", "Dhusari"] },
+        { "ward_no": 8, "villages_toles": ["Shreepur", "Mahuwa"] },
+        { "ward_no": 9, "villages_toles": ["Rajarani", "Devisthan"] }
+    ]
+}

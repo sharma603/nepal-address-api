@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "municipality_id": 30801,
+        "municipality": "Kathmandu",
+        "type": "Metropolitan City",
+        "district_id": 308,
+        "total_wards": 32
+    },
+    "wards": [
+        { "ward_no": 1, "villages_toles": ["Naradevi", "Ason", "Indrachowk"] },
+        { "ward_no": 2, "villages_toles": ["Kilagal", "Bangemudha", "Nhyakan"] },
+        { "ward_no": 3, "villages_toles": ["Mangalbazar", "Patan Gate", "Lagankhel"] },
+        { "ward_no": 4, "villages_toles": ["Sundhara", "Dharahara", "Tudikhel"] },
+        { "ward_no": 5, "villages_toles": ["New Road", "Bhotahiti", "Ranipokhari"] },
+        { "ward_no": 6, "villages_toles": ["Thamel", "Jyatha", "Paknajol"] },
+        { "ward_no": 7, "villages_toles": ["Chetrapati", "Khichapokhari"] },
+        { "ward_no": 8, "villages_toles": ["Dillibazar", "Putalisadak", "Kamaladi"] },
+        { "ward_no": 9, "villages_toles": ["Maharajgunj", "Lazimpat", "Baluwatar"] },
+        { "ward_no": 10, "villages_toles": ["Bansbari", "Nayabazar", "Goldhunga"] },
+        { "ward_no": 11, "villages_toles": ["Bouddha", "Chabahil", "Gaushala"] },
+        { "ward_no": 12, "villages_toles": ["Jorpati", "Kapan", "Gokarneshwor"] },
+        { "ward_no": 13, "villages_toles": ["Koteshwor", "Tinkune", "Sinamangal"] },
+        { "ward_no": 14, "villages_toles": ["Baneshwor", "Naya Baneshwor", "Minbhawan"] },
+        { "ward_no": 15, "villages_toles": ["Bagbazar", "Bhotahiti", "Jamal"] },
+        { "ward_no": 16, "villages_toles": ["Balaju", "Swayambhu", "Sitapaila"] },
+        { "ward_no": 17, "villages_toles": ["Naikap", "Ichangu", "Dahachok"] },
+        { "ward_no": 18, "villages_toles": ["Tokha", "Tusal", "Jitpur Phedi"] },
+        { "ward_no": 19, "villages_toles": ["Budhanilkantha", "Shivapuri", "Kakani"] },
+        { "ward_no": 20, "villages_toles": ["Gongabu", "Samakhushi", "Machhapokhari"] },
+        { "ward_no": 21, "villages_toles": ["Baniyatar", "Manmaiju", "Sitapaila"] },
+        { "ward_no": 22, "villages_toles": ["Kalanki", "Kalimati", "Teku"] },
+        { "ward_no": 23, "villages_toles": ["Kirtipur", "Naikap", "Lumanti"] },
+        { "ward_no": 24, "villages_toles": ["Thankot", "Chandragiri", "Balambu"] },
+        { "ward_no": 25, "villages_toles": ["Gothatar", "Jadibuti", "Tinthana"] },
+        { "ward_no": 26, "villages_toles": ["Matatirtha", "Dahachok", "Dharke"] },
+        { "ward_no": 27, "villages_toles": ["Ramkot", "Ranibari", "Mudkhu"] },
+        { "ward_no": 28, "villages_toles": ["Swyambhu", "Swayambhunath", "Pauwatar"] },
+        { "ward_no": 29, "villages_toles": ["Gairigaun", "Hattisar", "Narayanhiti"] },
+        { "ward_no": 30, "villages_toles": ["Naxal", "Battisputali", "Sanepa"] },
+        { "ward_no": 31, "villages_toles": ["Kuleshwor", "Kaldhara", "Satungal"] },
+        { "ward_no": 32, "villages_toles": ["Dallu", "Chhauni", "Pachali"] }
+    ]
+}

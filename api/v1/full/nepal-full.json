@@ -1,25 +1,69 @@
 {
-  "meta": { 
-    "description": "Full Nepal Address Dataset (Aggregated)", 
+  "meta": {
+    "description": "Full Nepal Address Dataset (Aggregated)",
     "version": "1.1.2"
   },
   "provinces": [
     {
-      "id": 1, "name": "Koshi", "name_np": "कोशी", "iso": "NP-P1", "capital": "Biratnagar",
+      "id": 1,
+      "name": "Koshi",
+      "name_np": "कोशी",
+      "iso": "NP-P1",
+      "capital": "Biratnagar",
       "districts": [
-        { "id": 101, "name": "Taplejung" },
-        { "id": 102, "name": "Panchthar" },
-        { "id": 103, "name": "Ilam" },
-        { "id": 104, "name": "Jhapa" },
-        { "id": 105, "name": "Morang" }
+        {
+          "id": 101,
+          "name": "Taplejung"
+        },
+        {
+          "id": 102,
+          "name": "Panchthar"
+        },
+        {
+          "id": 103,
+          "name": "Ilam"
+        },
+        {
+          "id": 104,
+          "name": "Jhapa"
+        },
+        {
+          "id": 105,
+          "name": "Morang"
+        },
+        {
+          "id": 106,
+          "name": "Sunsari"
+        },
+        {
+          "id": 107,
+          "name": "Dhankuta"
+        },
+        {
+          "id": 109,
+          "name": "Sankhuwasabha"
+        }
       ]
     },
     {
-      "id": 2, "name": "Madhesh", "name_np": "मधेश", "iso": "NP-P2", "capital": "Janakpur",
+      "id": 2,
+      "name": "Madhesh",
+      "name_np": "मधेश",
+      "iso": "NP-P2",
+      "capital": "Janakpur",
       "districts": [
-        { "id": 201, "name": "Saptari" },
-        { "id": 202, "name": "Siraha" },
-        { "id": 203, "name": "Dhanusha" }
+        {
+          "id": 201,
+          "name": "Saptari"
+        },
+        {
+          "id": 202,
+          "name": "Siraha"
+        },
+        {
+          "id": 203,
+          "name": "Dhanusha"
+        }
       ]
     }
   ]

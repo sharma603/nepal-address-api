@@ -1,0 +1,242 @@
+{
+    "meta": {
+        "municipality_id": 40501,
+        "municipality": "Pokhara",
+        "type": "Metropolitan City",
+        "district_id": 405,
+        "total_wards": 33
+    },
+    "wards": [
+        {
+            "ward_no": 1,
+            "villages_toles": [
+                "Prithvi Chowk",
+                "Chipledhunga"
+            ]
+        },
+        {
+            "ward_no": 2,
+            "villages_toles": [
+                "Bagar",
+                "Nadipur"
+            ]
+        },
+        {
+            "ward_no": 3,
+            "villages_toles": [
+                "Ramghat",
+                "Seti Bridge"
+            ]
+        },
+        {
+            "ward_no": 4,
+            "villages_toles": [
+                "Baidam",
+                "Lakeside"
+            ]
+        },
+        {
+            "ward_no": 5,
+            "villages_toles": [
+                "Lakeside North",
+                "Khahare"
+            ]
+        },
+        {
+            "ward_no": 6,
+            "villages_toles": [
+                "Shiva Chowk",
+                "Matepani"
+            ]
+        },
+        {
+            "ward_no": 7,
+            "villages_toles": [
+                "Mustang Chowk",
+                "Simalchaur"
+            ]
+        },
+        {
+            "ward_no": 8,
+            "villages_toles": [
+                "Bijaypur",
+                "Lekhnath"
+            ]
+        },
+        {
+            "ward_no": 9,
+            "villages_toles": [
+                "Rithepani",
+                "Khudi"
+            ]
+        },
+        {
+            "ward_no": 10,
+            "villages_toles": [
+                "Phewa Tal",
+                "Camping Chowk"
+            ]
+        },
+        {
+            "ward_no": 11,
+            "villages_toles": [
+                "Mahendrapul",
+                "Sano Pokhara"
+            ]
+        },
+        {
+            "ward_no": 12,
+            "villages_toles": [
+                "Chautara",
+                "Gharipatan"
+            ]
+        },
+        {
+            "ward_no": 13,
+            "villages_toles": [
+                "Pokhara Bazar",
+                "Ashok Path"
+            ]
+        },
+        {
+            "ward_no": 14,
+            "villages_toles": [
+                "Gairidhara",
+                "Ratna Mandir"
+            ]
+        },
+        {
+            "ward_no": 15,
+            "villages_toles": [
+                "Armala",
+                "Dobilla"
+            ]
+        },
+        {
+            "ward_no": 16,
+            "villages_toles": [
+                "Nayabazar",
+                "Hemja"
+            ]
+        },
+        {
+            "ward_no": 17,
+            "villages_toles": [
+                "Lamachaur",
+                "Batulechar"
+            ]
+        },
+        {
+            "ward_no": 18,
+            "villages_toles": [
+                "Raipur",
+                "Batulechaur"
+            ]
+        },
+        {
+            "ward_no": 19,
+            "villages_toles": [
+                "Bhimsenthan",
+                "Harichowr"
+            ]
+        },
+        {
+            "ward_no": 20,
+            "villages_toles": [
+                "Pumdi Bhumdi",
+                "Rupakot"
+            ]
+        },
+        {
+            "ward_no": 21,
+            "villages_toles": [
+                "Begnas",
+                "Rupa Tal"
+            ]
+        },
+        {
+            "ward_no": 22,
+            "villages_toles": [
+                "Majhthana",
+                "Nirmal Pokhari"
+            ]
+        },
+        {
+            "ward_no": 23,
+            "villages_toles": [
+                "Kaskikot",
+                "Naudanda"
+            ]
+        },
+        {
+            "ward_no": 24,
+            "villages_toles": [
+                "Dhikurpokhari",
+                "Sarangkot"
+            ]
+        },
+        {
+            "ward_no": 25,
+            "villages_toles": [
+                "Argali",
+                "Chapakot"
+            ]
+        },
+        {
+            "ward_no": 26,
+            "villages_toles": [
+                "Lumle",
+                "Chandrakot"
+            ]
+        },
+        {
+            "ward_no": 27,
+            "villages_toles": [
+                "Lwang",
+                "Ghandruk"
+            ]
+        },
+        {
+            "ward_no": 28,
+            "villages_toles": [
+                "Dhampus",
+                "Panchase"
+            ]
+        },
+        {
+            "ward_no": 29,
+            "villages_toles": [
+                "Hemja",
+                "Deurali"
+            ]
+        },
+        {
+            "ward_no": 30,
+            "villages_toles": [
+                "Bhadaure Tamagi",
+                "Thumki"
+            ]
+        },
+        {
+            "ward_no": 31,
+            "villages_toles": [
+                "Lekhnath Bazar",
+                "Khudi Bazar"
+            ]
+        },
+        {
+            "ward_no": 32,
+            "villages_toles": [
+                "Rivan",
+                "Sedi Bagar"
+            ]
+        },
+        {
+            "ward_no": 33,
+            "villages_toles": [
+                "Bhimad",
+                "Damauli Road"
+            ]
+        }
+    ]
+}

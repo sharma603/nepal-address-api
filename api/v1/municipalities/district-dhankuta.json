@@ -1,0 +1,73 @@
+{
+    "meta": {
+        "district_id": 107,
+        "district": "Dhankuta",
+        "province_id": 1,
+        "total": 7
+    },
+    "municipalities": [
+        {
+            "id": 10701,
+            "name": "Dhankuta",
+            "name_np": "धनकुटा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 107,
+            "wards": 10
+        },
+        {
+            "id": 10702,
+            "name": "Pakhribas",
+            "name_np": "पाख्रीबास",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 107,
+            "wards": 10
+        },
+        {
+            "id": 10703,
+            "name": "Mahalaxmi",
+            "name_np": "महालक्ष्मी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 107,
+            "wards": 9
+        },
+        {
+            "id": 10704,
+            "name": "Sangurigadhi",
+            "name_np": "सागुरीगढी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 107,
+            "wards": 10
+        },
+        {
+            "id": 10705,
+            "name": "Chaubise",
+            "name_np": "चौविसे",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 107,
+            "wards": 8
+        },
+        {
+            "id": 10706,
+            "name": "Shahidbhumi",
+            "name_np": "सहीदभूमि",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 107,
+            "wards": 7
+        },
+        {
+            "id": 10707,
+            "name": "Chhathar Jorpati",
+            "name_np": "छथर जोरपाटी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 107,
+            "wards": 6
+        }
+    ]
+}

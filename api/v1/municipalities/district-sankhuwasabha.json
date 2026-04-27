@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "district_id": 109,
+        "district": "Sankhuwasabha",
+        "province_id": 1,
+        "total": 10
+    },
+    "municipalities": [
+        {
+            "id": 10901,
+            "name": "Bhotkhola",
+            "name_np": "भोटखोला",
+            "type": "Rural Municipality",
+            "wards": 5
+        },
+        {
+            "id": 10902,
+            "name": "Chainpur",
+            "name_np": "चैनपुर",
+            "type": "Municipality",
+            "wards": 10
+        },
+        {
+            "id": 10903,
+            "name": "Chichila",
+            "name_np": "चिचिला",
+            "type": "Rural Municipality",
+            "wards": 5
+        },
+        {
+            "id": 10904,
+            "name": "Dharmadevi",
+            "name_np": "धर्मदेवी",
+            "type": "Municipality",
+            "wards": 9
+        },
+        {
+            "id": 10905,
+            "name": "Khandbari",
+            "name_np": "खाँदबारी",
+            "type": "Municipality",
+            "wards": 11
+        },
+        {
+            "id": 10906,
+            "name": "Madi",
+            "name_np": "मादी",
+            "type": "Municipality",
+            "wards": 9
+        },
+        {
+            "id": 10907,
+            "name": "Makalu",
+            "name_np": "मकालु",
+            "type": "Rural Municipality",
+            "wards": 6
+        },
+        {
+            "id": 10908,
+            "name": "Panchkhapan",
+            "name_np": "पाँचखपन",
+            "type": "Municipality",
+            "wards": 9
+        },
+        {
+            "id": 10909,
+            "name": "Savapokhari",
+            "name_np": "सभापोखरी",
+            "type": "Rural Municipality",
+            "wards": 6
+        },
+        {
+            "id": 10910,
+            "name": "Silichong",
+            "name_np": "सिलीचोङ",
+            "type": "Rural Municipality",
+            "wards": 5
+        }
+    ]
+}

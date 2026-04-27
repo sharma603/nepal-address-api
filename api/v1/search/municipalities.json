@@ -1,27 +1,522 @@
 [
-  { "id": 10501, "name": "Biratnagar",          "type": "Metropolitan City",     "district_id": 105, "district": "Morang",     "province_id": 1 },
-  { "id": 10502, "name": "Urlabari",            "type": "Municipality",          "district_id": 105, "district": "Morang",     "province_id": 1 },
-  { "id": 10503, "name": "Letang Bhogateni",   "type": "Municipality",          "district_id": 105, "district": "Morang",     "province_id": 1 },
-  { "id": 10504, "name": "Pathari Shanischare","type": "Municipality",          "district_id": 105, "district": "Morang",     "province_id": 1 },
-  { "id": 10505, "name": "Rangeli",             "type": "Municipality",          "district_id": 105, "district": "Morang",     "province_id": 1 },
-  { "id": 10506, "name": "Sundarharaicha",      "type": "Municipality",          "district_id": 105, "district": "Morang",     "province_id": 1 },
-  { "id": 30801, "name": "Kathmandu",           "type": "Metropolitan City",     "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30802, "name": "Kirtipur",            "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30803, "name": "Shankharapur",        "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30804, "name": "Gokarneshwor",        "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30805, "name": "Tokha",               "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30806, "name": "Tarakeshwor",         "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30807, "name": "Nagarjun",            "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30808, "name": "Chandragiri",         "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30809, "name": "Dakshinkali",         "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30810, "name": "Budhanilkantha",      "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 30811, "name": "Kageshwori Manohara", "type": "Municipality",          "district_id": 308, "district": "Kathmandu",  "province_id": 3 },
-  { "id": 40501, "name": "Pokhara",             "type": "Metropolitan City",     "district_id": 405, "district": "Kaski",      "province_id": 4 },
-  { "id": 40502, "name": "Annapurna",           "type": "Rural Municipality",    "district_id": 405, "district": "Kaski",      "province_id": 4 },
-  { "id": 40503, "name": "Machhapuchchhre",     "type": "Rural Municipality",    "district_id": 405, "district": "Kaski",      "province_id": 4 },
-  { "id": 40504, "name": "Madi",                "type": "Rural Municipality",    "district_id": 405, "district": "Kaski",      "province_id": 4 },
-  { "id": 50801, "name": "Siddharthanagar",     "type": "Sub-Metropolitan City", "district_id": 508, "district": "Rupandehi",  "province_id": 5 },
-  { "id": 50802, "name": "Butwal",              "type": "Sub-Metropolitan City", "district_id": 508, "district": "Rupandehi",  "province_id": 5 },
-  { "id": 50803, "name": "Tilottama",           "type": "Municipality",          "district_id": 508, "district": "Rupandehi",  "province_id": 5 },
-  { "id": 50804, "name": "Devdaha",             "type": "Municipality",          "district_id": 508, "district": "Rupandehi",  "province_id": 5 }
+  {
+    "id": 10501,
+    "name": "Biratnagar",
+    "type": "Metropolitan City",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10502,
+    "name": "Sundar Haraicha",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10503,
+    "name": "Belbari",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10504,
+    "name": "Pathari-Sanischare",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10505,
+    "name": "Urlabari",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10506,
+    "name": "Rangeli",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10507,
+    "name": "Letang",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10508,
+    "name": "Ratuwamai",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10509,
+    "name": "Sunawarshi",
+    "type": "Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10510,
+    "name": "Kerabari",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10511,
+    "name": "Miklajung",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10512,
+    "name": "Kanepokhari",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10513,
+    "name": "Budhiganga",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10514,
+    "name": "Gramthan",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10515,
+    "name": "Katahari",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10516,
+    "name": "Dhanpalthan",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10517,
+    "name": "Jahada",
+    "type": "Rural Municipality",
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1
+  },
+  {
+    "id": 10601,
+    "name": "Itahari",
+    "type": "Sub-Metropolitan City",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10602,
+    "name": "Dharan",
+    "type": "Sub-Metropolitan City",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10603,
+    "name": "Inaruwa",
+    "type": "Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10604,
+    "name": "Duhabi",
+    "type": "Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10605,
+    "name": "Ramdhuni",
+    "type": "Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10606,
+    "name": "Barahachhetra",
+    "type": "Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10607,
+    "name": "Koshi",
+    "type": "Rural Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10608,
+    "name": "Gadhi",
+    "type": "Rural Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10609,
+    "name": "Barju",
+    "type": "Rural Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10610,
+    "name": "Bhokraha Narsingh",
+    "type": "Rural Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10611,
+    "name": "Harinagar",
+    "type": "Rural Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10612,
+    "name": "Dewanganj",
+    "type": "Rural Municipality",
+    "district_id": 106,
+    "district": "Sunsari",
+    "province_id": 1
+  },
+  {
+    "id": 10701,
+    "name": "Dhankuta",
+    "type": "Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10702,
+    "name": "Pakhribas",
+    "type": "Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10703,
+    "name": "Mahalaxmi",
+    "type": "Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10704,
+    "name": "Sangurigadhi",
+    "type": "Rural Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10705,
+    "name": "Chaubise",
+    "type": "Rural Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10706,
+    "name": "Shahidbhumi",
+    "type": "Rural Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10707,
+    "name": "Chhathar Jorpati",
+    "type": "Rural Municipality",
+    "district_id": 107,
+    "district": "Dhankuta",
+    "province_id": 1
+  },
+  {
+    "id": 10901,
+    "name": "Bhotkhola",
+    "type": "Rural Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10902,
+    "name": "Chainpur",
+    "type": "Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10903,
+    "name": "Chichila",
+    "type": "Rural Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10904,
+    "name": "Dharmadevi",
+    "type": "Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10905,
+    "name": "Khandbari",
+    "type": "Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10906,
+    "name": "Madi",
+    "type": "Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10907,
+    "name": "Makalu",
+    "type": "Rural Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10908,
+    "name": "Panchkhapan",
+    "type": "Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10909,
+    "name": "Savapokhari",
+    "type": "Rural Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 10910,
+    "name": "Silichong",
+    "type": "Rural Municipality",
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1
+  },
+  {
+    "id": 30801,
+    "name": "Kathmandu",
+    "type": "Metropolitan City",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30802,
+    "name": "Kirtipur",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30803,
+    "name": "Shankharapur",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30804,
+    "name": "Gokarneshwor",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30805,
+    "name": "Tokha",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30806,
+    "name": "Tarakeshwor",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30807,
+    "name": "Nagarjun",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30808,
+    "name": "Chandragiri",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30809,
+    "name": "Dakshinkali",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30810,
+    "name": "Budhanilkantha",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 30811,
+    "name": "Kageshwori Manohara",
+    "type": "Municipality",
+    "district_id": 308,
+    "district": "Kathmandu",
+    "province_id": 3
+  },
+  {
+    "id": 40501,
+    "name": "Pokhara",
+    "type": "Metropolitan City",
+    "district_id": 405,
+    "district": "Kaski",
+    "province_id": 4
+  },
+  {
+    "id": 40502,
+    "name": "Annapurna",
+    "type": "Rural Municipality",
+    "district_id": 405,
+    "district": "Kaski",
+    "province_id": 4
+  },
+  {
+    "id": 40503,
+    "name": "Machhapuchchhre",
+    "type": "Rural Municipality",
+    "district_id": 405,
+    "district": "Kaski",
+    "province_id": 4
+  },
+  {
+    "id": 40504,
+    "name": "Madi",
+    "type": "Rural Municipality",
+    "district_id": 405,
+    "district": "Kaski",
+    "province_id": 4
+  },
+  {
+    "id": 50801,
+    "name": "Siddharthanagar",
+    "type": "Sub-Metropolitan City",
+    "district_id": 508,
+    "district": "Rupandehi",
+    "province_id": 5
+  },
+  {
+    "id": 50802,
+    "name": "Butwal",
+    "type": "Sub-Metropolitan City",
+    "district_id": 508,
+    "district": "Rupandehi",
+    "province_id": 5
+  },
+  {
+    "id": 50803,
+    "name": "Tilottama",
+    "type": "Municipality",
+    "district_id": 508,
+    "district": "Rupandehi",
+    "province_id": 5
+  },
+  {
+    "id": 50804,
+    "name": "Devdaha",
+    "type": "Municipality",
+    "district_id": 508,
+    "district": "Rupandehi",
+    "province_id": 5
+  }
 ]

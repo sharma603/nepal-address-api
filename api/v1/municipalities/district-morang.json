@@ -1,163 +1,163 @@
 {
-    "meta":  {
-                 "district_id":  105,
-                 "district":  "Morang",
-                 "province_id":  1,
-                 "total":  17
-             },
-    "municipalities":  [
-                           {
-                               "id":  10501,
-                               "name":  "Biratnagar",
-                               "name_np":  "विराटनगर",
-                               "type":  "Metropolitan City",
-                               "type_np":  "महानगरपालिका",
-                               "district_id":  105,
-                               "wards":  19
-                           },
-                           {
-                               "id":  10502,
-                               "name":  "Urlabari",
-                               "name_np":  "उर्लाबारी",
-                               "type":  "Municipality",
-                               "type_np":  "नगरपालिका",
-                               "district_id":  105,
-                               "wards":  9
-                           },
-                           {
-                               "id":  10503,
-                               "name":  "Letang Bhogateni",
-                               "name_np":  "लेटाङ भोगटेनी",
-                               "type":  "Municipality",
-                               "type_np":  "नगरपालिका",
-                               "district_id":  105,
-                               "wards":  9
-                           },
-                           {
-                               "id":  10504,
-                               "name":  "Pathari Shanischare",
-                               "name_np":  "पथरी शनिश्चरे",
-                               "type":  "Municipality",
-                               "type_np":  "नगरपालिका",
-                               "district_id":  105,
-                               "wards":  9
-                           },
-                           {
-                               "id":  10505,
-                               "name":  "Rangeli",
-                               "name_np":  "रङेली",
-                               "type":  "Municipality",
-                               "type_np":  "नगरपालिका",
-                               "district_id":  105,
-                               "wards":  9
-                           },
-                           {
-                               "id":  10506,
-                               "name":  "Sundarharaicha",
-                               "name_np":  "सुन्दरहरैचा",
-                               "type":  "Municipality",
-                               "type_np":  "नगरपालिका",
-                               "district_id":  105,
-                               "wards":  11
-                           },
-                           {
-                               "id":  10507,
-                               "name":  "Kanepokhari",
-                               "name_np":  "कानेपोखरी",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10508,
-                               "name":  "Gramthan",
-                               "name_np":  "ग्रामथान",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10509,
-                               "name":  "Dhanpalthan",
-                               "name_np":  "धनपालथान",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10510,
-                               "name":  "Belbari",
-                               "name_np":  "बेलबारी",
-                               "type":  "Municipality",
-                               "type_np":  "नगरपालिका",
-                               "district_id":  105,
-                               "wards":  9
-                           },
-                           {
-                               "id":  10511,
-                               "name":  "Budhiganga",
-                               "name_np":  "बुढीगङ्गा",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  5
-                           },
-                           {
-                               "id":  10512,
-                               "name":  "Thanaha",
-                               "name_np":  "थनहा",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10513,
-                               "name":  "Kerabari",
-                               "name_np":  "केराबारी",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  5
-                           },
-                           {
-                               "id":  10514,
-                               "name":  "Miklajung",
-                               "name_np":  "मिक्लाजुङ",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10515,
-                               "name":  "Sunawarshi",
-                               "name_np":  "सुनवर्षी",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10516,
-                               "name":  "Ratuwamai",
-                               "name_np":  "रतुवामाई",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  6
-                           },
-                           {
-                               "id":  10517,
-                               "name":  "Jahada",
-                               "name_np":  "जहदा",
-                               "type":  "Rural Municipality",
-                               "type_np":  "गाउँपालिका",
-                               "district_id":  105,
-                               "wards":  5
-                           }
-                       ]
+    "meta": {
+        "district_id": 105,
+        "district": "Morang",
+        "province_id": 1,
+        "total": 17
+    },
+    "municipalities": [
+        {
+            "id": 10501,
+            "name": "Biratnagar",
+            "name_np": "विराटनगर",
+            "type": "Metropolitan City",
+            "type_np": "महानगरपालिका",
+            "district_id": 105,
+            "wards": 19
+        },
+        {
+            "id": 10502,
+            "name": "Sundar Haraicha",
+            "name_np": "सुन्दरहरैचा",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 12
+        },
+        {
+            "id": 10503,
+            "name": "Belbari",
+            "name_np": "बेलबारी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 11
+        },
+        {
+            "id": 10504,
+            "name": "Pathari-Sanischare",
+            "name_np": "पथरी शनिश्चरे",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 10
+        },
+        {
+            "id": 10505,
+            "name": "Urlabari",
+            "name_np": "उर्लाबारी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 9
+        },
+        {
+            "id": 10506,
+            "name": "Rangeli",
+            "name_np": "रङेली",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 9
+        },
+        {
+            "id": 10507,
+            "name": "Letang",
+            "name_np": "लेटाङ",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 9
+        },
+        {
+            "id": 10508,
+            "name": "Ratuwamai",
+            "name_np": "रतुवामाई",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 10
+        },
+        {
+            "id": 10509,
+            "name": "Sunawarshi",
+            "name_np": "सुनवर्षी",
+            "type": "Municipality",
+            "type_np": "नगरपालिका",
+            "district_id": 105,
+            "wards": 9
+        },
+        {
+            "id": 10510,
+            "name": "Kerabari",
+            "name_np": "केराबारी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 10
+        },
+        {
+            "id": 10511,
+            "name": "Miklajung",
+            "name_np": "मिक्लाजुङ",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 9
+        },
+        {
+            "id": 10512,
+            "name": "Kanepokhari",
+            "name_np": "कानेपोखरी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 7
+        },
+        {
+            "id": 10513,
+            "name": "Budhiganga",
+            "name_np": "बुढीगङ्गा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 7
+        },
+        {
+            "id": 10514,
+            "name": "Gramthan",
+            "name_np": "ग्रामथान",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 7
+        },
+        {
+            "id": 10515,
+            "name": "Katahari",
+            "name_np": "कटहरी",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 7
+        },
+        {
+            "id": 10516,
+            "name": "Dhanpalthan",
+            "name_np": "धनपालथान",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 7
+        },
+        {
+            "id": 10517,
+            "name": "Jahada",
+            "name_np": "जहदा",
+            "type": "Rural Municipality",
+            "type_np": "गाउँपालिका",
+            "district_id": 105,
+            "wards": 7
+        }
+    ]
 }
