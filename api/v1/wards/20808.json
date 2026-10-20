@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 20808,
+    "municipality": "Jirabhawani",
+    "district_id": 208,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2080201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2080202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2080203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2080204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2080205",
+      "villages_toles": []
+    }
+  ]
+}

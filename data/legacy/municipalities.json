@@ -1,0 +1,2438 @@
+[
+  {
+    "id": 20701,
+    "name": "Kalaiya",
+    "name_np": "कलैया",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उप-महानगरपालिका",
+    "district_id": 207,
+    "wards": 27
+  },
+  {
+    "id": 20702,
+    "name": "Jeetpur Simara",
+    "name_np": "जीतपुर सिमरा",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उप-महानगरपालिका",
+    "district_id": 207,
+    "wards": 24
+  },
+  {
+    "id": 20703,
+    "name": "Nijgadh",
+    "name_np": "निजगढ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 207,
+    "wards": 13
+  },
+  {
+    "id": 20704,
+    "name": "Simraungadh",
+    "name_np": "सिम्रौनगढ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 207,
+    "wards": 11
+  },
+  {
+    "id": 20705,
+    "name": "Kolhabi",
+    "name_np": "कोल्हवी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 207,
+    "wards": 11
+  },
+  {
+    "id": 20706,
+    "name": "Mahagadhimai",
+    "name_np": "महागढीमाई",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 207,
+    "wards": 11
+  },
+  {
+    "id": 20707,
+    "name": "Pacharauta",
+    "name_np": "पचरौता",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 207,
+    "wards": 9
+  },
+  {
+    "id": 20708,
+    "name": "Adarsh Kotwal",
+    "name_np": "आदर्श कोतवाल",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 207,
+    "wards": 8
+  },
+  {
+    "id": 20709,
+    "name": "Karaiya Mai",
+    "name_np": "करैयामाई",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 207,
+    "wards": 8
+  },
+  {
+    "id": 30701,
+    "name": "Bhaktapur",
+    "name_np": "भक्तपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 307,
+    "wards": 10
+  },
+  {
+    "id": 30702,
+    "name": "Madhyapur Thimi",
+    "name_np": "मध्यपुर थिमि",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 307,
+    "wards": 9
+  },
+  {
+    "id": 30703,
+    "name": "Changunarayan",
+    "name_np": "चाँगुनारायण",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 307,
+    "wards": 9
+  },
+  {
+    "id": 30704,
+    "name": "Suryabinayak",
+    "name_np": "सूर्यविनायक",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 307,
+    "wards": 10
+  },
+  {
+    "id": 10701,
+    "name": "Dhankuta",
+    "name_np": "धनकुटा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 107,
+    "wards": 10
+  },
+  {
+    "id": 10702,
+    "name": "Pakhribas",
+    "name_np": "पाख्रीबास",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 107,
+    "wards": 10
+  },
+  {
+    "id": 10703,
+    "name": "Mahalaxmi",
+    "name_np": "महालक्ष्मी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 107,
+    "wards": 9
+  },
+  {
+    "id": 10704,
+    "name": "Sangurigadhi",
+    "name_np": "सागुरीगढी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 107,
+    "wards": 10
+  },
+  {
+    "id": 10705,
+    "name": "Chaubise",
+    "name_np": "चौविसे",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 107,
+    "wards": 8
+  },
+  {
+    "id": 10706,
+    "name": "Shahidbhumi",
+    "name_np": "सहीदभूमि",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 107,
+    "wards": 7
+  },
+  {
+    "id": 10707,
+    "name": "Chhathar Jorpati",
+    "name_np": "छथर जोरपाटी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 107,
+    "wards": 6
+  },
+  {
+    "id": 20301,
+    "name": "Janakpur",
+    "name_np": "जनकपुर",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उप-महानगरपालिका",
+    "district_id": 203,
+    "wards": 24
+  },
+  {
+    "id": 20302,
+    "name": "Mithila",
+    "name_np": "मिथिला",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 11
+  },
+  {
+    "id": 20303,
+    "name": "Ganeshman Charnath",
+    "name_np": "गणेशमान चारनाथ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 11
+  },
+  {
+    "id": 20304,
+    "name": "Dhanushadham",
+    "name_np": "धनुषाधाम",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 9
+  },
+  {
+    "id": 20305,
+    "name": "Nagarain",
+    "name_np": "नगराइन",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 9
+  },
+  {
+    "id": 20306,
+    "name": "Bideha",
+    "name_np": "विदेह",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 9
+  },
+  {
+    "id": 20307,
+    "name": "Mithila Bihari",
+    "name_np": "मिथिला बिहारी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 10
+  },
+  {
+    "id": 20308,
+    "name": "Sabaila",
+    "name_np": "सबैला",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 13
+  },
+  {
+    "id": 20309,
+    "name": "Shahidnagar",
+    "name_np": "शहीदनगर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 9
+  },
+  {
+    "id": 20310,
+    "name": "Hansapur",
+    "name_np": "हंसपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 203,
+    "wards": 9
+  },
+  {
+    "id": 20311,
+    "name": "Aurahi",
+    "name_np": "औरही",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 203,
+    "wards": 6
+  },
+  {
+    "id": 20312,
+    "name": "Kamala",
+    "name_np": "कमला",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 203,
+    "wards": 9
+  },
+  {
+    "id": 20313,
+    "name": "Janaknandani",
+    "name_np": "जनकनन्दनी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 203,
+    "wards": 6
+  },
+  {
+    "id": 20314,
+    "name": "Bateshwor",
+    "name_np": "वटेश्वर",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 203,
+    "wards": 5
+  },
+  {
+    "id": 20315,
+    "name": "Mukhiyapatti Musharniya",
+    "name_np": "मुखियापट्टी मुसहरनिया",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 203,
+    "wards": 6
+  },
+  {
+    "id": 20316,
+    "name": "Lakshminiya",
+    "name_np": "लक्ष्मीनिया",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 203,
+    "wards": 7
+  },
+  {
+    "id": 70601,
+    "name": "Dipayal Silgadhi",
+    "name_np": "दिपायल सिलगढी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 706,
+    "wards": 9
+  },
+  {
+    "id": 70602,
+    "name": "Shikhar",
+    "name_np": "शिखर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 706,
+    "wards": 11
+  },
+  {
+    "id": 70603,
+    "name": "Adarsha",
+    "name_np": "आदर्श",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 706,
+    "wards": 7
+  },
+  {
+    "id": 70604,
+    "name": "Purbichowki",
+    "name_np": "पूर्वीचौकी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 706,
+    "wards": 7
+  },
+  {
+    "id": 70605,
+    "name": "K.I. Singh",
+    "name_np": "के.आई. सिंह",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 706,
+    "wards": 7
+  },
+  {
+    "id": 10301,
+    "name": "Ilam",
+    "name_np": "इलाम",
+    "type": "Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10302,
+    "name": "Deumai",
+    "name_np": "देउमाई",
+    "type": "Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10303,
+    "name": "Mai",
+    "name_np": "माई",
+    "type": "Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10304,
+    "name": "Suryodaya",
+    "name_np": "सूर्योदय",
+    "type": "Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10305,
+    "name": "Phakphokthum",
+    "name_np": "फाकफोकथुम",
+    "type": "Rural Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10306,
+    "name": "Mai Jogmai",
+    "name_np": "माईजोगमाई",
+    "type": "Rural Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10307,
+    "name": "Chulachuli",
+    "name_np": "चुलाचुली",
+    "type": "Rural Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10308,
+    "name": "Rong",
+    "name_np": "रोङ",
+    "type": "Rural Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10309,
+    "name": "Mangsebung",
+    "name_np": "माङसेबुङ",
+    "type": "Rural Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10310,
+    "name": "Sandakpur",
+    "name_np": "सन्दकपुर",
+    "type": "Rural Municipality",
+    "district_id": 103
+  },
+  {
+    "id": 10401,
+    "name": "Mechinagar",
+    "type": "Municipality",
+    "wards": 15,
+    "district_id": 104
+  },
+  {
+    "id": 10402,
+    "name": "Bhadrapur",
+    "type": "Municipality",
+    "wards": 10,
+    "district_id": 104
+  },
+  {
+    "id": 10403,
+    "name": "Birtamod",
+    "type": "Municipality",
+    "wards": 10,
+    "district_id": 104
+  },
+  {
+    "id": 10404,
+    "name": "Arjundhara",
+    "type": "Municipality",
+    "wards": 11,
+    "district_id": 104
+  },
+  {
+    "id": 10405,
+    "name": "Kankai",
+    "type": "Municipality",
+    "wards": 9,
+    "district_id": 104
+  },
+  {
+    "id": 10406,
+    "name": "Shivasatakshi",
+    "type": "Municipality",
+    "wards": 11,
+    "district_id": 104
+  },
+  {
+    "id": 10407,
+    "name": "Gauradaha",
+    "type": "Municipality",
+    "wards": 9,
+    "district_id": 104
+  },
+  {
+    "id": 10408,
+    "name": "Damak",
+    "type": "Municipality",
+    "wards": 10,
+    "district_id": 104
+  },
+  {
+    "id": 10409,
+    "name": "Buddhashanti",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 104
+  },
+  {
+    "id": 10410,
+    "name": "Haldibari",
+    "type": "Rural Municipality",
+    "wards": 5,
+    "district_id": 104
+  },
+  {
+    "id": 10411,
+    "name": "Kachankawal",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 104
+  },
+  {
+    "id": 10412,
+    "name": "Barhadashi",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 104
+  },
+  {
+    "id": 10413,
+    "name": "Jhapa",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 104
+  },
+  {
+    "id": 10414,
+    "name": "Gauriganj",
+    "type": "Rural Municipality",
+    "wards": 6,
+    "district_id": 104
+  },
+  {
+    "id": 10415,
+    "name": "Kamal",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 104
+  },
+  {
+    "id": 60401,
+    "name": "Chandannath",
+    "name_np": "चन्दननाथ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 604,
+    "wards": 10
+  },
+  {
+    "id": 60402,
+    "name": "Kankasundari",
+    "name_np": "कनकासुन्दरी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 604,
+    "wards": 8
+  },
+  {
+    "id": 60403,
+    "name": "Sinja",
+    "name_np": "सिञ्जा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 604,
+    "wards": 6
+  },
+  {
+    "id": 60404,
+    "name": "Hima",
+    "name_np": "हिमा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 604,
+    "wards": 7
+  },
+  {
+    "id": 70801,
+    "name": "Dhangadhi",
+    "name_np": "धनगढी",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उप-महानगरपालिका",
+    "district_id": 708,
+    "wards": 19
+  },
+  {
+    "id": 70802,
+    "name": "Tikapur",
+    "name_np": "टीकापुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 708,
+    "wards": 9
+  },
+  {
+    "id": 70803,
+    "name": "Ghodaghodi",
+    "name_np": "घोडाघोडी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 708,
+    "wards": 12
+  },
+  {
+    "id": 70804,
+    "name": "Lamki Chuha",
+    "name_np": "लम्की चुहा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 708,
+    "wards": 10
+  },
+  {
+    "id": 70805,
+    "name": "Bhajani",
+    "name_np": "भजनी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 708,
+    "wards": 9
+  },
+  {
+    "id": 70806,
+    "name": "Gauriganga",
+    "name_np": "गौरीगंगा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 708,
+    "wards": 11
+  },
+  {
+    "id": 50901,
+    "name": "Kapilvastu",
+    "name_np": "कपिलवस्तु",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 509,
+    "wards": 12
+  },
+  {
+    "id": 50902,
+    "name": "Banganga",
+    "name_np": "वाणगंगा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 509,
+    "wards": 11
+  },
+  {
+    "id": 20503,
+    "name": "Buddhabhumi",
+    "name_np": "बुद्धभूमि",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 509,
+    "wards": 10
+  },
+  {
+    "id": 50904,
+    "name": "Shivaraj",
+    "name_np": "शिवराज",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 509,
+    "wards": 11
+  },
+  {
+    "id": 50905,
+    "name": "Maharajgunj",
+    "name_np": "महाराजगञ्ज",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 509,
+    "wards": 11
+  },
+  {
+    "id": 50906,
+    "name": "Krishnanagar",
+    "name_np": "कृष्णनगर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 509,
+    "wards": 12
+  },
+  {
+    "id": 40501,
+    "name": "Pokhara",
+    "name_np": "पोखरा",
+    "type": "Metropolitan City",
+    "type_np": "महानगरपालिका",
+    "district_id": 405,
+    "wards": 33
+  },
+  {
+    "id": 40502,
+    "name": "Annapurna",
+    "name_np": "अन्नपूर्ण",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 6
+  },
+  {
+    "id": 40503,
+    "name": "Machhapuchchhre",
+    "name_np": "माछापुच्छ्रे",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 6
+  },
+  {
+    "id": 40504,
+    "name": "Madi",
+    "name_np": "माडी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 6
+  },
+  {
+    "id": 40505,
+    "name": "Rupa",
+    "name_np": "रूपा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 6
+  },
+  {
+    "id": 40506,
+    "name": "Pumdi Bhumdi",
+    "name_np": "पुम्दी भुम्दी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 5
+  },
+  {
+    "id": 40507,
+    "name": "Kaskikot",
+    "name_np": "कास्कीकोट",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 6
+  },
+  {
+    "id": 40508,
+    "name": "Batulechaur",
+    "name_np": "बाटुलेचौर",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 405,
+    "wards": 5
+  },
+  {
+    "id": 30801,
+    "name": "Kathmandu",
+    "name_np": "काठमाडौं",
+    "type": "Metropolitan City",
+    "type_np": "महानगरपालिका",
+    "district_id": 308,
+    "wards": 32
+  },
+  {
+    "id": 30802,
+    "name": "Kirtipur",
+    "name_np": "कीर्तिपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 10
+  },
+  {
+    "id": 30803,
+    "name": "Shankharapur",
+    "name_np": "शङ्खरापुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 9
+  },
+  {
+    "id": 30804,
+    "name": "Gokarneshwor",
+    "name_np": "गोकर्णेश्वर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 9
+  },
+  {
+    "id": 30805,
+    "name": "Tokha",
+    "name_np": "टोखा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 11
+  },
+  {
+    "id": 30806,
+    "name": "Tarakeshwor",
+    "name_np": "तारकेश्वर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 11
+  },
+  {
+    "id": 30807,
+    "name": "Nagarjun",
+    "name_np": "नागार्जुन",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 10
+  },
+  {
+    "id": 30808,
+    "name": "Chandragiri",
+    "name_np": "चन्द्रागिरी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 15
+  },
+  {
+    "id": 30809,
+    "name": "Dakshinkali",
+    "name_np": "दक्षिणकाली",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 11
+  },
+  {
+    "id": 30810,
+    "name": "Budhanilkantha",
+    "name_np": "बुढानीलकण्ठ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 13
+  },
+  {
+    "id": 30811,
+    "name": "Kageshwori Manohara",
+    "name_np": "कागेश्वरी मनहरा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 308,
+    "wards": 9
+  },
+  {
+    "id": 30601,
+    "name": "Lalitpur",
+    "name_np": "ललितपुर",
+    "type": "Metropolitan City",
+    "type_np": "महानगरपालिका",
+    "district_id": 306,
+    "wards": 29
+  },
+  {
+    "id": 30602,
+    "name": "Mahalaxmi",
+    "name_np": "महालक्ष्मी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 306,
+    "wards": 10
+  },
+  {
+    "id": 30603,
+    "name": "Godawari",
+    "name_np": "गोदावरी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 306,
+    "wards": 14
+  },
+  {
+    "id": 30604,
+    "name": "Konjyosom",
+    "name_np": "कोन्ज्योसोम",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 306,
+    "wards": 5
+  },
+  {
+    "id": 30605,
+    "name": "Bagmati",
+    "name_np": "बागमती",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 306,
+    "wards": 7
+  },
+  {
+    "id": 30606,
+    "name": "Mahankal",
+    "name_np": "महाङ्काल",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 306,
+    "wards": 6
+  },
+  {
+    "id": 20401,
+    "name": "Jaleshwor",
+    "name_np": "जलेश्वर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 12
+  },
+  {
+    "id": 20402,
+    "name": "Bardibas",
+    "name_np": "बर्दिबास",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 14
+  },
+  {
+    "id": 20403,
+    "name": "Gaushala",
+    "name_np": "गौशाला",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 12
+  },
+  {
+    "id": 20404,
+    "name": "Loharpatti",
+    "name_np": "लोहारपट्टी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 9
+  },
+  {
+    "id": 20405,
+    "name": "Ramgopalpur",
+    "name_np": "रामगोपालपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 9
+  },
+  {
+    "id": 20406,
+    "name": "Manra Siswa",
+    "name_np": "मनरा शिसवा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 10
+  },
+  {
+    "id": 20407,
+    "name": "Matihani",
+    "name_np": "मटिहानी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 9
+  },
+  {
+    "id": 20408,
+    "name": "Bhangaha",
+    "name_np": "भँगाहा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 9
+  },
+  {
+    "id": 20409,
+    "name": "Balwa",
+    "name_np": "बलवा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 11
+  },
+  {
+    "id": 20410,
+    "name": "Aurahi",
+    "name_np": "औरही",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 204,
+    "wards": 9
+  },
+  {
+    "id": 20411,
+    "name": "Ekdara",
+    "name_np": "एकडारा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 204,
+    "wards": 6
+  },
+  {
+    "id": 20412,
+    "name": "Mahottari",
+    "name_np": "महोत्तरी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 204,
+    "wards": 6
+  },
+  {
+    "id": 20413,
+    "name": "Pipra",
+    "name_np": "पिपरा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 204,
+    "wards": 7
+  },
+  {
+    "id": 20414,
+    "name": "Samsi",
+    "name_np": "सामसी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 204,
+    "wards": 7
+  },
+  {
+    "id": 20415,
+    "name": "Sonama",
+    "name_np": "सोनमा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 204,
+    "wards": 8
+  },
+  {
+    "id": 10501,
+    "name": "Biratnagar",
+    "name_np": "विराटनगर",
+    "type": "Metropolitan City",
+    "type_np": "महानगरपालिका",
+    "district_id": 105,
+    "wards": 19
+  },
+  {
+    "id": 10502,
+    "name": "Sundar Haraicha",
+    "name_np": "सुन्दरहरैचा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 12
+  },
+  {
+    "id": 10503,
+    "name": "Belbari",
+    "name_np": "बेलबारी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 11
+  },
+  {
+    "id": 10504,
+    "name": "Pathari-Sanischare",
+    "name_np": "पथरी शनिश्चरे",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 10
+  },
+  {
+    "id": 10505,
+    "name": "Urlabari",
+    "name_np": "उर्लाबारी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 9
+  },
+  {
+    "id": 10506,
+    "name": "Rangeli",
+    "name_np": "रङेली",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 9
+  },
+  {
+    "id": 10507,
+    "name": "Letang",
+    "name_np": "लेटाङ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 9
+  },
+  {
+    "id": 10508,
+    "name": "Ratuwamai",
+    "name_np": "रतुवामाई",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 10
+  },
+  {
+    "id": 10509,
+    "name": "Sunawarshi",
+    "name_np": "सुनवर्षी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 105,
+    "wards": 9
+  },
+  {
+    "id": 10510,
+    "name": "Kerabari",
+    "name_np": "केराबारी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 10
+  },
+  {
+    "id": 10511,
+    "name": "Miklajung",
+    "name_np": "मिक्लाजुङ",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 9
+  },
+  {
+    "id": 10512,
+    "name": "Kanepokhari",
+    "name_np": "कानेपोखरी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 7
+  },
+  {
+    "id": 10513,
+    "name": "Budhiganga",
+    "name_np": "बुढीगङ्गा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 7
+  },
+  {
+    "id": 10514,
+    "name": "Gramthan",
+    "name_np": "ग्रामथान",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 7
+  },
+  {
+    "id": 10515,
+    "name": "Katahari",
+    "name_np": "कटहरी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 7
+  },
+  {
+    "id": 10516,
+    "name": "Dhanpalthan",
+    "name_np": "धनपालथान",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 7
+  },
+  {
+    "id": 10517,
+    "name": "Jahada",
+    "name_np": "जहदा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 105,
+    "wards": 7
+  },
+  {
+    "id": 10201,
+    "name": "Phidim",
+    "type": "Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10202,
+    "name": "Aangna",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10203,
+    "name": "Aangsarang",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10204,
+    "name": "Ambarpur",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10205,
+    "name": "Bharapa",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10206,
+    "name": "Chilingdin",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10207,
+    "name": "Chyangthapu",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10208,
+    "name": "Durdimba",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10209,
+    "name": "Ektin",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10210,
+    "name": "Embung",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10211,
+    "name": "Phalaicha",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10212,
+    "name": "Hangum",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10213,
+    "name": "Kurumba",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10214,
+    "name": "Limba",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10215,
+    "name": "Lungrupa",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10216,
+    "name": "Mangjabung",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10217,
+    "name": "Mauwa",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10218,
+    "name": "Memeng",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10219,
+    "name": "Nagi",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10220,
+    "name": "Nangin",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10221,
+    "name": "Nawamidanda",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10222,
+    "name": "Olane",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10223,
+    "name": "Oyam",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10224,
+    "name": "Panchami",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10225,
+    "name": "Prangbung",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10226,
+    "name": "Pauwa Sartap",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10227,
+    "name": "Phaktep",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10228,
+    "name": "Rabi",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10229,
+    "name": "Rani Gaun",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10230,
+    "name": "Ranitar",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10231,
+    "name": "Sarangdanda",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10232,
+    "name": "Sidin",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10233,
+    "name": "Subhang",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10234,
+    "name": "Syabarumba",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10235,
+    "name": "Tharpu",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10236,
+    "name": "Yangnam",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 10237,
+    "name": "Yasok",
+    "type": "Rural Municipality",
+    "district_id": 102
+  },
+  {
+    "id": 20801,
+    "name": "Birgunj",
+    "name_np": "वीरगञ्ज",
+    "type": "Metropolitan City",
+    "type_np": "महानगरपालिका",
+    "district_id": 208,
+    "wards": 32
+  },
+  {
+    "id": 20802,
+    "name": "Bahudarmai",
+    "name_np": "बहुदरमाई",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 208,
+    "wards": 9
+  },
+  {
+    "id": 20803,
+    "name": "Parsagadhi",
+    "name_np": "पर्सागढी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 208,
+    "wards": 9
+  },
+  {
+    "id": 20804,
+    "name": "Pokhariya",
+    "name_np": "पोखरिया",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 208,
+    "wards": 10
+  },
+  {
+    "id": 20805,
+    "name": "Bindabasini",
+    "name_np": "विन्दवासिनी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 208,
+    "wards": 5
+  },
+  {
+    "id": 20806,
+    "name": "Chhipaharmai",
+    "name_np": "छिपहरमाई",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 208,
+    "wards": 5
+  },
+  {
+    "id": 20807,
+    "name": "Jagarnathpur",
+    "name_np": "जगरनाथपुर",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 208,
+    "wards": 6
+  },
+  {
+    "id": 20808,
+    "name": "Jirabhawani",
+    "name_np": "जिराभवानी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 208,
+    "wards": 5
+  },
+  {
+    "id": 20601,
+    "name": "Gaur",
+    "name_np": "गौर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20602,
+    "name": "Garuda",
+    "name_np": "गरुडा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20603,
+    "name": "Chandrapur",
+    "name_np": "चन्द्रपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 10
+  },
+  {
+    "id": 20604,
+    "name": "Ishanath",
+    "name_np": "ईशनाथ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20605,
+    "name": "Katariya",
+    "name_np": "कटहरिया",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20606,
+    "name": "Gadhimai",
+    "name_np": "गढीमाई",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20607,
+    "name": "Madhav Narayan",
+    "name_np": "माधव नारायण",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20608,
+    "name": "Maulapur",
+    "name_np": "मौलपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20609,
+    "name": "Phatuwa Vijayapur",
+    "name_np": "फतुवा विजयपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 11
+  },
+  {
+    "id": 20610,
+    "name": "Baudhimai",
+    "name_np": "बौधिमाई",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20611,
+    "name": "Brindaban",
+    "name_np": "वृन्दावन",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 20612,
+    "name": "Devahi Gonahi",
+    "name_np": "देवाही गोनाही",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 206,
+    "wards": 9
+  },
+  {
+    "id": 50801,
+    "name": "Siddharthanagar",
+    "name_np": "सिद्धार्थनगर",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उपमहानगरपालिका",
+    "district_id": 508,
+    "wards": 19
+  },
+  {
+    "id": 50802,
+    "name": "Butwal",
+    "name_np": "बुटवल",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उपमहानगरपालिका",
+    "district_id": 508,
+    "wards": 19
+  },
+  {
+    "id": 50803,
+    "name": "Tilottama",
+    "name_np": "तिलोत्तमा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 508,
+    "wards": 17
+  },
+  {
+    "id": 50804,
+    "name": "Devdaha",
+    "name_np": "देवदह",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 508,
+    "wards": 13
+  },
+  {
+    "id": 50805,
+    "name": "Sainamaina",
+    "name_np": "सैनामैना",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 508,
+    "wards": 13
+  },
+  {
+    "id": 50806,
+    "name": "Lumbini Sanskritik",
+    "name_np": "लुम्बिनी सांस्कृतिक",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 508,
+    "wards": 9
+  },
+  {
+    "id": 50807,
+    "name": "Marchawari",
+    "name_np": "मर्चवारी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 508,
+    "wards": 5
+  },
+  {
+    "id": 50808,
+    "name": "Rohini",
+    "name_np": "रोहिणी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 508,
+    "wards": 5
+  },
+  {
+    "id": 50809,
+    "name": "Sammarimai",
+    "name_np": "सम्मरीमाई",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 508,
+    "wards": 5
+  },
+  {
+    "id": 50810,
+    "name": "Suddhodhan",
+    "name_np": "शुद्धोधन",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 508,
+    "wards": 5
+  },
+  {
+    "id": 10901,
+    "name": "Bhotkhola",
+    "name_np": "भोटखोला",
+    "type": "Rural Municipality",
+    "wards": 5,
+    "district_id": 109
+  },
+  {
+    "id": 10902,
+    "name": "Chainpur",
+    "name_np": "चैनपुर",
+    "type": "Municipality",
+    "wards": 10,
+    "district_id": 109
+  },
+  {
+    "id": 10903,
+    "name": "Chichila",
+    "name_np": "चिचिला",
+    "type": "Rural Municipality",
+    "wards": 5,
+    "district_id": 109
+  },
+  {
+    "id": 10904,
+    "name": "Dharmadevi",
+    "name_np": "धर्मदेवी",
+    "type": "Municipality",
+    "wards": 9,
+    "district_id": 109
+  },
+  {
+    "id": 10905,
+    "name": "Khandbari",
+    "name_np": "खाँदबारी",
+    "type": "Municipality",
+    "wards": 11,
+    "district_id": 109
+  },
+  {
+    "id": 10906,
+    "name": "Madi",
+    "name_np": "मादी",
+    "type": "Municipality",
+    "wards": 9,
+    "district_id": 109
+  },
+  {
+    "id": 10907,
+    "name": "Makalu",
+    "name_np": "मकालु",
+    "type": "Rural Municipality",
+    "wards": 6,
+    "district_id": 109
+  },
+  {
+    "id": 10908,
+    "name": "Panchkhapan",
+    "name_np": "पाँचखपन",
+    "type": "Municipality",
+    "wards": 9,
+    "district_id": 109
+  },
+  {
+    "id": 10909,
+    "name": "Savapokhari",
+    "name_np": "सभापोखरी",
+    "type": "Rural Municipality",
+    "wards": 6,
+    "district_id": 109
+  },
+  {
+    "id": 10910,
+    "name": "Silichong",
+    "name_np": "सिलीचोङ",
+    "type": "Rural Municipality",
+    "wards": 5,
+    "district_id": 109
+  },
+  {
+    "id": 20101,
+    "name": "Rajbiraj",
+    "name_np": "राजविराज",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 16
+  },
+  {
+    "id": 20102,
+    "name": "Hanumannagar Kankalini",
+    "name_np": "हनुमाननगर कंकालिनी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 14
+  },
+  {
+    "id": 20103,
+    "name": "Kanchanrup",
+    "name_np": "कञ्चनरुप",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 12
+  },
+  {
+    "id": 20104,
+    "name": "Dakneshwori",
+    "name_np": "डाक्नेश्वरी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 10
+  },
+  {
+    "id": 20105,
+    "name": "Bode Barsain",
+    "name_np": "बोदे बरसाइन",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 10
+  },
+  {
+    "id": 20106,
+    "name": "Khadak",
+    "name_np": "खडक",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 11
+  },
+  {
+    "id": 20107,
+    "name": "Surunga",
+    "name_np": "सुरुङ्गा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 11
+  },
+  {
+    "id": 20108,
+    "name": "Shambhunath",
+    "name_np": "शम्भुनाथ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 12
+  },
+  {
+    "id": 20109,
+    "name": "Saptakoshi",
+    "name_np": "सप्तकोशी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 201,
+    "wards": 11
+  },
+  {
+    "id": 20110,
+    "name": "Agnisair Krishna Sabaran",
+    "name_np": "अग्नीसाइर कृष्णा सवरन",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 6
+  },
+  {
+    "id": 20111,
+    "name": "Balan-Bihul",
+    "name_np": "बलान-विहुल",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 6
+  },
+  {
+    "id": 20112,
+    "name": "Bishnupur",
+    "name_np": "विष्णुपुर",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 7
+  },
+  {
+    "id": 20113,
+    "name": "Chhinnamasta",
+    "name_np": "छिन्नमस्ता",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 7
+  },
+  {
+    "id": 20114,
+    "name": "Mahadeva",
+    "name_np": "महादेवा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 6
+  },
+  {
+    "id": 20115,
+    "name": "Rupani",
+    "name_np": "रुपनी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 6
+  },
+  {
+    "id": 20116,
+    "name": "Tilathi Koiladi",
+    "name_np": "तिलाठी कोइलाडी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 8
+  },
+  {
+    "id": 20117,
+    "name": "Tirahut",
+    "name_np": "तिरहुत",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 201,
+    "wards": 5
+  },
+  {
+    "id": 20501,
+    "name": "Malangwa",
+    "name_np": "मलङ्गवा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 12
+  },
+  {
+    "id": 20502,
+    "name": "Barahathawa",
+    "name_np": "बरहथवा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 18
+  },
+  {
+    "id": 20503,
+    "name": "Harion",
+    "name_np": "हरिवन",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 11
+  },
+  {
+    "id": 20504,
+    "name": "Ishwarpur",
+    "name_np": "ईश्वरपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 15
+  },
+  {
+    "id": 20505,
+    "name": "Lalbandi",
+    "name_np": "लालबन्दी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 17
+  },
+  {
+    "id": 20506,
+    "name": "Godaita",
+    "name_np": "गोडैता",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 12
+  },
+  {
+    "id": 20507,
+    "name": "Balara",
+    "name_np": "बलरा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 11
+  },
+  {
+    "id": 20508,
+    "name": "Kabilasi",
+    "name_np": "कविलासी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 10
+  },
+  {
+    "id": 20509,
+    "name": "Bagmati",
+    "name_np": "बागमती",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 12
+  },
+  {
+    "id": 20510,
+    "name": "Haripur",
+    "name_np": "हरिपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 9
+  },
+  {
+    "id": 20511,
+    "name": "Haripurwa",
+    "name_np": "हरिपुर्वा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 205,
+    "wards": 9
+  },
+  {
+    "id": 20201,
+    "name": "Siraha",
+    "name_np": "सिराहा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 22
+  },
+  {
+    "id": 20202,
+    "name": "Lahan",
+    "name_np": "लहान",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 24
+  },
+  {
+    "id": 20203,
+    "name": "Golbazar",
+    "name_np": "गोलबजार",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 13
+  },
+  {
+    "id": 20204,
+    "name": "Mirchaiya",
+    "name_np": "मिर्चैया",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 12
+  },
+  {
+    "id": 20205,
+    "name": "Kalyanpur",
+    "name_np": "कल्याणपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 12
+  },
+  {
+    "id": 20206,
+    "name": "Dhangadhimai",
+    "name_np": "धनगढीमाई",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 14
+  },
+  {
+    "id": 20207,
+    "name": "Sukhipur",
+    "name_np": "सुखीपुर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 10
+  },
+  {
+    "id": 20208,
+    "name": "Karjanha",
+    "name_np": "कर्जन्हा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 202,
+    "wards": 11
+  },
+  {
+    "id": 20209,
+    "name": "Bishnupur",
+    "name_np": "विष्णुपुर",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 202,
+    "wards": 5
+  },
+  {
+    "id": 20210,
+    "name": "Arnama",
+    "name_np": "अर्नमा",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 202,
+    "wards": 5
+  },
+  {
+    "id": 20211,
+    "name": "Aurahi",
+    "name_np": "औरही",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 202,
+    "wards": 5
+  },
+  {
+    "id": 20212,
+    "name": "Bariyarpatti",
+    "name_np": "वरीयारपट्टी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 202,
+    "wards": 5
+  },
+  {
+    "id": 10601,
+    "name": "Itahari",
+    "name_np": "इटहरी",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उप-महानगरपालिका",
+    "district_id": 106,
+    "wards": 20
+  },
+  {
+    "id": 10602,
+    "name": "Dharan",
+    "name_np": "धरान",
+    "type": "Sub-Metropolitan City",
+    "type_np": "उप-महानगरपालिका",
+    "district_id": 106,
+    "wards": 20
+  },
+  {
+    "id": 10603,
+    "name": "Inaruwa",
+    "name_np": "इनरुवा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 106,
+    "wards": 10
+  },
+  {
+    "id": 10604,
+    "name": "Duhabi",
+    "name_np": "दुहबी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 106,
+    "wards": 12
+  },
+  {
+    "id": 10605,
+    "name": "Ramdhuni",
+    "name_np": "रामधुनी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 106,
+    "wards": 10
+  },
+  {
+    "id": 10606,
+    "name": "Barahachhetra",
+    "name_np": "बराहक्षेत्र",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 106,
+    "wards": 11
+  },
+  {
+    "id": 10607,
+    "name": "Koshi",
+    "name_np": "कोशी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 106,
+    "wards": 8
+  },
+  {
+    "id": 10608,
+    "name": "Gadhi",
+    "name_np": "गढी",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 106,
+    "wards": 6
+  },
+  {
+    "id": 10609,
+    "name": "Barju",
+    "name_np": "बर्जु",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 106,
+    "wards": 6
+  },
+  {
+    "id": 10610,
+    "name": "Bhokraha Narsingh",
+    "name_np": "भोक्राहा नरसिंह",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 106,
+    "wards": 8
+  },
+  {
+    "id": 10611,
+    "name": "Harinagar",
+    "name_np": "हरिनगर",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 106,
+    "wards": 6
+  },
+  {
+    "id": 10612,
+    "name": "Dewanganj",
+    "name_np": "देवान्गञ्ज",
+    "type": "Rural Municipality",
+    "type_np": "गाउँपालिका",
+    "district_id": 106,
+    "wards": 7
+  },
+  {
+    "id": 61001,
+    "name": "Birendranagar",
+    "name_np": "वीरेन्द्रनगर",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 610,
+    "wards": 16
+  },
+  {
+    "id": 61002,
+    "name": "Bheriganga",
+    "name_np": "भेरीगंगा",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 610,
+    "wards": 13
+  },
+  {
+    "id": 61003,
+    "name": "Gurbhakot",
+    "name_np": "गुर्भाकोट",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 610,
+    "wards": 14
+  },
+  {
+    "id": 61004,
+    "name": "Panchpuri",
+    "name_np": "पञ्चपुरी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 610,
+    "wards": 11
+  },
+  {
+    "id": 61005,
+    "name": "Lekhbeshi",
+    "name_np": "लेकवेशी",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 610,
+    "wards": 10
+  },
+  {
+    "id": 40901,
+    "name": "Putalibazar",
+    "name_np": "पुतलीबजार",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 409,
+    "wards": 14
+  },
+  {
+    "id": 40902,
+    "name": "Waling",
+    "name_np": "वालिङ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 409,
+    "wards": 14
+  },
+  {
+    "id": 40903,
+    "name": "Chapakot",
+    "name_np": "चापाकोट",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 409,
+    "wards": 10
+  },
+  {
+    "id": 40904,
+    "name": "Bhirkot",
+    "name_np": "भिरकोट",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 409,
+    "wards": 9
+  },
+  {
+    "id": 40905,
+    "name": "Galyang",
+    "name_np": "गल्याङ",
+    "type": "Municipality",
+    "type_np": "नगरपालिका",
+    "district_id": 409,
+    "wards": 11
+  },
+  {
+    "id": 10101,
+    "name": "Phungling",
+    "type": "Municipality",
+    "wards": 11,
+    "district_id": 101
+  },
+  {
+    "id": 10102,
+    "name": "Aathrai Tribeni",
+    "type": "Rural Municipality",
+    "wards": 5,
+    "district_id": 101
+  },
+  {
+    "id": 10103,
+    "name": "Sidingwa",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 101
+  },
+  {
+    "id": 10104,
+    "name": "Phaktanglung",
+    "type": "Rural Municipality",
+    "wards": 7,
+    "district_id": 101
+  },
+  {
+    "id": 10105,
+    "name": "Mikkwakhola",
+    "type": "Rural Municipality",
+    "wards": 5,
+    "district_id": 101
+  },
+  {
+    "id": 10106,
+    "name": "Meringden",
+    "type": "Rural Municipality",
+    "wards": 6,
+    "district_id": 101
+  },
+  {
+    "id": 10107,
+    "name": "Maiwakhola",
+    "type": "Rural Municipality",
+    "wards": 6,
+    "district_id": 101
+  },
+  {
+    "id": 10108,
+    "name": "Pathibhara Yangwarak",
+    "type": "Rural Municipality",
+    "wards": 6,
+    "district_id": 101
+  },
+  {
+    "id": 10109,
+    "name": "Sirijangha",
+    "type": "Rural Municipality",
+    "wards": 8,
+    "district_id": 101
+  },
+  {
+    "id": 10801,
+    "name": "Myanglung",
+    "name_np": "म्याङलुङ",
+    "type": "Municipality",
+    "district_id": 108
+  },
+  {
+    "id": 10802,
+    "name": "Laligurans",
+    "name_np": "लालीगुराँस",
+    "type": "Municipality",
+    "district_id": 108
+  },
+  {
+    "id": 10803,
+    "name": "Aathrai",
+    "name_np": "आठराई",
+    "type": "Rural Municipality",
+    "district_id": 108
+  },
+  {
+    "id": 10804,
+    "name": "Chhathar",
+    "name_np": "छथर",
+    "type": "Rural Municipality",
+    "district_id": 108
+  },
+  {
+    "id": 10805,
+    "name": "Menchhayayem",
+    "name_np": "मेन्छयायेम",
+    "type": "Rural Municipality",
+    "district_id": 108
+  },
+  {
+    "id": 10806,
+    "name": "Phedap",
+    "name_np": "फेदाप",
+    "type": "Rural Municipality",
+    "district_id": 108
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 408,
+    "district": "Nawalpur",
+    "province_id": 4,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 40801,
+      "name": "Kawasoti",
+      "name_np": "कावासोती",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 17,
+      "postal_code": "40806",
+      "source_id": 442,
+      "aliases": [],
+      "website": "http://www.kawasotimun.gov.np/"
+    },
+    {
+      "id": 40802,
+      "name": "Gaindakot",
+      "name_np": "गैडाकोट",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 18,
+      "postal_code": "40801",
+      "source_id": 443,
+      "aliases": [],
+      "website": "http://www.gaindakotmun.gov.np/"
+    },
+    {
+      "id": 40803,
+      "name": "Devachuli",
+      "name_np": "देवचुली",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 17,
+      "postal_code": "40805",
+      "source_id": 444,
+      "aliases": [],
+      "website": "http://www.devchulimun.gov.np/"
+    },
+    {
+      "id": 40804,
+      "name": "Madhya Bindu",
+      "name_np": "मध्यविन्दु",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 15,
+      "postal_code": "40807",
+      "source_id": 445,
+      "aliases": [],
+      "website": "http://www.madhyabindumun.gov.np/"
+    },
+    {
+      "id": 40805,
+      "name": "Baudikali",
+      "name_np": "बौदीकाली",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "40803",
+      "source_id": 446,
+      "aliases": [],
+      "website": "http://www.bungdikalimun.gov.np/"
+    },
+    {
+      "id": 40806,
+      "name": "Bulingtar",
+      "name_np": "बुलिङटार",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "40802",
+      "source_id": 447,
+      "aliases": [],
+      "website": "http://www.bulingtarmun.gov.np/"
+    },
+    {
+      "id": 40807,
+      "name": "Binayi Tribeni",
+      "name_np": "विनयी त्रिवेणी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 7,
+      "postal_code": "40808",
+      "source_id": 448,
+      "aliases": [],
+      "website": "http://www.binayitribenimun.gov.np/"
+    },
+    {
+      "id": 40808,
+      "name": "Hupsekot",
+      "name_np": "हुप्सेकोट",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 408,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "40804",
+      "source_id": 449,
+      "aliases": [],
+      "website": "http://www.hupsekotmun.gov.np/"
+    }
+  ]
+}

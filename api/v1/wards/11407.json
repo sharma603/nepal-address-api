@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 11407,
+    "municipality": "Tapli",
+    "district_id": 114,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1140601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1140602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1140603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1140604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1140605",
+      "villages_toles": []
+    }
+  ]
+}

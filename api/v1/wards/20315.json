@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 20315,
+    "municipality": "Mukhiyapatti Musharniya",
+    "district_id": 203,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2031801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2031802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2031803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2031804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2031805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2031806",
+      "villages_toles": []
+    }
+  ]
+}

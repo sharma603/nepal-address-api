@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 40304,
+    "municipality": "Lomanthang",
+    "district_id": 403,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4030401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4030402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4030403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4030404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4030405",
+      "villages_toles": []
+    }
+  ]
+}

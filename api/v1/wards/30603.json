@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 30603,
+    "municipality": "Godawari",
+    "district_id": 306,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3080301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3080302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3080303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3080304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3080305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3080306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3080307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3080308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3080309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3080310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3080311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3080312",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "3080313",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "3080314",
+      "villages_toles": []
+    }
+  ]
+}

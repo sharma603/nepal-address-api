@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "district_id": 310,
+    "district": "Rasuwa",
+    "province_id": 3,
+    "total": 5
+  },
+  "municipalities": [
+    {
+      "id": 31001,
+      "name": "Kalika",
+      "name_np": "कालिका",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 310,
+      "province_id": 3,
+      "wards": 5,
+      "postal_code": "30304",
+      "source_id": 367,
+      "aliases": [],
+      "website": "http://www.kalikamunrasuwa.gov.np/"
+    },
+    {
+      "id": 31002,
+      "name": "Gosaikunda",
+      "name_np": "गोसाईकुण्ड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 310,
+      "province_id": 3,
+      "wards": 6,
+      "postal_code": "30301",
+      "source_id": 368,
+      "aliases": [],
+      "website": "http://www.gosaikundamun.gov.np/"
+    },
+    {
+      "id": 31003,
+      "name": "Naukunda",
+      "name_np": "नौकुण्ड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 310,
+      "province_id": 3,
+      "wards": 6,
+      "postal_code": "30305",
+      "source_id": 369,
+      "aliases": [],
+      "website": "http://www.naukundamun.gov.np/"
+    },
+    {
+      "id": 31004,
+      "name": "Parbatikunda",
+      "name_np": "आमाछोदिङमो",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 310,
+      "province_id": 3,
+      "wards": 5,
+      "postal_code": "30302",
+      "source_id": 370,
+      "aliases": [],
+      "website": "http://www.parbatikundamun.gov.np/"
+    },
+    {
+      "id": 31005,
+      "name": "Uttargaya",
+      "name_np": "उत्तरगया",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 310,
+      "province_id": 3,
+      "wards": 5,
+      "postal_code": "30303",
+      "source_id": 371,
+      "aliases": [],
+      "website": "http://www.uttargayamun.gov.np/"
+    }
+  ]
+}

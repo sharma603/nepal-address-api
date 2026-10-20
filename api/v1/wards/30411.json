@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 30411,
+    "municipality": "Helambu",
+    "district_id": 304,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3020401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3020402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3020403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3020404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3020405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3020406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3020407",
+      "villages_toles": []
+    }
+  ]
+}

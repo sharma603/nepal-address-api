@@ -1,0 +1,1073 @@
+[
+  {
+    "source_id": 15,
+    "name": "Sahidbhumi",
+    "name_np": "सहिदभूमि",
+    "postal_name": "सहिदभुमी गाउँपालिका",
+    "postal_code": "10705",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 25,
+    "name": "Mangsebung",
+    "name_np": "माङसेबुङ",
+    "postal_name": "माङसेबुङ गाउापालिका",
+    "postal_code": "11006",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 28,
+    "name": "Birtamod",
+    "name_np": "विर्तामोड",
+    "postal_name": "बिर्तामोड नगरपालिका",
+    "postal_code": "11112",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 31,
+    "name": "Shivasatakshi",
+    "name_np": "शिवशताक्षी",
+    "postal_name": "शिवसताक्षी नगरपालिका",
+    "postal_code": "11105",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 40,
+    "name": "Gaurigunj",
+    "name_np": "गौरीगंज",
+    "postal_name": "गौरिगञ्ज गाउँपालिका",
+    "postal_code": "11109",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 41,
+    "name": "Haldibari",
+    "name_np": "हल्दिवारी",
+    "postal_name": "हल्दीबारी गाउँपालिका",
+    "postal_code": "11113",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 47,
+    "name": "Jantedhunga",
+    "name_np": "जन्तेढुंगा",
+    "postal_name": "जन्तेढुङ्गा गाउँपालिका",
+    "postal_code": "10509",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 49,
+    "name": "Barahpokhari",
+    "name_np": "वराहपोखरी",
+    "postal_name": "बराहपोखरी गाउँपालिका",
+    "postal_code": "10510",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 52,
+    "name": "Sundar Haraicha",
+    "name_np": "सुन्दरहरैचा",
+    "postal_name": "सुन्दरहरैंचा नगरपालिका",
+    "postal_code": "11204",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 53,
+    "name": "Belbari",
+    "name_np": "बेलवारी",
+    "postal_name": "बेलबारी नगरपालिका",
+    "postal_code": "11205",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 56,
+    "name": "Urlabari",
+    "name_np": "उर्लावारी",
+    "postal_name": "उर्लाबारी नगरपालिका",
+    "postal_code": "11208",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 58,
+    "name": "Sunawarshi",
+    "name_np": "सुनवर्षि",
+    "postal_name": "सुनवर्षी नगरपालिका",
+    "postal_code": "11210",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 67,
+    "name": "Kerabari",
+    "name_np": "केरावारी",
+    "postal_name": "केराबारी गाउँपालिका",
+    "postal_code": "11203",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 69,
+    "name": "Siddhicharan",
+    "name_np": "सिद्दिचरण",
+    "postal_name": "सिद्धिचरण नगरपालिका",
+    "postal_code": "10402",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 70,
+    "name": "Khiji Demba",
+    "name_np": "खिजिदेम्बा",
+    "postal_name": "खिजीदेम्बा गाउँपालिका",
+    "postal_code": "10404",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 75,
+    "name": "Manebhanjyang",
+    "name_np": "मानेभञ्याङ",
+    "postal_name": "मानेभन्ज्याङ्ग गाउँपालिका",
+    "postal_code": "10408",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 85,
+    "name": "Khandbari",
+    "name_np": "खाँदवारी",
+    "postal_name": "खाँदबारी नगरपालिका",
+    "postal_code": "10206",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 101,
+    "name": "Khumbu PasangLhamu",
+    "name_np": "खुम्वु पासाङल्हमु",
+    "postal_name": "खुम्बु पासाङल्हामु गाउँपालिका",
+    "postal_code": "10301",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 104,
+    "name": "Inaruwa",
+    "name_np": "ईनरुवा",
+    "postal_name": "इनरुवा नगरपालिका",
+    "postal_code": "11309",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 105,
+    "name": "Duhabi",
+    "name_np": "दुहवी",
+    "postal_name": "दुहबी नगरपालिका",
+    "postal_code": "11307",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 112,
+    "name": "Dewangunj",
+    "name_np": "देवानगञ्ज",
+    "postal_name": "देवानगन्ज गाउँपालिका",
+    "postal_code": "11311",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 116,
+    "name": "Sirijangha",
+    "name_np": "सिरीजङ्घा",
+    "postal_name": "सिरीजङ्गा गाउँपालिका",
+    "postal_code": "10108",
+    "source_wards": 8,
+    "postal_wards": 8
+  },
+  {
+    "source_id": 118,
+    "name": "Pathibhara Yangwarak",
+    "name_np": "पाथीभरा याङवरक",
+    "postal_name": "पाथिभरा याङ्वराक गाउँपालिका",
+    "postal_code": "10107",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 133,
+    "name": "Belaka",
+    "name_np": "वेलका",
+    "postal_name": "बेलका नगरपालिका",
+    "postal_code": "11401",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 138,
+    "name": "Birgunj",
+    "name_np": "बिरगंज",
+    "postal_name": "बिरगन्ज महानगरपालिका",
+    "postal_code": "20807",
+    "source_wards": 32,
+    "postal_wards": 32
+  },
+  {
+    "source_id": 151,
+    "name": "Thori",
+    "name_np": "ठोरी",
+    "postal_name": "ठोरी (सुवर्णपुर) गाउँपालिका",
+    "postal_code": "20801",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 197,
+    "name": "Basbariya",
+    "name_np": "बसबरीया",
+    "postal_name": "बसबरिया गाउँपालिका",
+    "postal_code": "20513",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 208,
+    "name": "Siraha",
+    "name_np": "सिरहा",
+    "postal_name": "सिराहा नगरपालिका",
+    "postal_code": "20217",
+    "source_wards": 22,
+    "postal_wards": 22
+  },
+  {
+    "source_id": 210,
+    "name": "Mirchaiya",
+    "name_np": "मिर्चैयाँ",
+    "postal_name": "मिर्चेया नगरपालिका",
+    "postal_code": "20204",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 228,
+    "name": "Bideha",
+    "name_np": "विदेह",
+    "postal_name": "बिदेह नगरपालिका",
+    "postal_code": "20313",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 244,
+    "name": "Kanchanrup",
+    "name_np": "कञ्चनरुप",
+    "postal_name": "कन्चनरुप नगरपालिका",
+    "postal_code": "20102",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 250,
+    "name": "Agnisaira Krishnasavaran",
+    "name_np": "अग्निसाइर कृष्णासरवन",
+    "postal_name": "अग्मीसयर कृष्ण सवरन गाउँपालिका",
+    "postal_code": "20103",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 286,
+    "name": "Nilkantha",
+    "name_np": "निलकण्ठ",
+    "postal_name": "नीलकण्ठ नगरपालिका",
+    "postal_code": "30406",
+    "source_wards": 14,
+    "postal_wards": 14
+  },
+  {
+    "source_id": 290,
+    "name": "Gangajamuna",
+    "name_np": "गङ्गाजमुना",
+    "postal_name": "गंङ्गा जमुना गाउँपालिका",
+    "postal_code": "30403",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 291,
+    "name": "Jwalamukhi",
+    "name_np": "ज्वालामूखी",
+    "postal_name": "ज्वालामुखी गाउँपालिका",
+    "postal_code": "30407",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 295,
+    "name": "Rubi Valley",
+    "name_np": "रुवी भ्याली",
+    "postal_name": "रुबी भ्याली गाउँपालिका",
+    "postal_code": "30401",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 302,
+    "name": "Bigu",
+    "name_np": "विगु",
+    "postal_name": "बिगु गाउँपालिका",
+    "postal_code": "30102",
+    "source_wards": 8,
+    "postal_wards": 8
+  },
+  {
+    "source_id": 303,
+    "name": "Gaurishankar",
+    "name_np": "गौरीशङ्कर",
+    "postal_name": "गौरिशंकर गाउँपालिका",
+    "postal_code": "30101",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 304,
+    "name": "Baiteshowr",
+    "name_np": "वैतेश्वर",
+    "postal_name": "बैतेस्वर गाउँपालिका",
+    "postal_code": "30104",
+    "source_wards": 8,
+    "postal_wards": 8
+  },
+  {
+    "source_id": 307,
+    "name": "Kathmandu",
+    "name_np": "काठमाण्डौं",
+    "postal_name": "काठमाण्डौ महानगरपालिका",
+    "postal_code": "30608",
+    "source_wards": 32,
+    "postal_wards": 32
+  },
+  {
+    "source_id": 309,
+    "name": "Kirtipur",
+    "name_np": "कीर्तिपुर",
+    "postal_name": "किर्तिपुर नगरपालिका",
+    "postal_code": "30609",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 310,
+    "name": "Kageshwari-Manohara",
+    "name_np": "कागेश्वरी मनोहरा",
+    "postal_name": "कागेश्वरी मनहरा नगरपालिका",
+    "postal_code": "30602",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 317,
+    "name": "Shankharapur",
+    "name_np": "शङ्खरापुर",
+    "postal_name": "शंङ्खरापुर नगरपालिका",
+    "postal_code": "30601",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 325,
+    "name": "Chauri Deurali",
+    "name_np": "चौंरीदेउराली",
+    "postal_name": "चौरीदेउराली गाउँपालिका",
+    "postal_code": "30901",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 335,
+    "name": "Bagmati",
+    "name_np": "बागमती",
+    "postal_name": "बाग्मती गाउँपालिका",
+    "postal_code": "30806",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 344,
+    "name": "Bagmati",
+    "name_np": "बाग्मति",
+    "postal_name": "बाग्मती गाउँपालिका",
+    "postal_code": "31210",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 346,
+    "name": "Indrasarowar",
+    "name_np": "इन्द्रसरोबर",
+    "postal_name": "ईन्द्रसरोवर गाउँपालिका",
+    "postal_code": "31201",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 347,
+    "name": "Bidur",
+    "name_np": "विदुर",
+    "postal_name": "बिदुर नगरपालिका",
+    "postal_code": "30504",
+    "source_wards": 13,
+    "postal_wards": 13
+  },
+  {
+    "source_id": 350,
+    "name": "Panchakanya",
+    "name_np": "पञ्चकन्या",
+    "postal_name": "पन्चकन्या गाउँपालिका",
+    "postal_code": "30510",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 365,
+    "name": "LikhuTamakoshi",
+    "name_np": "लिखु तामाकोशी",
+    "postal_name": "लिखु तामाकोसी गाउँपालिका",
+    "postal_code": "31003",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 378,
+    "name": "Golanjor",
+    "name_np": "गोलन्जर",
+    "postal_name": "गोलन्जोर गाउँपालिका",
+    "postal_code": "31104",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 380,
+    "name": "Ghyanglekh",
+    "name_np": "घ्याङलेख",
+    "postal_name": "ध्याङलेख गाउँपालिका",
+    "postal_code": "31107",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 382,
+    "name": "Bahrabise",
+    "name_np": "बाह्रविसे",
+    "postal_name": "बाह्रबिसे नगरपालिका",
+    "postal_code": "30209",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 390,
+    "name": "Lisankhu",
+    "name_np": "लिसङ्खु पाखर",
+    "postal_name": "लिसंखु पाखर गाउँपालिका",
+    "postal_code": "30211",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 393,
+    "name": "Baglung",
+    "name_np": "बागलुङ",
+    "postal_name": "बाग्लुङ्ग नगरपालिका",
+    "postal_code": "41101",
+    "source_wards": 14,
+    "postal_wards": 14
+  },
+  {
+    "source_id": 396,
+    "name": "Jaimuni",
+    "name_np": "जैमूनी",
+    "postal_name": "जैमिनी नगरपालिका",
+    "postal_code": "41110",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 397,
+    "name": "Bareng",
+    "name_np": "वरेङ",
+    "postal_name": "बरेङ गाउँपालिका",
+    "postal_code": "41109",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 402,
+    "name": "Badigad",
+    "name_np": "वडिगाड",
+    "postal_name": "बडिगाड गाउँपालिका",
+    "postal_code": "41107",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 408,
+    "name": "Chumnubri",
+    "name_np": "चुमनुव्री",
+    "postal_name": "चुमनुब्री गाउँपालिका",
+    "postal_code": "40101",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 411,
+    "name": "Sahid Lakhan",
+    "name_np": "शहिद लखन",
+    "postal_name": "शहीद लखन गाउँपालिका",
+    "postal_code": "40110",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 412,
+    "name": "Aarughat",
+    "name_np": "आरूघाट",
+    "postal_name": "आरुघाट गाउँपालिका",
+    "postal_code": "40105",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 419,
+    "name": "Besisahar",
+    "name_np": "बेसीशहर",
+    "postal_name": "बेंसीशहर नगरापालिका",
+    "postal_code": "40605",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 421,
+    "name": "Rainas",
+    "name_np": "रारइनास",
+    "postal_name": "राईनास नगरपालिका",
+    "postal_code": "40607",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 424,
+    "name": "Dudhpokhari",
+    "name_np": "दूधपोखरी",
+    "postal_name": "दुधपोखरी गाउँपालिका",
+    "postal_code": "40608",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 425,
+    "name": "Kwhlosothar",
+    "name_np": "क्व्होलासोथार",
+    "postal_name": "क्ब्होलासोथार गाउँपालिका",
+    "postal_code": "40603",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 426,
+    "name": "Marsyangdi",
+    "name_np": "मर्स्याङदी",
+    "postal_name": "मस्र्याङ्गदी गाउँपालिका",
+    "postal_code": "40602",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 437,
+    "name": "Annapurna",
+    "name_np": "अन्नपुर्ण",
+    "postal_name": "अन्नपूर्ण गाउँपालिका",
+    "postal_code": "40401",
+    "source_wards": 8,
+    "postal_wards": 8
+  },
+  {
+    "source_id": 445,
+    "name": "Madhya Bindu",
+    "name_np": "मध्यविन्दु",
+    "postal_name": "मध्यबिन्दु नगरपालिका",
+    "postal_code": "40807",
+    "source_wards": 15,
+    "postal_wards": 15
+  },
+  {
+    "source_id": 448,
+    "name": "Binayi Tribeni",
+    "name_np": "विनयी त्रिवेणी",
+    "postal_name": "बिनयी त्रिवेणी गाउँपालिका",
+    "postal_code": "40808",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 451,
+    "name": "Phalewas",
+    "name_np": "फलेवास",
+    "postal_name": "फलेबास नगरपालिका",
+    "postal_code": "41004",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 453,
+    "name": "Paiyun",
+    "name_np": "पैयूं",
+    "postal_name": "पैयुं गाउँपालिका",
+    "postal_code": "41007",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 456,
+    "name": "Bihadi",
+    "name_np": "विहादी",
+    "postal_name": "बिहादी गाउँपालिका",
+    "postal_code": "41006",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 470,
+    "name": "Byas",
+    "name_np": "व्यास",
+    "postal_name": "ब्यास नगरपालिका",
+    "postal_code": "40702",
+    "source_wards": 14,
+    "postal_wards": 14
+  },
+  {
+    "source_id": 474,
+    "name": "Bandipur",
+    "name_np": "वन्दिपुर",
+    "postal_name": "बन्दिपुर गाउँपालिका",
+    "postal_code": "40709",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 478,
+    "name": "Kapilvastu",
+    "name_np": "कपिलवस्तु",
+    "postal_name": "कपिलबस्तु नगरपालिका",
+    "postal_code": "50907",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 480,
+    "name": "Buddhabhumi",
+    "name_np": "बुद्धभुमी",
+    "postal_name": "बुद्धभूमी नगरपालिका",
+    "postal_code": "50902",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 483,
+    "name": "Maharajgunj",
+    "name_np": "महाराजगंज",
+    "postal_name": "महाराजगन्ज नगरपालिका",
+    "postal_code": "50906",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 486,
+    "name": "Suddhodan",
+    "name_np": "सुद्धोधन",
+    "postal_name": "शुद्धोधन गाउँपालिका",
+    "postal_code": "50910",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 487,
+    "name": "Bijaynagar",
+    "name_np": "विजयनगर",
+    "postal_name": "बिजयनगर गाउँपालिका",
+    "postal_code": "50904",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 496,
+    "name": "Devdaha",
+    "name_np": "देवदह",
+    "postal_name": "देबदह नगरपालिका",
+    "postal_code": "50801",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 500,
+    "name": "Tilottama",
+    "name_np": "तिलोत्तमा",
+    "postal_name": "तिलोत्तमा नगरापालिका",
+    "postal_code": "50808",
+    "source_wards": 17,
+    "postal_wards": 17
+  },
+  {
+    "source_id": 510,
+    "name": "Suddodhan",
+    "name_np": "शुद्धोधन",
+    "postal_name": "सुद्धोधन गाउँपालिका",
+    "postal_code": "50806",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 513,
+    "name": "Bhumikasthan",
+    "name_np": "भूमिकास्थान",
+    "postal_name": "भुमिकास्थान नगरपालिका",
+    "postal_code": "50503",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 519,
+    "name": "Rurukshetra",
+    "name_np": "रुरुक्षेत्र",
+    "postal_name": "रूरू क्षेत्र गाउँपालिका",
+    "postal_code": "50412",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 525,
+    "name": "Kaligandaki",
+    "name_np": "कालीगण्डकी",
+    "postal_name": "कालिगण्डकी गाउँपालिका",
+    "postal_code": "50401",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 532,
+    "name": "Ripdikot",
+    "name_np": "रिब्दिकोट",
+    "postal_name": "रिब्दीकोट गाउँपालिका",
+    "postal_code": "50606",
+    "source_wards": 8,
+    "postal_wards": 8
+  },
+  {
+    "source_id": 535,
+    "name": "Purbakhola",
+    "name_np": "पूर्वखोला",
+    "postal_name": "पुर्वखोला गाउँपालिका",
+    "postal_code": "50602",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 549,
+    "name": "Sworgadwari",
+    "name_np": "स्वर्गद्वारी",
+    "postal_name": "स्वर्गद्धारी नगरपालिका",
+    "postal_code": "50305",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 556,
+    "name": "Naubahini",
+    "name_np": "नौवहिनी",
+    "postal_name": "नौबहिनी गाउँपालिका",
+    "postal_code": "50302",
+    "source_wards": 8,
+    "postal_wards": 8
+  },
+  {
+    "source_id": 562,
+    "name": "Lungri",
+    "name_np": "लुङग्री",
+    "postal_name": "लुङ्ग्री गाउँपालिका",
+    "postal_code": "50210",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 564,
+    "name": "Thawang",
+    "name_np": "थवाङ",
+    "postal_name": "थबाङ्ग गाउँपालिका",
+    "postal_code": "50202",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 566,
+    "name": "GangaDev",
+    "name_np": "गंगादेव",
+    "postal_name": "ग‌गादेव गाउँपालिका",
+    "postal_code": "50204",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 571,
+    "name": "Nepalgunj",
+    "name_np": "नेपालगंज",
+    "postal_name": "नेपालगञ्ज उपमहानगरपालिका",
+    "postal_code": "51106",
+    "source_wards": 23,
+    "postal_wards": 23
+  },
+  {
+    "source_id": 579,
+    "name": "Gulariya",
+    "name_np": "गुलरिया",
+    "postal_name": "गुलरीया नगरपालिका",
+    "postal_code": "51207",
+    "source_wards": 12,
+    "postal_wards": 12
+  },
+  {
+    "source_id": 604,
+    "name": "Kaike",
+    "name_np": "काईके",
+    "postal_name": "काइके गाउँपालिका",
+    "postal_code": "60107",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 605,
+    "name": "She Phoksundo",
+    "name_np": "शे फोक्सुन्डो",
+    "postal_name": "शे फोक्सुण्डो गाउँपालिका",
+    "postal_code": "60102",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 609,
+    "name": "Thuli Bheri",
+    "name_np": "ठूली भेरी",
+    "postal_name": "ठुलीभेरी नगरपालिका",
+    "postal_code": "60106",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 637,
+    "name": "Mugum Karmarong",
+    "name_np": "मुगुम कार्मारोंग",
+    "postal_name": "मुगुमकार्मारोग गाउँपालिका",
+    "postal_code": "60201",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 642,
+    "name": "Chingad",
+    "name_np": "चिङ्गाड",
+    "postal_name": "चिङ्गगाड गाउँपालिका",
+    "postal_code": "61002",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 647,
+    "name": "Lekbeshi",
+    "name_np": "लेकवेशी",
+    "postal_name": "लेकबेशी नगरपालिका",
+    "postal_code": "61003",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 652,
+    "name": "Mahabu",
+    "name_np": "महावु",
+    "postal_name": "महाबु गाउँपालिका",
+    "postal_code": "60602",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 655,
+    "name": "Dungeshwar",
+    "name_np": "डुंगेश्वर",
+    "postal_name": "डुङ्गेश्वर गाउँपालिका",
+    "postal_code": "60610",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 658,
+    "name": "Chamunda Bindrasaini",
+    "name_np": "चामुण्डा विन्द्रासैनी",
+    "postal_name": "चामुण्डा बिन्द्रासैनी नगरपालिका",
+    "postal_code": "60606",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 660,
+    "name": "Bheri",
+    "name_np": "भेरी",
+    "postal_name": "भेरीमालिका नगरपालिका",
+    "postal_code": "60706",
+    "source_wards": 13,
+    "postal_wards": 13
+  },
+  {
+    "source_id": 679,
+    "name": "Bitthadchir",
+    "name_np": "वित्थडचिर",
+    "postal_name": "बित्थडचिर गाउँपालिका",
+    "postal_code": "70210",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 680,
+    "name": "Chhabis Pathibhera",
+    "name_np": "छबिसपाथिभेरा",
+    "postal_name": "छबिस पाथिभरा गाउँपालिका",
+    "postal_code": "70207",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 684,
+    "name": "Talkot",
+    "name_np": "तलकोट",
+    "postal_name": "तालकोट गाउँपालिका",
+    "postal_code": "70204",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 687,
+    "name": "Badimalika",
+    "name_np": "बडीमालिका",
+    "postal_name": "बडिमालिका नगरपालिका",
+    "postal_code": "70106",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 699,
+    "name": "Purchaudi",
+    "name_np": "पुर्चौडी",
+    "postal_name": "पुचौंडी नगरपालिका",
+    "postal_code": "70403",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 703,
+    "name": "Pancheshwar",
+    "name_np": "पञ्चेश्वर",
+    "postal_name": "पन्चेश्वर गाउँपालिका",
+    "postal_code": "70406",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 709,
+    "name": "Purbichauki",
+    "name_np": "पूर्वीचौकी",
+    "postal_name": "पुर्विचौकी गाउँपालिका",
+    "postal_code": "70601",
+    "source_wards": 7,
+    "postal_wards": 7
+  },
+  {
+    "source_id": 720,
+    "name": "Bannigadi Jayagad",
+    "name_np": "बान्निगढी जयगढ",
+    "postal_name": "बान्नीगढी जयगढ गाउँपालिका",
+    "postal_code": "70707",
+    "source_wards": 6,
+    "postal_wards": 6
+  },
+  {
+    "source_id": 724,
+    "name": "Panchadewal Binayak",
+    "name_np": "पन्चदेवल विनायक",
+    "postal_name": "पंचदेवल बिनायक नगरपालिका",
+    "postal_code": "70701",
+    "source_wards": 9,
+    "postal_wards": 9
+  },
+  {
+    "source_id": 732,
+    "name": "Bhimdatta",
+    "name_np": "भीमदत्त",
+    "postal_name": "भिमदत्त नगरपालिका",
+    "postal_code": "70904",
+    "source_wards": 19,
+    "postal_wards": 19
+  },
+  {
+    "source_id": 733,
+    "name": "Punarbas",
+    "name_np": "पुर्नवास",
+    "postal_name": "पुनर्वास नगरपालिका",
+    "postal_code": "70907",
+    "source_wards": 11,
+    "postal_wards": 11
+  },
+  {
+    "source_id": 734,
+    "name": "Bedkot",
+    "name_np": "वेदकोट",
+    "postal_name": "बेदकोट नगरपालिका",
+    "postal_code": "70903",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 735,
+    "name": "Mahakali",
+    "name_np": "माहाकाली",
+    "postal_name": "चाँदनी-दोधारा नगरपालिका",
+    "postal_code": "70905",
+    "source_wards": 10,
+    "postal_wards": 10
+  },
+  {
+    "source_id": 740,
+    "name": "Beldandi",
+    "name_np": "बेलडाडी",
+    "postal_name": "बेलडाँडी गाउँपालिका",
+    "postal_code": "70909",
+    "source_wards": 5,
+    "postal_wards": 5
+  },
+  {
+    "source_id": 749,
+    "name": "Lamkichuha",
+    "name_np": "लम्कीचुहा",
+    "postal_name": "लम्कि चुहा नगरपालिका",
+    "postal_code": "70807",
+    "source_wards": 10,
+    "postal_wards": 10
+  }
+]

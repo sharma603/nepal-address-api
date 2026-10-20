@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 11105,
+    "municipality": "Maha Kulung",
+    "district_id": 111,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1030201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1030202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1030203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1030204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1030205",
+      "villages_toles": []
+    }
+  ]
+}

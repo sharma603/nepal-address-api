@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 20613,
+    "municipality": "Gujara",
+    "district_id": 206,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2060201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2060202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2060203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2060204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2060205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2060206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2060207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2060208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2060209",
+      "villages_toles": []
+    }
+  ]
+}

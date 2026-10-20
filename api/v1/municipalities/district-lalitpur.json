@@ -1,64 +1,94 @@
 {
-    "meta": {
-        "district_id": 306,
-        "district": "Lalitpur",
-        "province_id": 3,
-        "total": 6
+  "meta": {
+    "district_id": 306,
+    "district": "Lalitpur",
+    "province_id": 3,
+    "total": 6
+  },
+  "municipalities": [
+    {
+      "id": 30601,
+      "name": "Lalitpur",
+      "name_np": "ललितपुर",
+      "type": "Metropolitan City",
+      "type_np": "महानगरपालिका",
+      "district_id": 306,
+      "province_id": 3,
+      "wards": 29,
+      "postal_code": "30802",
+      "source_id": 331,
+      "aliases": [],
+      "website": "http://www.lalitpurmun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 30601,
-            "name": "Lalitpur",
-            "name_np": "ललितपुर",
-            "type": "Metropolitan City",
-            "type_np": "महानगरपालिका",
-            "district_id": 306,
-            "wards": 29
-        },
-        {
-            "id": 30602,
-            "name": "Mahalaxmi",
-            "name_np": "महालक्ष्मी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 306,
-            "wards": 10
-        },
-        {
-            "id": 30603,
-            "name": "Godawari",
-            "name_np": "गोदावरी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 306,
-            "wards": 14
-        },
-        {
-            "id": 30604,
-            "name": "Konjyosom",
-            "name_np": "कोन्ज्योसोम",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 306,
-            "wards": 5
-        },
-        {
-            "id": 30605,
-            "name": "Bagmati",
-            "name_np": "बागमती",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 306,
-            "wards": 7
-        },
-        {
-            "id": 30606,
-            "name": "Mahankal",
-            "name_np": "महाङ्काल",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 306,
-            "wards": 6
-        }
-    ]
+    {
+      "id": 30602,
+      "name": "Mahalaxmi",
+      "name_np": "महालक्ष्मी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 306,
+      "province_id": 3,
+      "wards": 10,
+      "postal_code": "30801",
+      "source_id": 332,
+      "aliases": [],
+      "website": "http://www.mahalaxmimunlalitpur.gov.np/"
+    },
+    {
+      "id": 30603,
+      "name": "Godawari",
+      "name_np": "गोदावरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 306,
+      "province_id": 3,
+      "wards": 14,
+      "postal_code": "30803",
+      "source_id": 333,
+      "aliases": [],
+      "website": "http://www.godawarimunlalitpur.gov.np/"
+    },
+    {
+      "id": 30604,
+      "name": "Konjyosom",
+      "name_np": "कोन्ज्योसोम",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 306,
+      "province_id": 3,
+      "wards": 5,
+      "postal_code": "30804",
+      "source_id": 334,
+      "aliases": [],
+      "website": "http://www.konjyosommun.gov.np/"
+    },
+    {
+      "id": 30605,
+      "name": "Bagmati",
+      "name_np": "बागमती",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 306,
+      "province_id": 3,
+      "wards": 7,
+      "postal_code": "30806",
+      "source_id": 335,
+      "aliases": [],
+      "website": "http://www.bagmatimunlalitpur.gov.np/"
+    },
+    {
+      "id": 30606,
+      "name": "Mahankal",
+      "name_np": "महाङ्काल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 306,
+      "province_id": 3,
+      "wards": 6,
+      "postal_code": "30805",
+      "source_id": 336,
+      "aliases": [],
+      "website": "http://www.mahankalmun.gov.np/"
+    }
+  ]
 }

@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "municipality_id": 20701,
+    "municipality": "Kalaiya",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 27,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2070801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2070802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2070803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2070804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2070805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2070806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2070807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2070808",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2070809",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2070810",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2070811",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2070812",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2070813",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2070814",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2070815",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2070816",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2070817",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2070818",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2070819",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2070820",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2070821",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2070822",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2070823",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2070824",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "2070825",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 26,
+      "postal_code": "2070826",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 27,
+      "postal_code": "2070827",
+      "villages_toles": []
+    }
+  ]
+}

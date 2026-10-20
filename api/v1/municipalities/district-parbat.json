@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "district_id": 410,
+    "district": "Parbat",
+    "province_id": 4,
+    "total": 7
+  },
+  "municipalities": [
+    {
+      "id": 41001,
+      "name": "Kushma",
+      "name_np": "कुश्मा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 14,
+      "postal_code": "41003",
+      "source_id": 450,
+      "aliases": [],
+      "website": "http://www.kushmamun.gov.np/"
+    },
+    {
+      "id": 41002,
+      "name": "Phalewas",
+      "name_np": "फलेवास",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 11,
+      "postal_code": "41004",
+      "source_id": 451,
+      "aliases": [],
+      "website": "http://www.phalewasmun.gov.np/"
+    },
+    {
+      "id": 41003,
+      "name": "Jaljala",
+      "name_np": "जलजला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "41002",
+      "source_id": 452,
+      "aliases": [],
+      "website": "http://www.jaljalamun.gov.np/"
+    },
+    {
+      "id": 41004,
+      "name": "Paiyun",
+      "name_np": "पैयूं",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 7,
+      "postal_code": "41007",
+      "source_id": 453,
+      "aliases": [],
+      "website": "http://www.paiyunmun.gov.np/"
+    },
+    {
+      "id": 41005,
+      "name": "Mahashila",
+      "name_np": "महाशिला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "41005",
+      "source_id": 454,
+      "aliases": [],
+      "website": "http://www.mahashilamun.gov.np/"
+    },
+    {
+      "id": 41006,
+      "name": "Modi",
+      "name_np": "मोदी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 8,
+      "postal_code": "41001",
+      "source_id": 455,
+      "aliases": [],
+      "website": "http://www.modimun.gov.np/"
+    },
+    {
+      "id": 41007,
+      "name": "Bihadi",
+      "name_np": "विहादी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 410,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "41006",
+      "source_id": 456,
+      "aliases": [],
+      "website": "http://www.bihadimun.gov.np/"
+    }
+  ]
+}

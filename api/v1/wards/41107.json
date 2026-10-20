@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 41107,
+    "municipality": "Taman Khola",
+    "district_id": 411,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4110401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4110402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4110403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4110404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4110405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4110406",
+      "villages_toles": []
+    }
+  ]
+}

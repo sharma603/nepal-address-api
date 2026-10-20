@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "municipality_id": 20502,
+    "municipality": "Barahathwa",
+    "district_id": 205,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 18,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2050401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2050402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2050403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2050404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2050405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2050406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2050407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2050408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2050409",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2050410",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2050411",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2050412",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2050413",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2050414",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2050415",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2050416",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2050417",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2050418",
+      "villages_toles": []
+    }
+  ]
+}

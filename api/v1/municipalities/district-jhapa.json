@@ -1,100 +1,224 @@
 {
-    "meta":  {
-                 "district_id":  104,
-                 "district":  "Jhapa",
-                 "province_id":  1,
-                 "total":  15
-             },
-    "municipalities":  [
-                           {
-                               "id":  10401,
-                               "name":  "Mechinagar",
-                               "type":  "Municipality",
-                               "wards":  15
-                           },
-                           {
-                               "id":  10402,
-                               "name":  "Bhadrapur",
-                               "type":  "Municipality",
-                               "wards":  10
-                           },
-                           {
-                               "id":  10403,
-                               "name":  "Birtamod",
-                               "type":  "Municipality",
-                               "wards":  10
-                           },
-                           {
-                               "id":  10404,
-                               "name":  "Arjundhara",
-                               "type":  "Municipality",
-                               "wards":  11
-                           },
-                           {
-                               "id":  10405,
-                               "name":  "Kankai",
-                               "type":  "Municipality",
-                               "wards":  9
-                           },
-                           {
-                               "id":  10406,
-                               "name":  "Shivasatakshi",
-                               "type":  "Municipality",
-                               "wards":  11
-                           },
-                           {
-                               "id":  10407,
-                               "name":  "Gauradaha",
-                               "type":  "Municipality",
-                               "wards":  9
-                           },
-                           {
-                               "id":  10408,
-                               "name":  "Damak",
-                               "type":  "Municipality",
-                               "wards":  10
-                           },
-                           {
-                               "id":  10409,
-                               "name":  "Buddhashanti",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           },
-                           {
-                               "id":  10410,
-                               "name":  "Haldibari",
-                               "type":  "Rural Municipality",
-                               "wards":  5
-                           },
-                           {
-                               "id":  10411,
-                               "name":  "Kachankawal",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           },
-                           {
-                               "id":  10412,
-                               "name":  "Barhadashi",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           },
-                           {
-                               "id":  10413,
-                               "name":  "Jhapa",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           },
-                           {
-                               "id":  10414,
-                               "name":  "Gauriganj",
-                               "type":  "Rural Municipality",
-                               "wards":  6
-                           },
-                           {
-                               "id":  10415,
-                               "name":  "Kamal",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           }
-                       ]
+  "meta": {
+    "district_id": 104,
+    "district": "Jhapa",
+    "province_id": 1,
+    "total": 15
+  },
+  "municipalities": [
+    {
+      "id": 10401,
+      "name": "Mechinagar",
+      "name_np": "मेचीनगर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 15,
+      "postal_code": "11101",
+      "source_id": 27,
+      "aliases": [],
+      "website": "http://www.mechinagarmun.gov.np/"
+    },
+    {
+      "id": 10403,
+      "name": "Birtamod",
+      "name_np": "विर्तामोड",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11112",
+      "source_id": 28,
+      "aliases": [],
+      "website": "http://www.birtamodmun.gov.np/"
+    },
+    {
+      "id": 10408,
+      "name": "Damak",
+      "name_np": "दमक",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11107",
+      "source_id": 29,
+      "aliases": [],
+      "website": "http://www.damakmun.gov.np/"
+    },
+    {
+      "id": 10402,
+      "name": "Bhadrapur",
+      "name_np": "भद्रपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11114",
+      "source_id": 30,
+      "aliases": [],
+      "website": "http://www.bhadrapurmun.gov.np/"
+    },
+    {
+      "id": 10406,
+      "name": "Shivasatakshi",
+      "name_np": "शिवशताक्षी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "11105",
+      "source_id": 31,
+      "aliases": [],
+      "website": "http://www.shivasatakshimun.gov.np/"
+    },
+    {
+      "id": 10404,
+      "name": "Arjundhara",
+      "name_np": "अर्जुनधारा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "11103",
+      "source_id": 32,
+      "aliases": [],
+      "website": "http://www.arjundharamun.gov.np/"
+    },
+    {
+      "id": 10407,
+      "name": "Gauradaha",
+      "name_np": "गौरादह",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11108",
+      "source_id": 33,
+      "aliases": [],
+      "website": "http://www.gauradahamun.gov.np/"
+    },
+    {
+      "id": 10405,
+      "name": "Kankai",
+      "name_np": "कन्काई",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11104",
+      "source_id": 34,
+      "aliases": [],
+      "website": "http://www.kankaimun.gov.np/"
+    },
+    {
+      "id": 10415,
+      "name": "Kamal",
+      "name_np": "कमल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11106",
+      "source_id": 35,
+      "aliases": [],
+      "website": "http://www.kamalmun.gov.np/"
+    },
+    {
+      "id": 10409,
+      "name": "Buddha Shanti",
+      "name_np": "बुद्धशान्ति",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11102",
+      "source_id": 36,
+      "aliases": [
+        "Buddhashanti"
+      ],
+      "website": "http://www.buddhashantimun.gov.np/"
+    },
+    {
+      "id": 10411,
+      "name": "Kachankawal",
+      "name_np": "कचनकवल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11115",
+      "source_id": 37,
+      "aliases": [],
+      "website": "http://www.kachankawalmun.gov.np/"
+    },
+    {
+      "id": 10413,
+      "name": "Jhapa",
+      "name_np": "झापा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11110",
+      "source_id": 38,
+      "aliases": [],
+      "website": "http://www.jhapamun.gov.np/"
+    },
+    {
+      "id": 10412,
+      "name": "Barhadashi",
+      "name_np": "बाह्रदशी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11111",
+      "source_id": 39,
+      "aliases": [],
+      "website": "http://www.bahradashimun.gov.np/"
+    },
+    {
+      "id": 10414,
+      "name": "Gaurigunj",
+      "name_np": "गौरीगंज",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "11109",
+      "source_id": 40,
+      "aliases": [
+        "Gauriganj"
+      ],
+      "website": "http://www.gaurigunjmun.gov.np/"
+    },
+    {
+      "id": 10410,
+      "name": "Haldibari",
+      "name_np": "हल्दिवारी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 104,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "11113",
+      "source_id": 41,
+      "aliases": [],
+      "website": "http://www.haldibarimun.gov.np/"
+    }
+  ]
 }

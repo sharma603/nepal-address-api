@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 11009,
+    "municipality": "Salpasilichho",
+    "district_id": 110,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1060201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1060202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1060203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1060204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1060205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1060206",
+      "villages_toles": []
+    }
+  ]
+}

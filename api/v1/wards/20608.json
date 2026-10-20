@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 20608,
+    "municipality": "Maulapur",
+    "district_id": 206,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2061001",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2061002",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2061003",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2061004",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2061005",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2061006",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2061007",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2061008",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2061009",
+      "villages_toles": []
+    }
+  ]
+}

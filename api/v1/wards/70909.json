@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 70909,
+    "municipality": "Beldandi",
+    "district_id": 709,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7090901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7090902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7090903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7090904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7090905",
+      "villages_toles": []
+    }
+  ]
+}

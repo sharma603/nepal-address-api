@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 31105,
+    "municipality": "Galchhi",
+    "district_id": 311,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3041101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3041102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3041103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3041104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3041105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3041106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3041107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3041108",
+      "villages_toles": []
+    }
+  ]
+}

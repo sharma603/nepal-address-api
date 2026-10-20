@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 20519,
+    "municipality": "Parsa",
+    "district_id": 205,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2050801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2050802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2050803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2050804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2050805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2050806",
+      "villages_toles": []
+    }
+  ]
+}

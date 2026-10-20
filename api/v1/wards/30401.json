@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 30401,
+    "municipality": "Chautara Sangachowkgadi",
+    "district_id": 304,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3020701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3020702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3020703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3020704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3020705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3020706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3020707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3020708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3020709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3020710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3020711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3020712",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "3020713",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "3020714",
+      "villages_toles": []
+    }
+  ]
+}

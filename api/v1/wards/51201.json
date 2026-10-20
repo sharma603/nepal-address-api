@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 51201,
+    "municipality": "Gulariya",
+    "district_id": 512,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5120701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5120702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5120703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5120704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5120705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5120706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5120707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5120708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5120709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5120710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5120711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5120712",
+      "villages_toles": []
+    }
+  ]
+}

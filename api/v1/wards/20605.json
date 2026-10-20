@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 20605,
+    "municipality": "Katahariya",
+    "district_id": 206,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2060401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2060402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2060403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2060404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2060405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2060406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2060407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2060408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2060409",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "district_id": 404,
+    "district": "Myagdi",
+    "province_id": 4,
+    "total": 6
+  },
+  "municipalities": [
+    {
+      "id": 40401,
+      "name": "Beni",
+      "name_np": "बेनी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 404,
+      "province_id": 4,
+      "wards": 10,
+      "postal_code": "40406",
+      "source_id": 436,
+      "aliases": [],
+      "website": "http://www.benimun.gov.np/"
+    },
+    {
+      "id": 40402,
+      "name": "Annapurna",
+      "name_np": "अन्नपुर्ण",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 404,
+      "province_id": 4,
+      "wards": 8,
+      "postal_code": "40401",
+      "source_id": 437,
+      "aliases": [],
+      "website": "http://www.annapurnamunmyagdi.gov.np/"
+    },
+    {
+      "id": 40403,
+      "name": "Dhaulagiri",
+      "name_np": "धवलागिरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 404,
+      "province_id": 4,
+      "wards": 7,
+      "postal_code": "40403",
+      "source_id": 438,
+      "aliases": [],
+      "website": "http://www.dhawalagirimun.gov.np/"
+    },
+    {
+      "id": 40404,
+      "name": "Mangala",
+      "name_np": "मंगला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 404,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40405",
+      "source_id": 439,
+      "aliases": [],
+      "website": "http://www.mangalamun.gov.np/"
+    },
+    {
+      "id": 40405,
+      "name": "Malika",
+      "name_np": "मालिका",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 404,
+      "province_id": 4,
+      "wards": 7,
+      "postal_code": "40404",
+      "source_id": 440,
+      "aliases": [],
+      "website": "http://www.malikamunmyagdi.gov.np/"
+    },
+    {
+      "id": 40406,
+      "name": "Raghuganga",
+      "name_np": "रघुगंगा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 404,
+      "province_id": 4,
+      "wards": 8,
+      "postal_code": "40402",
+      "source_id": 441,
+      "aliases": [],
+      "website": "http://www.raghugangamun.gov.np/"
+    }
+  ]
+}

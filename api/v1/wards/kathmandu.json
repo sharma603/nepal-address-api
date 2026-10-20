@@ -1,43 +1,177 @@
 {
-    "meta": {
-        "municipality_id": 30801,
-        "municipality": "Kathmandu",
-        "type": "Metropolitan City",
-        "district_id": 308,
-        "total_wards": 32
+  "meta": {
+    "municipality_id": 30801,
+    "municipality": "Kathmandu",
+    "district_id": 308,
+    "province_id": 3,
+    "type": "Metropolitan City",
+    "total_wards": 32,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3060801",
+      "villages_toles": []
     },
-    "wards": [
-        { "ward_no": 1, "villages_toles": ["Naradevi", "Ason", "Indrachowk"] },
-        { "ward_no": 2, "villages_toles": ["Kilagal", "Bangemudha", "Nhyakan"] },
-        { "ward_no": 3, "villages_toles": ["Mangalbazar", "Patan Gate", "Lagankhel"] },
-        { "ward_no": 4, "villages_toles": ["Sundhara", "Dharahara", "Tudikhel"] },
-        { "ward_no": 5, "villages_toles": ["New Road", "Bhotahiti", "Ranipokhari"] },
-        { "ward_no": 6, "villages_toles": ["Thamel", "Jyatha", "Paknajol"] },
-        { "ward_no": 7, "villages_toles": ["Chetrapati", "Khichapokhari"] },
-        { "ward_no": 8, "villages_toles": ["Dillibazar", "Putalisadak", "Kamaladi"] },
-        { "ward_no": 9, "villages_toles": ["Maharajgunj", "Lazimpat", "Baluwatar"] },
-        { "ward_no": 10, "villages_toles": ["Bansbari", "Nayabazar", "Goldhunga"] },
-        { "ward_no": 11, "villages_toles": ["Bouddha", "Chabahil", "Gaushala"] },
-        { "ward_no": 12, "villages_toles": ["Jorpati", "Kapan", "Gokarneshwor"] },
-        { "ward_no": 13, "villages_toles": ["Koteshwor", "Tinkune", "Sinamangal"] },
-        { "ward_no": 14, "villages_toles": ["Baneshwor", "Naya Baneshwor", "Minbhawan"] },
-        { "ward_no": 15, "villages_toles": ["Bagbazar", "Bhotahiti", "Jamal"] },
-        { "ward_no": 16, "villages_toles": ["Balaju", "Swayambhu", "Sitapaila"] },
-        { "ward_no": 17, "villages_toles": ["Naikap", "Ichangu", "Dahachok"] },
-        { "ward_no": 18, "villages_toles": ["Tokha", "Tusal", "Jitpur Phedi"] },
-        { "ward_no": 19, "villages_toles": ["Budhanilkantha", "Shivapuri", "Kakani"] },
-        { "ward_no": 20, "villages_toles": ["Gongabu", "Samakhushi", "Machhapokhari"] },
-        { "ward_no": 21, "villages_toles": ["Baniyatar", "Manmaiju", "Sitapaila"] },
-        { "ward_no": 22, "villages_toles": ["Kalanki", "Kalimati", "Teku"] },
-        { "ward_no": 23, "villages_toles": ["Kirtipur", "Naikap", "Lumanti"] },
-        { "ward_no": 24, "villages_toles": ["Thankot", "Chandragiri", "Balambu"] },
-        { "ward_no": 25, "villages_toles": ["Gothatar", "Jadibuti", "Tinthana"] },
-        { "ward_no": 26, "villages_toles": ["Matatirtha", "Dahachok", "Dharke"] },
-        { "ward_no": 27, "villages_toles": ["Ramkot", "Ranibari", "Mudkhu"] },
-        { "ward_no": 28, "villages_toles": ["Swyambhu", "Swayambhunath", "Pauwatar"] },
-        { "ward_no": 29, "villages_toles": ["Gairigaun", "Hattisar", "Narayanhiti"] },
-        { "ward_no": 30, "villages_toles": ["Naxal", "Battisputali", "Sanepa"] },
-        { "ward_no": 31, "villages_toles": ["Kuleshwor", "Kaldhara", "Satungal"] },
-        { "ward_no": 32, "villages_toles": ["Dallu", "Chhauni", "Pachali"] }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "3060802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3060803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3060804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3060805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3060806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3060807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3060808",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3060809",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3060810",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3060811",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3060812",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "3060813",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "3060814",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "3060815",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "3060816",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "3060817",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "3060818",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "3060819",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "3060820",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "3060821",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "3060822",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "3060823",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "3060824",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "3060825",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 26,
+      "postal_code": "3060826",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 27,
+      "postal_code": "3060827",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 28,
+      "postal_code": "3060828",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 29,
+      "postal_code": "3060829",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 30,
+      "postal_code": "3060830",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 31,
+      "postal_code": "3060831",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 32,
+      "postal_code": "3060832",
+      "villages_toles": []
+    }
+  ]
 }

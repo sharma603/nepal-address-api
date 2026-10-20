@@ -1,0 +1,38 @@
+{
+  "provinces": 7,
+  "districts": 77,
+  "local_levels": 753,
+  "wards": 6743,
+  "types": {
+    "Municipality": 276,
+    "Rural Municipality": 460,
+    "Metropolitan City": 6,
+    "Sub-Metropolitan City": 11
+  },
+  "village_tole_coverage": "incomplete",
+  "verified_village_suggestions": 0,
+  "code_scheme": "Department of Postal Services postal codes, not census/MoFAGA administrative codes",
+  "sources": [
+    {
+      "id": "local-states-nepal",
+      "repository": "https://github.com/sagautam5/local-states-nepal",
+      "commit": "035cb3d2ce2420ad04d7aac1d0ce4d08960c57f0",
+      "license": "MIT",
+      "role": "English/Nepali names, types, ward counts; source IDs are not government administrative codes"
+    },
+    {
+      "id": "postal-directory",
+      "repository": "https://github.com/Forgesaroj/nepal-reference-data",
+      "commit": "790c3b196dcbbc684f2cceac0547da462f9b0428",
+      "primary_source": "https://gpo.gov.np/pages/postal-code-1259614658/",
+      "primary_retrieved_by_upstream": "2026-09-27",
+      "role": "Independent ward-count comparison and official-derived local-level/ward POSTAL codes; primary site inaccessible from this environment"
+    }
+  ],
+  "known_gaps": [
+    "No verified nationwide village/tole list. Legacy suggestions are archived and excluded from generated wards.",
+    "Postal codes are not presented as census/MoFAGA administrative codes. Independent primary-site verification is pending.",
+    "Source names contain spelling variants and historical names; crosswalks are pinned and name variants are recorded.",
+    "Pre-existing ID 20503 was also used by Harion in Sarlahi. Buddhabhumi requires a distinct stable ID."
+  ]
+}

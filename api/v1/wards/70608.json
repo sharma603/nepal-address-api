@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 70608,
+    "municipality": "Bogatan-Phudsil",
+    "district_id": 706,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7060701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7060702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7060703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7060704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7060705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7060706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7060707",
+      "villages_toles": []
+    }
+  ]
+}

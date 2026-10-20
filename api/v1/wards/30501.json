@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 30501,
+    "municipality": "Dhulikhel",
+    "district_id": 305,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3090501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3090502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3090503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3090504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3090505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3090506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3090507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3090508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3090509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3090510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3090511",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3090512",
+      "villages_toles": []
+    }
+  ]
+}

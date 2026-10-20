@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 70502,
+    "municipality": "Aalitaal",
+    "district_id": 705,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7050601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7050602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7050603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7050604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7050605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7050606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7050607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7050608",
+      "villages_toles": []
+    }
+  ]
+}

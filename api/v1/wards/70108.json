@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 70108,
+    "municipality": "Himali",
+    "district_id": 701,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7010101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7010102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7010103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7010104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7010105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7010106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7010107",
+      "villages_toles": []
+    }
+  ]
+}

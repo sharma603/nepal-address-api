@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 30606,
+    "municipality": "Mahankal",
+    "district_id": 306,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3080501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3080502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3080503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3080504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3080505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3080506",
+      "villages_toles": []
+    }
+  ]
+}

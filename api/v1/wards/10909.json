@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 10909,
+    "municipality": "Sabhapokhari",
+    "district_id": 109,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1020501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1020502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1020503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1020504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1020505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1020506",
+      "villages_toles": []
+    }
+  ]
+}

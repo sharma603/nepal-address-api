@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 50907,
+    "municipality": "Yashodhara",
+    "district_id": 509,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5090801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5090802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5090803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5090804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5090805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5090806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5090807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5090808",
+      "villages_toles": []
+    }
+  ]
+}

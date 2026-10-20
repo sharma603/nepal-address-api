@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 70406,
+    "municipality": "Dilashaini",
+    "district_id": 704,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7040101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7040102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7040103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7040104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7040105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7040106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7040107",
+      "villages_toles": []
+    }
+  ]
+}

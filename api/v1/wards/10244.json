@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 10244,
+    "municipality": "Tumbewa",
+    "district_id": 102,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1090701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1090702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1090703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1090704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1090705",
+      "villages_toles": []
+    }
+  ]
+}

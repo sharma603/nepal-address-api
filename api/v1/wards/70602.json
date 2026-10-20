@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 70602,
+    "municipality": "Shikhar",
+    "district_id": 706,
+    "province_id": 7,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7060401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7060402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7060403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7060404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7060405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7060406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7060407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7060408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7060409",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "7060410",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "7060411",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "municipality_id": 11301,
+    "municipality": "Diktel Rupakot Majhuwagadhi",
+    "district_id": 113,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 15,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1050501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1050502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1050503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1050504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1050505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1050506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1050507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1050508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1050509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1050510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1050511",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "1050512",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "1050513",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "1050514",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "1050515",
+      "villages_toles": []
+    }
+  ]
+}

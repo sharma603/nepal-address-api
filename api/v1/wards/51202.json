@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 51202,
+    "municipality": "Rajapur",
+    "district_id": 512,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5120501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5120502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5120503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5120504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5120505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5120506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5120507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5120508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5120509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5120510",
+      "villages_toles": []
+    }
+  ]
+}

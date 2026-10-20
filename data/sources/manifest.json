@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "id": "local-states-nepal",
+      "repository": "https://github.com/sagautam5/local-states-nepal",
+      "commit": "035cb3d2ce2420ad04d7aac1d0ce4d08960c57f0",
+      "license": "MIT",
+      "role": "English/Nepali names, types, ward counts; source IDs are not government administrative codes"
+    },
+    {
+      "id": "postal-directory",
+      "repository": "https://github.com/Forgesaroj/nepal-reference-data",
+      "commit": "790c3b196dcbbc684f2cceac0547da462f9b0428",
+      "primary_source": "https://gpo.gov.np/pages/postal-code-1259614658/",
+      "primary_retrieved_by_upstream": "2026-09-27",
+      "role": "Independent ward-count comparison and official-derived local-level/ward POSTAL codes; primary site inaccessible from this environment"
+    }
+  ],
+  "checksums": {
+    "categories-en.json": "b98424eb0a0ce40992627af7e0d397b5f4f3bf5eda1ea7d039fdb4e1fb03c21a",
+    "categories-np.json": "ce7129b0d0a7859b0c1ca2d0e6d27a7ff31f8edbbc11a1cdffc2ac4d378fbcd2",
+    "crosswalk.json": "a914c0f4f4cdd8b250dbab8a97024f7b663564dd650c6e3447baa87ac85b1846",
+    "districts-en.json": "27d9983e6f3c1165ad5b67241dc0ef8dec4111e0b4433d2e9ab63a9e6d2d3efc",
+    "districts-np.json": "03aff1490efb5bf98d99680a348b10c41f0186bc89bc317b404141a6e194bffb",
+    "municipalities-en.json": "bf958d0309eeb3d6d0165988f173d6ce39898c6d5828f1abed4cb0ba58294151",
+    "municipalities-np.json": "d48f2210978c00f3f0e99456965490ef51fb834d8bec72c38a18a9cc3fc1de4e",
+    "name-variants-reviewed.json": "c739b4cebc19a020dd301c86dd5dfb97eb26470733c940368277eb1417e849b2",
+    "postal-directory.json": "6a9fac4204a0e51e510ae6c3dc11b3da739cad8d3cbd543c89b9d11105a7bc26"
+  },
+  "known_gaps": [
+    "No verified nationwide village/tole list. Legacy suggestions are archived and excluded from generated wards.",
+    "Postal codes are not presented as census/MoFAGA administrative codes. Independent primary-site verification is pending.",
+    "Source names contain spelling variants and historical names; crosswalks are pinned and name variants are recorded.",
+    "Pre-existing ID 20503 was also used by Harion in Sarlahi. Buddhabhumi requires a distinct stable ID."
+  ]
+}

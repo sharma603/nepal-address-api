@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 20116,
+    "municipality": "Tilathi Koiladi",
+    "district_id": 201,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2011701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2011702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2011703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2011704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2011705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2011706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2011707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2011708",
+      "villages_toles": []
+    }
+  ]
+}

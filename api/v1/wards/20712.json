@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 20712,
+    "municipality": "Prasauni",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2070501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2070502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2070503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2070504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2070505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2070506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2070507",
+      "villages_toles": []
+    }
+  ]
+}

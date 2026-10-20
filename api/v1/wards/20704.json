@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 20704,
+    "municipality": "Simaraungadh",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2071201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2071202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2071203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2071204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2071205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2071206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2071207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2071208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2071209",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2071210",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2071211",
+      "villages_toles": []
+    }
+  ]
+}

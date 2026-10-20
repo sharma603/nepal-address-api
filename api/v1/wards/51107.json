@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 51107,
+    "municipality": "Khajura",
+    "district_id": 511,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5110401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5110402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5110403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5110404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5110405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5110406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5110407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5110408",
+      "villages_toles": []
+    }
+  ]
+}

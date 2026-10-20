@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 10306,
+    "municipality": "Maijogmai",
+    "district_id": 103,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1100101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1100102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1100103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1100104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1100105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1100106",
+      "villages_toles": []
+    }
+  ]
+}

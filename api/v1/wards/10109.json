@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 10109,
+    "municipality": "Sirijangha",
+    "district_id": 101,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1010801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1010802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1010803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1010804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1010805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1010806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1010807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1010808",
+      "villages_toles": []
+    }
+  ]
+}

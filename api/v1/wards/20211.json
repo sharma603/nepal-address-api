@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 20211,
+    "municipality": "Aurahi",
+    "district_id": 202,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2021601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2021602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2021603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2021604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2021605",
+      "villages_toles": []
+    }
+  ]
+}

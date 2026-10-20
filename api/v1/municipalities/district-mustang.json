@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "district_id": 403,
+    "district": "Mustang",
+    "province_id": 4,
+    "total": 5
+  },
+  "municipalities": [
+    {
+      "id": 40301,
+      "name": "Gharpajhong",
+      "name_np": "घरपझोङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 403,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40302",
+      "source_id": 431,
+      "aliases": [],
+      "website": "http://www.gharapjhongmun.gov.np/"
+    },
+    {
+      "id": 40302,
+      "name": "Thasang",
+      "name_np": "थासाङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 403,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40305",
+      "source_id": 432,
+      "aliases": [],
+      "website": "http://www.thasangmun.gov.np/"
+    },
+    {
+      "id": 40303,
+      "name": "Barhagaun Muktichhetra",
+      "name_np": "वारागुङ मुक्तिक्षेत्र",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 403,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40303",
+      "source_id": 433,
+      "aliases": [],
+      "website": "http://www.bahragaumuktichhetramun.gov.np/"
+    },
+    {
+      "id": 40304,
+      "name": "Lomanthang",
+      "name_np": "लोमन्थाङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 403,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40304",
+      "source_id": 434,
+      "aliases": [],
+      "website": "http://www.lomanthangmun.gov.np/"
+    },
+    {
+      "id": 40305,
+      "name": "Lo-Ghekar Damodarkunda",
+      "name_np": "लो-घेकर दामोदरकुण्ड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 403,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40301",
+      "source_id": 435,
+      "aliases": [],
+      "website": "http://www.dalomemun.gov.np/"
+    }
+  ]
+}

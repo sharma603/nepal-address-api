@@ -1,35 +1,142 @@
 {
-    "meta": {
-        "municipality_id": 20301,
-        "municipality": "Janakpur",
-        "type": "Sub-Metropolitan City",
-        "district_id": 203,
-        "total_wards": 24
+  "meta": {
+    "municipality_id": 20301,
+    "municipality": "Janakpurdham",
+    "district_id": 203,
+    "province_id": 2,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 25,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2031501",
+      "villages_toles": []
     },
-    "wards": [
-        { "ward_no": 1, "villages_toles": ["Janakpur Dham", "Ram Mandir Road"] },
-        { "ward_no": 2, "villages_toles": ["Ramanand Chowk", "Pipra"] },
-        { "ward_no": 3, "villages_toles": ["Musahar Basti", "Kuwa"] },
-        { "ward_no": 4, "villages_toles": ["Dhanauji", "Mahinathpur"] },
-        { "ward_no": 5, "villages_toles": ["Parsa", "Hanumannagar"] },
-        { "ward_no": 6, "villages_toles": ["Dhalkebar", "Laxminiya"] },
-        { "ward_no": 7, "villages_toles": ["Gaushala", "Phulparasi"] },
-        { "ward_no": 8, "villages_toles": ["Kamala Bridge", "Singhia"] },
-        { "ward_no": 9, "villages_toles": ["Jankibash", "Kataiya"] },
-        { "ward_no": 10, "villages_toles": ["Danushipur", "Bhagwatpur"] },
-        { "ward_no": 11, "villages_toles": ["Janaki Temple Area", "Vivah Panchami"] },
-        { "ward_no": 12, "villages_toles": ["Ramkhelawan", "Sundarpur"] },
-        { "ward_no": 13, "villages_toles": ["Bhiswa", "Laxmipur"] },
-        { "ward_no": 14, "villages_toles": ["Saptari Road", "Amahi"] },
-        { "ward_no": 15, "villages_toles": ["Dhenganapur", "Musafirkhana"] },
-        { "ward_no": 16, "villages_toles": ["Ramnagar", "Bairiya"] },
-        { "ward_no": 17, "villages_toles": ["Pathlaiya", "Belhi"] },
-        { "ward_no": 18, "villages_toles": ["Ekdara", "Bathanaha"] },
-        { "ward_no": 19, "villages_toles": ["Tilathi", "Sakhuwa"] },
-        { "ward_no": 20, "villages_toles": ["Maheshpur", "Ghurna"] },
-        { "ward_no": 21, "villages_toles": ["Narayanpur", "Sultanpur"] },
-        { "ward_no": 22, "villages_toles": ["Alinagar", "Dhankaul"] },
-        { "ward_no": 23, "villages_toles": ["Bideha", "Parsauni"] },
-        { "ward_no": 24, "villages_toles": ["Kusmaha", "Badhaiya"] }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "2031502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2031503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2031504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2031505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2031506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2031507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2031508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2031509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2031510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2031511",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2031512",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2031513",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2031514",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2031515",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2031516",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2031517",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2031518",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2031519",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2031520",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2031521",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2031522",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2031523",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2031524",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "2031525",
+      "villages_toles": []
+    }
+  ]
 }

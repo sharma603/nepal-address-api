@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 50609,
+    "municipality": "Mathagadhi",
+    "district_id": 506,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5060901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5060902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5060903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5060904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5060905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5060906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5060907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5060908",
+      "villages_toles": []
+    }
+  ]
+}

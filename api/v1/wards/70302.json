@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 70302,
+    "municipality": "Shailyashikhar",
+    "district_id": 703,
+    "province_id": 7,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7030701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7030702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7030703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7030704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7030705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7030706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7030707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7030708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7030709",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 31304,
+    "municipality": "Madi",
+    "district_id": 313,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3130701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3130702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3130703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3130704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3130705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3130706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3130707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3130708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3130709",
+      "villages_toles": []
+    }
+  ]
+}

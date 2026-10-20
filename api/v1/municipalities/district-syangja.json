@@ -1,55 +1,166 @@
 {
-    "meta": {
-        "district_id": 409,
-        "district": "Syangja",
-        "province_id": 4,
-        "total": 11
+  "meta": {
+    "district_id": 409,
+    "district": "Syangja",
+    "province_id": 4,
+    "total": 11
+  },
+  "municipalities": [
+    {
+      "id": 40905,
+      "name": "Galyang",
+      "name_np": "गल्याङ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 11,
+      "postal_code": "40910",
+      "source_id": 457,
+      "aliases": [],
+      "website": "http://www.galyangmun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 40901,
-            "name": "Putalibazar",
-            "name_np": "पुतलीबजार",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 409,
-            "wards": 14
-        },
-        {
-            "id": 40902,
-            "name": "Waling",
-            "name_np": "वालिङ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 409,
-            "wards": 14
-        },
-        {
-            "id": 40903,
-            "name": "Chapakot",
-            "name_np": "चापाकोट",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 409,
-            "wards": 10
-        },
-        {
-            "id": 40904,
-            "name": "Bhirkot",
-            "name_np": "भिरकोट",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 409,
-            "wards": 9
-        },
-        {
-            "id": 40905,
-            "name": "Galyang",
-            "name_np": "गल्याङ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 409,
-            "wards": 11
-        }
-    ]
+    {
+      "id": 40903,
+      "name": "Chapakot",
+      "name_np": "चापाकोट",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 10,
+      "postal_code": "40908",
+      "source_id": 458,
+      "aliases": [],
+      "website": "http://www.chapakotmun.gov.np/"
+    },
+    {
+      "id": 40901,
+      "name": "Putalibazar",
+      "name_np": "पुतलीबजार",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 14,
+      "postal_code": "40901",
+      "source_id": 459,
+      "aliases": [],
+      "website": "http://www.putalibazarmun.gov.np/"
+    },
+    {
+      "id": 40904,
+      "name": "Bheerkot",
+      "name_np": "भीरकोट",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "40905",
+      "source_id": 460,
+      "aliases": [
+        "Bhirkot"
+      ],
+      "website": "http://www.bheerkotmun.gov.np/"
+    },
+    {
+      "id": 40902,
+      "name": "Waling",
+      "name_np": "वालिङ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 14,
+      "postal_code": "40909",
+      "source_id": 461,
+      "aliases": [],
+      "website": "http://www.walingmun.gov.np/"
+    },
+    {
+      "id": 40906,
+      "name": "Arjun Chaupari",
+      "name_np": "अर्जुनचौपारी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "40904",
+      "source_id": 462,
+      "aliases": [],
+      "website": "http://www.arjunchauparimun.gov.np/"
+    },
+    {
+      "id": 40907,
+      "name": "Aandhikhola",
+      "name_np": "आँधिखोला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "40903",
+      "source_id": 463,
+      "aliases": [],
+      "website": "http://www.aandhikholamun.gov.np/"
+    },
+    {
+      "id": 40908,
+      "name": "Kaligandaki",
+      "name_np": "कालीगण्डकी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 7,
+      "postal_code": "40911",
+      "source_id": 464,
+      "aliases": [],
+      "website": "http://www.kaligandakimunsyangja.gov.np/"
+    },
+    {
+      "id": 40909,
+      "name": "Phedikhola",
+      "name_np": "फेदीखोला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40902",
+      "source_id": 465,
+      "aliases": [],
+      "website": "http://www.phedikholamun.gov.np/"
+    },
+    {
+      "id": 40910,
+      "name": "Harinas",
+      "name_np": "हरिनास",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 7,
+      "postal_code": "40907",
+      "source_id": 466,
+      "aliases": [],
+      "website": "http://www.harinasmun.gov.np/"
+    },
+    {
+      "id": 40911,
+      "name": "Biruwa",
+      "name_np": "बिरुवा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 409,
+      "province_id": 4,
+      "wards": 8,
+      "postal_code": "40906",
+      "source_id": 467,
+      "aliases": [],
+      "website": "http://www.biruwamun.gov.np/"
+    }
+  ]
 }

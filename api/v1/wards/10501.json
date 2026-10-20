@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "municipality_id": 10501,
+    "municipality": "Biratnagar",
+    "district_id": 105,
+    "province_id": 1,
+    "type": "Metropolitan City",
+    "total_wards": 19,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1121401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1121402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1121403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1121404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1121405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1121406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1121407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1121408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1121409",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1121410",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1121411",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "1121412",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "1121413",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "1121414",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "1121415",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "1121416",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "1121417",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "1121418",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "1121419",
+      "villages_toles": []
+    }
+  ]
+}

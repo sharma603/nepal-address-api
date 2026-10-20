@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 70803,
+    "municipality": "Ghodaghodi",
+    "district_id": 708,
+    "province_id": 7,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7080501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7080502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7080503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7080504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7080505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7080506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7080507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7080508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7080509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "7080510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "7080511",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "7080512",
+      "villages_toles": []
+    }
+  ]
+}

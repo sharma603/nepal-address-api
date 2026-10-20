@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 20814,
+    "municipality": "Thori",
+    "district_id": 208,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2080101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2080102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2080103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2080104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2080105",
+      "villages_toles": []
+    }
+  ]
+}

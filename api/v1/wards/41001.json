@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 41001,
+    "municipality": "Kushma",
+    "district_id": 410,
+    "province_id": 4,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4100301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4100302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4100303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4100304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4100305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4100306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4100307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "4100308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "4100309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "4100310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "4100311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "4100312",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "4100313",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "4100314",
+      "villages_toles": []
+    }
+  ]
+}

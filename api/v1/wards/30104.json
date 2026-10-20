@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 30104,
+    "municipality": "Hariharpurgadhi",
+    "district_id": 301,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3110901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3110902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3110903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3110904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3110905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3110906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3110907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3110908",
+      "villages_toles": []
+    }
+  ]
+}

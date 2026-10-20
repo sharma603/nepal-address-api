@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 20302,
+    "municipality": "Mithila",
+    "district_id": 203,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2030301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2030302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2030303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2030304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2030305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2030306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2030307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2030308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2030309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2030310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2030311",
+      "villages_toles": []
+    }
+  ]
+}

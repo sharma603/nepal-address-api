@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 31112,
+    "municipality": "Siddhalek",
+    "district_id": 311,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3040801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3040802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3040803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3040804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3040805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3040806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3040807",
+      "villages_toles": []
+    }
+  ]
+}

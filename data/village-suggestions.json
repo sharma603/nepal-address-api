@@ -1,0 +1,4 @@
+{
+  "description": "Verified suggestions only. Each record needs municipality_id, ward_no, name and an HTTPS source_url. This is not a complete village/tole database.",
+  "suggestions": []
+}

@@ -1,64 +1,196 @@
 {
-    "meta": {
-        "district_id": 708,
-        "district": "Kailali",
-        "province_id": 7,
-        "total": 13
+  "meta": {
+    "district_id": 708,
+    "district": "Kailali",
+    "province_id": 7,
+    "total": 13
+  },
+  "municipalities": [
+    {
+      "id": 70807,
+      "name": "Janaki",
+      "name_np": "जानकी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 9,
+      "postal_code": "70808",
+      "source_id": 741,
+      "aliases": [],
+      "website": "http://www.janakimunkailali.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 70801,
-            "name": "Dhangadhi",
-            "name_np": "धनगढी",
-            "type": "Sub-Metropolitan City",
-            "type_np": "उप-महानगरपालिका",
-            "district_id": 708,
-            "wards": 19
-        },
-        {
-            "id": 70802,
-            "name": "Tikapur",
-            "name_np": "टीकापुर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 708,
-            "wards": 9
-        },
-        {
-            "id": 70803,
-            "name": "Ghodaghodi",
-            "name_np": "घोडाघोडी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 708,
-            "wards": 12
-        },
-        {
-            "id": 70804,
-            "name": "Lamki Chuha",
-            "name_np": "लम्की चुहा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 708,
-            "wards": 10
-        },
-        {
-            "id": 70805,
-            "name": "Bhajani",
-            "name_np": "भजनी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 708,
-            "wards": 9
-        },
-        {
-            "id": 70806,
-            "name": "Gauriganga",
-            "name_np": "गौरीगंगा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 708,
-            "wards": 11
-        }
-    ]
+    {
+      "id": 70808,
+      "name": "Kailari",
+      "name_np": "कैलारी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 9,
+      "postal_code": "70812",
+      "source_id": 742,
+      "aliases": [],
+      "website": "http://www.kailarimun.gov.np/"
+    },
+    {
+      "id": 70809,
+      "name": "Joshipur",
+      "name_np": "जोशीपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 7,
+      "postal_code": "70809",
+      "source_id": 743,
+      "aliases": [],
+      "website": "http://www.joshipurmun.gov.np/"
+    },
+    {
+      "id": 70810,
+      "name": "Bardagoriya",
+      "name_np": "बर्दगोरिया",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 6,
+      "postal_code": "70806",
+      "source_id": 744,
+      "aliases": [],
+      "website": "http://www.bardgoriyamun.gov.np/"
+    },
+    {
+      "id": 70811,
+      "name": "Mohanyal",
+      "name_np": "मोहन्याल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 7,
+      "postal_code": "70801",
+      "source_id": 745,
+      "aliases": [],
+      "website": "http://www.mohanyalmun.gov.np/"
+    },
+    {
+      "id": 70812,
+      "name": "Chure",
+      "name_np": "चुरे",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 6,
+      "postal_code": "70802",
+      "source_id": 746,
+      "aliases": [],
+      "website": "http://www.churemun.gov.np/"
+    },
+    {
+      "id": 70802,
+      "name": "Tikapur",
+      "name_np": "टिकापुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 9,
+      "postal_code": "70810",
+      "source_id": 747,
+      "aliases": [],
+      "website": "http://www.tikapurmun.gov.np/"
+    },
+    {
+      "id": 70803,
+      "name": "Ghodaghodi",
+      "name_np": "घोडाघोडी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 12,
+      "postal_code": "70805",
+      "source_id": 748,
+      "aliases": [],
+      "website": "http://www.ghodaghodimun.gov.np/"
+    },
+    {
+      "id": 70804,
+      "name": "Lamkichuha",
+      "name_np": "लम्कीचुहा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 10,
+      "postal_code": "70807",
+      "source_id": 749,
+      "aliases": [
+        "Lamki Chuha"
+      ],
+      "website": "http://www.lamkichuhamun.gov.np/"
+    },
+    {
+      "id": 70805,
+      "name": "Bhajni",
+      "name_np": "भजनी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 9,
+      "postal_code": "70811",
+      "source_id": 750,
+      "aliases": [
+        "Bhajani"
+      ],
+      "website": "http://www.bhajanimun.gov.np/"
+    },
+    {
+      "id": 70813,
+      "name": "Godawari",
+      "name_np": "गोदावरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 12,
+      "postal_code": "70803",
+      "source_id": 751,
+      "aliases": [],
+      "website": "http://www.godawarimunkailali.gov.np/"
+    },
+    {
+      "id": 70806,
+      "name": "Gauriganga",
+      "name_np": "गौरीगंगा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 11,
+      "postal_code": "70804",
+      "source_id": 752,
+      "aliases": [],
+      "website": "http://www.gaurigangamun.gov.np/"
+    },
+    {
+      "id": 70801,
+      "name": "Dhangadhi",
+      "name_np": "धनगढी",
+      "type": "Sub-Metropolitan City",
+      "type_np": "उपमहानगरपालिका",
+      "district_id": 708,
+      "province_id": 7,
+      "wards": 19,
+      "postal_code": "70813",
+      "source_id": 753,
+      "aliases": [],
+      "website": "http://www.dhangadhimun.gov.np/"
+    }
+  ]
 }

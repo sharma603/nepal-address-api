@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "municipality_id": 50802,
+    "municipality": "Butwal",
+    "district_id": 508,
+    "province_id": 5,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 19,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5080201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5080202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5080203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5080204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5080205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5080206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5080207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5080208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5080209",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5080210",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5080211",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5080212",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "5080213",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "5080214",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "5080215",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "5080216",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "5080217",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "5080218",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "5080219",
+      "villages_toles": []
+    }
+  ]
+}

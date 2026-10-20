@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 114,
+    "district": "Udayapur",
+    "province_id": 1,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 11401,
+      "name": "Triyuga",
+      "name_np": "त्रियुगा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 16,
+      "postal_code": "11403",
+      "source_id": 130,
+      "aliases": [],
+      "website": "http://www.triyugamun.gov.np/"
+    },
+    {
+      "id": 11402,
+      "name": "Katari",
+      "name_np": "कटारी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 14,
+      "postal_code": "11407",
+      "source_id": 131,
+      "aliases": [],
+      "website": "http://www.katarimun.gov.np/"
+    },
+    {
+      "id": 11403,
+      "name": "Chaudandigadhi",
+      "name_np": "चौदण्डीगढी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11402",
+      "source_id": 132,
+      "aliases": [],
+      "website": "http://www.chaudandigadhimun.gov.np/"
+    },
+    {
+      "id": 11404,
+      "name": "Belaka",
+      "name_np": "वेलका",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11401",
+      "source_id": 133,
+      "aliases": [],
+      "website": "http://www.belakamun.gov.np/"
+    },
+    {
+      "id": 11405,
+      "name": "Udayapurgadhi",
+      "name_np": "उदयपुरगढी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 8,
+      "postal_code": "11408",
+      "source_id": 134,
+      "aliases": [],
+      "website": "http://www.udayapurgadhimun.gov.np/"
+    },
+    {
+      "id": 11406,
+      "name": "Rautamai",
+      "name_np": "रौतामाई",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 8,
+      "postal_code": "11404",
+      "source_id": 135,
+      "aliases": [],
+      "website": "http://www.rautamaimun.gov.np/"
+    },
+    {
+      "id": 11407,
+      "name": "Tapli",
+      "name_np": "ताप्ली",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "11406",
+      "source_id": 136,
+      "aliases": [],
+      "website": "http://www.taplimun.gov.np/"
+    },
+    {
+      "id": 11408,
+      "name": "Limchungbung",
+      "name_np": "लिम्चुङ्बुङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 114,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "11405",
+      "source_id": 137,
+      "aliases": [],
+      "website": "http://www.sunkoshimunudayapur.gov.np/"
+    }
+  ]
+}

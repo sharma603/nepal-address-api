@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 20102,
+    "municipality": "Hanumannagar Kankalini",
+    "district_id": 201,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2011601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2011602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2011603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2011604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2011605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2011606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2011607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2011608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2011609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2011610",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2011611",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2011612",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2011613",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2011614",
+      "villages_toles": []
+    }
+  ]
+}

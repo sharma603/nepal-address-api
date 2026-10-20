@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 60907,
+    "municipality": "Siddha Kumakh",
+    "district_id": 609,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6090401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6090402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6090403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6090404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6090405",
+      "villages_toles": []
+    }
+  ]
+}

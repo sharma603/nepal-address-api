@@ -1,151 +1,117 @@
 {
-    "meta": {
-        "municipality_id": 10602,
-        "municipality": "Dharan",
-        "type": "Sub-Metropolitan City",
-        "district_id": 106,
-        "total_wards": 20
+  "meta": {
+    "municipality_id": 10602,
+    "municipality": "Dharan",
+    "district_id": 106,
+    "province_id": 1,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 20,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1130101",
+      "villages_toles": []
     },
-    "wards": [
-        {
-            "ward_no": 1,
-            "villages_toles": [
-                "Pindeshwor",
-                "Bijaypur"
-            ]
-        },
-        {
-            "ward_no": 2,
-            "villages_toles": [
-                "Chainpur Road",
-                "Budhabare"
-            ]
-        },
-        {
-            "ward_no": 3,
-            "villages_toles": [
-                "Pahade Bazar",
-                "Dhankuta Road"
-            ]
-        },
-        {
-            "ward_no": 4,
-            "villages_toles": [
-                "Bhedetar Road",
-                "Barahachhetra"
-            ]
-        },
-        {
-            "ward_no": 5,
-            "villages_toles": [
-                "Lohar Bazar",
-                "Mahendrapath"
-            ]
-        },
-        {
-            "ward_no": 6,
-            "villages_toles": [
-                "New Bazar",
-                "Hattisar"
-            ]
-        },
-        {
-            "ward_no": 7,
-            "villages_toles": [
-                "Bijaypur Khola",
-                "Damak Road"
-            ]
-        },
-        {
-            "ward_no": 8,
-            "villages_toles": [
-                "Jhumka",
-                "Rani"
-            ]
-        },
-        {
-            "ward_no": 9,
-            "villages_toles": [
-                "Bhaluwa",
-                "Sundar Basti"
-            ]
-        },
-        {
-            "ward_no": 10,
-            "villages_toles": [
-                "Birat Chowk",
-                "Bhanu Chowk"
-            ]
-        },
-        {
-            "ward_no": 11,
-            "villages_toles": [
-                "Bhanu Chowk",
-                "Station Road"
-            ]
-        },
-        {
-            "ward_no": 12,
-            "villages_toles": [
-                "Sainik Basti",
-                "Bijaypur"
-            ]
-        },
-        {
-            "ward_no": 13,
-            "villages_toles": [
-                "Koshi Tappu",
-                "Chatara"
-            ]
-        },
-        {
-            "ward_no": 14,
-            "villages_toles": [
-                "Machchhapokhari",
-                "Golbazar"
-            ]
-        },
-        {
-            "ward_no": 15,
-            "villages_toles": [
-                "Rani Bazar",
-                "Bhardaha"
-            ]
-        },
-        {
-            "ward_no": 16,
-            "villages_toles": [
-                "Lalit Bazar",
-                "Amardaha"
-            ]
-        },
-        {
-            "ward_no": 17,
-            "villages_toles": [
-                "Lakhantari",
-                "Rajbiraj Road"
-            ]
-        },
-        {
-            "ward_no": 18,
-            "villages_toles": [
-                "Dhulabari",
-                "Belbari"
-            ]
-        },
-        {
-            "ward_no": 19,
-            "villages_toles": [
-                "Itahari Road",
-                "Duhabi"
-            ]
-        },
-        {
-            "ward_no": 20,
-            "villages_toles": [
-                "Katahari",
-                "Bhutahi"
-            ]
-        }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "1130102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1130103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1130104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1130105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1130106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1130107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1130108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1130109",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1130110",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1130111",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "1130112",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "1130113",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "1130114",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "1130115",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "1130116",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "1130117",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "1130118",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "1130119",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "1130120",
+      "villages_toles": []
+    }
+  ]
 }

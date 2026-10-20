@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "municipality_id": 50702,
+    "municipality": "Ramgram",
+    "district_id": 507,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 18,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5070301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5070302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5070303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5070304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5070305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5070306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5070307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5070308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5070309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5070310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5070311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5070312",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "5070313",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "5070314",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "5070315",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "5070316",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "5070317",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "5070318",
+      "villages_toles": []
+    }
+  ]
+}

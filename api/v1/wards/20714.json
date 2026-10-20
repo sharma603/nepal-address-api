@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 20714,
+    "municipality": "Parwanipur",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2070401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2070402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2070403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2070404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2070405",
+      "villages_toles": []
+    }
+  ]
+}

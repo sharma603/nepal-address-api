@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "municipality_id": 31306,
+    "municipality": "Rapti",
+    "district_id": 313,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 13,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3130101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3130102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3130103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3130104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3130105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3130106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3130107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3130108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3130109",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3130110",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3130111",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3130112",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "3130113",
+      "villages_toles": []
+    }
+  ]
+}

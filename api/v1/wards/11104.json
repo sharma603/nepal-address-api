@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 11104,
+    "municipality": "Thulung Dudhkoshi",
+    "district_id": 111,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1030501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1030502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1030503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1030504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1030505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1030506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1030507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1030508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1030509",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 40107,
+    "municipality": "Dharche",
+    "district_id": 401,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4010401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4010402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4010403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4010404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4010405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4010406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4010407",
+      "villages_toles": []
+    }
+  ]
+}

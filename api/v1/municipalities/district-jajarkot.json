@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "district_id": 607,
+    "district": "Jajarkot",
+    "province_id": 6,
+    "total": 7
+  },
+  "municipalities": [
+    {
+      "id": 60701,
+      "name": "Chhedagad",
+      "name_np": "छेडागाड",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 13,
+      "postal_code": "60704",
+      "source_id": 659,
+      "aliases": [],
+      "website": "http://www.chhedagadmun.gov.np/"
+    },
+    {
+      "id": 60702,
+      "name": "Bheri",
+      "name_np": "भेरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 13,
+      "postal_code": "60706",
+      "source_id": 660,
+      "aliases": [],
+      "website": "http://www.bherimun.gov.np/"
+    },
+    {
+      "id": 60703,
+      "name": "Nalgad",
+      "name_np": "नलगाड",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 13,
+      "postal_code": "60707",
+      "source_id": 661,
+      "aliases": [],
+      "website": "http://www.tribeninalgaadmun.gov.np/"
+    },
+    {
+      "id": 60704,
+      "name": "Junichande",
+      "name_np": "जुनीचाँदे",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 11,
+      "postal_code": "60703",
+      "source_id": 662,
+      "aliases": [],
+      "website": "http://www.junichaandemun.gov.np/"
+    },
+    {
+      "id": 60705,
+      "name": "Kuse",
+      "name_np": "कुसे",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60702",
+      "source_id": 663,
+      "aliases": [],
+      "website": "http://www.kushemun.gov.np/"
+    },
+    {
+      "id": 60706,
+      "name": "Barekot",
+      "name_np": "बारेकोट",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60701",
+      "source_id": 664,
+      "aliases": [],
+      "website": "http://www.barekotmun.gov.np/"
+    },
+    {
+      "id": 60707,
+      "name": "Shivalaya",
+      "name_np": "शिवालय",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 607,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60705",
+      "source_id": 665,
+      "aliases": [],
+      "website": "http://www.shibalayamun.gov.np/"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 20414,
+    "municipality": "Samsi",
+    "district_id": 204,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2040901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2040902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2040903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2040904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2040905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2040906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2040907",
+      "villages_toles": []
+    }
+  ]
+}

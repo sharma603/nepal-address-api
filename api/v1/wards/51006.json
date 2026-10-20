@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 51006,
+    "municipality": "Shantinagar",
+    "district_id": 510,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5100401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5100402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5100403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5100404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5100405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5100406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5100407",
+      "villages_toles": []
+    }
+  ]
+}

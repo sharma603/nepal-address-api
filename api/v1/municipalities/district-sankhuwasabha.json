@@ -1,80 +1,154 @@
 {
-    "meta": {
-        "district_id": 109,
-        "district": "Sankhuwasabha",
-        "province_id": 1,
-        "total": 10
+  "meta": {
+    "district_id": 109,
+    "district": "Sankhuwasabha",
+    "province_id": 1,
+    "total": 10
+  },
+  "municipalities": [
+    {
+      "id": 10905,
+      "name": "Khandbari",
+      "name_np": "खाँदवारी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "10206",
+      "source_id": 85,
+      "aliases": [],
+      "website": "http://www.khandbarimun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 10901,
-            "name": "Bhotkhola",
-            "name_np": "भोटखोला",
-            "type": "Rural Municipality",
-            "wards": 5
-        },
-        {
-            "id": 10902,
-            "name": "Chainpur",
-            "name_np": "चैनपुर",
-            "type": "Municipality",
-            "wards": 10
-        },
-        {
-            "id": 10903,
-            "name": "Chichila",
-            "name_np": "चिचिला",
-            "type": "Rural Municipality",
-            "wards": 5
-        },
-        {
-            "id": 10904,
-            "name": "Dharmadevi",
-            "name_np": "धर्मदेवी",
-            "type": "Municipality",
-            "wards": 9
-        },
-        {
-            "id": 10905,
-            "name": "Khandbari",
-            "name_np": "खाँदबारी",
-            "type": "Municipality",
-            "wards": 11
-        },
-        {
-            "id": 10906,
-            "name": "Madi",
-            "name_np": "मादी",
-            "type": "Municipality",
-            "wards": 9
-        },
-        {
-            "id": 10907,
-            "name": "Makalu",
-            "name_np": "मकालु",
-            "type": "Rural Municipality",
-            "wards": 6
-        },
-        {
-            "id": 10908,
-            "name": "Panchkhapan",
-            "name_np": "पाँचखपन",
-            "type": "Municipality",
-            "wards": 9
-        },
-        {
-            "id": 10909,
-            "name": "Savapokhari",
-            "name_np": "सभापोखरी",
-            "type": "Rural Municipality",
-            "wards": 6
-        },
-        {
-            "id": 10910,
-            "name": "Silichong",
-            "name_np": "सिलीचोङ",
-            "type": "Rural Municipality",
-            "wards": 5
-        }
-    ]
+    {
+      "id": 10902,
+      "name": "Chainpur",
+      "name_np": "चैनपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "10208",
+      "source_id": 86,
+      "aliases": [],
+      "website": "http://www.chainpurmun.gov.np/"
+    },
+    {
+      "id": 10904,
+      "name": "Dharmadevi",
+      "name_np": "धर्मदेवी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10210",
+      "source_id": 87,
+      "aliases": [],
+      "website": "http://www.dharmadevimun.gov.np/"
+    },
+    {
+      "id": 10908,
+      "name": "Panchkhapan",
+      "name_np": "पाँचखपन",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10207",
+      "source_id": 88,
+      "aliases": [],
+      "website": "http://www.panchkhapanmun.gov.np/"
+    },
+    {
+      "id": 10906,
+      "name": "Madi",
+      "name_np": "मादी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10209",
+      "source_id": 89,
+      "aliases": [],
+      "website": "http://www.madimunsankhuwasabha.gov.np/"
+    },
+    {
+      "id": 10907,
+      "name": "Makalu",
+      "name_np": "मकालु",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10202",
+      "source_id": 90,
+      "aliases": [],
+      "website": "http://www.makalumun.gov.np/"
+    },
+    {
+      "id": 10910,
+      "name": "Silichong",
+      "name_np": "सिलीचोङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10203",
+      "source_id": 91,
+      "aliases": [],
+      "website": "http://www.silichongmun.gov.np/"
+    },
+    {
+      "id": 10909,
+      "name": "Sabhapokhari",
+      "name_np": "सभापोखरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10205",
+      "source_id": 92,
+      "aliases": [
+        "Savapokhari"
+      ],
+      "website": "http://www.savapokharimun.gov.np/"
+    },
+    {
+      "id": 10903,
+      "name": "Chichila",
+      "name_np": "चिचिला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10204",
+      "source_id": 93,
+      "aliases": [],
+      "website": "http://www.chichilamun.gov.np/"
+    },
+    {
+      "id": 10901,
+      "name": "BhotKhola",
+      "name_np": "भोटखोला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 109,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10201",
+      "source_id": 94,
+      "aliases": [
+        "Bhotkhola"
+      ],
+      "website": "http://www.bhotkholamun.gov.np/"
+    }
+  ]
 }

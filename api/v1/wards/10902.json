@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 10902,
+    "municipality": "Chainpur",
+    "district_id": 109,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1020801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1020802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1020803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1020804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1020805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1020806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1020807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1020808",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1020809",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1020810",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1020811",
+      "villages_toles": []
+    }
+  ]
+}

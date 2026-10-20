@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "municipality_id": 51102,
+    "municipality": "Kohalpur",
+    "district_id": 511,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 15,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5110201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5110202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5110203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5110204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5110205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5110206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5110207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5110208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5110209",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5110210",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5110211",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5110212",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "5110213",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "5110214",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "5110215",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 51004,
+    "municipality": "Gadhawa",
+    "district_id": 510,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5100901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5100902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5100903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5100904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5100905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5100906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5100907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5100908",
+      "villages_toles": []
+    }
+  ]
+}

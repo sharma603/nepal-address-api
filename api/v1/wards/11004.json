@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 11004,
+    "municipality": "Ramprasad Rai",
+    "district_id": 110,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1060701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1060702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1060703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1060704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1060705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1060706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1060707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1060708",
+      "villages_toles": []
+    }
+  ]
+}

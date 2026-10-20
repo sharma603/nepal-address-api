@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 41101,
+    "municipality": "Baglung",
+    "district_id": 411,
+    "province_id": 4,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4110101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4110102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4110103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4110104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4110105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4110106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4110107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "4110108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "4110109",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "4110110",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "4110111",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "4110112",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "4110113",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "4110114",
+      "villages_toles": []
+    }
+  ]
+}

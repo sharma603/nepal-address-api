@@ -1,81 +1,112 @@
 {
-    "meta": {
-        "municipality_id": 70801,
-        "municipality": "Dhangadhi",
-        "type": "Sub-Metropolitan City",
-        "district_id": 708,
-        "total_wards": 19
+  "meta": {
+    "municipality_id": 70801,
+    "municipality": "Dhangadhi",
+    "district_id": 708,
+    "province_id": 7,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 19,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7081301",
+      "villages_toles": []
     },
-    "wards": [
-        {
-            "ward_no": 1,
-            "villages_toles": [
-                "Dhangadhi Bazar",
-                "Park Mode"
-            ]
-        },
-        {
-            "ward_no": 2,
-            "villages_toles": [
-                "Santoshi Chowk",
-                "Campus Road"
-            ]
-        },
-        {
-            "ward_no": 3,
-            "villages_toles": [
-                "Chaturakali",
-                "Bhadrapur"
-            ]
-        },
-        {
-            "ward_no": 4,
-            "villages_toles": [
-                "Uttar Behadi",
-                "Shantipura"
-            ]
-        },
-        {
-            "ward_no": 5,
-            "villages_toles": [
-                "Hasanpur",
-                "Pipal Chowk"
-            ]
-        },
-        {
-            "ward_no": 6,
-            "villages_toles": [
-                "Jhalari",
-                "Attariya Road"
-            ]
-        },
-        {
-            "ward_no": 7,
-            "villages_toles": [
-                "Manhera",
-                "Dhangadhi Gate"
-            ]
-        },
-        {
-            "ward_no": 8,
-            "villages_toles": [
-                "Puranobazar",
-                "Madi"
-            ]
-        },
-        {
-            "ward_no": 9,
-            "villages_toles": [
-                "Bangra",
-                "Phulbari"
-            ]
-        },
-        {
-            "ward_no": 10,
-            "villages_toles": [
-                "Ghodaghodi",
-                "Tikapur Road"
-            ]
-        }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "7081302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7081303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7081304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7081305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7081306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7081307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7081308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7081309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "7081310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "7081311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "7081312",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "7081313",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "7081314",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "7081315",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "7081316",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "7081317",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "7081318",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "7081319",
+      "villages_toles": []
+    }
+  ]
 }

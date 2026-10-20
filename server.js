@@ -113,6 +113,7 @@ app.get('/', (req, res) => {
             <header>
                 <h1>🇳🇵 Nepal Address API</h1>
                 <p class="subtitle">A lightweight, static-ready API for Nepal's administrative structure.</p>
+                <p><a href="/docs/demo.html" class="endpoint">Open Address Selector — 77 districts and 753 local levels</a></p>
             </header>
 
             <div class="grid">

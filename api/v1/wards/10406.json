@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 10406,
+    "municipality": "Shivasatakshi",
+    "district_id": 104,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1110501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1110502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1110503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1110504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1110505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1110506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1110507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1110508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1110509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1110510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1110511",
+      "villages_toles": []
+    }
+  ]
+}

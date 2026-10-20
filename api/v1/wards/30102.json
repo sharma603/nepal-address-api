@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 30102,
+    "municipality": "Dudhauli",
+    "district_id": 301,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3110101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3110102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3110103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3110104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3110105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3110106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3110107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3110108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3110109",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3110110",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3110111",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3110112",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "3110113",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "3110114",
+      "villages_toles": []
+    }
+  ]
+}

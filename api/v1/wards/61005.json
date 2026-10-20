@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 61005,
+    "municipality": "Lekbeshi",
+    "district_id": 610,
+    "province_id": 6,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6100301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6100302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6100303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6100304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6100305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6100306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6100307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6100308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "6100309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "6100310",
+      "villages_toles": []
+    }
+  ]
+}

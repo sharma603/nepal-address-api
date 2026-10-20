@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 30307,
+    "municipality": "Baiteshowr",
+    "district_id": 303,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3010401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3010402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3010403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3010404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3010405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3010406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3010407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3010408",
+      "villages_toles": []
+    }
+  ]
+}

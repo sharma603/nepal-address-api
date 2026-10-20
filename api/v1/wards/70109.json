@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 70109,
+    "municipality": "Gaumul",
+    "district_id": 701,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7010201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7010202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7010203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7010204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7010205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7010206",
+      "villages_toles": []
+    }
+  ]
+}

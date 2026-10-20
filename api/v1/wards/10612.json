@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 10612,
+    "municipality": "Dewangunj",
+    "district_id": 106,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1131101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1131102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1131103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1131104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1131105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1131106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1131107",
+      "villages_toles": []
+    }
+  ]
+}

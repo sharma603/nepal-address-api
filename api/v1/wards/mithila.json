@@ -1,74 +1,72 @@
 {
-    "meta": {
-        "municipality_id": 20302,
-        "municipality": "Mithila",
-        "type": "Municipality",
-        "district_id": 203,
-        "total_wards": 9
+  "meta": {
+    "municipality_id": 20302,
+    "municipality": "Mithila",
+    "district_id": 203,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2030301",
+      "villages_toles": []
     },
-    "wards": [
-        {
-            "ward_no": 1,
-            "villages_toles": [
-                "Mithila Bazar",
-                "Dhalkebar"
-            ]
-        },
-        {
-            "ward_no": 2,
-            "villages_toles": [
-                "Harpur",
-                "Bhagwatpur"
-            ]
-        },
-        {
-            "ward_no": 3,
-            "villages_toles": [
-                "Aurahi",
-                "Gaushala Road"
-            ]
-        },
-        {
-            "ward_no": 4,
-            "villages_toles": [
-                "Phulparasi",
-                "Lakhnaur"
-            ]
-        },
-        {
-            "ward_no": 5,
-            "villages_toles": [
-                "Hanumanpatti",
-                "Kataiya"
-            ]
-        },
-        {
-            "ward_no": 6,
-            "villages_toles": [
-                "Bharatpur",
-                "Sonpur"
-            ]
-        },
-        {
-            "ward_no": 7,
-            "villages_toles": [
-                "Basantnagar",
-                "Kamtaul"
-            ]
-        },
-        {
-            "ward_no": 8,
-            "villages_toles": [
-                "Danushipur",
-                "Laxminiya"
-            ]
-        },
-        {
-            "ward_no": 9,
-            "villages_toles": [
-                "Singhia",
-                "Rajanpur"
-            ]
-        }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "2030302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2030303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2030304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2030305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2030306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2030307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2030308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2030309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2030310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2030311",
+      "villages_toles": []
+    }
+  ]
 }

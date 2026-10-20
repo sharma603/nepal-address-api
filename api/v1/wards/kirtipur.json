@@ -1,21 +1,67 @@
 {
-    "meta": {
-        "municipality_id": 30802,
-        "municipality": "Kirtipur",
-        "type": "Municipality",
-        "district_id": 308,
-        "total_wards": 10
+  "meta": {
+    "municipality_id": 30802,
+    "municipality": "Kirtipur",
+    "district_id": 308,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3060901",
+      "villages_toles": []
     },
-    "wards": [
-        { "ward_no": 1, "villages_toles": ["Kirtipur Bazar", "Nagaun"] },
-        { "ward_no": 2, "villages_toles": ["Panga", "Chitlang"] },
-        { "ward_no": 3, "villages_toles": ["Naikap", "Balambu"] },
-        { "ward_no": 4, "villages_toles": ["Thankot", "Chalnakhel"] },
-        { "ward_no": 5, "villages_toles": ["Lumanti", "Machhegaun"] },
-        { "ward_no": 6, "villages_toles": ["Syuchatar", "Gairigaun"] },
-        { "ward_no": 7, "villages_toles": ["Khairenitar", "Bafal"] },
-        { "ward_no": 8, "villages_toles": ["Bhaisepati", "Taukhel"] },
-        { "ward_no": 9, "villages_toles": ["Danda Gaun", "Champi"] },
-        { "ward_no": 10, "villages_toles": ["Khokana", "Bungamati"] }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "3060902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3060903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3060904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3060905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3060906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3060907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3060908",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3060909",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3060910",
+      "villages_toles": []
+    }
+  ]
 }

@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "municipality_id": 20202,
+    "municipality": "Lahan",
+    "district_id": 202,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 24,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2020101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2020102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2020103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2020104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2020105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2020106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2020107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2020108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2020109",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2020110",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2020111",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2020112",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2020113",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2020114",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2020115",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2020116",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2020117",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2020118",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2020119",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2020120",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2020121",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2020122",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2020123",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2020124",
+      "villages_toles": []
+    }
+  ]
+}

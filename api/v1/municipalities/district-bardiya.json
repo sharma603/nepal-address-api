@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 512,
+    "district": "Bardiya",
+    "province_id": 5,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 51201,
+      "name": "Gulariya",
+      "name_np": "गुलरिया",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 12,
+      "postal_code": "51207",
+      "source_id": 579,
+      "aliases": [],
+      "website": "http://www.gulariyamun.gov.np/"
+    },
+    {
+      "id": 51202,
+      "name": "Rajapur",
+      "name_np": "राजापुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 10,
+      "postal_code": "51205",
+      "source_id": 580,
+      "aliases": [],
+      "website": "http://www.rajapurmun.gov.np/"
+    },
+    {
+      "id": 51203,
+      "name": "Madhuwan",
+      "name_np": "मधुवन",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "51206",
+      "source_id": 581,
+      "aliases": [],
+      "website": "http://www.madhuwanmun.gov.np/"
+    },
+    {
+      "id": 51204,
+      "name": "Thakurbaba",
+      "name_np": "ठाकुरबाबा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "51203",
+      "source_id": 582,
+      "aliases": [],
+      "website": "http://www.thakurbabamun.gov.np/"
+    },
+    {
+      "id": 51205,
+      "name": "Basgadhi",
+      "name_np": "बाँसगढी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "51201",
+      "source_id": 583,
+      "aliases": [],
+      "website": "http://www.bansgadhimun.gov.np/"
+    },
+    {
+      "id": 51206,
+      "name": "Barbardiya",
+      "name_np": "बारबर्दिया",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 11,
+      "postal_code": "51202",
+      "source_id": 584,
+      "aliases": [],
+      "website": "http://www.barbardiyamun.gov.np/"
+    },
+    {
+      "id": 51207,
+      "name": "Badhaiyatal",
+      "name_np": "बढैयाताल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "51208",
+      "source_id": 585,
+      "aliases": [],
+      "website": "http://www.badhaiyatalmun.gov.np/"
+    },
+    {
+      "id": 51208,
+      "name": "Geruwa",
+      "name_np": "गेरुवा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 512,
+      "province_id": 5,
+      "wards": 6,
+      "postal_code": "51204",
+      "source_id": 586,
+      "aliases": [],
+      "website": "http://www.geruwamun.gov.np/"
+    }
+  ]
+}

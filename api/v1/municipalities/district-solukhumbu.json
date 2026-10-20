@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 111,
+    "district": "Solukhumbu",
+    "province_id": 1,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 11101,
+      "name": "Solu Dudhkunda",
+      "name_np": "सोलुदुधकुण्ड",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "10307",
+      "source_id": 95,
+      "aliases": [],
+      "website": "http://www.solududhkundamun.gov.np/"
+    },
+    {
+      "id": 11102,
+      "name": "Mapya Dudhkoshi",
+      "name_np": "माप्य दुधकोशी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "10304",
+      "source_id": 96,
+      "aliases": [],
+      "website": "http://www.dudhkoshimun.gov.np/"
+    },
+    {
+      "id": 11103,
+      "name": "Necha Salyan",
+      "name_np": "नेचासल्यान",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10306",
+      "source_id": 97,
+      "aliases": [],
+      "website": "http://www.nechasalyanmun.gov.np/"
+    },
+    {
+      "id": 11104,
+      "name": "Thulung Dudhkoshi",
+      "name_np": "थुलुङ दुधकोशी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10305",
+      "source_id": 98,
+      "aliases": [],
+      "website": "http://www.thulungdudhkoshimun.gov.np/"
+    },
+    {
+      "id": 11105,
+      "name": "Maha Kulung",
+      "name_np": "माहाकुलुङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10302",
+      "source_id": 99,
+      "aliases": [],
+      "website": "http://www.mahakulungmun.gov.np/"
+    },
+    {
+      "id": 11106,
+      "name": "Sotang",
+      "name_np": "सोताङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10303",
+      "source_id": 100,
+      "aliases": [],
+      "website": "http://www.sotangmun.gov.np/"
+    },
+    {
+      "id": 11107,
+      "name": "Khumbu PasangLhamu",
+      "name_np": "खुम्वु पासाङल्हमु",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10301",
+      "source_id": 101,
+      "aliases": [],
+      "website": "http://www.khumbupasanglhamumun.gov.np/"
+    },
+    {
+      "id": 11108,
+      "name": "Likhu Pike",
+      "name_np": "लिखु पिके",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 111,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10308",
+      "source_id": 102,
+      "aliases": [],
+      "website": "http://www.likhupikemun.gov.np/"
+    }
+  ]
+}

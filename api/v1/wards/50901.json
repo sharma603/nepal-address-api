@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 50901,
+    "municipality": "Kapilvastu",
+    "district_id": 509,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5090701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5090702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5090703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5090704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5090705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5090706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5090707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5090708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5090709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5090710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5090711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5090712",
+      "villages_toles": []
+    }
+  ]
+}

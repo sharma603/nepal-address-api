@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 20510,
+    "municipality": "Haripur",
+    "district_id": 205,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2050501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2050502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2050503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2050504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2050505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2050506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2050507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2050508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2050509",
+      "villages_toles": []
+    }
+  ]
+}

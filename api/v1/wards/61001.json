@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "municipality_id": 61001,
+    "municipality": "Birendranagar",
+    "district_id": 610,
+    "province_id": 6,
+    "type": "Municipality",
+    "total_wards": 16,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6100601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6100602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6100603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6100604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6100605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6100606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6100607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6100608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "6100609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "6100610",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "6100611",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "6100612",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "6100613",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "6100614",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "6100615",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "6100616",
+      "villages_toles": []
+    }
+  ]
+}

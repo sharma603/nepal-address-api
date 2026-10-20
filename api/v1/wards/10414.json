@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 10414,
+    "municipality": "Gaurigunj",
+    "district_id": 104,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1110901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1110902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1110903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1110904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1110905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1110906",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 60604,
+    "municipality": "Naumule",
+    "district_id": 606,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6060101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6060102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6060103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6060104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6060105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6060106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6060107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6060108",
+      "villages_toles": []
+    }
+  ]
+}

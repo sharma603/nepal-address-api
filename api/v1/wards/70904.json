@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 70904,
+    "municipality": "Mahakali",
+    "district_id": 709,
+    "province_id": 7,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7090501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7090502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7090503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7090504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7090505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7090506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7090507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7090508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7090509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "7090510",
+      "villages_toles": []
+    }
+  ]
+}

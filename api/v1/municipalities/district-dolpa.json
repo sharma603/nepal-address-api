@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 601,
+    "district": "Dolpa",
+    "province_id": 6,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 60101,
+      "name": "Mudkechula",
+      "name_np": "मुड्केचुला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60104",
+      "source_id": 603,
+      "aliases": [],
+      "website": "http://www.mudkechulamun.gov.np/"
+    },
+    {
+      "id": 60102,
+      "name": "Kaike",
+      "name_np": "काईके",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 7,
+      "postal_code": "60107",
+      "source_id": 604,
+      "aliases": [],
+      "website": "http://www.kaikemun.gov.np/"
+    },
+    {
+      "id": 60103,
+      "name": "She Phoksundo",
+      "name_np": "शे फोक्सुन्डो",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60102",
+      "source_id": 605,
+      "aliases": [],
+      "website": "http://www.shephoksundomun.gov.np/"
+    },
+    {
+      "id": 60104,
+      "name": "Jagadulla",
+      "name_np": "जगदुल्ला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60103",
+      "source_id": 606,
+      "aliases": [],
+      "website": "http://www.jagdullamun.gov.np/"
+    },
+    {
+      "id": 60105,
+      "name": "Dolpo Buddha",
+      "name_np": "डोल्पो बुद्ध",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60101",
+      "source_id": 607,
+      "aliases": [],
+      "website": "http://www.dolpobuddhamun.gov.np/"
+    },
+    {
+      "id": 60106,
+      "name": "Chharka Tongsong",
+      "name_np": "छार्का ताङसोङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60108",
+      "source_id": 608,
+      "aliases": [],
+      "website": "http://www.chharkatangsongmun.gov.np/"
+    },
+    {
+      "id": 60107,
+      "name": "Thuli Bheri",
+      "name_np": "ठूली भेरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 11,
+      "postal_code": "60106",
+      "source_id": 609,
+      "aliases": [],
+      "website": "http://www.thulibherimun.gov.np/"
+    },
+    {
+      "id": 60108,
+      "name": "Tripurasundari",
+      "name_np": "त्रिपुरासुन्दरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 601,
+      "province_id": 6,
+      "wards": 11,
+      "postal_code": "60105",
+      "source_id": 610,
+      "aliases": [],
+      "website": "http://www.tripurasundarimundolpa.gov.np/"
+    }
+  ]
+}

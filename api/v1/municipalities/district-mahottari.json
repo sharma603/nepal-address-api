@@ -1,145 +1,230 @@
 {
-    "meta": {
-        "district_id": 204,
-        "district": "Mahottari",
-        "province_id": 2,
-        "total": 15
+  "meta": {
+    "district_id": 204,
+    "district": "Mahottari",
+    "province_id": 2,
+    "total": 15
+  },
+  "municipalities": [
+    {
+      "id": 20410,
+      "name": "Aaurahi",
+      "name_np": "औरही",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20404",
+      "source_id": 259,
+      "aliases": [
+        "Aurahi"
+      ],
+      "website": "http://www.aurahimunmahottari.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 20401,
-            "name": "Jaleshwor",
-            "name_np": "जलेश्वर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 12
-        },
-        {
-            "id": 20402,
-            "name": "Bardibas",
-            "name_np": "बर्दिबास",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 14
-        },
-        {
-            "id": 20403,
-            "name": "Gaushala",
-            "name_np": "गौशाला",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 12
-        },
-        {
-            "id": 20404,
-            "name": "Loharpatti",
-            "name_np": "लोहारपट्टी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 9
-        },
-        {
-            "id": 20405,
-            "name": "Ramgopalpur",
-            "name_np": "रामगोपालपुर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 9
-        },
-        {
-            "id": 20406,
-            "name": "Manra Siswa",
-            "name_np": "मनरा शिसवा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 10
-        },
-        {
-            "id": 20407,
-            "name": "Matihani",
-            "name_np": "मटिहानी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 9
-        },
-        {
-            "id": 20408,
-            "name": "Bhangaha",
-            "name_np": "भँगाहा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 9
-        },
-        {
-            "id": 20409,
-            "name": "Balwa",
-            "name_np": "बलवा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 11
-        },
-        {
-            "id": 20410,
-            "name": "Aurahi",
-            "name_np": "औरही",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 204,
-            "wards": 9
-        },
-        {
-            "id": 20411,
-            "name": "Ekdara",
-            "name_np": "एकडारा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 204,
-            "wards": 6
-        },
-        {
-            "id": 20412,
-            "name": "Mahottari",
-            "name_np": "महोत्तरी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 204,
-            "wards": 6
-        },
-        {
-            "id": 20413,
-            "name": "Pipra",
-            "name_np": "पिपरा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 204,
-            "wards": 7
-        },
-        {
-            "id": 20414,
-            "name": "Samsi",
-            "name_np": "सामसी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 204,
-            "wards": 7
-        },
-        {
-            "id": 20415,
-            "name": "Sonama",
-            "name_np": "सोनमा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 204,
-            "wards": 8
-        }
-    ]
+    {
+      "id": 20409,
+      "name": "Balawa",
+      "name_np": "बलवा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20407",
+      "source_id": 260,
+      "aliases": [
+        "Balwa"
+      ],
+      "website": "http://www.balwamun.gov.np/"
+    },
+    {
+      "id": 20402,
+      "name": "Bardibas",
+      "name_np": "बर्दिबास",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 14,
+      "postal_code": "20401",
+      "source_id": 261,
+      "aliases": [],
+      "website": "http://www.bardibasmun.gov.np/"
+    },
+    {
+      "id": 20408,
+      "name": "Bhangaha",
+      "name_np": "भँगाहा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20405",
+      "source_id": 262,
+      "aliases": [],
+      "website": "http://www.bhagahamun.gov.np/"
+    },
+    {
+      "id": 20403,
+      "name": "Gaushala",
+      "name_np": "गौशाला",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20402",
+      "source_id": 263,
+      "aliases": [],
+      "website": "http://www.gaushalamun.gov.np/"
+    },
+    {
+      "id": 20401,
+      "name": "Jaleshor",
+      "name_np": "जलेश्वर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20415",
+      "source_id": 264,
+      "aliases": [
+        "Jaleshwor"
+      ],
+      "website": "http://www.jaleshwormun.gov.np/"
+    },
+    {
+      "id": 20404,
+      "name": "Loharpatti",
+      "name_np": "लोहरपट्टी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20406",
+      "source_id": 265,
+      "aliases": [],
+      "website": "http://www.loharpattimun.gov.np/"
+    },
+    {
+      "id": 20406,
+      "name": "Manara Shiswa",
+      "name_np": "मनरा शिसवा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 10,
+      "postal_code": "20410",
+      "source_id": 266,
+      "aliases": [
+        "Manra Siswa"
+      ],
+      "website": "http://www.manrashiswamun.gov.np/"
+    },
+    {
+      "id": 20407,
+      "name": "Matihani",
+      "name_np": "मटिहानी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20414",
+      "source_id": 267,
+      "aliases": [],
+      "website": "http://www.matihanimun.gov.np/"
+    },
+    {
+      "id": 20405,
+      "name": "Ramgopalpur",
+      "name_np": "रामगोपालपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20408",
+      "source_id": 268,
+      "aliases": [],
+      "website": "http://www.ramgopalpurmun.gov.np/"
+    },
+    {
+      "id": 20411,
+      "name": "Ekdara",
+      "name_np": "एकडारा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20411",
+      "source_id": 269,
+      "aliases": [],
+      "website": "http://www.ekdaramun.gov.np/"
+    },
+    {
+      "id": 20412,
+      "name": "Mahottari",
+      "name_np": "महोत्तरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20412",
+      "source_id": 270,
+      "aliases": [],
+      "website": "http://www.mahottarimun.gov.np/"
+    },
+    {
+      "id": 20413,
+      "name": "Pipara",
+      "name_np": "पिपरा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20413",
+      "source_id": 271,
+      "aliases": [
+        "Pipra"
+      ],
+      "website": "http://www.pipramun.gov.np/"
+    },
+    {
+      "id": 20414,
+      "name": "Samsi",
+      "name_np": "साम्सी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20409",
+      "source_id": 272,
+      "aliases": [],
+      "website": "http://www.samsimun.gov.np/"
+    },
+    {
+      "id": 20415,
+      "name": "Sonama",
+      "name_np": "सोनमा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 204,
+      "province_id": 2,
+      "wards": 8,
+      "postal_code": "20403",
+      "source_id": 273,
+      "aliases": [],
+      "website": "http://www.sonmamun.gov.np/"
+    }
+  ]
 }

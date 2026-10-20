@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 10509,
+    "municipality": "Sunawarshi",
+    "district_id": 105,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1121001",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1121002",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1121003",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1121004",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1121005",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1121006",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1121007",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1121008",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1121009",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,64 +1,150 @@
 {
-    "meta": {
-        "district_id": 509,
-        "district": "Kapilvastu",
-        "province_id": 5,
-        "total": 10
+  "meta": {
+    "district_id": 509,
+    "district": "Kapilvastu",
+    "province_id": 5,
+    "total": 10
+  },
+  "municipalities": [
+    {
+      "id": 50901,
+      "name": "Kapilvastu",
+      "name_np": "कपिलवस्तु",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 12,
+      "postal_code": "50907",
+      "source_id": 478,
+      "aliases": [],
+      "website": "http://www.kapilvastumun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 50901,
-            "name": "Kapilvastu",
-            "name_np": "कपिलवस्तु",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 509,
-            "wards": 12
-        },
-        {
-            "id": 50902,
-            "name": "Banganga",
-            "name_np": "वाणगंगा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 509,
-            "wards": 11
-        },
-        {
-            "id": 20503,
-            "name": "Buddhabhumi",
-            "name_np": "बुद्धभूमि",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 509,
-            "wards": 10
-        },
-        {
-            "id": 50904,
-            "name": "Shivaraj",
-            "name_np": "शिवराज",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 509,
-            "wards": 11
-        },
-        {
-            "id": 50905,
-            "name": "Maharajgunj",
-            "name_np": "महाराजगञ्ज",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 509,
-            "wards": 11
-        },
-        {
-            "id": 50906,
-            "name": "Krishnanagar",
-            "name_np": "कृष्णनगर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 509,
-            "wards": 12
-        }
-    ]
+    {
+      "id": 50902,
+      "name": "Banganga",
+      "name_np": "बाणगंगा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 11,
+      "postal_code": "50901",
+      "source_id": 479,
+      "aliases": [],
+      "website": "http://www.bangangamun.gov.np/"
+    },
+    {
+      "id": 50910,
+      "name": "Buddhabhumi",
+      "name_np": "बुद्धभुमी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 10,
+      "postal_code": "50902",
+      "source_id": 480,
+      "aliases": [],
+      "website": "http://www.buddhabhumimun.gov.np/"
+    },
+    {
+      "id": 50904,
+      "name": "Shivaraj",
+      "name_np": "शिवराज",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 11,
+      "postal_code": "50903",
+      "source_id": 481,
+      "aliases": [],
+      "website": "http://www.shivrajmun.gov.np/"
+    },
+    {
+      "id": 50906,
+      "name": "Krishnanagar",
+      "name_np": "कृष्णनगर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 12,
+      "postal_code": "50905",
+      "source_id": 482,
+      "aliases": [],
+      "website": "http://www.krishnanagarmun.gov.np/"
+    },
+    {
+      "id": 50905,
+      "name": "Maharajgunj",
+      "name_np": "महाराजगंज",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 11,
+      "postal_code": "50906",
+      "source_id": 483,
+      "aliases": [],
+      "website": "http://www.maharajgunjmun.gov.np/"
+    },
+    {
+      "id": 50903,
+      "name": "Mayadevi",
+      "name_np": "मायादेवी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "50909",
+      "source_id": 484,
+      "aliases": [],
+      "website": "http://www.mayadevimunkapilvastu.gov.np/"
+    },
+    {
+      "id": 50907,
+      "name": "Yashodhara",
+      "name_np": "यसोधरा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "50908",
+      "source_id": 485,
+      "aliases": [],
+      "website": "http://www.yasodharamun.gov.np/"
+    },
+    {
+      "id": 50908,
+      "name": "Suddhodan",
+      "name_np": "सुद्धोधन",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 6,
+      "postal_code": "50910",
+      "source_id": 486,
+      "aliases": [],
+      "website": "http://www.shuddhodhanmunkapilvastu.gov.np/"
+    },
+    {
+      "id": 50909,
+      "name": "Bijaynagar",
+      "name_np": "विजयनगर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 509,
+      "province_id": 5,
+      "wards": 7,
+      "postal_code": "50904",
+      "source_id": 487,
+      "aliases": [],
+      "website": "http://www.bijaynagarmun.gov.np/"
+    }
+  ]
 }

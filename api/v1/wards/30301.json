@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 30301,
+    "municipality": "Bhimeswor",
+    "district_id": 303,
+    "province_id": 3,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3010901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3010902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3010903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3010904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3010905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3010906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3010907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3010908",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3010909",
+      "villages_toles": []
+    }
+  ]
+}

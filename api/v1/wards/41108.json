@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 41108,
+    "municipality": "Tara Khola",
+    "district_id": 411,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4110301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4110302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4110303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4110304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4110305",
+      "villages_toles": []
+    }
+  ]
+}

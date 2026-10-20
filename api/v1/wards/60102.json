@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 60102,
+    "municipality": "Kaike",
+    "district_id": 601,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6010701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6010702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6010703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6010704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6010705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6010706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6010707",
+      "villages_toles": []
+    }
+  ]
+}

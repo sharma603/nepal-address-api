@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 50412,
+    "municipality": "Madane",
+    "district_id": 504,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5040701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5040702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5040703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5040704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5040705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5040706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5040707",
+      "villages_toles": []
+    }
+  ]
+}

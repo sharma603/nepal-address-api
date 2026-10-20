@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "municipality_id": 20702,
+    "municipality": "Jitpur Simara",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 24,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2070301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2070302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2070303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2070304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2070305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2070306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2070307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2070308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2070309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2070310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2070311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2070312",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2070313",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2070314",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2070315",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2070316",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2070317",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2070318",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2070319",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2070320",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2070321",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2070322",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2070323",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2070324",
+      "villages_toles": []
+    }
+  ]
+}

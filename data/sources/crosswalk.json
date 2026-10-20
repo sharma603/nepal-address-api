@@ -1,0 +1,6021 @@
+{
+  "district_map": {
+    "1": 110,
+    "2": 107,
+    "3": 103,
+    "4": 104,
+    "5": 113,
+    "6": 105,
+    "7": 112,
+    "8": 102,
+    "9": 109,
+    "10": 111,
+    "11": 106,
+    "12": 101,
+    "13": 108,
+    "14": 114,
+    "15": 208,
+    "16": 207,
+    "17": 206,
+    "18": 205,
+    "19": 202,
+    "20": 203,
+    "21": 201,
+    "22": 204,
+    "23": 307,
+    "24": 313,
+    "25": 311,
+    "26": 303,
+    "27": 308,
+    "28": 305,
+    "29": 306,
+    "30": 312,
+    "31": 309,
+    "32": 302,
+    "33": 310,
+    "34": 301,
+    "35": 304,
+    "36": 411,
+    "37": 401,
+    "38": 405,
+    "39": 406,
+    "40": 402,
+    "41": 403,
+    "42": 404,
+    "43": 408,
+    "44": 410,
+    "45": 409,
+    "46": 407,
+    "47": 509,
+    "48": 507,
+    "49": 508,
+    "50": 505,
+    "51": 504,
+    "52": 506,
+    "53": 510,
+    "54": 503,
+    "55": 502,
+    "56": 501,
+    "57": 511,
+    "58": 512,
+    "59": 608,
+    "60": 609,
+    "61": 601,
+    "62": 603,
+    "63": 604,
+    "64": 605,
+    "65": 602,
+    "66": 610,
+    "67": 606,
+    "68": 607,
+    "69": 703,
+    "70": 702,
+    "71": 701,
+    "72": 704,
+    "73": 706,
+    "74": 707,
+    "75": 705,
+    "76": 709,
+    "77": 708
+  },
+  "postal_district_map": {
+    "101": "101",
+    "102": "109",
+    "103": "110",
+    "104": "111",
+    "105": "112",
+    "106": "113",
+    "107": "107",
+    "108": "108",
+    "109": "102",
+    "110": "106",
+    "111": "103",
+    "112": "104",
+    "113": "105",
+    "114": "114",
+    "201": "201",
+    "202": "202",
+    "203": "203",
+    "204": "204",
+    "205": "205",
+    "206": "206",
+    "207": "207",
+    "208": "208",
+    "301": "311",
+    "302": "310",
+    "303": "301",
+    "304": "302",
+    "305": "309",
+    "306": "308",
+    "307": "307",
+    "308": "306",
+    "309": "305",
+    "310": "303",
+    "311": "304",
+    "312": "312",
+    "313": "313",
+    "411": "411",
+    "401": "401",
+    "405": "405",
+    "406": "406",
+    "402": "402",
+    "403": "403",
+    "404": "404",
+    "408": "408",
+    "410": "410",
+    "409": "409",
+    "407": "407",
+    "509": "509",
+    "507": "507",
+    "508": "508",
+    "505": "505",
+    "504": "504",
+    "506": "506",
+    "510": "510",
+    "503": "503",
+    "502": "502",
+    "501": "501",
+    "511": "511",
+    "512": "512",
+    "608": "608",
+    "609": "609",
+    "601": "601",
+    "603": "603",
+    "604": "604",
+    "605": "605",
+    "602": "602",
+    "610": "610",
+    "606": "606",
+    "607": "607",
+    "703": "703",
+    "702": "702",
+    "701": "701",
+    "704": "704",
+    "706": "706",
+    "707": "707",
+    "705": "705",
+    "709": "709",
+    "708": "708"
+  },
+  "district_paths": {
+    "207": "municipalities/district-bara.json",
+    "307": "municipalities/district-bhaktapur.json",
+    "107": "municipalities/district-dhankuta.json",
+    "203": "municipalities/district-dhanusha.json",
+    "706": "municipalities/district-doti.json",
+    "103": "municipalities/district-ilam.json",
+    "104": "municipalities/district-jhapa.json",
+    "604": "municipalities/district-jumla.json",
+    "708": "municipalities/district-kailali.json",
+    "509": "municipalities/district-kapilvastu.json",
+    "405": "municipalities/district-kaski.json",
+    "308": "municipalities/district-kathmandu.json",
+    "306": "municipalities/district-lalitpur.json",
+    "204": "municipalities/district-mahottari.json",
+    "105": "municipalities/district-morang.json",
+    "102": "municipalities/district-panchthar.json",
+    "208": "municipalities/district-parsa.json",
+    "206": "municipalities/district-rautahat.json",
+    "508": "municipalities/district-rupandehi.json",
+    "109": "municipalities/district-sankhuwasabha.json",
+    "201": "municipalities/district-saptari.json",
+    "205": "municipalities/district-sarlahi.json",
+    "202": "municipalities/district-siraha.json",
+    "106": "municipalities/district-sunsari.json",
+    "610": "municipalities/district-surkhet.json",
+    "409": "municipalities/district-syangja.json",
+    "101": "municipalities/district-taplejung.json",
+    "108": "municipalities/district-tehrathum.json"
+  },
+  "municipalities": [
+    {
+      "source_id": 1,
+      "id": 11001,
+      "district_id": 110,
+      "postal_code": "10601",
+      "legacy_names": []
+    },
+    {
+      "source_id": 2,
+      "id": 11002,
+      "district_id": 110,
+      "postal_code": "10604",
+      "legacy_names": []
+    },
+    {
+      "source_id": 3,
+      "id": 11003,
+      "district_id": 110,
+      "postal_code": "10608",
+      "legacy_names": []
+    },
+    {
+      "source_id": 4,
+      "id": 11004,
+      "district_id": 110,
+      "postal_code": "10607",
+      "legacy_names": []
+    },
+    {
+      "source_id": 5,
+      "id": 11005,
+      "district_id": 110,
+      "postal_code": "10609",
+      "legacy_names": []
+    },
+    {
+      "source_id": 6,
+      "id": 11006,
+      "district_id": 110,
+      "postal_code": "10603",
+      "legacy_names": []
+    },
+    {
+      "source_id": 7,
+      "id": 11007,
+      "district_id": 110,
+      "postal_code": "10605",
+      "legacy_names": []
+    },
+    {
+      "source_id": 8,
+      "id": 11008,
+      "district_id": 110,
+      "postal_code": "10606",
+      "legacy_names": []
+    },
+    {
+      "source_id": 9,
+      "id": 11009,
+      "district_id": 110,
+      "postal_code": "10602",
+      "legacy_names": []
+    },
+    {
+      "source_id": 10,
+      "id": 10701,
+      "district_id": 107,
+      "postal_code": "10704",
+      "legacy_names": [
+        "Dhankuta"
+      ]
+    },
+    {
+      "source_id": 11,
+      "id": 10702,
+      "district_id": 107,
+      "postal_code": "10702",
+      "legacy_names": [
+        "Pakhribas"
+      ]
+    },
+    {
+      "source_id": 12,
+      "id": 10703,
+      "district_id": 107,
+      "postal_code": "10701",
+      "legacy_names": [
+        "Mahalaxmi"
+      ]
+    },
+    {
+      "source_id": 13,
+      "id": 10704,
+      "district_id": 107,
+      "postal_code": "10706",
+      "legacy_names": [
+        "Sangurigadhi"
+      ]
+    },
+    {
+      "source_id": 14,
+      "id": 10705,
+      "district_id": 107,
+      "postal_code": "10707",
+      "legacy_names": [
+        "Chaubise"
+      ]
+    },
+    {
+      "source_id": 15,
+      "id": 10706,
+      "district_id": 107,
+      "postal_code": "10705",
+      "legacy_names": [
+        "Shahidbhumi"
+      ]
+    },
+    {
+      "source_id": 16,
+      "id": 10707,
+      "district_id": 107,
+      "postal_code": "10703",
+      "legacy_names": [
+        "Chhathar Jorpati"
+      ]
+    },
+    {
+      "source_id": 17,
+      "id": 10304,
+      "district_id": 103,
+      "postal_code": "11009",
+      "legacy_names": [
+        "Suryodaya"
+      ]
+    },
+    {
+      "source_id": 18,
+      "id": 10301,
+      "district_id": 103,
+      "postal_code": "11003",
+      "legacy_names": [
+        "Ilam"
+      ]
+    },
+    {
+      "source_id": 19,
+      "id": 10302,
+      "district_id": 103,
+      "postal_code": "11004",
+      "legacy_names": [
+        "Deumai"
+      ]
+    },
+    {
+      "source_id": 20,
+      "id": 10306,
+      "district_id": 103,
+      "postal_code": "11001",
+      "legacy_names": [
+        "Mai Jogmai"
+      ]
+    },
+    {
+      "source_id": 21,
+      "id": 10305,
+      "district_id": 103,
+      "postal_code": "11005",
+      "legacy_names": [
+        "Phakphokthum"
+      ]
+    },
+    {
+      "source_id": 22,
+      "id": 10303,
+      "district_id": 103,
+      "postal_code": "11008",
+      "legacy_names": [
+        "Mai"
+      ]
+    },
+    {
+      "source_id": 23,
+      "id": 10307,
+      "district_id": 103,
+      "postal_code": "11007",
+      "legacy_names": [
+        "Chulachuli"
+      ]
+    },
+    {
+      "source_id": 24,
+      "id": 10308,
+      "district_id": 103,
+      "postal_code": "11010",
+      "legacy_names": [
+        "Rong"
+      ]
+    },
+    {
+      "source_id": 25,
+      "id": 10309,
+      "district_id": 103,
+      "postal_code": "11006",
+      "legacy_names": [
+        "Mangsebung"
+      ]
+    },
+    {
+      "source_id": 26,
+      "id": 10310,
+      "district_id": 103,
+      "postal_code": "11002",
+      "legacy_names": [
+        "Sandakpur"
+      ]
+    },
+    {
+      "source_id": 27,
+      "id": 10401,
+      "district_id": 104,
+      "postal_code": "11101",
+      "legacy_names": [
+        "Mechinagar"
+      ]
+    },
+    {
+      "source_id": 28,
+      "id": 10403,
+      "district_id": 104,
+      "postal_code": "11112",
+      "legacy_names": [
+        "Birtamod"
+      ]
+    },
+    {
+      "source_id": 29,
+      "id": 10408,
+      "district_id": 104,
+      "postal_code": "11107",
+      "legacy_names": [
+        "Damak"
+      ]
+    },
+    {
+      "source_id": 30,
+      "id": 10402,
+      "district_id": 104,
+      "postal_code": "11114",
+      "legacy_names": [
+        "Bhadrapur"
+      ]
+    },
+    {
+      "source_id": 31,
+      "id": 10406,
+      "district_id": 104,
+      "postal_code": "11105",
+      "legacy_names": [
+        "Shivasatakshi"
+      ]
+    },
+    {
+      "source_id": 32,
+      "id": 10404,
+      "district_id": 104,
+      "postal_code": "11103",
+      "legacy_names": [
+        "Arjundhara"
+      ]
+    },
+    {
+      "source_id": 33,
+      "id": 10407,
+      "district_id": 104,
+      "postal_code": "11108",
+      "legacy_names": [
+        "Gauradaha"
+      ]
+    },
+    {
+      "source_id": 34,
+      "id": 10405,
+      "district_id": 104,
+      "postal_code": "11104",
+      "legacy_names": [
+        "Kankai"
+      ]
+    },
+    {
+      "source_id": 35,
+      "id": 10415,
+      "district_id": 104,
+      "postal_code": "11106",
+      "legacy_names": [
+        "Kamal"
+      ]
+    },
+    {
+      "source_id": 36,
+      "id": 10409,
+      "district_id": 104,
+      "postal_code": "11102",
+      "legacy_names": [
+        "Buddhashanti"
+      ]
+    },
+    {
+      "source_id": 37,
+      "id": 10411,
+      "district_id": 104,
+      "postal_code": "11115",
+      "legacy_names": [
+        "Kachankawal"
+      ]
+    },
+    {
+      "source_id": 38,
+      "id": 10413,
+      "district_id": 104,
+      "postal_code": "11110",
+      "legacy_names": [
+        "Jhapa"
+      ]
+    },
+    {
+      "source_id": 39,
+      "id": 10412,
+      "district_id": 104,
+      "postal_code": "11111",
+      "legacy_names": [
+        "Barhadashi"
+      ]
+    },
+    {
+      "source_id": 40,
+      "id": 10414,
+      "district_id": 104,
+      "postal_code": "11109",
+      "legacy_names": [
+        "Gauriganj"
+      ]
+    },
+    {
+      "source_id": 41,
+      "id": 10410,
+      "district_id": 104,
+      "postal_code": "11113",
+      "legacy_names": [
+        "Haldibari"
+      ]
+    },
+    {
+      "source_id": 42,
+      "id": 11301,
+      "district_id": 113,
+      "postal_code": "10505",
+      "legacy_names": []
+    },
+    {
+      "source_id": 43,
+      "id": 11302,
+      "district_id": 113,
+      "postal_code": "10504",
+      "legacy_names": []
+    },
+    {
+      "source_id": 44,
+      "id": 11303,
+      "district_id": 113,
+      "postal_code": "10508",
+      "legacy_names": []
+    },
+    {
+      "source_id": 45,
+      "id": 11304,
+      "district_id": 113,
+      "postal_code": "10507",
+      "legacy_names": []
+    },
+    {
+      "source_id": 46,
+      "id": 11305,
+      "district_id": 113,
+      "postal_code": "10502",
+      "legacy_names": []
+    },
+    {
+      "source_id": 47,
+      "id": 11306,
+      "district_id": 113,
+      "postal_code": "10509",
+      "legacy_names": []
+    },
+    {
+      "source_id": 48,
+      "id": 11307,
+      "district_id": 113,
+      "postal_code": "10501",
+      "legacy_names": []
+    },
+    {
+      "source_id": 49,
+      "id": 11308,
+      "district_id": 113,
+      "postal_code": "10510",
+      "legacy_names": []
+    },
+    {
+      "source_id": 50,
+      "id": 11309,
+      "district_id": 113,
+      "postal_code": "10503",
+      "legacy_names": []
+    },
+    {
+      "source_id": 51,
+      "id": 11310,
+      "district_id": 113,
+      "postal_code": "10506",
+      "legacy_names": []
+    },
+    {
+      "source_id": 52,
+      "id": 10502,
+      "district_id": 105,
+      "postal_code": "11204",
+      "legacy_names": [
+        "Sundar Haraicha"
+      ]
+    },
+    {
+      "source_id": 53,
+      "id": 10503,
+      "district_id": 105,
+      "postal_code": "11205",
+      "legacy_names": [
+        "Belbari"
+      ]
+    },
+    {
+      "source_id": 54,
+      "id": 10504,
+      "district_id": 105,
+      "postal_code": "11207",
+      "legacy_names": [
+        "Pathari-Sanischare"
+      ]
+    },
+    {
+      "source_id": 55,
+      "id": 10508,
+      "district_id": 105,
+      "postal_code": "11209",
+      "legacy_names": [
+        "Ratuwamai"
+      ]
+    },
+    {
+      "source_id": 56,
+      "id": 10505,
+      "district_id": 105,
+      "postal_code": "11208",
+      "legacy_names": [
+        "Urlabari"
+      ]
+    },
+    {
+      "source_id": 57,
+      "id": 10506,
+      "district_id": 105,
+      "postal_code": "11211",
+      "legacy_names": [
+        "Rangeli"
+      ]
+    },
+    {
+      "source_id": 58,
+      "id": 10509,
+      "district_id": 105,
+      "postal_code": "11210",
+      "legacy_names": [
+        "Sunawarshi"
+      ]
+    },
+    {
+      "source_id": 59,
+      "id": 10507,
+      "district_id": 105,
+      "postal_code": "11202",
+      "legacy_names": [
+        "Letang"
+      ]
+    },
+    {
+      "source_id": 60,
+      "id": 10501,
+      "district_id": 105,
+      "postal_code": "11214",
+      "legacy_names": [
+        "Biratnagar"
+      ]
+    },
+    {
+      "source_id": 61,
+      "id": 10517,
+      "district_id": 105,
+      "postal_code": "11217",
+      "legacy_names": [
+        "Jahada"
+      ]
+    },
+    {
+      "source_id": 62,
+      "id": 10513,
+      "district_id": 105,
+      "postal_code": "11213",
+      "legacy_names": [
+        "Budhiganga"
+      ]
+    },
+    {
+      "source_id": 63,
+      "id": 10515,
+      "district_id": 105,
+      "postal_code": "11215",
+      "legacy_names": [
+        "Katahari"
+      ]
+    },
+    {
+      "source_id": 64,
+      "id": 10516,
+      "district_id": 105,
+      "postal_code": "11216",
+      "legacy_names": [
+        "Dhanpalthan"
+      ]
+    },
+    {
+      "source_id": 65,
+      "id": 10512,
+      "district_id": 105,
+      "postal_code": "11206",
+      "legacy_names": [
+        "Kanepokhari"
+      ]
+    },
+    {
+      "source_id": 66,
+      "id": 10514,
+      "district_id": 105,
+      "postal_code": "11212",
+      "legacy_names": [
+        "Gramthan"
+      ]
+    },
+    {
+      "source_id": 67,
+      "id": 10510,
+      "district_id": 105,
+      "postal_code": "11203",
+      "legacy_names": [
+        "Kerabari"
+      ]
+    },
+    {
+      "source_id": 68,
+      "id": 10511,
+      "district_id": 105,
+      "postal_code": "11201",
+      "legacy_names": [
+        "Miklajung"
+      ]
+    },
+    {
+      "source_id": 69,
+      "id": 11201,
+      "district_id": 112,
+      "postal_code": "10402",
+      "legacy_names": []
+    },
+    {
+      "source_id": 70,
+      "id": 11202,
+      "district_id": 112,
+      "postal_code": "10404",
+      "legacy_names": []
+    },
+    {
+      "source_id": 71,
+      "id": 11203,
+      "district_id": 112,
+      "postal_code": "10401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 72,
+      "id": 11204,
+      "district_id": 112,
+      "postal_code": "10403",
+      "legacy_names": []
+    },
+    {
+      "source_id": 73,
+      "id": 11205,
+      "district_id": 112,
+      "postal_code": "10407",
+      "legacy_names": []
+    },
+    {
+      "source_id": 74,
+      "id": 11206,
+      "district_id": 112,
+      "postal_code": "10406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 75,
+      "id": 11207,
+      "district_id": 112,
+      "postal_code": "10408",
+      "legacy_names": []
+    },
+    {
+      "source_id": 76,
+      "id": 11208,
+      "district_id": 112,
+      "postal_code": "10405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 77,
+      "id": 10201,
+      "district_id": 102,
+      "postal_code": "10904",
+      "legacy_names": [
+        "Phidim"
+      ]
+    },
+    {
+      "source_id": 78,
+      "id": 10238,
+      "district_id": 102,
+      "postal_code": "10908",
+      "legacy_names": []
+    },
+    {
+      "source_id": 79,
+      "id": 10239,
+      "district_id": 102,
+      "postal_code": "10905",
+      "legacy_names": []
+    },
+    {
+      "source_id": 80,
+      "id": 10240,
+      "district_id": 102,
+      "postal_code": "10902",
+      "legacy_names": []
+    },
+    {
+      "source_id": 81,
+      "id": 10241,
+      "district_id": 102,
+      "postal_code": "10903",
+      "legacy_names": []
+    },
+    {
+      "source_id": 82,
+      "id": 10242,
+      "district_id": 102,
+      "postal_code": "10901",
+      "legacy_names": []
+    },
+    {
+      "source_id": 83,
+      "id": 10243,
+      "district_id": 102,
+      "postal_code": "10906",
+      "legacy_names": []
+    },
+    {
+      "source_id": 84,
+      "id": 10244,
+      "district_id": 102,
+      "postal_code": "10907",
+      "legacy_names": []
+    },
+    {
+      "source_id": 85,
+      "id": 10905,
+      "district_id": 109,
+      "postal_code": "10206",
+      "legacy_names": [
+        "Khandbari"
+      ]
+    },
+    {
+      "source_id": 86,
+      "id": 10902,
+      "district_id": 109,
+      "postal_code": "10208",
+      "legacy_names": [
+        "Chainpur"
+      ]
+    },
+    {
+      "source_id": 87,
+      "id": 10904,
+      "district_id": 109,
+      "postal_code": "10210",
+      "legacy_names": [
+        "Dharmadevi"
+      ]
+    },
+    {
+      "source_id": 88,
+      "id": 10908,
+      "district_id": 109,
+      "postal_code": "10207",
+      "legacy_names": [
+        "Panchkhapan"
+      ]
+    },
+    {
+      "source_id": 89,
+      "id": 10906,
+      "district_id": 109,
+      "postal_code": "10209",
+      "legacy_names": [
+        "Madi"
+      ]
+    },
+    {
+      "source_id": 90,
+      "id": 10907,
+      "district_id": 109,
+      "postal_code": "10202",
+      "legacy_names": [
+        "Makalu"
+      ]
+    },
+    {
+      "source_id": 91,
+      "id": 10910,
+      "district_id": 109,
+      "postal_code": "10203",
+      "legacy_names": [
+        "Silichong"
+      ]
+    },
+    {
+      "source_id": 92,
+      "id": 10909,
+      "district_id": 109,
+      "postal_code": "10205",
+      "legacy_names": [
+        "Savapokhari"
+      ]
+    },
+    {
+      "source_id": 93,
+      "id": 10903,
+      "district_id": 109,
+      "postal_code": "10204",
+      "legacy_names": [
+        "Chichila"
+      ]
+    },
+    {
+      "source_id": 94,
+      "id": 10901,
+      "district_id": 109,
+      "postal_code": "10201",
+      "legacy_names": [
+        "Bhotkhola"
+      ]
+    },
+    {
+      "source_id": 95,
+      "id": 11101,
+      "district_id": 111,
+      "postal_code": "10307",
+      "legacy_names": []
+    },
+    {
+      "source_id": 96,
+      "id": 11102,
+      "district_id": 111,
+      "postal_code": "10304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 97,
+      "id": 11103,
+      "district_id": 111,
+      "postal_code": "10306",
+      "legacy_names": []
+    },
+    {
+      "source_id": 98,
+      "id": 11104,
+      "district_id": 111,
+      "postal_code": "10305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 99,
+      "id": 11105,
+      "district_id": 111,
+      "postal_code": "10302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 100,
+      "id": 11106,
+      "district_id": 111,
+      "postal_code": "10303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 101,
+      "id": 11107,
+      "district_id": 111,
+      "postal_code": "10301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 102,
+      "id": 11108,
+      "district_id": 111,
+      "postal_code": "10308",
+      "legacy_names": []
+    },
+    {
+      "source_id": 103,
+      "id": 10606,
+      "district_id": 106,
+      "postal_code": "11302",
+      "legacy_names": [
+        "Barahachhetra"
+      ]
+    },
+    {
+      "source_id": 104,
+      "id": 10603,
+      "district_id": 106,
+      "postal_code": "11309",
+      "legacy_names": [
+        "Inaruwa"
+      ]
+    },
+    {
+      "source_id": 105,
+      "id": 10604,
+      "district_id": 106,
+      "postal_code": "11307",
+      "legacy_names": [
+        "Duhabi"
+      ]
+    },
+    {
+      "source_id": 106,
+      "id": 10605,
+      "district_id": 106,
+      "postal_code": "11305",
+      "legacy_names": [
+        "Ramdhuni"
+      ]
+    },
+    {
+      "source_id": 107,
+      "id": 10601,
+      "district_id": 106,
+      "postal_code": "11306",
+      "legacy_names": [
+        "Itahari"
+      ]
+    },
+    {
+      "source_id": 108,
+      "id": 10602,
+      "district_id": 106,
+      "postal_code": "11301",
+      "legacy_names": [
+        "Dharan"
+      ]
+    },
+    {
+      "source_id": 109,
+      "id": 10607,
+      "district_id": 106,
+      "postal_code": "11303",
+      "legacy_names": [
+        "Koshi"
+      ]
+    },
+    {
+      "source_id": 110,
+      "id": 10611,
+      "district_id": 106,
+      "postal_code": "11310",
+      "legacy_names": [
+        "Harinagar"
+      ]
+    },
+    {
+      "source_id": 111,
+      "id": 10610,
+      "district_id": 106,
+      "postal_code": "11304",
+      "legacy_names": [
+        "Bhokraha Narsingh"
+      ]
+    },
+    {
+      "source_id": 112,
+      "id": 10612,
+      "district_id": 106,
+      "postal_code": "11311",
+      "legacy_names": [
+        "Dewanganj"
+      ]
+    },
+    {
+      "source_id": 113,
+      "id": 10608,
+      "district_id": 106,
+      "postal_code": "11308",
+      "legacy_names": [
+        "Gadhi"
+      ]
+    },
+    {
+      "source_id": 114,
+      "id": 10609,
+      "district_id": 106,
+      "postal_code": "11312",
+      "legacy_names": [
+        "Barju"
+      ]
+    },
+    {
+      "source_id": 115,
+      "id": 10101,
+      "district_id": 101,
+      "postal_code": "10106",
+      "legacy_names": [
+        "Phungling"
+      ]
+    },
+    {
+      "source_id": 116,
+      "id": 10109,
+      "district_id": 101,
+      "postal_code": "10108",
+      "legacy_names": [
+        "Sirijangha"
+      ]
+    },
+    {
+      "source_id": 117,
+      "id": 10102,
+      "district_id": 101,
+      "postal_code": "10105",
+      "legacy_names": [
+        "Aathrai Tribeni"
+      ]
+    },
+    {
+      "source_id": 118,
+      "id": 10108,
+      "district_id": 101,
+      "postal_code": "10107",
+      "legacy_names": [
+        "Pathibhara Yangwarak"
+      ]
+    },
+    {
+      "source_id": 119,
+      "id": 10106,
+      "district_id": 101,
+      "postal_code": "10103",
+      "legacy_names": [
+        "Meringden"
+      ]
+    },
+    {
+      "source_id": 120,
+      "id": 10103,
+      "district_id": 101,
+      "postal_code": "10109",
+      "legacy_names": [
+        "Sidingwa"
+      ]
+    },
+    {
+      "source_id": 121,
+      "id": 10104,
+      "district_id": 101,
+      "postal_code": "10101",
+      "legacy_names": [
+        "Phaktanglung"
+      ]
+    },
+    {
+      "source_id": 122,
+      "id": 10107,
+      "district_id": 101,
+      "postal_code": "10104",
+      "legacy_names": [
+        "Maiwakhola"
+      ]
+    },
+    {
+      "source_id": 123,
+      "id": 10105,
+      "district_id": 101,
+      "postal_code": "10102",
+      "legacy_names": [
+        "Mikkwakhola"
+      ]
+    },
+    {
+      "source_id": 124,
+      "id": 10801,
+      "district_id": 108,
+      "postal_code": "10804",
+      "legacy_names": [
+        "Myanglung"
+      ]
+    },
+    {
+      "source_id": 125,
+      "id": 10802,
+      "district_id": 108,
+      "postal_code": "10805",
+      "legacy_names": [
+        "Laligurans"
+      ]
+    },
+    {
+      "source_id": 126,
+      "id": 10803,
+      "district_id": 108,
+      "postal_code": "10801",
+      "legacy_names": [
+        "Aathrai"
+      ]
+    },
+    {
+      "source_id": 127,
+      "id": 10806,
+      "district_id": 108,
+      "postal_code": "10802",
+      "legacy_names": [
+        "Phedap"
+      ]
+    },
+    {
+      "source_id": 128,
+      "id": 10804,
+      "district_id": 108,
+      "postal_code": "10806",
+      "legacy_names": [
+        "Chhathar"
+      ]
+    },
+    {
+      "source_id": 129,
+      "id": 10805,
+      "district_id": 108,
+      "postal_code": "10803",
+      "legacy_names": [
+        "Menchhayayem"
+      ]
+    },
+    {
+      "source_id": 130,
+      "id": 11401,
+      "district_id": 114,
+      "postal_code": "11403",
+      "legacy_names": []
+    },
+    {
+      "source_id": 131,
+      "id": 11402,
+      "district_id": 114,
+      "postal_code": "11407",
+      "legacy_names": []
+    },
+    {
+      "source_id": 132,
+      "id": 11403,
+      "district_id": 114,
+      "postal_code": "11402",
+      "legacy_names": []
+    },
+    {
+      "source_id": 133,
+      "id": 11404,
+      "district_id": 114,
+      "postal_code": "11401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 134,
+      "id": 11405,
+      "district_id": 114,
+      "postal_code": "11408",
+      "legacy_names": []
+    },
+    {
+      "source_id": 135,
+      "id": 11406,
+      "district_id": 114,
+      "postal_code": "11404",
+      "legacy_names": []
+    },
+    {
+      "source_id": 136,
+      "id": 11407,
+      "district_id": 114,
+      "postal_code": "11406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 137,
+      "id": 11408,
+      "district_id": 114,
+      "postal_code": "11405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 138,
+      "id": 20801,
+      "district_id": 208,
+      "postal_code": "20807",
+      "legacy_names": [
+        "Birgunj"
+      ]
+    },
+    {
+      "source_id": 139,
+      "id": 20802,
+      "district_id": 208,
+      "postal_code": "20808",
+      "legacy_names": [
+        "Bahudarmai"
+      ]
+    },
+    {
+      "source_id": 140,
+      "id": 20803,
+      "district_id": 208,
+      "postal_code": "20806",
+      "legacy_names": [
+        "Parsagadhi"
+      ]
+    },
+    {
+      "source_id": 141,
+      "id": 20804,
+      "district_id": 208,
+      "postal_code": "20809",
+      "legacy_names": [
+        "Pokhariya"
+      ]
+    },
+    {
+      "source_id": 142,
+      "id": 20805,
+      "district_id": 208,
+      "postal_code": "20814",
+      "legacy_names": [
+        "Bindabasini"
+      ]
+    },
+    {
+      "source_id": 143,
+      "id": 20809,
+      "district_id": 208,
+      "postal_code": "20811",
+      "legacy_names": []
+    },
+    {
+      "source_id": 144,
+      "id": 20806,
+      "district_id": 208,
+      "postal_code": "20812",
+      "legacy_names": [
+        "Chhipaharmai"
+      ]
+    },
+    {
+      "source_id": 145,
+      "id": 20807,
+      "district_id": 208,
+      "postal_code": "20803",
+      "legacy_names": [
+        "Jagarnathpur"
+      ]
+    },
+    {
+      "source_id": 146,
+      "id": 20808,
+      "district_id": 208,
+      "postal_code": "20802",
+      "legacy_names": [
+        "Jirabhawani"
+      ]
+    },
+    {
+      "source_id": 147,
+      "id": 20810,
+      "district_id": 208,
+      "postal_code": "20810",
+      "legacy_names": []
+    },
+    {
+      "source_id": 148,
+      "id": 20811,
+      "district_id": 208,
+      "postal_code": "20813",
+      "legacy_names": []
+    },
+    {
+      "source_id": 149,
+      "id": 20812,
+      "district_id": 208,
+      "postal_code": "20804",
+      "legacy_names": []
+    },
+    {
+      "source_id": 150,
+      "id": 20813,
+      "district_id": 208,
+      "postal_code": "20805",
+      "legacy_names": []
+    },
+    {
+      "source_id": 151,
+      "id": 20814,
+      "district_id": 208,
+      "postal_code": "20801",
+      "legacy_names": []
+    },
+    {
+      "source_id": 152,
+      "id": 20701,
+      "district_id": 207,
+      "postal_code": "20708",
+      "legacy_names": [
+        "Kalaiya"
+      ]
+    },
+    {
+      "source_id": 153,
+      "id": 20702,
+      "district_id": 207,
+      "postal_code": "20703",
+      "legacy_names": [
+        "Jeetpur Simara"
+      ]
+    },
+    {
+      "source_id": 154,
+      "id": 20705,
+      "district_id": 207,
+      "postal_code": "20702",
+      "legacy_names": [
+        "Kolhabi"
+      ]
+    },
+    {
+      "source_id": 155,
+      "id": 20703,
+      "district_id": 207,
+      "postal_code": "20701",
+      "legacy_names": [
+        "Nijgadh"
+      ]
+    },
+    {
+      "source_id": 156,
+      "id": 20706,
+      "district_id": 207,
+      "postal_code": "20714",
+      "legacy_names": [
+        "Mahagadhimai"
+      ]
+    },
+    {
+      "source_id": 157,
+      "id": 20704,
+      "district_id": 207,
+      "postal_code": "20712",
+      "legacy_names": [
+        "Simraungadh"
+      ]
+    },
+    {
+      "source_id": 158,
+      "id": 20707,
+      "district_id": 207,
+      "postal_code": "20713",
+      "legacy_names": [
+        "Pacharauta"
+      ]
+    },
+    {
+      "source_id": 159,
+      "id": 20710,
+      "district_id": 207,
+      "postal_code": "20707",
+      "legacy_names": []
+    },
+    {
+      "source_id": 160,
+      "id": 20711,
+      "district_id": 207,
+      "postal_code": "20706",
+      "legacy_names": []
+    },
+    {
+      "source_id": 161,
+      "id": 20712,
+      "district_id": 207,
+      "postal_code": "20705",
+      "legacy_names": []
+    },
+    {
+      "source_id": 162,
+      "id": 20708,
+      "district_id": 207,
+      "postal_code": "20711",
+      "legacy_names": [
+        "Adarsh Kotwal"
+      ]
+    },
+    {
+      "source_id": 163,
+      "id": 20709,
+      "district_id": 207,
+      "postal_code": "20709",
+      "legacy_names": [
+        "Karaiya Mai"
+      ]
+    },
+    {
+      "source_id": 164,
+      "id": 20713,
+      "district_id": 207,
+      "postal_code": "20715",
+      "legacy_names": []
+    },
+    {
+      "source_id": 165,
+      "id": 20714,
+      "district_id": 207,
+      "postal_code": "20704",
+      "legacy_names": []
+    },
+    {
+      "source_id": 166,
+      "id": 20715,
+      "district_id": 207,
+      "postal_code": "20710",
+      "legacy_names": []
+    },
+    {
+      "source_id": 167,
+      "id": 20716,
+      "district_id": 207,
+      "postal_code": "20716",
+      "legacy_names": []
+    },
+    {
+      "source_id": 168,
+      "id": 20610,
+      "district_id": 206,
+      "postal_code": "20611",
+      "legacy_names": [
+        "Baudhimai"
+      ]
+    },
+    {
+      "source_id": 169,
+      "id": 20611,
+      "district_id": 206,
+      "postal_code": "20605",
+      "legacy_names": [
+        "Brindaban"
+      ]
+    },
+    {
+      "source_id": 170,
+      "id": 20603,
+      "district_id": 206,
+      "postal_code": "20601",
+      "legacy_names": [
+        "Chandrapur"
+      ]
+    },
+    {
+      "source_id": 171,
+      "id": 20612,
+      "district_id": 206,
+      "postal_code": "20609",
+      "legacy_names": [
+        "Devahi Gonahi"
+      ]
+    },
+    {
+      "source_id": 172,
+      "id": 20606,
+      "district_id": 206,
+      "postal_code": "20606",
+      "legacy_names": [
+        "Gadhimai"
+      ]
+    },
+    {
+      "source_id": 173,
+      "id": 20602,
+      "district_id": 206,
+      "postal_code": "20608",
+      "legacy_names": [
+        "Garuda"
+      ]
+    },
+    {
+      "source_id": 174,
+      "id": 20601,
+      "district_id": 206,
+      "postal_code": "20617",
+      "legacy_names": [
+        "Gaur"
+      ]
+    },
+    {
+      "source_id": 175,
+      "id": 20613,
+      "district_id": 206,
+      "postal_code": "20602",
+      "legacy_names": []
+    },
+    {
+      "source_id": 176,
+      "id": 20604,
+      "district_id": 206,
+      "postal_code": "20618",
+      "legacy_names": [
+        "Ishanath"
+      ]
+    },
+    {
+      "source_id": 177,
+      "id": 20605,
+      "district_id": 206,
+      "postal_code": "20604",
+      "legacy_names": [
+        "Katariya"
+      ]
+    },
+    {
+      "source_id": 178,
+      "id": 20607,
+      "district_id": 206,
+      "postal_code": "20607",
+      "legacy_names": [
+        "Madhav Narayan"
+      ]
+    },
+    {
+      "source_id": 179,
+      "id": 20608,
+      "district_id": 206,
+      "postal_code": "20610",
+      "legacy_names": [
+        "Maulapur"
+      ]
+    },
+    {
+      "source_id": 180,
+      "id": 20614,
+      "district_id": 206,
+      "postal_code": "20612",
+      "legacy_names": []
+    },
+    {
+      "source_id": 181,
+      "id": 20609,
+      "district_id": 206,
+      "postal_code": "20603",
+      "legacy_names": [
+        "Phatuwa Vijayapur"
+      ]
+    },
+    {
+      "source_id": 182,
+      "id": 20615,
+      "district_id": 206,
+      "postal_code": "20616",
+      "legacy_names": []
+    },
+    {
+      "source_id": 183,
+      "id": 20616,
+      "district_id": 206,
+      "postal_code": "20613",
+      "legacy_names": []
+    },
+    {
+      "source_id": 184,
+      "id": 20617,
+      "district_id": 206,
+      "postal_code": "20615",
+      "legacy_names": []
+    },
+    {
+      "source_id": 185,
+      "id": 20618,
+      "district_id": 206,
+      "postal_code": "20614",
+      "legacy_names": []
+    },
+    {
+      "source_id": 186,
+      "id": 20509,
+      "district_id": 205,
+      "postal_code": "20503",
+      "legacy_names": [
+        "Bagmati"
+      ]
+    },
+    {
+      "source_id": 187,
+      "id": 20507,
+      "district_id": 205,
+      "postal_code": "20516",
+      "legacy_names": [
+        "Balara"
+      ]
+    },
+    {
+      "source_id": 188,
+      "id": 20502,
+      "district_id": 205,
+      "postal_code": "20504",
+      "legacy_names": [
+        "Barahathawa"
+      ]
+    },
+    {
+      "source_id": 189,
+      "id": 20506,
+      "district_id": 205,
+      "postal_code": "20517",
+      "legacy_names": [
+        "Godaita"
+      ]
+    },
+    {
+      "source_id": 190,
+      "id": 20503,
+      "district_id": 205,
+      "postal_code": "20502",
+      "legacy_names": [
+        "Harion"
+      ]
+    },
+    {
+      "source_id": 191,
+      "id": 20510,
+      "district_id": 205,
+      "postal_code": "20505",
+      "legacy_names": [
+        "Haripur"
+      ]
+    },
+    {
+      "source_id": 192,
+      "id": 20511,
+      "district_id": 205,
+      "postal_code": "20507",
+      "legacy_names": [
+        "Haripurwa"
+      ]
+    },
+    {
+      "source_id": 193,
+      "id": 20504,
+      "district_id": 205,
+      "postal_code": "20506",
+      "legacy_names": [
+        "Ishwarpur"
+      ]
+    },
+    {
+      "source_id": 194,
+      "id": 20508,
+      "district_id": 205,
+      "postal_code": "20511",
+      "legacy_names": [
+        "Kabilasi"
+      ]
+    },
+    {
+      "source_id": 195,
+      "id": 20505,
+      "district_id": 205,
+      "postal_code": "20501",
+      "legacy_names": [
+        "Lalbandi"
+      ]
+    },
+    {
+      "source_id": 196,
+      "id": 20501,
+      "district_id": 205,
+      "postal_code": "20520",
+      "legacy_names": [
+        "Malangwa"
+      ]
+    },
+    {
+      "source_id": 197,
+      "id": 20512,
+      "district_id": 205,
+      "postal_code": "20513",
+      "legacy_names": []
+    },
+    {
+      "source_id": 198,
+      "id": 20513,
+      "district_id": 205,
+      "postal_code": "20518",
+      "legacy_names": []
+    },
+    {
+      "source_id": 199,
+      "id": 20514,
+      "district_id": 205,
+      "postal_code": "20509",
+      "legacy_names": []
+    },
+    {
+      "source_id": 200,
+      "id": 20515,
+      "district_id": 205,
+      "postal_code": "20512",
+      "legacy_names": []
+    },
+    {
+      "source_id": 201,
+      "id": 20516,
+      "district_id": 205,
+      "postal_code": "20510",
+      "legacy_names": []
+    },
+    {
+      "source_id": 202,
+      "id": 20517,
+      "district_id": 205,
+      "postal_code": "20514",
+      "legacy_names": []
+    },
+    {
+      "source_id": 203,
+      "id": 20518,
+      "district_id": 205,
+      "postal_code": "20519",
+      "legacy_names": []
+    },
+    {
+      "source_id": 204,
+      "id": 20519,
+      "district_id": 205,
+      "postal_code": "20508",
+      "legacy_names": []
+    },
+    {
+      "source_id": 205,
+      "id": 20520,
+      "district_id": 205,
+      "postal_code": "20515",
+      "legacy_names": []
+    },
+    {
+      "source_id": 206,
+      "id": 20202,
+      "district_id": 202,
+      "postal_code": "20201",
+      "legacy_names": [
+        "Lahan"
+      ]
+    },
+    {
+      "source_id": 207,
+      "id": 20206,
+      "district_id": 202,
+      "postal_code": "20202",
+      "legacy_names": [
+        "Dhangadhimai"
+      ]
+    },
+    {
+      "source_id": 208,
+      "id": 20201,
+      "district_id": 202,
+      "postal_code": "20217",
+      "legacy_names": [
+        "Siraha"
+      ]
+    },
+    {
+      "source_id": 209,
+      "id": 20203,
+      "district_id": 202,
+      "postal_code": "20203",
+      "legacy_names": [
+        "Golbazar"
+      ]
+    },
+    {
+      "source_id": 210,
+      "id": 20204,
+      "district_id": 202,
+      "postal_code": "20204",
+      "legacy_names": [
+        "Mirchaiya"
+      ]
+    },
+    {
+      "source_id": 211,
+      "id": 20205,
+      "district_id": 202,
+      "postal_code": "20206",
+      "legacy_names": [
+        "Kalyanpur"
+      ]
+    },
+    {
+      "source_id": 212,
+      "id": 20208,
+      "district_id": 202,
+      "postal_code": "20205",
+      "legacy_names": [
+        "Karjanha"
+      ]
+    },
+    {
+      "source_id": 213,
+      "id": 20207,
+      "district_id": 202,
+      "postal_code": "20210",
+      "legacy_names": [
+        "Sukhipur"
+      ]
+    },
+    {
+      "source_id": 214,
+      "id": 20213,
+      "district_id": 202,
+      "postal_code": "20213",
+      "legacy_names": []
+    },
+    {
+      "source_id": 215,
+      "id": 20211,
+      "district_id": 202,
+      "postal_code": "20216",
+      "legacy_names": [
+        "Aurahi"
+      ]
+    },
+    {
+      "source_id": 216,
+      "id": 20209,
+      "district_id": 202,
+      "postal_code": "20208",
+      "legacy_names": [
+        "Bishnupur"
+      ]
+    },
+    {
+      "source_id": 217,
+      "id": 20212,
+      "district_id": 202,
+      "postal_code": "20215",
+      "legacy_names": [
+        "Bariyarpatti"
+      ]
+    },
+    {
+      "source_id": 218,
+      "id": 20214,
+      "district_id": 202,
+      "postal_code": "20211",
+      "legacy_names": []
+    },
+    {
+      "source_id": 219,
+      "id": 20215,
+      "district_id": 202,
+      "postal_code": "20207",
+      "legacy_names": []
+    },
+    {
+      "source_id": 220,
+      "id": 20216,
+      "district_id": 202,
+      "postal_code": "20212",
+      "legacy_names": []
+    },
+    {
+      "source_id": 221,
+      "id": 20210,
+      "district_id": 202,
+      "postal_code": "20209",
+      "legacy_names": [
+        "Arnama"
+      ]
+    },
+    {
+      "source_id": 222,
+      "id": 20217,
+      "district_id": 202,
+      "postal_code": "20214",
+      "legacy_names": []
+    },
+    {
+      "source_id": 223,
+      "id": 20301,
+      "district_id": 203,
+      "postal_code": "20315",
+      "legacy_names": [
+        "Janakpur"
+      ]
+    },
+    {
+      "source_id": 224,
+      "id": 20317,
+      "district_id": 203,
+      "postal_code": "20305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 225,
+      "id": 20303,
+      "district_id": 203,
+      "postal_code": "20301",
+      "legacy_names": [
+        "Ganeshman Charnath"
+      ]
+    },
+    {
+      "source_id": 226,
+      "id": 20304,
+      "district_id": 203,
+      "postal_code": "20302",
+      "legacy_names": [
+        "Dhanushadham"
+      ]
+    },
+    {
+      "source_id": 227,
+      "id": 20305,
+      "district_id": 203,
+      "postal_code": "20317",
+      "legacy_names": [
+        "Nagarain"
+      ]
+    },
+    {
+      "source_id": 228,
+      "id": 20306,
+      "district_id": 203,
+      "postal_code": "20313",
+      "legacy_names": [
+        "Bideha"
+      ]
+    },
+    {
+      "source_id": 229,
+      "id": 20302,
+      "district_id": 203,
+      "postal_code": "20303",
+      "legacy_names": [
+        "Mithila"
+      ]
+    },
+    {
+      "source_id": 230,
+      "id": 20309,
+      "district_id": 203,
+      "postal_code": "20310",
+      "legacy_names": [
+        "Shahidnagar"
+      ]
+    },
+    {
+      "source_id": 231,
+      "id": 20308,
+      "district_id": 203,
+      "postal_code": "20309",
+      "legacy_names": [
+        "Sabaila"
+      ]
+    },
+    {
+      "source_id": 232,
+      "id": 20312,
+      "district_id": 203,
+      "postal_code": "20311",
+      "legacy_names": [
+        "Kamala"
+      ]
+    },
+    {
+      "source_id": 233,
+      "id": 20307,
+      "district_id": 203,
+      "postal_code": "20307",
+      "legacy_names": [
+        "Mithila Bihari"
+      ]
+    },
+    {
+      "source_id": 234,
+      "id": 20310,
+      "district_id": 203,
+      "postal_code": "20308",
+      "legacy_names": [
+        "Hansapur"
+      ]
+    },
+    {
+      "source_id": 235,
+      "id": 20313,
+      "district_id": 203,
+      "postal_code": "20312",
+      "legacy_names": [
+        "Janaknandani"
+      ]
+    },
+    {
+      "source_id": 236,
+      "id": 20314,
+      "district_id": 203,
+      "postal_code": "20304",
+      "legacy_names": [
+        "Bateshwor"
+      ]
+    },
+    {
+      "source_id": 237,
+      "id": 20315,
+      "district_id": 203,
+      "postal_code": "20318",
+      "legacy_names": [
+        "Mukhiyapatti Musharniya"
+      ]
+    },
+    {
+      "source_id": 238,
+      "id": 20316,
+      "district_id": 203,
+      "postal_code": "20306",
+      "legacy_names": [
+        "Lakshminiya"
+      ]
+    },
+    {
+      "source_id": 239,
+      "id": 20311,
+      "district_id": 203,
+      "postal_code": "20314",
+      "legacy_names": [
+        "Aurahi"
+      ]
+    },
+    {
+      "source_id": 240,
+      "id": 20318,
+      "district_id": 203,
+      "postal_code": "20316",
+      "legacy_names": []
+    },
+    {
+      "source_id": 241,
+      "id": 20105,
+      "district_id": 201,
+      "postal_code": "20109",
+      "legacy_names": [
+        "Bode Barsain"
+      ]
+    },
+    {
+      "source_id": 242,
+      "id": 20104,
+      "district_id": 201,
+      "postal_code": "20110",
+      "legacy_names": [
+        "Dakneshwori"
+      ]
+    },
+    {
+      "source_id": 243,
+      "id": 20102,
+      "district_id": 201,
+      "postal_code": "20116",
+      "legacy_names": [
+        "Hanumannagar Kankalini"
+      ]
+    },
+    {
+      "source_id": 244,
+      "id": 20103,
+      "district_id": 201,
+      "postal_code": "20102",
+      "legacy_names": [
+        "Kanchanrup"
+      ]
+    },
+    {
+      "source_id": 245,
+      "id": 20106,
+      "district_id": 201,
+      "postal_code": "20106",
+      "legacy_names": [
+        "Khadak"
+      ]
+    },
+    {
+      "source_id": 246,
+      "id": 20108,
+      "district_id": 201,
+      "postal_code": "20105",
+      "legacy_names": [
+        "Shambhunath"
+      ]
+    },
+    {
+      "source_id": 247,
+      "id": 20109,
+      "district_id": 201,
+      "postal_code": "20101",
+      "legacy_names": [
+        "Saptakoshi"
+      ]
+    },
+    {
+      "source_id": 248,
+      "id": 20107,
+      "district_id": 201,
+      "postal_code": "20107",
+      "legacy_names": [
+        "Surunga"
+      ]
+    },
+    {
+      "source_id": 249,
+      "id": 20101,
+      "district_id": 201,
+      "postal_code": "20113",
+      "legacy_names": [
+        "Rajbiraj"
+      ]
+    },
+    {
+      "source_id": 250,
+      "id": 20110,
+      "district_id": 201,
+      "postal_code": "20103",
+      "legacy_names": [
+        "Agnisair Krishna Sabaran"
+      ]
+    },
+    {
+      "source_id": 251,
+      "id": 20111,
+      "district_id": 201,
+      "postal_code": "20108",
+      "legacy_names": [
+        "Balan-Bihul"
+      ]
+    },
+    {
+      "source_id": 252,
+      "id": 20118,
+      "district_id": 201,
+      "postal_code": "20111",
+      "legacy_names": []
+    },
+    {
+      "source_id": 253,
+      "id": 20112,
+      "district_id": 201,
+      "postal_code": "20112",
+      "legacy_names": [
+        "Bishnupur"
+      ]
+    },
+    {
+      "source_id": 254,
+      "id": 20113,
+      "district_id": 201,
+      "postal_code": "20118",
+      "legacy_names": [
+        "Chhinnamasta"
+      ]
+    },
+    {
+      "source_id": 255,
+      "id": 20114,
+      "district_id": 201,
+      "postal_code": "20114",
+      "legacy_names": [
+        "Mahadeva"
+      ]
+    },
+    {
+      "source_id": 256,
+      "id": 20115,
+      "district_id": 201,
+      "postal_code": "20104",
+      "legacy_names": [
+        "Rupani"
+      ]
+    },
+    {
+      "source_id": 257,
+      "id": 20116,
+      "district_id": 201,
+      "postal_code": "20117",
+      "legacy_names": [
+        "Tilathi Koiladi"
+      ]
+    },
+    {
+      "source_id": 258,
+      "id": 20117,
+      "district_id": 201,
+      "postal_code": "20115",
+      "legacy_names": [
+        "Tirahut"
+      ]
+    },
+    {
+      "source_id": 259,
+      "id": 20410,
+      "district_id": 204,
+      "postal_code": "20404",
+      "legacy_names": [
+        "Aurahi"
+      ]
+    },
+    {
+      "source_id": 260,
+      "id": 20409,
+      "district_id": 204,
+      "postal_code": "20407",
+      "legacy_names": [
+        "Balwa"
+      ]
+    },
+    {
+      "source_id": 261,
+      "id": 20402,
+      "district_id": 204,
+      "postal_code": "20401",
+      "legacy_names": [
+        "Bardibas"
+      ]
+    },
+    {
+      "source_id": 262,
+      "id": 20408,
+      "district_id": 204,
+      "postal_code": "20405",
+      "legacy_names": [
+        "Bhangaha"
+      ]
+    },
+    {
+      "source_id": 263,
+      "id": 20403,
+      "district_id": 204,
+      "postal_code": "20402",
+      "legacy_names": [
+        "Gaushala"
+      ]
+    },
+    {
+      "source_id": 264,
+      "id": 20401,
+      "district_id": 204,
+      "postal_code": "20415",
+      "legacy_names": [
+        "Jaleshwor"
+      ]
+    },
+    {
+      "source_id": 265,
+      "id": 20404,
+      "district_id": 204,
+      "postal_code": "20406",
+      "legacy_names": [
+        "Loharpatti"
+      ]
+    },
+    {
+      "source_id": 266,
+      "id": 20406,
+      "district_id": 204,
+      "postal_code": "20410",
+      "legacy_names": [
+        "Manra Siswa"
+      ]
+    },
+    {
+      "source_id": 267,
+      "id": 20407,
+      "district_id": 204,
+      "postal_code": "20414",
+      "legacy_names": [
+        "Matihani"
+      ]
+    },
+    {
+      "source_id": 268,
+      "id": 20405,
+      "district_id": 204,
+      "postal_code": "20408",
+      "legacy_names": [
+        "Ramgopalpur"
+      ]
+    },
+    {
+      "source_id": 269,
+      "id": 20411,
+      "district_id": 204,
+      "postal_code": "20411",
+      "legacy_names": [
+        "Ekdara"
+      ]
+    },
+    {
+      "source_id": 270,
+      "id": 20412,
+      "district_id": 204,
+      "postal_code": "20412",
+      "legacy_names": [
+        "Mahottari"
+      ]
+    },
+    {
+      "source_id": 271,
+      "id": 20413,
+      "district_id": 204,
+      "postal_code": "20413",
+      "legacy_names": [
+        "Pipra"
+      ]
+    },
+    {
+      "source_id": 272,
+      "id": 20414,
+      "district_id": 204,
+      "postal_code": "20409",
+      "legacy_names": [
+        "Samsi"
+      ]
+    },
+    {
+      "source_id": 273,
+      "id": 20415,
+      "district_id": 204,
+      "postal_code": "20403",
+      "legacy_names": [
+        "Sonama"
+      ]
+    },
+    {
+      "source_id": 274,
+      "id": 30701,
+      "district_id": 307,
+      "postal_code": "30702",
+      "legacy_names": [
+        "Bhaktapur"
+      ]
+    },
+    {
+      "source_id": 275,
+      "id": 30703,
+      "district_id": 307,
+      "postal_code": "30701",
+      "legacy_names": [
+        "Changunarayan"
+      ]
+    },
+    {
+      "source_id": 276,
+      "id": 30704,
+      "district_id": 307,
+      "postal_code": "30704",
+      "legacy_names": [
+        "Suryabinayak"
+      ]
+    },
+    {
+      "source_id": 277,
+      "id": 30702,
+      "district_id": 307,
+      "postal_code": "30703",
+      "legacy_names": [
+        "Madhyapur Thimi"
+      ]
+    },
+    {
+      "source_id": 278,
+      "id": 31301,
+      "district_id": 313,
+      "postal_code": "31304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 279,
+      "id": 31302,
+      "district_id": 313,
+      "postal_code": "31302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 280,
+      "id": 31303,
+      "district_id": 313,
+      "postal_code": "31306",
+      "legacy_names": []
+    },
+    {
+      "source_id": 281,
+      "id": 31304,
+      "district_id": 313,
+      "postal_code": "31307",
+      "legacy_names": []
+    },
+    {
+      "source_id": 282,
+      "id": 31305,
+      "district_id": 313,
+      "postal_code": "31305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 283,
+      "id": 31306,
+      "district_id": 313,
+      "postal_code": "31301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 284,
+      "id": 31307,
+      "district_id": 313,
+      "postal_code": "31303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 285,
+      "id": 31101,
+      "district_id": 311,
+      "postal_code": "30413",
+      "legacy_names": []
+    },
+    {
+      "source_id": 286,
+      "id": 31102,
+      "district_id": 311,
+      "postal_code": "30406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 287,
+      "id": 31103,
+      "district_id": 311,
+      "postal_code": "30402",
+      "legacy_names": []
+    },
+    {
+      "source_id": 288,
+      "id": 31104,
+      "district_id": 311,
+      "postal_code": "30410",
+      "legacy_names": []
+    },
+    {
+      "source_id": 289,
+      "id": 31105,
+      "district_id": 311,
+      "postal_code": "30411",
+      "legacy_names": []
+    },
+    {
+      "source_id": 290,
+      "id": 31106,
+      "district_id": 311,
+      "postal_code": "30403",
+      "legacy_names": []
+    },
+    {
+      "source_id": 291,
+      "id": 31107,
+      "district_id": 311,
+      "postal_code": "30407",
+      "legacy_names": []
+    },
+    {
+      "source_id": 292,
+      "id": 31108,
+      "district_id": 311,
+      "postal_code": "30412",
+      "legacy_names": []
+    },
+    {
+      "source_id": 293,
+      "id": 31109,
+      "district_id": 311,
+      "postal_code": "30405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 294,
+      "id": 31110,
+      "district_id": 311,
+      "postal_code": "30409",
+      "legacy_names": []
+    },
+    {
+      "source_id": 295,
+      "id": 31111,
+      "district_id": 311,
+      "postal_code": "30401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 296,
+      "id": 31112,
+      "district_id": 311,
+      "postal_code": "30408",
+      "legacy_names": []
+    },
+    {
+      "source_id": 297,
+      "id": 31113,
+      "district_id": 311,
+      "postal_code": "30404",
+      "legacy_names": []
+    },
+    {
+      "source_id": 298,
+      "id": 30301,
+      "district_id": 303,
+      "postal_code": "30109",
+      "legacy_names": []
+    },
+    {
+      "source_id": 299,
+      "id": 30302,
+      "district_id": 303,
+      "postal_code": "30105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 300,
+      "id": 30303,
+      "district_id": 303,
+      "postal_code": "30103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 301,
+      "id": 30304,
+      "district_id": 303,
+      "postal_code": "30107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 302,
+      "id": 30305,
+      "district_id": 303,
+      "postal_code": "30102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 303,
+      "id": 30306,
+      "district_id": 303,
+      "postal_code": "30101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 304,
+      "id": 30307,
+      "district_id": 303,
+      "postal_code": "30104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 305,
+      "id": 30308,
+      "district_id": 303,
+      "postal_code": "30108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 306,
+      "id": 30309,
+      "district_id": 303,
+      "postal_code": "30106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 307,
+      "id": 30801,
+      "district_id": 308,
+      "postal_code": "30608",
+      "legacy_names": [
+        "Kathmandu"
+      ]
+    },
+    {
+      "source_id": 308,
+      "id": 30804,
+      "district_id": 308,
+      "postal_code": "30603",
+      "legacy_names": [
+        "Gokarneshwor"
+      ]
+    },
+    {
+      "source_id": 309,
+      "id": 30802,
+      "district_id": 308,
+      "postal_code": "30609",
+      "legacy_names": [
+        "Kirtipur"
+      ]
+    },
+    {
+      "source_id": 310,
+      "id": 30811,
+      "district_id": 308,
+      "postal_code": "30602",
+      "legacy_names": [
+        "Kageshwori Manohara"
+      ]
+    },
+    {
+      "source_id": 311,
+      "id": 30808,
+      "district_id": 308,
+      "postal_code": "30610",
+      "legacy_names": [
+        "Chandragiri"
+      ]
+    },
+    {
+      "source_id": 312,
+      "id": 30805,
+      "district_id": 308,
+      "postal_code": "30605",
+      "legacy_names": [
+        "Tokha"
+      ]
+    },
+    {
+      "source_id": 313,
+      "id": 30806,
+      "district_id": 308,
+      "postal_code": "30606",
+      "legacy_names": [
+        "Tarakeshwor"
+      ]
+    },
+    {
+      "source_id": 314,
+      "id": 30809,
+      "district_id": 308,
+      "postal_code": "30611",
+      "legacy_names": [
+        "Dakshinkali"
+      ]
+    },
+    {
+      "source_id": 315,
+      "id": 30807,
+      "district_id": 308,
+      "postal_code": "30607",
+      "legacy_names": [
+        "Nagarjun"
+      ]
+    },
+    {
+      "source_id": 316,
+      "id": 30810,
+      "district_id": 308,
+      "postal_code": "30604",
+      "legacy_names": [
+        "Budhanilkantha"
+      ]
+    },
+    {
+      "source_id": 317,
+      "id": 30803,
+      "district_id": 308,
+      "postal_code": "30601",
+      "legacy_names": [
+        "Shankharapur"
+      ]
+    },
+    {
+      "source_id": 318,
+      "id": 30501,
+      "district_id": 305,
+      "postal_code": "30905",
+      "legacy_names": []
+    },
+    {
+      "source_id": 319,
+      "id": 30502,
+      "district_id": 305,
+      "postal_code": "30908",
+      "legacy_names": []
+    },
+    {
+      "source_id": 320,
+      "id": 30503,
+      "district_id": 305,
+      "postal_code": "30909",
+      "legacy_names": []
+    },
+    {
+      "source_id": 321,
+      "id": 30504,
+      "district_id": 305,
+      "postal_code": "30906",
+      "legacy_names": []
+    },
+    {
+      "source_id": 322,
+      "id": 30505,
+      "district_id": 305,
+      "postal_code": "30904",
+      "legacy_names": []
+    },
+    {
+      "source_id": 323,
+      "id": 30506,
+      "district_id": 305,
+      "postal_code": "30903",
+      "legacy_names": []
+    },
+    {
+      "source_id": 324,
+      "id": 30507,
+      "district_id": 305,
+      "postal_code": "30913",
+      "legacy_names": []
+    },
+    {
+      "source_id": 325,
+      "id": 30508,
+      "district_id": 305,
+      "postal_code": "30901",
+      "legacy_names": []
+    },
+    {
+      "source_id": 326,
+      "id": 30509,
+      "district_id": 305,
+      "postal_code": "30907",
+      "legacy_names": []
+    },
+    {
+      "source_id": 327,
+      "id": 30510,
+      "district_id": 305,
+      "postal_code": "30910",
+      "legacy_names": []
+    },
+    {
+      "source_id": 328,
+      "id": 30511,
+      "district_id": 305,
+      "postal_code": "30902",
+      "legacy_names": []
+    },
+    {
+      "source_id": 329,
+      "id": 30512,
+      "district_id": 305,
+      "postal_code": "30912",
+      "legacy_names": []
+    },
+    {
+      "source_id": 330,
+      "id": 30513,
+      "district_id": 305,
+      "postal_code": "30911",
+      "legacy_names": []
+    },
+    {
+      "source_id": 331,
+      "id": 30601,
+      "district_id": 306,
+      "postal_code": "30802",
+      "legacy_names": [
+        "Lalitpur"
+      ]
+    },
+    {
+      "source_id": 332,
+      "id": 30602,
+      "district_id": 306,
+      "postal_code": "30801",
+      "legacy_names": [
+        "Mahalaxmi"
+      ]
+    },
+    {
+      "source_id": 333,
+      "id": 30603,
+      "district_id": 306,
+      "postal_code": "30803",
+      "legacy_names": [
+        "Godawari"
+      ]
+    },
+    {
+      "source_id": 334,
+      "id": 30604,
+      "district_id": 306,
+      "postal_code": "30804",
+      "legacy_names": [
+        "Konjyosom"
+      ]
+    },
+    {
+      "source_id": 335,
+      "id": 30605,
+      "district_id": 306,
+      "postal_code": "30806",
+      "legacy_names": [
+        "Bagmati"
+      ]
+    },
+    {
+      "source_id": 336,
+      "id": 30606,
+      "district_id": 306,
+      "postal_code": "30805",
+      "legacy_names": [
+        "Mahankal"
+      ]
+    },
+    {
+      "source_id": 337,
+      "id": 31201,
+      "district_id": 312,
+      "postal_code": "31206",
+      "legacy_names": []
+    },
+    {
+      "source_id": 338,
+      "id": 31202,
+      "district_id": 312,
+      "postal_code": "31202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 339,
+      "id": 31203,
+      "district_id": 312,
+      "postal_code": "31207",
+      "legacy_names": []
+    },
+    {
+      "source_id": 340,
+      "id": 31204,
+      "district_id": 312,
+      "postal_code": "31208",
+      "legacy_names": []
+    },
+    {
+      "source_id": 341,
+      "id": 31205,
+      "district_id": 312,
+      "postal_code": "31205",
+      "legacy_names": []
+    },
+    {
+      "source_id": 342,
+      "id": 31206,
+      "district_id": 312,
+      "postal_code": "31204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 343,
+      "id": 31207,
+      "district_id": 312,
+      "postal_code": "31209",
+      "legacy_names": []
+    },
+    {
+      "source_id": 344,
+      "id": 31208,
+      "district_id": 312,
+      "postal_code": "31210",
+      "legacy_names": []
+    },
+    {
+      "source_id": 345,
+      "id": 31209,
+      "district_id": 312,
+      "postal_code": "31203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 346,
+      "id": 31210,
+      "district_id": 312,
+      "postal_code": "31201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 347,
+      "id": 30901,
+      "district_id": 309,
+      "postal_code": "30504",
+      "legacy_names": []
+    },
+    {
+      "source_id": 348,
+      "id": 30902,
+      "district_id": 309,
+      "postal_code": "30508",
+      "legacy_names": []
+    },
+    {
+      "source_id": 349,
+      "id": 30903,
+      "district_id": 309,
+      "postal_code": "30512",
+      "legacy_names": []
+    },
+    {
+      "source_id": 350,
+      "id": 30904,
+      "district_id": 309,
+      "postal_code": "30510",
+      "legacy_names": []
+    },
+    {
+      "source_id": 351,
+      "id": 30905,
+      "district_id": 309,
+      "postal_code": "30509",
+      "legacy_names": []
+    },
+    {
+      "source_id": 352,
+      "id": 30906,
+      "district_id": 309,
+      "postal_code": "30501",
+      "legacy_names": []
+    },
+    {
+      "source_id": 353,
+      "id": 30907,
+      "district_id": 309,
+      "postal_code": "30511",
+      "legacy_names": []
+    },
+    {
+      "source_id": 354,
+      "id": 30908,
+      "district_id": 309,
+      "postal_code": "30502",
+      "legacy_names": []
+    },
+    {
+      "source_id": 355,
+      "id": 30909,
+      "district_id": 309,
+      "postal_code": "30503",
+      "legacy_names": []
+    },
+    {
+      "source_id": 356,
+      "id": 30910,
+      "district_id": 309,
+      "postal_code": "30507",
+      "legacy_names": []
+    },
+    {
+      "source_id": 357,
+      "id": 30911,
+      "district_id": 309,
+      "postal_code": "30505",
+      "legacy_names": []
+    },
+    {
+      "source_id": 358,
+      "id": 30912,
+      "district_id": 309,
+      "postal_code": "30506",
+      "legacy_names": []
+    },
+    {
+      "source_id": 359,
+      "id": 30201,
+      "district_id": 302,
+      "postal_code": "31005",
+      "legacy_names": []
+    },
+    {
+      "source_id": 360,
+      "id": 30202,
+      "district_id": 302,
+      "postal_code": "31004",
+      "legacy_names": []
+    },
+    {
+      "source_id": 361,
+      "id": 30203,
+      "district_id": 302,
+      "postal_code": "31001",
+      "legacy_names": []
+    },
+    {
+      "source_id": 362,
+      "id": 30204,
+      "district_id": 302,
+      "postal_code": "31006",
+      "legacy_names": []
+    },
+    {
+      "source_id": 363,
+      "id": 30205,
+      "district_id": 302,
+      "postal_code": "31007",
+      "legacy_names": []
+    },
+    {
+      "source_id": 364,
+      "id": 30206,
+      "district_id": 302,
+      "postal_code": "31002",
+      "legacy_names": []
+    },
+    {
+      "source_id": 365,
+      "id": 30207,
+      "district_id": 302,
+      "postal_code": "31003",
+      "legacy_names": []
+    },
+    {
+      "source_id": 366,
+      "id": 30208,
+      "district_id": 302,
+      "postal_code": "31008",
+      "legacy_names": []
+    },
+    {
+      "source_id": 367,
+      "id": 31001,
+      "district_id": 310,
+      "postal_code": "30304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 368,
+      "id": 31002,
+      "district_id": 310,
+      "postal_code": "30301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 369,
+      "id": 31003,
+      "district_id": 310,
+      "postal_code": "30305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 370,
+      "id": 31004,
+      "district_id": 310,
+      "postal_code": "30302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 371,
+      "id": 31005,
+      "district_id": 310,
+      "postal_code": "30303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 372,
+      "id": 30101,
+      "district_id": 301,
+      "postal_code": "31105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 373,
+      "id": 30102,
+      "district_id": 301,
+      "postal_code": "31101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 374,
+      "id": 30103,
+      "district_id": 301,
+      "postal_code": "31106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 375,
+      "id": 30104,
+      "district_id": 301,
+      "postal_code": "31109",
+      "legacy_names": []
+    },
+    {
+      "source_id": 376,
+      "id": 30105,
+      "district_id": 301,
+      "postal_code": "31103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 377,
+      "id": 30106,
+      "district_id": 301,
+      "postal_code": "31108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 378,
+      "id": 30107,
+      "district_id": 301,
+      "postal_code": "31104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 379,
+      "id": 30108,
+      "district_id": 301,
+      "postal_code": "31102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 380,
+      "id": 30109,
+      "district_id": 301,
+      "postal_code": "31107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 381,
+      "id": 30401,
+      "district_id": 304,
+      "postal_code": "30207",
+      "legacy_names": []
+    },
+    {
+      "source_id": 382,
+      "id": 30402,
+      "district_id": 304,
+      "postal_code": "30209",
+      "legacy_names": []
+    },
+    {
+      "source_id": 383,
+      "id": 30403,
+      "district_id": 304,
+      "postal_code": "30205",
+      "legacy_names": []
+    },
+    {
+      "source_id": 384,
+      "id": 30404,
+      "district_id": 304,
+      "postal_code": "30208",
+      "legacy_names": []
+    },
+    {
+      "source_id": 385,
+      "id": 30405,
+      "district_id": 304,
+      "postal_code": "30212",
+      "legacy_names": []
+    },
+    {
+      "source_id": 386,
+      "id": 30406,
+      "district_id": 304,
+      "postal_code": "30206",
+      "legacy_names": []
+    },
+    {
+      "source_id": 387,
+      "id": 30407,
+      "district_id": 304,
+      "postal_code": "30202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 388,
+      "id": 30408,
+      "district_id": 304,
+      "postal_code": "30203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 389,
+      "id": 30409,
+      "district_id": 304,
+      "postal_code": "30201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 390,
+      "id": 30410,
+      "district_id": 304,
+      "postal_code": "30211",
+      "legacy_names": []
+    },
+    {
+      "source_id": 391,
+      "id": 30411,
+      "district_id": 304,
+      "postal_code": "30204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 392,
+      "id": 30412,
+      "district_id": 304,
+      "postal_code": "30210",
+      "legacy_names": []
+    },
+    {
+      "source_id": 393,
+      "id": 41101,
+      "district_id": 411,
+      "postal_code": "41101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 394,
+      "id": 41102,
+      "district_id": 411,
+      "postal_code": "41105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 395,
+      "id": 41103,
+      "district_id": 411,
+      "postal_code": "41108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 396,
+      "id": 41104,
+      "district_id": 411,
+      "postal_code": "41110",
+      "legacy_names": []
+    },
+    {
+      "source_id": 397,
+      "id": 41105,
+      "district_id": 411,
+      "postal_code": "41109",
+      "legacy_names": []
+    },
+    {
+      "source_id": 398,
+      "id": 41106,
+      "district_id": 411,
+      "postal_code": "41102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 399,
+      "id": 41107,
+      "district_id": 411,
+      "postal_code": "41104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 400,
+      "id": 41108,
+      "district_id": 411,
+      "postal_code": "41103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 401,
+      "id": 41109,
+      "district_id": 411,
+      "postal_code": "41106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 402,
+      "id": 41110,
+      "district_id": 411,
+      "postal_code": "41107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 403,
+      "id": 40101,
+      "district_id": 401,
+      "postal_code": "40109",
+      "legacy_names": []
+    },
+    {
+      "source_id": 404,
+      "id": 40102,
+      "district_id": 401,
+      "postal_code": "40108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 405,
+      "id": 40103,
+      "district_id": 401,
+      "postal_code": "40103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 406,
+      "id": 40104,
+      "district_id": 401,
+      "postal_code": "40107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 407,
+      "id": 40105,
+      "district_id": 401,
+      "postal_code": "40102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 408,
+      "id": 40106,
+      "district_id": 401,
+      "postal_code": "40101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 409,
+      "id": 40107,
+      "district_id": 401,
+      "postal_code": "40104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 410,
+      "id": 40108,
+      "district_id": 401,
+      "postal_code": "40106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 411,
+      "id": 40109,
+      "district_id": 401,
+      "postal_code": "40110",
+      "legacy_names": []
+    },
+    {
+      "source_id": 412,
+      "id": 40110,
+      "district_id": 401,
+      "postal_code": "40105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 413,
+      "id": 40111,
+      "district_id": 401,
+      "postal_code": "40111",
+      "legacy_names": []
+    },
+    {
+      "source_id": 414,
+      "id": 40501,
+      "district_id": 405,
+      "postal_code": "40504",
+      "legacy_names": [
+        "Pokhara"
+      ]
+    },
+    {
+      "source_id": 415,
+      "id": 40502,
+      "district_id": 405,
+      "postal_code": "40503",
+      "legacy_names": [
+        "Annapurna"
+      ]
+    },
+    {
+      "source_id": 416,
+      "id": 40503,
+      "district_id": 405,
+      "postal_code": "40502",
+      "legacy_names": [
+        "Machhapuchchhre"
+      ]
+    },
+    {
+      "source_id": 417,
+      "id": 40504,
+      "district_id": 405,
+      "postal_code": "40501",
+      "legacy_names": [
+        "Madi"
+      ]
+    },
+    {
+      "source_id": 418,
+      "id": 40505,
+      "district_id": 405,
+      "postal_code": "40505",
+      "legacy_names": [
+        "Rupa"
+      ]
+    },
+    {
+      "source_id": 419,
+      "id": 40601,
+      "district_id": 406,
+      "postal_code": "40605",
+      "legacy_names": []
+    },
+    {
+      "source_id": 420,
+      "id": 40602,
+      "district_id": 406,
+      "postal_code": "40604",
+      "legacy_names": []
+    },
+    {
+      "source_id": 421,
+      "id": 40603,
+      "district_id": 406,
+      "postal_code": "40607",
+      "legacy_names": []
+    },
+    {
+      "source_id": 422,
+      "id": 40604,
+      "district_id": 406,
+      "postal_code": "40606",
+      "legacy_names": []
+    },
+    {
+      "source_id": 423,
+      "id": 40605,
+      "district_id": 406,
+      "postal_code": "40601",
+      "legacy_names": []
+    },
+    {
+      "source_id": 424,
+      "id": 40606,
+      "district_id": 406,
+      "postal_code": "40608",
+      "legacy_names": []
+    },
+    {
+      "source_id": 425,
+      "id": 40607,
+      "district_id": 406,
+      "postal_code": "40603",
+      "legacy_names": []
+    },
+    {
+      "source_id": 426,
+      "id": 40608,
+      "district_id": 406,
+      "postal_code": "40602",
+      "legacy_names": []
+    },
+    {
+      "source_id": 427,
+      "id": 40201,
+      "district_id": 402,
+      "postal_code": "40203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 428,
+      "id": 40202,
+      "district_id": 402,
+      "postal_code": "40204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 429,
+      "id": 40203,
+      "district_id": 402,
+      "postal_code": "40201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 430,
+      "id": 40204,
+      "district_id": 402,
+      "postal_code": "40202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 431,
+      "id": 40301,
+      "district_id": 403,
+      "postal_code": "40302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 432,
+      "id": 40302,
+      "district_id": 403,
+      "postal_code": "40305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 433,
+      "id": 40303,
+      "district_id": 403,
+      "postal_code": "40303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 434,
+      "id": 40304,
+      "district_id": 403,
+      "postal_code": "40304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 435,
+      "id": 40305,
+      "district_id": 403,
+      "postal_code": "40301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 436,
+      "id": 40401,
+      "district_id": 404,
+      "postal_code": "40406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 437,
+      "id": 40402,
+      "district_id": 404,
+      "postal_code": "40401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 438,
+      "id": 40403,
+      "district_id": 404,
+      "postal_code": "40403",
+      "legacy_names": []
+    },
+    {
+      "source_id": 439,
+      "id": 40404,
+      "district_id": 404,
+      "postal_code": "40405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 440,
+      "id": 40405,
+      "district_id": 404,
+      "postal_code": "40404",
+      "legacy_names": []
+    },
+    {
+      "source_id": 441,
+      "id": 40406,
+      "district_id": 404,
+      "postal_code": "40402",
+      "legacy_names": []
+    },
+    {
+      "source_id": 442,
+      "id": 40801,
+      "district_id": 408,
+      "postal_code": "40806",
+      "legacy_names": []
+    },
+    {
+      "source_id": 443,
+      "id": 40802,
+      "district_id": 408,
+      "postal_code": "40801",
+      "legacy_names": []
+    },
+    {
+      "source_id": 444,
+      "id": 40803,
+      "district_id": 408,
+      "postal_code": "40805",
+      "legacy_names": []
+    },
+    {
+      "source_id": 445,
+      "id": 40804,
+      "district_id": 408,
+      "postal_code": "40807",
+      "legacy_names": []
+    },
+    {
+      "source_id": 446,
+      "id": 40805,
+      "district_id": 408,
+      "postal_code": "40803",
+      "legacy_names": []
+    },
+    {
+      "source_id": 447,
+      "id": 40806,
+      "district_id": 408,
+      "postal_code": "40802",
+      "legacy_names": []
+    },
+    {
+      "source_id": 448,
+      "id": 40807,
+      "district_id": 408,
+      "postal_code": "40808",
+      "legacy_names": []
+    },
+    {
+      "source_id": 449,
+      "id": 40808,
+      "district_id": 408,
+      "postal_code": "40804",
+      "legacy_names": []
+    },
+    {
+      "source_id": 450,
+      "id": 41001,
+      "district_id": 410,
+      "postal_code": "41003",
+      "legacy_names": []
+    },
+    {
+      "source_id": 451,
+      "id": 41002,
+      "district_id": 410,
+      "postal_code": "41004",
+      "legacy_names": []
+    },
+    {
+      "source_id": 452,
+      "id": 41003,
+      "district_id": 410,
+      "postal_code": "41002",
+      "legacy_names": []
+    },
+    {
+      "source_id": 453,
+      "id": 41004,
+      "district_id": 410,
+      "postal_code": "41007",
+      "legacy_names": []
+    },
+    {
+      "source_id": 454,
+      "id": 41005,
+      "district_id": 410,
+      "postal_code": "41005",
+      "legacy_names": []
+    },
+    {
+      "source_id": 455,
+      "id": 41006,
+      "district_id": 410,
+      "postal_code": "41001",
+      "legacy_names": []
+    },
+    {
+      "source_id": 456,
+      "id": 41007,
+      "district_id": 410,
+      "postal_code": "41006",
+      "legacy_names": []
+    },
+    {
+      "source_id": 457,
+      "id": 40905,
+      "district_id": 409,
+      "postal_code": "40910",
+      "legacy_names": [
+        "Galyang"
+      ]
+    },
+    {
+      "source_id": 458,
+      "id": 40903,
+      "district_id": 409,
+      "postal_code": "40908",
+      "legacy_names": [
+        "Chapakot"
+      ]
+    },
+    {
+      "source_id": 459,
+      "id": 40901,
+      "district_id": 409,
+      "postal_code": "40901",
+      "legacy_names": [
+        "Putalibazar"
+      ]
+    },
+    {
+      "source_id": 460,
+      "id": 40904,
+      "district_id": 409,
+      "postal_code": "40905",
+      "legacy_names": [
+        "Bhirkot"
+      ]
+    },
+    {
+      "source_id": 461,
+      "id": 40902,
+      "district_id": 409,
+      "postal_code": "40909",
+      "legacy_names": [
+        "Waling"
+      ]
+    },
+    {
+      "source_id": 462,
+      "id": 40906,
+      "district_id": 409,
+      "postal_code": "40904",
+      "legacy_names": []
+    },
+    {
+      "source_id": 463,
+      "id": 40907,
+      "district_id": 409,
+      "postal_code": "40903",
+      "legacy_names": []
+    },
+    {
+      "source_id": 464,
+      "id": 40908,
+      "district_id": 409,
+      "postal_code": "40911",
+      "legacy_names": []
+    },
+    {
+      "source_id": 465,
+      "id": 40909,
+      "district_id": 409,
+      "postal_code": "40902",
+      "legacy_names": []
+    },
+    {
+      "source_id": 466,
+      "id": 40910,
+      "district_id": 409,
+      "postal_code": "40907",
+      "legacy_names": []
+    },
+    {
+      "source_id": 467,
+      "id": 40911,
+      "district_id": 409,
+      "postal_code": "40906",
+      "legacy_names": []
+    },
+    {
+      "source_id": 468,
+      "id": 40701,
+      "district_id": 407,
+      "postal_code": "40701",
+      "legacy_names": []
+    },
+    {
+      "source_id": 469,
+      "id": 40702,
+      "district_id": 407,
+      "postal_code": "40705",
+      "legacy_names": []
+    },
+    {
+      "source_id": 470,
+      "id": 40703,
+      "district_id": 407,
+      "postal_code": "40702",
+      "legacy_names": []
+    },
+    {
+      "source_id": 471,
+      "id": 40704,
+      "district_id": 407,
+      "postal_code": "40704",
+      "legacy_names": []
+    },
+    {
+      "source_id": 472,
+      "id": 40705,
+      "district_id": 407,
+      "postal_code": "40710",
+      "legacy_names": []
+    },
+    {
+      "source_id": 473,
+      "id": 40706,
+      "district_id": 407,
+      "postal_code": "40708",
+      "legacy_names": []
+    },
+    {
+      "source_id": 474,
+      "id": 40707,
+      "district_id": 407,
+      "postal_code": "40709",
+      "legacy_names": []
+    },
+    {
+      "source_id": 475,
+      "id": 40708,
+      "district_id": 407,
+      "postal_code": "40707",
+      "legacy_names": []
+    },
+    {
+      "source_id": 476,
+      "id": 40709,
+      "district_id": 407,
+      "postal_code": "40706",
+      "legacy_names": []
+    },
+    {
+      "source_id": 477,
+      "id": 40710,
+      "district_id": 407,
+      "postal_code": "40703",
+      "legacy_names": []
+    },
+    {
+      "source_id": 478,
+      "id": 50901,
+      "district_id": 509,
+      "postal_code": "50907",
+      "legacy_names": [
+        "Kapilvastu"
+      ]
+    },
+    {
+      "source_id": 479,
+      "id": 50902,
+      "district_id": 509,
+      "postal_code": "50901",
+      "legacy_names": [
+        "Banganga"
+      ]
+    },
+    {
+      "source_id": 480,
+      "id": 50910,
+      "district_id": 509,
+      "postal_code": "50902",
+      "legacy_names": [
+        "Buddhabhumi"
+      ],
+      "legacy_id": 20503
+    },
+    {
+      "source_id": 481,
+      "id": 50904,
+      "district_id": 509,
+      "postal_code": "50903",
+      "legacy_names": [
+        "Shivaraj"
+      ]
+    },
+    {
+      "source_id": 482,
+      "id": 50906,
+      "district_id": 509,
+      "postal_code": "50905",
+      "legacy_names": [
+        "Krishnanagar"
+      ]
+    },
+    {
+      "source_id": 483,
+      "id": 50905,
+      "district_id": 509,
+      "postal_code": "50906",
+      "legacy_names": [
+        "Maharajgunj"
+      ]
+    },
+    {
+      "source_id": 484,
+      "id": 50903,
+      "district_id": 509,
+      "postal_code": "50909",
+      "legacy_names": []
+    },
+    {
+      "source_id": 485,
+      "id": 50907,
+      "district_id": 509,
+      "postal_code": "50908",
+      "legacy_names": []
+    },
+    {
+      "source_id": 486,
+      "id": 50908,
+      "district_id": 509,
+      "postal_code": "50910",
+      "legacy_names": []
+    },
+    {
+      "source_id": 487,
+      "id": 50909,
+      "district_id": 509,
+      "postal_code": "50904",
+      "legacy_names": []
+    },
+    {
+      "source_id": 488,
+      "id": 50701,
+      "district_id": 507,
+      "postal_code": "50701",
+      "legacy_names": []
+    },
+    {
+      "source_id": 489,
+      "id": 50702,
+      "district_id": 507,
+      "postal_code": "50703",
+      "legacy_names": []
+    },
+    {
+      "source_id": 490,
+      "id": 50703,
+      "district_id": 507,
+      "postal_code": "50702",
+      "legacy_names": []
+    },
+    {
+      "source_id": 491,
+      "id": 50704,
+      "district_id": 507,
+      "postal_code": "50707",
+      "legacy_names": []
+    },
+    {
+      "source_id": 492,
+      "id": 50705,
+      "district_id": 507,
+      "postal_code": "50704",
+      "legacy_names": []
+    },
+    {
+      "source_id": 493,
+      "id": 50706,
+      "district_id": 507,
+      "postal_code": "50706",
+      "legacy_names": []
+    },
+    {
+      "source_id": 494,
+      "id": 50707,
+      "district_id": 507,
+      "postal_code": "50705",
+      "legacy_names": []
+    },
+    {
+      "source_id": 495,
+      "id": 50802,
+      "district_id": 508,
+      "postal_code": "50802",
+      "legacy_names": [
+        "Butwal"
+      ]
+    },
+    {
+      "source_id": 496,
+      "id": 50804,
+      "district_id": 508,
+      "postal_code": "50801",
+      "legacy_names": [
+        "Devdaha"
+      ]
+    },
+    {
+      "source_id": 497,
+      "id": 50806,
+      "district_id": 508,
+      "postal_code": "50813",
+      "legacy_names": [
+        "Lumbini Sanskritik"
+      ]
+    },
+    {
+      "source_id": 498,
+      "id": 50805,
+      "district_id": 508,
+      "postal_code": "50803",
+      "legacy_names": [
+        "Sainamaina"
+      ]
+    },
+    {
+      "source_id": 499,
+      "id": 50801,
+      "district_id": 508,
+      "postal_code": "50811",
+      "legacy_names": [
+        "Siddharthanagar"
+      ]
+    },
+    {
+      "source_id": 500,
+      "id": 50803,
+      "district_id": 508,
+      "postal_code": "50808",
+      "legacy_names": [
+        "Tilottama"
+      ]
+    },
+    {
+      "source_id": 501,
+      "id": 50811,
+      "district_id": 508,
+      "postal_code": "50805",
+      "legacy_names": []
+    },
+    {
+      "source_id": 502,
+      "id": 50812,
+      "district_id": 508,
+      "postal_code": "50804",
+      "legacy_names": []
+    },
+    {
+      "source_id": 503,
+      "id": 50813,
+      "district_id": 508,
+      "postal_code": "50814",
+      "legacy_names": []
+    },
+    {
+      "source_id": 504,
+      "id": 50807,
+      "district_id": 508,
+      "postal_code": "50816",
+      "legacy_names": [
+        "Marchawari"
+      ]
+    },
+    {
+      "source_id": 505,
+      "id": 50814,
+      "district_id": 508,
+      "postal_code": "50812",
+      "legacy_names": []
+    },
+    {
+      "source_id": 506,
+      "id": 50815,
+      "district_id": 508,
+      "postal_code": "50809",
+      "legacy_names": []
+    },
+    {
+      "source_id": 507,
+      "id": 50808,
+      "district_id": 508,
+      "postal_code": "50810",
+      "legacy_names": [
+        "Rohini"
+      ]
+    },
+    {
+      "source_id": 508,
+      "id": 50809,
+      "district_id": 508,
+      "postal_code": "50815",
+      "legacy_names": [
+        "Sammarimai"
+      ]
+    },
+    {
+      "source_id": 509,
+      "id": 50816,
+      "district_id": 508,
+      "postal_code": "50807",
+      "legacy_names": []
+    },
+    {
+      "source_id": 510,
+      "id": 50810,
+      "district_id": 508,
+      "postal_code": "50806",
+      "legacy_names": [
+        "Suddhodhan"
+      ]
+    },
+    {
+      "source_id": 511,
+      "id": 50501,
+      "district_id": 505,
+      "postal_code": "50504",
+      "legacy_names": []
+    },
+    {
+      "source_id": 512,
+      "id": 50502,
+      "district_id": 505,
+      "postal_code": "50506",
+      "legacy_names": []
+    },
+    {
+      "source_id": 513,
+      "id": 50503,
+      "district_id": 505,
+      "postal_code": "50503",
+      "legacy_names": []
+    },
+    {
+      "source_id": 514,
+      "id": 50504,
+      "district_id": 505,
+      "postal_code": "50501",
+      "legacy_names": []
+    },
+    {
+      "source_id": 515,
+      "id": 50505,
+      "district_id": 505,
+      "postal_code": "50505",
+      "legacy_names": []
+    },
+    {
+      "source_id": 516,
+      "id": 50506,
+      "district_id": 505,
+      "postal_code": "50502",
+      "legacy_names": []
+    },
+    {
+      "source_id": 517,
+      "id": 50401,
+      "district_id": 504,
+      "postal_code": "50409",
+      "legacy_names": []
+    },
+    {
+      "source_id": 518,
+      "id": 50402,
+      "district_id": 504,
+      "postal_code": "50404",
+      "legacy_names": []
+    },
+    {
+      "source_id": 519,
+      "id": 50403,
+      "district_id": 504,
+      "postal_code": "50412",
+      "legacy_names": []
+    },
+    {
+      "source_id": 520,
+      "id": 50404,
+      "district_id": 504,
+      "postal_code": "50411",
+      "legacy_names": []
+    },
+    {
+      "source_id": 521,
+      "id": 50405,
+      "district_id": 504,
+      "postal_code": "50410",
+      "legacy_names": []
+    },
+    {
+      "source_id": 522,
+      "id": 50406,
+      "district_id": 504,
+      "postal_code": "50403",
+      "legacy_names": []
+    },
+    {
+      "source_id": 523,
+      "id": 50407,
+      "district_id": 504,
+      "postal_code": "50402",
+      "legacy_names": []
+    },
+    {
+      "source_id": 524,
+      "id": 50408,
+      "district_id": 504,
+      "postal_code": "50408",
+      "legacy_names": []
+    },
+    {
+      "source_id": 525,
+      "id": 50409,
+      "district_id": 504,
+      "postal_code": "50401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 526,
+      "id": 50410,
+      "district_id": 504,
+      "postal_code": "50405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 527,
+      "id": 50411,
+      "district_id": 504,
+      "postal_code": "50406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 528,
+      "id": 50412,
+      "district_id": 504,
+      "postal_code": "50407",
+      "legacy_names": []
+    },
+    {
+      "source_id": 529,
+      "id": 50601,
+      "district_id": 506,
+      "postal_code": "50605",
+      "legacy_names": []
+    },
+    {
+      "source_id": 530,
+      "id": 50602,
+      "district_id": 506,
+      "postal_code": "50601",
+      "legacy_names": []
+    },
+    {
+      "source_id": 531,
+      "id": 50603,
+      "district_id": 506,
+      "postal_code": "50607",
+      "legacy_names": []
+    },
+    {
+      "source_id": 532,
+      "id": 50604,
+      "district_id": 506,
+      "postal_code": "50606",
+      "legacy_names": []
+    },
+    {
+      "source_id": 533,
+      "id": 50605,
+      "district_id": 506,
+      "postal_code": "50604",
+      "legacy_names": []
+    },
+    {
+      "source_id": 534,
+      "id": 50606,
+      "district_id": 506,
+      "postal_code": "50603",
+      "legacy_names": []
+    },
+    {
+      "source_id": 535,
+      "id": 50607,
+      "district_id": 506,
+      "postal_code": "50602",
+      "legacy_names": []
+    },
+    {
+      "source_id": 536,
+      "id": 50608,
+      "district_id": 506,
+      "postal_code": "50610",
+      "legacy_names": []
+    },
+    {
+      "source_id": 537,
+      "id": 50609,
+      "district_id": 506,
+      "postal_code": "50609",
+      "legacy_names": []
+    },
+    {
+      "source_id": 538,
+      "id": 50610,
+      "district_id": 506,
+      "postal_code": "50608",
+      "legacy_names": []
+    },
+    {
+      "source_id": 539,
+      "id": 51001,
+      "district_id": 510,
+      "postal_code": "51002",
+      "legacy_names": []
+    },
+    {
+      "source_id": 540,
+      "id": 51002,
+      "district_id": 510,
+      "postal_code": "51003",
+      "legacy_names": []
+    },
+    {
+      "source_id": 541,
+      "id": 51003,
+      "district_id": 510,
+      "postal_code": "51007",
+      "legacy_names": []
+    },
+    {
+      "source_id": 542,
+      "id": 51004,
+      "district_id": 510,
+      "postal_code": "51009",
+      "legacy_names": []
+    },
+    {
+      "source_id": 543,
+      "id": 51005,
+      "district_id": 510,
+      "postal_code": "51010",
+      "legacy_names": []
+    },
+    {
+      "source_id": 544,
+      "id": 51006,
+      "district_id": 510,
+      "postal_code": "51004",
+      "legacy_names": []
+    },
+    {
+      "source_id": 545,
+      "id": 51007,
+      "district_id": 510,
+      "postal_code": "51008",
+      "legacy_names": []
+    },
+    {
+      "source_id": 546,
+      "id": 51008,
+      "district_id": 510,
+      "postal_code": "51001",
+      "legacy_names": []
+    },
+    {
+      "source_id": 547,
+      "id": 51009,
+      "district_id": 510,
+      "postal_code": "51006",
+      "legacy_names": []
+    },
+    {
+      "source_id": 548,
+      "id": 51010,
+      "district_id": 510,
+      "postal_code": "51005",
+      "legacy_names": []
+    },
+    {
+      "source_id": 549,
+      "id": 50301,
+      "district_id": 503,
+      "postal_code": "50305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 550,
+      "id": 50302,
+      "district_id": 503,
+      "postal_code": "50304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 551,
+      "id": 50303,
+      "district_id": 503,
+      "postal_code": "50306",
+      "legacy_names": []
+    },
+    {
+      "source_id": 552,
+      "id": 50304,
+      "district_id": 503,
+      "postal_code": "50309",
+      "legacy_names": []
+    },
+    {
+      "source_id": 553,
+      "id": 50305,
+      "district_id": 503,
+      "postal_code": "50308",
+      "legacy_names": []
+    },
+    {
+      "source_id": 554,
+      "id": 50306,
+      "district_id": 503,
+      "postal_code": "50307",
+      "legacy_names": []
+    },
+    {
+      "source_id": 555,
+      "id": 50307,
+      "district_id": 503,
+      "postal_code": "50303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 556,
+      "id": 50308,
+      "district_id": 503,
+      "postal_code": "50302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 557,
+      "id": 50309,
+      "district_id": 503,
+      "postal_code": "50301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 558,
+      "id": 50201,
+      "district_id": 502,
+      "postal_code": "50207",
+      "legacy_names": []
+    },
+    {
+      "source_id": 559,
+      "id": 50202,
+      "district_id": 502,
+      "postal_code": "50208",
+      "legacy_names": []
+    },
+    {
+      "source_id": 560,
+      "id": 50203,
+      "district_id": 502,
+      "postal_code": "50206",
+      "legacy_names": []
+    },
+    {
+      "source_id": 561,
+      "id": 50204,
+      "district_id": 502,
+      "postal_code": "50209",
+      "legacy_names": []
+    },
+    {
+      "source_id": 562,
+      "id": 50205,
+      "district_id": 502,
+      "postal_code": "50210",
+      "legacy_names": []
+    },
+    {
+      "source_id": 563,
+      "id": 50206,
+      "district_id": 502,
+      "postal_code": "50201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 564,
+      "id": 50207,
+      "district_id": 502,
+      "postal_code": "50202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 565,
+      "id": 50208,
+      "district_id": 502,
+      "postal_code": "50205",
+      "legacy_names": []
+    },
+    {
+      "source_id": 566,
+      "id": 50209,
+      "district_id": 502,
+      "postal_code": "50204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 567,
+      "id": 50210,
+      "district_id": 502,
+      "postal_code": "50203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 568,
+      "id": 50101,
+      "district_id": 501,
+      "postal_code": "50101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 569,
+      "id": 50102,
+      "district_id": 501,
+      "postal_code": "50103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 570,
+      "id": 50103,
+      "district_id": 501,
+      "postal_code": "50102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 571,
+      "id": 51101,
+      "district_id": 511,
+      "postal_code": "51106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 572,
+      "id": 51102,
+      "district_id": 511,
+      "postal_code": "51102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 573,
+      "id": 51103,
+      "district_id": 511,
+      "postal_code": "51101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 574,
+      "id": 51104,
+      "district_id": 511,
+      "postal_code": "51108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 575,
+      "id": 51105,
+      "district_id": 511,
+      "postal_code": "51107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 576,
+      "id": 51106,
+      "district_id": 511,
+      "postal_code": "51105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 577,
+      "id": 51107,
+      "district_id": 511,
+      "postal_code": "51104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 578,
+      "id": 51108,
+      "district_id": 511,
+      "postal_code": "51103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 579,
+      "id": 51201,
+      "district_id": 512,
+      "postal_code": "51207",
+      "legacy_names": []
+    },
+    {
+      "source_id": 580,
+      "id": 51202,
+      "district_id": 512,
+      "postal_code": "51205",
+      "legacy_names": []
+    },
+    {
+      "source_id": 581,
+      "id": 51203,
+      "district_id": 512,
+      "postal_code": "51206",
+      "legacy_names": []
+    },
+    {
+      "source_id": 582,
+      "id": 51204,
+      "district_id": 512,
+      "postal_code": "51203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 583,
+      "id": 51205,
+      "district_id": 512,
+      "postal_code": "51201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 584,
+      "id": 51206,
+      "district_id": 512,
+      "postal_code": "51202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 585,
+      "id": 51207,
+      "district_id": 512,
+      "postal_code": "51208",
+      "legacy_names": []
+    },
+    {
+      "source_id": 586,
+      "id": 51208,
+      "district_id": 512,
+      "postal_code": "51204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 587,
+      "id": 60801,
+      "district_id": 608,
+      "postal_code": "60801",
+      "legacy_names": []
+    },
+    {
+      "source_id": 588,
+      "id": 60802,
+      "district_id": 608,
+      "postal_code": "60804",
+      "legacy_names": []
+    },
+    {
+      "source_id": 589,
+      "id": 60803,
+      "district_id": 608,
+      "postal_code": "60806",
+      "legacy_names": []
+    },
+    {
+      "source_id": 590,
+      "id": 60804,
+      "district_id": 608,
+      "postal_code": "60802",
+      "legacy_names": []
+    },
+    {
+      "source_id": 591,
+      "id": 60805,
+      "district_id": 608,
+      "postal_code": "60805",
+      "legacy_names": []
+    },
+    {
+      "source_id": 592,
+      "id": 60806,
+      "district_id": 608,
+      "postal_code": "60803",
+      "legacy_names": []
+    },
+    {
+      "source_id": 593,
+      "id": 60901,
+      "district_id": 609,
+      "postal_code": "60902",
+      "legacy_names": []
+    },
+    {
+      "source_id": 594,
+      "id": 60902,
+      "district_id": 609,
+      "postal_code": "60908",
+      "legacy_names": []
+    },
+    {
+      "source_id": 595,
+      "id": 60903,
+      "district_id": 609,
+      "postal_code": "60906",
+      "legacy_names": []
+    },
+    {
+      "source_id": 596,
+      "id": 60904,
+      "district_id": 609,
+      "postal_code": "60901",
+      "legacy_names": []
+    },
+    {
+      "source_id": 597,
+      "id": 60905,
+      "district_id": 609,
+      "postal_code": "60910",
+      "legacy_names": []
+    },
+    {
+      "source_id": 598,
+      "id": 60906,
+      "district_id": 609,
+      "postal_code": "60909",
+      "legacy_names": []
+    },
+    {
+      "source_id": 599,
+      "id": 60907,
+      "district_id": 609,
+      "postal_code": "60904",
+      "legacy_names": []
+    },
+    {
+      "source_id": 600,
+      "id": 60908,
+      "district_id": 609,
+      "postal_code": "60905",
+      "legacy_names": []
+    },
+    {
+      "source_id": 601,
+      "id": 60909,
+      "district_id": 609,
+      "postal_code": "60907",
+      "legacy_names": []
+    },
+    {
+      "source_id": 602,
+      "id": 60910,
+      "district_id": 609,
+      "postal_code": "60903",
+      "legacy_names": []
+    },
+    {
+      "source_id": 603,
+      "id": 60101,
+      "district_id": 601,
+      "postal_code": "60104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 604,
+      "id": 60102,
+      "district_id": 601,
+      "postal_code": "60107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 605,
+      "id": 60103,
+      "district_id": 601,
+      "postal_code": "60102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 606,
+      "id": 60104,
+      "district_id": 601,
+      "postal_code": "60103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 607,
+      "id": 60105,
+      "district_id": 601,
+      "postal_code": "60101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 608,
+      "id": 60106,
+      "district_id": 601,
+      "postal_code": "60108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 609,
+      "id": 60107,
+      "district_id": 601,
+      "postal_code": "60106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 610,
+      "id": 60108,
+      "district_id": 601,
+      "postal_code": "60105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 611,
+      "id": 60301,
+      "district_id": 603,
+      "postal_code": "60303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 612,
+      "id": 60302,
+      "district_id": 603,
+      "postal_code": "60305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 613,
+      "id": 60303,
+      "district_id": 603,
+      "postal_code": "60306",
+      "legacy_names": []
+    },
+    {
+      "source_id": 614,
+      "id": 60304,
+      "district_id": 603,
+      "postal_code": "60302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 615,
+      "id": 60305,
+      "district_id": 603,
+      "postal_code": "60307",
+      "legacy_names": []
+    },
+    {
+      "source_id": 616,
+      "id": 60306,
+      "district_id": 603,
+      "postal_code": "60301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 617,
+      "id": 60307,
+      "district_id": 603,
+      "postal_code": "60304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 618,
+      "id": 60405,
+      "district_id": 604,
+      "postal_code": "60406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 619,
+      "id": 60406,
+      "district_id": 604,
+      "postal_code": "60401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 620,
+      "id": 60407,
+      "district_id": 604,
+      "postal_code": "60407",
+      "legacy_names": []
+    },
+    {
+      "source_id": 621,
+      "id": 60402,
+      "district_id": 604,
+      "postal_code": "60402",
+      "legacy_names": [
+        "Kankasundari"
+      ]
+    },
+    {
+      "source_id": 622,
+      "id": 60403,
+      "district_id": 604,
+      "postal_code": "60403",
+      "legacy_names": [
+        "Sinja"
+      ]
+    },
+    {
+      "source_id": 623,
+      "id": 60404,
+      "district_id": 604,
+      "postal_code": "60408",
+      "legacy_names": [
+        "Hima"
+      ]
+    },
+    {
+      "source_id": 624,
+      "id": 60408,
+      "district_id": 604,
+      "postal_code": "60405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 625,
+      "id": 60401,
+      "district_id": 604,
+      "postal_code": "60404",
+      "legacy_names": [
+        "Chandannath"
+      ]
+    },
+    {
+      "source_id": 626,
+      "id": 60501,
+      "district_id": 605,
+      "postal_code": "60506",
+      "legacy_names": []
+    },
+    {
+      "source_id": 627,
+      "id": 60502,
+      "district_id": 605,
+      "postal_code": "60503",
+      "legacy_names": []
+    },
+    {
+      "source_id": 628,
+      "id": 60503,
+      "district_id": 605,
+      "postal_code": "60507",
+      "legacy_names": []
+    },
+    {
+      "source_id": 629,
+      "id": 60504,
+      "district_id": 605,
+      "postal_code": "60505",
+      "legacy_names": []
+    },
+    {
+      "source_id": 630,
+      "id": 60505,
+      "district_id": 605,
+      "postal_code": "60501",
+      "legacy_names": []
+    },
+    {
+      "source_id": 631,
+      "id": 60506,
+      "district_id": 605,
+      "postal_code": "60509",
+      "legacy_names": []
+    },
+    {
+      "source_id": 632,
+      "id": 60507,
+      "district_id": 605,
+      "postal_code": "60504",
+      "legacy_names": []
+    },
+    {
+      "source_id": 633,
+      "id": 60508,
+      "district_id": 605,
+      "postal_code": "60502",
+      "legacy_names": []
+    },
+    {
+      "source_id": 634,
+      "id": 60509,
+      "district_id": 605,
+      "postal_code": "60508",
+      "legacy_names": []
+    },
+    {
+      "source_id": 635,
+      "id": 60201,
+      "district_id": 602,
+      "postal_code": "60204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 636,
+      "id": 60202,
+      "district_id": 602,
+      "postal_code": "60203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 637,
+      "id": 60203,
+      "district_id": 602,
+      "postal_code": "60201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 638,
+      "id": 60204,
+      "district_id": 602,
+      "postal_code": "60202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 639,
+      "id": 61006,
+      "district_id": 610,
+      "postal_code": "61001",
+      "legacy_names": []
+    },
+    {
+      "source_id": 640,
+      "id": 61007,
+      "district_id": 610,
+      "postal_code": "61007",
+      "legacy_names": []
+    },
+    {
+      "source_id": 641,
+      "id": 61008,
+      "district_id": 610,
+      "postal_code": "61009",
+      "legacy_names": []
+    },
+    {
+      "source_id": 642,
+      "id": 61009,
+      "district_id": 610,
+      "postal_code": "61002",
+      "legacy_names": []
+    },
+    {
+      "source_id": 643,
+      "id": 61003,
+      "district_id": 610,
+      "postal_code": "61004",
+      "legacy_names": [
+        "Gurbhakot"
+      ]
+    },
+    {
+      "source_id": 644,
+      "id": 61001,
+      "district_id": 610,
+      "postal_code": "61006",
+      "legacy_names": [
+        "Birendranagar"
+      ]
+    },
+    {
+      "source_id": 645,
+      "id": 61002,
+      "district_id": 610,
+      "postal_code": "61005",
+      "legacy_names": [
+        "Bheriganga"
+      ]
+    },
+    {
+      "source_id": 646,
+      "id": 61004,
+      "district_id": 610,
+      "postal_code": "61008",
+      "legacy_names": [
+        "Panchpuri"
+      ]
+    },
+    {
+      "source_id": 647,
+      "id": 61005,
+      "district_id": 610,
+      "postal_code": "61003",
+      "legacy_names": [
+        "Lekhbeshi"
+      ]
+    },
+    {
+      "source_id": 648,
+      "id": 60601,
+      "district_id": 606,
+      "postal_code": "60607",
+      "legacy_names": []
+    },
+    {
+      "source_id": 649,
+      "id": 60602,
+      "district_id": 606,
+      "postal_code": "60611",
+      "legacy_names": []
+    },
+    {
+      "source_id": 650,
+      "id": 60603,
+      "district_id": 606,
+      "postal_code": "60603",
+      "legacy_names": []
+    },
+    {
+      "source_id": 651,
+      "id": 60604,
+      "district_id": 606,
+      "postal_code": "60601",
+      "legacy_names": []
+    },
+    {
+      "source_id": 652,
+      "id": 60605,
+      "district_id": 606,
+      "postal_code": "60602",
+      "legacy_names": []
+    },
+    {
+      "source_id": 653,
+      "id": 60606,
+      "district_id": 606,
+      "postal_code": "60604",
+      "legacy_names": []
+    },
+    {
+      "source_id": 654,
+      "id": 60607,
+      "district_id": 606,
+      "postal_code": "60609",
+      "legacy_names": []
+    },
+    {
+      "source_id": 655,
+      "id": 60608,
+      "district_id": 606,
+      "postal_code": "60610",
+      "legacy_names": []
+    },
+    {
+      "source_id": 656,
+      "id": 60609,
+      "district_id": 606,
+      "postal_code": "60605",
+      "legacy_names": []
+    },
+    {
+      "source_id": 657,
+      "id": 60610,
+      "district_id": 606,
+      "postal_code": "60608",
+      "legacy_names": []
+    },
+    {
+      "source_id": 658,
+      "id": 60611,
+      "district_id": 606,
+      "postal_code": "60606",
+      "legacy_names": []
+    },
+    {
+      "source_id": 659,
+      "id": 60701,
+      "district_id": 607,
+      "postal_code": "60704",
+      "legacy_names": []
+    },
+    {
+      "source_id": 660,
+      "id": 60702,
+      "district_id": 607,
+      "postal_code": "60706",
+      "legacy_names": []
+    },
+    {
+      "source_id": 661,
+      "id": 60703,
+      "district_id": 607,
+      "postal_code": "60707",
+      "legacy_names": []
+    },
+    {
+      "source_id": 662,
+      "id": 60704,
+      "district_id": 607,
+      "postal_code": "60703",
+      "legacy_names": []
+    },
+    {
+      "source_id": 663,
+      "id": 60705,
+      "district_id": 607,
+      "postal_code": "60702",
+      "legacy_names": []
+    },
+    {
+      "source_id": 664,
+      "id": 60706,
+      "district_id": 607,
+      "postal_code": "60701",
+      "legacy_names": []
+    },
+    {
+      "source_id": 665,
+      "id": 60707,
+      "district_id": 607,
+      "postal_code": "60705",
+      "legacy_names": []
+    },
+    {
+      "source_id": 666,
+      "id": 70301,
+      "district_id": 703,
+      "postal_code": "70303",
+      "legacy_names": []
+    },
+    {
+      "source_id": 667,
+      "id": 70302,
+      "district_id": 703,
+      "postal_code": "70307",
+      "legacy_names": []
+    },
+    {
+      "source_id": 668,
+      "id": 70303,
+      "district_id": 703,
+      "postal_code": "70304",
+      "legacy_names": []
+    },
+    {
+      "source_id": 669,
+      "id": 70304,
+      "district_id": 703,
+      "postal_code": "70308",
+      "legacy_names": []
+    },
+    {
+      "source_id": 670,
+      "id": 70305,
+      "district_id": 703,
+      "postal_code": "70306",
+      "legacy_names": []
+    },
+    {
+      "source_id": 671,
+      "id": 70306,
+      "district_id": 703,
+      "postal_code": "70309",
+      "legacy_names": []
+    },
+    {
+      "source_id": 672,
+      "id": 70307,
+      "district_id": 703,
+      "postal_code": "70302",
+      "legacy_names": []
+    },
+    {
+      "source_id": 673,
+      "id": 70308,
+      "district_id": 703,
+      "postal_code": "70301",
+      "legacy_names": []
+    },
+    {
+      "source_id": 674,
+      "id": 70309,
+      "district_id": 703,
+      "postal_code": "70305",
+      "legacy_names": []
+    },
+    {
+      "source_id": 675,
+      "id": 70201,
+      "district_id": 702,
+      "postal_code": "70206",
+      "legacy_names": []
+    },
+    {
+      "source_id": 676,
+      "id": 70202,
+      "district_id": 702,
+      "postal_code": "70202",
+      "legacy_names": []
+    },
+    {
+      "source_id": 677,
+      "id": 70203,
+      "district_id": 702,
+      "postal_code": "70209",
+      "legacy_names": []
+    },
+    {
+      "source_id": 678,
+      "id": 70204,
+      "district_id": 702,
+      "postal_code": "70211",
+      "legacy_names": []
+    },
+    {
+      "source_id": 679,
+      "id": 70205,
+      "district_id": 702,
+      "postal_code": "70210",
+      "legacy_names": []
+    },
+    {
+      "source_id": 680,
+      "id": 70206,
+      "district_id": 702,
+      "postal_code": "70207",
+      "legacy_names": []
+    },
+    {
+      "source_id": 681,
+      "id": 70207,
+      "district_id": 702,
+      "postal_code": "70212",
+      "legacy_names": []
+    },
+    {
+      "source_id": 682,
+      "id": 70208,
+      "district_id": 702,
+      "postal_code": "70205",
+      "legacy_names": []
+    },
+    {
+      "source_id": 683,
+      "id": 70209,
+      "district_id": 702,
+      "postal_code": "70208",
+      "legacy_names": []
+    },
+    {
+      "source_id": 684,
+      "id": 70210,
+      "district_id": 702,
+      "postal_code": "70204",
+      "legacy_names": []
+    },
+    {
+      "source_id": 685,
+      "id": 70211,
+      "district_id": 702,
+      "postal_code": "70203",
+      "legacy_names": []
+    },
+    {
+      "source_id": 686,
+      "id": 70212,
+      "district_id": 702,
+      "postal_code": "70201",
+      "legacy_names": []
+    },
+    {
+      "source_id": 687,
+      "id": 70101,
+      "district_id": 701,
+      "postal_code": "70106",
+      "legacy_names": []
+    },
+    {
+      "source_id": 688,
+      "id": 70102,
+      "district_id": 701,
+      "postal_code": "70109",
+      "legacy_names": []
+    },
+    {
+      "source_id": 689,
+      "id": 70103,
+      "district_id": 701,
+      "postal_code": "70108",
+      "legacy_names": []
+    },
+    {
+      "source_id": 690,
+      "id": 70104,
+      "district_id": 701,
+      "postal_code": "70103",
+      "legacy_names": []
+    },
+    {
+      "source_id": 691,
+      "id": 70105,
+      "district_id": 701,
+      "postal_code": "70107",
+      "legacy_names": []
+    },
+    {
+      "source_id": 692,
+      "id": 70106,
+      "district_id": 701,
+      "postal_code": "70104",
+      "legacy_names": []
+    },
+    {
+      "source_id": 693,
+      "id": 70107,
+      "district_id": 701,
+      "postal_code": "70105",
+      "legacy_names": []
+    },
+    {
+      "source_id": 694,
+      "id": 70108,
+      "district_id": 701,
+      "postal_code": "70101",
+      "legacy_names": []
+    },
+    {
+      "source_id": 695,
+      "id": 70109,
+      "district_id": 701,
+      "postal_code": "70102",
+      "legacy_names": []
+    },
+    {
+      "source_id": 696,
+      "id": 70401,
+      "district_id": 704,
+      "postal_code": "70405",
+      "legacy_names": []
+    },
+    {
+      "source_id": 697,
+      "id": 70402,
+      "district_id": 704,
+      "postal_code": "70409",
+      "legacy_names": []
+    },
+    {
+      "source_id": 698,
+      "id": 70403,
+      "district_id": 704,
+      "postal_code": "70408",
+      "legacy_names": []
+    },
+    {
+      "source_id": 699,
+      "id": 70404,
+      "district_id": 704,
+      "postal_code": "70403",
+      "legacy_names": []
+    },
+    {
+      "source_id": 700,
+      "id": 70405,
+      "district_id": 704,
+      "postal_code": "70402",
+      "legacy_names": []
+    },
+    {
+      "source_id": 701,
+      "id": 70406,
+      "district_id": 704,
+      "postal_code": "70401",
+      "legacy_names": []
+    },
+    {
+      "source_id": 702,
+      "id": 70407,
+      "district_id": 704,
+      "postal_code": "70410",
+      "legacy_names": []
+    },
+    {
+      "source_id": 703,
+      "id": 70408,
+      "district_id": 704,
+      "postal_code": "70406",
+      "legacy_names": []
+    },
+    {
+      "source_id": 704,
+      "id": 70409,
+      "district_id": 704,
+      "postal_code": "70404",
+      "legacy_names": []
+    },
+    {
+      "source_id": 705,
+      "id": 70410,
+      "district_id": 704,
+      "postal_code": "70407",
+      "legacy_names": []
+    },
+    {
+      "source_id": 706,
+      "id": 70601,
+      "district_id": 706,
+      "postal_code": "70605",
+      "legacy_names": [
+        "Dipayal Silgadhi"
+      ]
+    },
+    {
+      "source_id": 707,
+      "id": 70602,
+      "district_id": 706,
+      "postal_code": "70604",
+      "legacy_names": [
+        "Shikhar"
+      ]
+    },
+    {
+      "source_id": 708,
+      "id": 70603,
+      "district_id": 706,
+      "postal_code": "70603",
+      "legacy_names": [
+        "Adarsha"
+      ]
+    },
+    {
+      "source_id": 709,
+      "id": 70604,
+      "district_id": 706,
+      "postal_code": "70601",
+      "legacy_names": [
+        "Purbichowki"
+      ]
+    },
+    {
+      "source_id": 710,
+      "id": 70605,
+      "district_id": 706,
+      "postal_code": "70606",
+      "legacy_names": [
+        "K.I. Singh"
+      ]
+    },
+    {
+      "source_id": 711,
+      "id": 70606,
+      "district_id": 706,
+      "postal_code": "70609",
+      "legacy_names": []
+    },
+    {
+      "source_id": 712,
+      "id": 70607,
+      "district_id": 706,
+      "postal_code": "70602",
+      "legacy_names": []
+    },
+    {
+      "source_id": 713,
+      "id": 70608,
+      "district_id": 706,
+      "postal_code": "70607",
+      "legacy_names": []
+    },
+    {
+      "source_id": 714,
+      "id": 70609,
+      "district_id": 706,
+      "postal_code": "70608",
+      "legacy_names": []
+    },
+    {
+      "source_id": 715,
+      "id": 70701,
+      "district_id": 707,
+      "postal_code": "70702",
+      "legacy_names": []
+    },
+    {
+      "source_id": 716,
+      "id": 70702,
+      "district_id": 707,
+      "postal_code": "70705",
+      "legacy_names": []
+    },
+    {
+      "source_id": 717,
+      "id": 70703,
+      "district_id": 707,
+      "postal_code": "70710",
+      "legacy_names": []
+    },
+    {
+      "source_id": 718,
+      "id": 70704,
+      "district_id": 707,
+      "postal_code": "70703",
+      "legacy_names": []
+    },
+    {
+      "source_id": 719,
+      "id": 70705,
+      "district_id": 707,
+      "postal_code": "70709",
+      "legacy_names": []
+    },
+    {
+      "source_id": 720,
+      "id": 70706,
+      "district_id": 707,
+      "postal_code": "70707",
+      "legacy_names": []
+    },
+    {
+      "source_id": 721,
+      "id": 70707,
+      "district_id": 707,
+      "postal_code": "70706",
+      "legacy_names": []
+    },
+    {
+      "source_id": 722,
+      "id": 70708,
+      "district_id": 707,
+      "postal_code": "70708",
+      "legacy_names": []
+    },
+    {
+      "source_id": 723,
+      "id": 70709,
+      "district_id": 707,
+      "postal_code": "70704",
+      "legacy_names": []
+    },
+    {
+      "source_id": 724,
+      "id": 70710,
+      "district_id": 707,
+      "postal_code": "70701",
+      "legacy_names": []
+    },
+    {
+      "source_id": 725,
+      "id": 70501,
+      "district_id": 705,
+      "postal_code": "70501",
+      "legacy_names": []
+    },
+    {
+      "source_id": 726,
+      "id": 70502,
+      "district_id": 705,
+      "postal_code": "70506",
+      "legacy_names": []
+    },
+    {
+      "source_id": 727,
+      "id": 70503,
+      "district_id": 705,
+      "postal_code": "70507",
+      "legacy_names": []
+    },
+    {
+      "source_id": 728,
+      "id": 70504,
+      "district_id": 705,
+      "postal_code": "70504",
+      "legacy_names": []
+    },
+    {
+      "source_id": 729,
+      "id": 70505,
+      "district_id": 705,
+      "postal_code": "70503",
+      "legacy_names": []
+    },
+    {
+      "source_id": 730,
+      "id": 70506,
+      "district_id": 705,
+      "postal_code": "70502",
+      "legacy_names": []
+    },
+    {
+      "source_id": 731,
+      "id": 70507,
+      "district_id": 705,
+      "postal_code": "70505",
+      "legacy_names": []
+    },
+    {
+      "source_id": 732,
+      "id": 70901,
+      "district_id": 709,
+      "postal_code": "70904",
+      "legacy_names": []
+    },
+    {
+      "source_id": 733,
+      "id": 70902,
+      "district_id": 709,
+      "postal_code": "70907",
+      "legacy_names": []
+    },
+    {
+      "source_id": 734,
+      "id": 70903,
+      "district_id": 709,
+      "postal_code": "70903",
+      "legacy_names": []
+    },
+    {
+      "source_id": 735,
+      "id": 70904,
+      "district_id": 709,
+      "postal_code": "70905",
+      "legacy_names": []
+    },
+    {
+      "source_id": 736,
+      "id": 70905,
+      "district_id": 709,
+      "postal_code": "70902",
+      "legacy_names": []
+    },
+    {
+      "source_id": 737,
+      "id": 70906,
+      "district_id": 709,
+      "postal_code": "70908",
+      "legacy_names": []
+    },
+    {
+      "source_id": 738,
+      "id": 70907,
+      "district_id": 709,
+      "postal_code": "70901",
+      "legacy_names": []
+    },
+    {
+      "source_id": 739,
+      "id": 70908,
+      "district_id": 709,
+      "postal_code": "70906",
+      "legacy_names": []
+    },
+    {
+      "source_id": 740,
+      "id": 70909,
+      "district_id": 709,
+      "postal_code": "70909",
+      "legacy_names": []
+    },
+    {
+      "source_id": 741,
+      "id": 70807,
+      "district_id": 708,
+      "postal_code": "70808",
+      "legacy_names": []
+    },
+    {
+      "source_id": 742,
+      "id": 70808,
+      "district_id": 708,
+      "postal_code": "70812",
+      "legacy_names": []
+    },
+    {
+      "source_id": 743,
+      "id": 70809,
+      "district_id": 708,
+      "postal_code": "70809",
+      "legacy_names": []
+    },
+    {
+      "source_id": 744,
+      "id": 70810,
+      "district_id": 708,
+      "postal_code": "70806",
+      "legacy_names": []
+    },
+    {
+      "source_id": 745,
+      "id": 70811,
+      "district_id": 708,
+      "postal_code": "70801",
+      "legacy_names": []
+    },
+    {
+      "source_id": 746,
+      "id": 70812,
+      "district_id": 708,
+      "postal_code": "70802",
+      "legacy_names": []
+    },
+    {
+      "source_id": 747,
+      "id": 70802,
+      "district_id": 708,
+      "postal_code": "70810",
+      "legacy_names": [
+        "Tikapur"
+      ]
+    },
+    {
+      "source_id": 748,
+      "id": 70803,
+      "district_id": 708,
+      "postal_code": "70805",
+      "legacy_names": [
+        "Ghodaghodi"
+      ]
+    },
+    {
+      "source_id": 749,
+      "id": 70804,
+      "district_id": 708,
+      "postal_code": "70807",
+      "legacy_names": [
+        "Lamki Chuha"
+      ]
+    },
+    {
+      "source_id": 750,
+      "id": 70805,
+      "district_id": 708,
+      "postal_code": "70811",
+      "legacy_names": [
+        "Bhajani"
+      ]
+    },
+    {
+      "source_id": 751,
+      "id": 70813,
+      "district_id": 708,
+      "postal_code": "70803",
+      "legacy_names": []
+    },
+    {
+      "source_id": 752,
+      "id": 70806,
+      "district_id": 708,
+      "postal_code": "70804",
+      "legacy_names": [
+        "Gauriganga"
+      ]
+    },
+    {
+      "source_id": 753,
+      "id": 70801,
+      "district_id": 708,
+      "postal_code": "70813",
+      "legacy_names": [
+        "Dhangadhi"
+      ]
+    }
+  ],
+  "retired_ids": [
+    40506,
+    40507,
+    40508,
+    10202,
+    10203,
+    10204,
+    10205,
+    10206,
+    10207,
+    10208,
+    10209,
+    10210,
+    10211,
+    10212,
+    10213,
+    10214,
+    10215,
+    10216,
+    10217,
+    10218,
+    10219,
+    10220,
+    10221,
+    10222,
+    10223,
+    10224,
+    10225,
+    10226,
+    10227,
+    10228,
+    10229,
+    10230,
+    10231,
+    10232,
+    10233,
+    10234,
+    10235,
+    10236,
+    10237
+  ],
+  "id_corrections": [
+    {
+      "district_id": 509,
+      "old_id": 20503,
+      "new_id": 50910,
+      "reason": "Pre-existing ID 20503 was also used by Harion in Sarlahi. Buddhabhumi requires a distinct stable ID."
+    }
+  ]
+}

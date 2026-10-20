@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 11402,
+    "municipality": "Katari",
+    "district_id": 114,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1140701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1140702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1140703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1140704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1140705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1140706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1140707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1140708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1140709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1140710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1140711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "1140712",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "1140713",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "1140714",
+      "villages_toles": []
+    }
+  ]
+}

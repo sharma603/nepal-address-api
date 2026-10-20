@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 30103,
+    "municipality": "Sunkoshi",
+    "district_id": 301,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3110601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3110602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3110603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3110604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3110605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3110606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3110607",
+      "villages_toles": []
+    }
+  ]
+}

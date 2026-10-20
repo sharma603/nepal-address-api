@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 10503,
+    "municipality": "Belbari",
+    "district_id": 105,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1120501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1120502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1120503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1120504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1120505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1120506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1120507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1120508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1120509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1120510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1120511",
+      "villages_toles": []
+    }
+  ]
+}

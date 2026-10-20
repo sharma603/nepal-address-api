@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 20802,
+    "municipality": "Bahudarmai",
+    "district_id": 208,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2080801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2080802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2080803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2080804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2080805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2080806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2080807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2080808",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2080809",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 406,
+    "district": "Lamjung",
+    "province_id": 4,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 40601,
+      "name": "Besisahar",
+      "name_np": "बेसीशहर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 11,
+      "postal_code": "40605",
+      "source_id": 419,
+      "aliases": [],
+      "website": "http://www.besishaharmun.gov.np/"
+    },
+    {
+      "id": 40602,
+      "name": "Madhya Nepal",
+      "name_np": "मध्यनेपाल",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 10,
+      "postal_code": "40604",
+      "source_id": 420,
+      "aliases": [],
+      "website": "http://www.madhyanepalmun.gov.np/"
+    },
+    {
+      "id": 40603,
+      "name": "Rainas",
+      "name_np": "रारइनास",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 10,
+      "postal_code": "40607",
+      "source_id": 421,
+      "aliases": [],
+      "website": "http://www.rainasmun.gov.np/"
+    },
+    {
+      "id": 40604,
+      "name": "Sundarbazar",
+      "name_np": "सुन्दरबजार",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 11,
+      "postal_code": "40606",
+      "source_id": 422,
+      "aliases": [],
+      "website": "http://www.sundarbazarmun.gov.np/"
+    },
+    {
+      "id": 40605,
+      "name": "Dordi",
+      "name_np": "दोर्दी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "40601",
+      "source_id": 423,
+      "aliases": [],
+      "website": "http://www.dordimun.gov.np/"
+    },
+    {
+      "id": 40606,
+      "name": "Dudhpokhari",
+      "name_np": "दूधपोखरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 6,
+      "postal_code": "40608",
+      "source_id": 424,
+      "aliases": [],
+      "website": "http://www.dudhpokharimun.gov.np/"
+    },
+    {
+      "id": 40607,
+      "name": "Kwhlosothar",
+      "name_np": "क्व्होलासोथार",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "40603",
+      "source_id": 425,
+      "aliases": [],
+      "website": "http://www.kwholasotharmun.gov.np/"
+    },
+    {
+      "id": 40608,
+      "name": "Marsyangdi",
+      "name_np": "मर्स्याङदी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 406,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "40602",
+      "source_id": 426,
+      "aliases": [],
+      "website": "http://www.marsyangdimun.gov.np/"
+    }
+  ]
+}

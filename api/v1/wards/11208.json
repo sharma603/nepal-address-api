@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 11208,
+    "municipality": "Likhu",
+    "district_id": 112,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1040501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1040502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1040503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1040504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1040505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1040506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1040507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1040508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1040509",
+      "villages_toles": []
+    }
+  ]
+}

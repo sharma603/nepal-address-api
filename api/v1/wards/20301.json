@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "municipality_id": 20301,
+    "municipality": "Janakpurdham",
+    "district_id": 203,
+    "province_id": 2,
+    "type": "Sub-Metropolitan City",
+    "total_wards": 25,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2031501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2031502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2031503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2031504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2031505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2031506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2031507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2031508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2031509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2031510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2031511",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2031512",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2031513",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2031514",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2031515",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2031516",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2031517",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2031518",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2031519",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2031520",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2031521",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2031522",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2031523",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2031524",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "2031525",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 50909,
+    "municipality": "Bijaynagar",
+    "district_id": 509,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5090401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5090402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5090403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5090404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5090405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5090406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5090407",
+      "villages_toles": []
+    }
+  ]
+}

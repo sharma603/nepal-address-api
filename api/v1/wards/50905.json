@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 50905,
+    "municipality": "Maharajgunj",
+    "district_id": 509,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5090601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5090602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5090603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5090604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5090605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5090606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5090607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5090608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5090609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5090610",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5090611",
+      "villages_toles": []
+    }
+  ]
+}

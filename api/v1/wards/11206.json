@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 11206,
+    "municipality": "Champadevi",
+    "district_id": 112,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1040601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1040602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1040603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1040604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1040605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1040606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1040607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1040608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1040609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1040610",
+      "villages_toles": []
+    }
+  ]
+}

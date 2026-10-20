@@ -1,74 +1,67 @@
 {
-    "meta": {
-        "municipality_id": 10603,
-        "municipality": "Inaruwa",
-        "type": "Municipality",
-        "district_id": 106,
-        "total_wards": 9
+  "meta": {
+    "municipality_id": 10603,
+    "municipality": "Inaruwa",
+    "district_id": 106,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1130901",
+      "villages_toles": []
     },
-    "wards": [
-        {
-            "ward_no": 1,
-            "villages_toles": [
-                "Inaruwa Bazar",
-                "Koshi Bridge"
-            ]
-        },
-        {
-            "ward_no": 2,
-            "villages_toles": [
-                "Barahakshetra",
-                "Golbazar"
-            ]
-        },
-        {
-            "ward_no": 3,
-            "villages_toles": [
-                "Chatara",
-                "Bhutahi"
-            ]
-        },
-        {
-            "ward_no": 4,
-            "villages_toles": [
-                "Harinagara",
-                "Rampur"
-            ]
-        },
-        {
-            "ward_no": 5,
-            "villages_toles": [
-                "Madhumalla",
-                "Phulbari"
-            ]
-        },
-        {
-            "ward_no": 6,
-            "villages_toles": [
-                "Koshi Tappu",
-                "Laukahi"
-            ]
-        },
-        {
-            "ward_no": 7,
-            "villages_toles": [
-                "Sundarpur",
-                "Shantipur"
-            ]
-        },
-        {
-            "ward_no": 8,
-            "villages_toles": [
-                "Laxmipur",
-                "Rajapur"
-            ]
-        },
-        {
-            "ward_no": 9,
-            "villages_toles": [
-                "Devisthan",
-                "Haripur"
-            ]
-        }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "1130902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1130903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1130904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1130905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1130906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1130907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1130908",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1130909",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1130910",
+      "villages_toles": []
+    }
+  ]
 }

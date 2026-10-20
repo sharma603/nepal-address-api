@@ -1,55 +1,142 @@
 {
-    "meta": {
-        "district_id": 706,
-        "district": "Doti",
-        "province_id": 7,
-        "total": 9
+  "meta": {
+    "district_id": 706,
+    "district": "Doti",
+    "province_id": 7,
+    "total": 9
+  },
+  "municipalities": [
+    {
+      "id": 70601,
+      "name": "Dipayal Silgadhi",
+      "name_np": "दिपायल सिलगढी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 9,
+      "postal_code": "70605",
+      "source_id": 706,
+      "aliases": [],
+      "website": "http://www.dipayalsilgadhimun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 70601,
-            "name": "Dipayal Silgadhi",
-            "name_np": "दिपायल सिलगढी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 706,
-            "wards": 9
-        },
-        {
-            "id": 70602,
-            "name": "Shikhar",
-            "name_np": "शिखर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 706,
-            "wards": 11
-        },
-        {
-            "id": 70603,
-            "name": "Adarsha",
-            "name_np": "आदर्श",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 706,
-            "wards": 7
-        },
-        {
-            "id": 70604,
-            "name": "Purbichowki",
-            "name_np": "पूर्वीचौकी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 706,
-            "wards": 7
-        },
-        {
-            "id": 70605,
-            "name": "K.I. Singh",
-            "name_np": "के.आई. सिंह",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 706,
-            "wards": 7
-        }
-    ]
+    {
+      "id": 70602,
+      "name": "Shikhar",
+      "name_np": "शिखर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 11,
+      "postal_code": "70604",
+      "source_id": 707,
+      "aliases": [],
+      "website": "http://www.shikharmun.gov.np/"
+    },
+    {
+      "id": 70603,
+      "name": "Aadarsha",
+      "name_np": "आदर्श",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 7,
+      "postal_code": "70603",
+      "source_id": 708,
+      "aliases": [
+        "Adarsha"
+      ],
+      "website": "http://www.aadarshamun.gov.np/"
+    },
+    {
+      "id": 70604,
+      "name": "Purbichauki",
+      "name_np": "पूर्वीचौकी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 7,
+      "postal_code": "70601",
+      "source_id": 709,
+      "aliases": [
+        "Purbichowki"
+      ],
+      "website": "http://www.purbichaukimun.gov.np/"
+    },
+    {
+      "id": 70605,
+      "name": "K.I.Singh",
+      "name_np": "के.आई.सिं.",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 7,
+      "postal_code": "70606",
+      "source_id": 710,
+      "aliases": [
+        "K.I. Singh"
+      ],
+      "website": "http://www.kisinghmun.gov.np/"
+    },
+    {
+      "id": 70606,
+      "name": "Jorayal",
+      "name_np": "जोरायल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 6,
+      "postal_code": "70609",
+      "source_id": 711,
+      "aliases": [],
+      "website": "http://www.jorayalmun.gov.np/"
+    },
+    {
+      "id": 70607,
+      "name": "Sayal",
+      "name_np": "सायल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 6,
+      "postal_code": "70602",
+      "source_id": 712,
+      "aliases": [],
+      "website": "http://www.sayalmun.gov.np/"
+    },
+    {
+      "id": 70608,
+      "name": "Bogatan-Phudsil",
+      "name_np": "बोगटान फुड्सिल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 7,
+      "postal_code": "70607",
+      "source_id": 713,
+      "aliases": [],
+      "website": "http://www.bogatanmun.gov.np/"
+    },
+    {
+      "id": 70609,
+      "name": "Badikedar",
+      "name_np": "बडीकेदार",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 706,
+      "province_id": 7,
+      "wards": 5,
+      "postal_code": "70608",
+      "source_id": 714,
+      "aliases": [],
+      "website": "http://www.badikedarmun.gov.np/"
+    }
+  ]
 }

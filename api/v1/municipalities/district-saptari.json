@@ -1,163 +1,268 @@
 {
-    "meta": {
-        "district_id": 201,
-        "district": "Saptari",
-        "province_id": 2,
-        "total": 18
+  "meta": {
+    "district_id": 201,
+    "district": "Saptari",
+    "province_id": 2,
+    "total": 18
+  },
+  "municipalities": [
+    {
+      "id": 20105,
+      "name": "Bodebarsain",
+      "name_np": "बोदेबरसाईन",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 10,
+      "postal_code": "20109",
+      "source_id": 241,
+      "aliases": [
+        "Bode Barsain"
+      ],
+      "website": "http://www.bodebarsainmun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 20101,
-            "name": "Rajbiraj",
-            "name_np": "राजविराज",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 16
-        },
-        {
-            "id": 20102,
-            "name": "Hanumannagar Kankalini",
-            "name_np": "हनुमाननगर कंकालिनी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 14
-        },
-        {
-            "id": 20103,
-            "name": "Kanchanrup",
-            "name_np": "कञ्चनरुप",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 12
-        },
-        {
-            "id": 20104,
-            "name": "Dakneshwori",
-            "name_np": "डाक्नेश्वरी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 10
-        },
-        {
-            "id": 20105,
-            "name": "Bode Barsain",
-            "name_np": "बोदे बरसाइन",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 10
-        },
-        {
-            "id": 20106,
-            "name": "Khadak",
-            "name_np": "खडक",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 11
-        },
-        {
-            "id": 20107,
-            "name": "Surunga",
-            "name_np": "सुरुङ्गा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 11
-        },
-        {
-            "id": 20108,
-            "name": "Shambhunath",
-            "name_np": "शम्भुनाथ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 12
-        },
-        {
-            "id": 20109,
-            "name": "Saptakoshi",
-            "name_np": "सप्तकोशी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 201,
-            "wards": 11
-        },
-        {
-            "id": 20110,
-            "name": "Agnisair Krishna Sabaran",
-            "name_np": "अग्नीसाइर कृष्णा सवरन",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 6
-        },
-        {
-            "id": 20111,
-            "name": "Balan-Bihul",
-            "name_np": "बलान-विहुल",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 6
-        },
-        {
-            "id": 20112,
-            "name": "Bishnupur",
-            "name_np": "विष्णुपुर",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 7
-        },
-        {
-            "id": 20113,
-            "name": "Chhinnamasta",
-            "name_np": "छिन्नमस्ता",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 7
-        },
-        {
-            "id": 20114,
-            "name": "Mahadeva",
-            "name_np": "महादेवा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 6
-        },
-        {
-            "id": 20115,
-            "name": "Rupani",
-            "name_np": "रुपनी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 6
-        },
-        {
-            "id": 20116,
-            "name": "Tilathi Koiladi",
-            "name_np": "तिलाठी कोइलाडी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 8
-        },
-        {
-            "id": 20117,
-            "name": "Tirahut",
-            "name_np": "तिरहुत",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 201,
-            "wards": 5
-        }
-    ]
+    {
+      "id": 20104,
+      "name": "Dakneshwori",
+      "name_np": "डाक्नेश्वरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 10,
+      "postal_code": "20110",
+      "source_id": 242,
+      "aliases": [],
+      "website": "http://www.dakneshworimun.gov.np/"
+    },
+    {
+      "id": 20102,
+      "name": "Hanumannagar Kankalini",
+      "name_np": "हनुमाननगर कङ्‌कालिनी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 14,
+      "postal_code": "20116",
+      "source_id": 243,
+      "aliases": [],
+      "website": "http://www.hanumannagarkankalinimun.gov.np/"
+    },
+    {
+      "id": 20103,
+      "name": "Kanchanrup",
+      "name_np": "कञ्चनरुप",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20102",
+      "source_id": 244,
+      "aliases": [],
+      "website": "http://www.kanchanrupmun.gov.np/"
+    },
+    {
+      "id": 20106,
+      "name": "Khadak",
+      "name_np": "खडक",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20106",
+      "source_id": 245,
+      "aliases": [],
+      "website": "http://www.khadakmun.gov.np/"
+    },
+    {
+      "id": 20108,
+      "name": "Shambhunath",
+      "name_np": "शम्भुनाथ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20105",
+      "source_id": 246,
+      "aliases": [],
+      "website": "http://www.shambhunathmun.gov.np/"
+    },
+    {
+      "id": 20109,
+      "name": "Saptakoshi",
+      "name_np": "सप्तकोशी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20101",
+      "source_id": 247,
+      "aliases": [],
+      "website": "http://www.saptakoshimun.gov.np/"
+    },
+    {
+      "id": 20107,
+      "name": "Surunga",
+      "name_np": "सुरुङ्‍गा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20107",
+      "source_id": 248,
+      "aliases": [],
+      "website": "http://www.surungamun.gov.np/"
+    },
+    {
+      "id": 20101,
+      "name": "Rajbiraj",
+      "name_np": "राजविराज",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 16,
+      "postal_code": "20113",
+      "source_id": 249,
+      "aliases": [],
+      "website": "http://www.rajbirajmun.gov.np/"
+    },
+    {
+      "id": 20110,
+      "name": "Agnisaira Krishnasavaran",
+      "name_np": "अग्निसाइर कृष्णासरवन",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20103",
+      "source_id": 250,
+      "aliases": [
+        "Agnisair Krishna Sabaran"
+      ],
+      "website": "http://www.agnisairkrishnasawaranmun.gov.np/"
+    },
+    {
+      "id": 20111,
+      "name": "Balan-Bihul",
+      "name_np": "बलान-बिहुल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20108",
+      "source_id": 251,
+      "aliases": [],
+      "website": "http://www.balanbihulmun.gov.np/"
+    },
+    {
+      "id": 20118,
+      "name": "Rajgadh",
+      "name_np": "राजगढ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20111",
+      "source_id": 252,
+      "aliases": [],
+      "website": "http://www.rajgadhmun.gov.np/"
+    },
+    {
+      "id": 20112,
+      "name": "Bishnupur",
+      "name_np": "बिष्णुपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20112",
+      "source_id": 253,
+      "aliases": [],
+      "website": "http://www.bishnupurmunsaptari.gov.np/"
+    },
+    {
+      "id": 20113,
+      "name": "Chhinnamasta",
+      "name_np": "छिन्नमस्ता",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20118",
+      "source_id": 254,
+      "aliases": [],
+      "website": "http://www.chhinnamastamun.gov.np/"
+    },
+    {
+      "id": 20114,
+      "name": "Mahadeva",
+      "name_np": "महादेवा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20114",
+      "source_id": 255,
+      "aliases": [],
+      "website": "http://www.mahadevamun.gov.np/"
+    },
+    {
+      "id": 20115,
+      "name": "Rupani",
+      "name_np": "रुपनी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20104",
+      "source_id": 256,
+      "aliases": [],
+      "website": "http://www.rupanimun.gov.np/"
+    },
+    {
+      "id": 20116,
+      "name": "Tilathi Koiladi",
+      "name_np": "तिलाठी कोईलाडी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 8,
+      "postal_code": "20117",
+      "source_id": 257,
+      "aliases": [],
+      "website": "http://www.tilathikoiladimun.gov.np/"
+    },
+    {
+      "id": 20117,
+      "name": "Tirhut",
+      "name_np": "तिरहुत",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 201,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20115",
+      "source_id": 258,
+      "aliases": [
+        "Tirahut"
+      ],
+      "website": "http://www.tirahutmun.gov.np/"
+    }
+  ]
 }

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 31111,
+    "municipality": "Rubi Valley",
+    "district_id": 311,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3040101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3040102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3040103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3040104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3040105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3040106",
+      "villages_toles": []
+    }
+  ]
+}

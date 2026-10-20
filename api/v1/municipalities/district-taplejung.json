@@ -1,64 +1,142 @@
 {
-    "meta":  {
-                 "district_id":  101,
-                 "district":  "Taplejung",
-                 "province_id":  1,
-                 "total":  9
-             },
-    "municipalities":  [
-                           {
-                               "id":  10101,
-                               "name":  "Phungling",
-                               "type":  "Municipality",
-                               "wards":  11
-                           },
-                           {
-                               "id":  10102,
-                               "name":  "Aathrai Tribeni",
-                               "type":  "Rural Municipality",
-                               "wards":  5
-                           },
-                           {
-                               "id":  10103,
-                               "name":  "Sidingwa",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           },
-                           {
-                               "id":  10104,
-                               "name":  "Phaktanglung",
-                               "type":  "Rural Municipality",
-                               "wards":  7
-                           },
-                           {
-                               "id":  10105,
-                               "name":  "Mikkwakhola",
-                               "type":  "Rural Municipality",
-                               "wards":  5
-                           },
-                           {
-                               "id":  10106,
-                               "name":  "Meringden",
-                               "type":  "Rural Municipality",
-                               "wards":  6
-                           },
-                           {
-                               "id":  10107,
-                               "name":  "Maiwakhola",
-                               "type":  "Rural Municipality",
-                               "wards":  6
-                           },
-                           {
-                               "id":  10108,
-                               "name":  "Pathibhara Yangwarak",
-                               "type":  "Rural Municipality",
-                               "wards":  6
-                           },
-                           {
-                               "id":  10109,
-                               "name":  "Sirijangha",
-                               "type":  "Rural Municipality",
-                               "wards":  8
-                           }
-                       ]
+  "meta": {
+    "district_id": 101,
+    "district": "Taplejung",
+    "province_id": 1,
+    "total": 9
+  },
+  "municipalities": [
+    {
+      "id": 10101,
+      "name": "Phungling",
+      "name_np": "फुङलिङ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "10106",
+      "source_id": 115,
+      "aliases": [],
+      "website": "http://www.phunglingmun.gov.np/"
+    },
+    {
+      "id": 10109,
+      "name": "Sirijangha",
+      "name_np": "सिरीजङ्घा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 8,
+      "postal_code": "10108",
+      "source_id": 116,
+      "aliases": [],
+      "website": "http://www.sirijanghamun.gov.np/"
+    },
+    {
+      "id": 10102,
+      "name": "Aathrai Triveni",
+      "name_np": "आठराई त्रिवेणी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10105",
+      "source_id": 117,
+      "aliases": [
+        "Aathrai Tribeni"
+      ],
+      "website": "http://www.aathraitribenimun.gov.np/"
+    },
+    {
+      "id": 10108,
+      "name": "Pathibhara Yangwarak",
+      "name_np": "पाथीभरा याङवरक",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10107",
+      "source_id": 118,
+      "aliases": [],
+      "website": "http://www.yangwarakmuntaplejung.gov.np/"
+    },
+    {
+      "id": 10106,
+      "name": "Meringden",
+      "name_np": "मेरिङदेन",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10103",
+      "source_id": 119,
+      "aliases": [],
+      "website": "http://www.meringdenmun.gov.np/"
+    },
+    {
+      "id": 10103,
+      "name": "Sidingwa",
+      "name_np": "सिदिङ्वा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "10109",
+      "source_id": 120,
+      "aliases": [],
+      "website": "http://www.sidingbamun.gov.np/"
+    },
+    {
+      "id": 10104,
+      "name": "Phaktanglung",
+      "name_np": "फक्ताङलुङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "10101",
+      "source_id": 121,
+      "aliases": [],
+      "website": "http://www.phaktanglungmun.gov.np/"
+    },
+    {
+      "id": 10107,
+      "name": "Maiwa Khola",
+      "name_np": "मैवाखोला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10104",
+      "source_id": 122,
+      "aliases": [
+        "Maiwakhola"
+      ],
+      "website": "http://www.maiwakholamun.gov.np/"
+    },
+    {
+      "id": 10105,
+      "name": "Mikwa Khola",
+      "name_np": "मिक्वाखोला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 101,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10102",
+      "source_id": 123,
+      "aliases": [
+        "Mikkwakhola"
+      ],
+      "website": "http://www.mikwakholamun.gov.np/"
+    }
+  ]
 }

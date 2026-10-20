@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 61006,
+    "municipality": "Simta",
+    "district_id": 610,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6100101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6100102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6100103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6100104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6100105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6100106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6100107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6100108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "6100109",
+      "villages_toles": []
+    }
+  ]
+}

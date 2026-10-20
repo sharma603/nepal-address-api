@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "district_id": 505,
+    "district": "Arghakhanchi",
+    "province_id": 5,
+    "total": 6
+  },
+  "municipalities": [
+    {
+      "id": 50501,
+      "name": "Sandhikharka",
+      "name_np": "सन्धिखर्क",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 505,
+      "province_id": 5,
+      "wards": 12,
+      "postal_code": "50504",
+      "source_id": 511,
+      "aliases": [],
+      "website": "http://www.sandhikharkamun.gov.np/"
+    },
+    {
+      "id": 50502,
+      "name": "Sitganga",
+      "name_np": "शितगंगा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 505,
+      "province_id": 5,
+      "wards": 14,
+      "postal_code": "50506",
+      "source_id": 512,
+      "aliases": [],
+      "website": "http://www.shitagangamun.gov.np/"
+    },
+    {
+      "id": 50503,
+      "name": "Bhumikasthan",
+      "name_np": "भूमिकास्थान",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 505,
+      "province_id": 5,
+      "wards": 10,
+      "postal_code": "50503",
+      "source_id": 513,
+      "aliases": [],
+      "website": "http://www.bhumikasthanmun.gov.np/"
+    },
+    {
+      "id": 50504,
+      "name": "Chhatradev",
+      "name_np": "छत्रदेव",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 505,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "50501",
+      "source_id": 514,
+      "aliases": [],
+      "website": "http://www.chhatradevmun.gov.np/"
+    },
+    {
+      "id": 50505,
+      "name": "Panini",
+      "name_np": "पाणिनी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 505,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "50505",
+      "source_id": 515,
+      "aliases": [],
+      "website": "http://www.paninimun.gov.np/"
+    },
+    {
+      "id": 50506,
+      "name": "Malarani",
+      "name_np": "मालारानी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 505,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "50502",
+      "source_id": 516,
+      "aliases": [],
+      "website": "http://www.malaranimun.gov.np/"
+    }
+  ]
+}

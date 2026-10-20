@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 10508,
+    "municipality": "Ratuwamai",
+    "district_id": 105,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1120901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1120902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1120903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1120904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1120905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1120906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1120907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1120908",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1120909",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1120910",
+      "villages_toles": []
+    }
+  ]
+}

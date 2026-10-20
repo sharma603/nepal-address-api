@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 20214,
+    "municipality": "Lakshmipur Patari",
+    "district_id": 202,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2021101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2021102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2021103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2021104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2021105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2021106",
+      "villages_toles": []
+    }
+  ]
+}

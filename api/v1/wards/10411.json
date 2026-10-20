@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 10411,
+    "municipality": "Kachankawal",
+    "district_id": 104,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1111501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1111502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1111503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1111504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1111505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1111506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1111507",
+      "villages_toles": []
+    }
+  ]
+}

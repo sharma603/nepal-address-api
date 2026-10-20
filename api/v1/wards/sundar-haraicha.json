@@ -1,20 +1,77 @@
 {
-    "meta": {
-        "municipality_id": 10502,
-        "municipality": "Sundar Haraicha",
-        "type": "Municipality",
-        "district_id": 105,
-        "total_wards": 9
+  "meta": {
+    "municipality_id": 10502,
+    "municipality": "Sundar Haraicha",
+    "district_id": 105,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1120401",
+      "villages_toles": []
     },
-    "wards": [
-        { "ward_no": 1, "villages_toles": ["Haraicha Bazar", "Katahari"] },
-        { "ward_no": 2, "villages_toles": ["Phulbari", "Baijanathpur"] },
-        { "ward_no": 3, "villages_toles": ["Dhanushadham", "Kamala"] },
-        { "ward_no": 4, "villages_toles": ["Sundarpur", "Kerabari"] },
-        { "ward_no": 5, "villages_toles": ["Madhuban", "Haraicha Chowk"] },
-        { "ward_no": 6, "villages_toles": ["Beldangi", "Majhgachhi"] },
-        { "ward_no": 7, "villages_toles": ["Laxmipur", "Dhusari"] },
-        { "ward_no": 8, "villages_toles": ["Shreepur", "Mahuwa"] },
-        { "ward_no": 9, "villages_toles": ["Rajarani", "Devisthan"] }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "1120402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1120403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1120404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1120405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1120406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1120407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1120408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1120409",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1120410",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1120411",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "1120412",
+      "villages_toles": []
+    }
+  ]
 }

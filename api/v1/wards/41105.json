@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 41105,
+    "municipality": "Bareng",
+    "district_id": 411,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4110901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4110902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4110903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4110904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4110905",
+      "villages_toles": []
+    }
+  ]
+}

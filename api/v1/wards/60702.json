@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "municipality_id": 60702,
+    "municipality": "Bheri",
+    "district_id": 607,
+    "province_id": 6,
+    "type": "Municipality",
+    "total_wards": 13,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6070601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6070602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6070603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6070604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6070605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6070606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6070607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6070608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "6070609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "6070610",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "6070611",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "6070612",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "6070613",
+      "villages_toles": []
+    }
+  ]
+}

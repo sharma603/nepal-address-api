@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 60607,
+    "municipality": "Bhagawatimai",
+    "district_id": 606,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6060901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6060902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6060903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6060904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6060905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6060906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6060907",
+      "villages_toles": []
+    }
+  ]
+}

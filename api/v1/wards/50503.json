@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 50503,
+    "municipality": "Bhumikasthan",
+    "district_id": 505,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5050301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5050302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5050303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5050304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5050305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5050306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5050307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5050308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5050309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5050310",
+      "villages_toles": []
+    }
+  ]
+}

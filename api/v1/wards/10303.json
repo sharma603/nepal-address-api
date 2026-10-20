@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 10303,
+    "municipality": "Mai",
+    "district_id": 103,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1100801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1100802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1100803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1100804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1100805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1100806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1100807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1100808",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1100809",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1100810",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 51203,
+    "municipality": "Madhuwan",
+    "district_id": 512,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5120601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5120602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5120603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5120604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5120605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5120606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5120607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5120608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5120609",
+      "villages_toles": []
+    }
+  ]
+}

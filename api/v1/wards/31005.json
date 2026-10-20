@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 31005,
+    "municipality": "Uttargaya",
+    "district_id": 310,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3030301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3030302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3030303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3030304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3030305",
+      "villages_toles": []
+    }
+  ]
+}

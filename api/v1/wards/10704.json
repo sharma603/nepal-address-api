@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 10704,
+    "municipality": "Sangurigadhi",
+    "district_id": 107,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1070601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1070602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1070603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1070604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1070605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1070606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1070607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1070608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1070609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1070610",
+      "villages_toles": []
+    }
+  ]
+}

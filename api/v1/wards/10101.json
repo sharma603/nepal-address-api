@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 10101,
+    "municipality": "Phungling",
+    "district_id": 101,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1010601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1010602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1010603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1010604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1010605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1010606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1010607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1010608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1010609",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1010610",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "1010611",
+      "villages_toles": []
+    }
+  ]
+}

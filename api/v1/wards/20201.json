@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "municipality_id": 20201,
+    "municipality": "Siraha",
+    "district_id": 202,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 22,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2021701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2021702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2021703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2021704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2021705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2021706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2021707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2021708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2021709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2021710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2021711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2021712",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2021713",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2021714",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2021715",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2021716",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2021717",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2021718",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2021719",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2021720",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2021721",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2021722",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,82 +1,206 @@
 {
-    "meta": {
-        "district_id": 208,
-        "district": "Parsa",
-        "province_id": 2,
-        "total": 14
+  "meta": {
+    "district_id": 208,
+    "district": "Parsa",
+    "province_id": 2,
+    "total": 14
+  },
+  "municipalities": [
+    {
+      "id": 20801,
+      "name": "Birgunj",
+      "name_np": "बिरगंज",
+      "type": "Metropolitan City",
+      "type_np": "महानगरपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 32,
+      "postal_code": "20807",
+      "source_id": 138,
+      "aliases": [],
+      "website": "http://www.birgunjmun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 20801,
-            "name": "Birgunj",
-            "name_np": "वीरगञ्ज",
-            "type": "Metropolitan City",
-            "type_np": "महानगरपालिका",
-            "district_id": 208,
-            "wards": 32
-        },
-        {
-            "id": 20802,
-            "name": "Bahudarmai",
-            "name_np": "बहुदरमाई",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 208,
-            "wards": 9
-        },
-        {
-            "id": 20803,
-            "name": "Parsagadhi",
-            "name_np": "पर्सागढी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 208,
-            "wards": 9
-        },
-        {
-            "id": 20804,
-            "name": "Pokhariya",
-            "name_np": "पोखरिया",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 208,
-            "wards": 10
-        },
-        {
-            "id": 20805,
-            "name": "Bindabasini",
-            "name_np": "विन्दवासिनी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 208,
-            "wards": 5
-        },
-        {
-            "id": 20806,
-            "name": "Chhipaharmai",
-            "name_np": "छिपहरमाई",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 208,
-            "wards": 5
-        },
-        {
-            "id": 20807,
-            "name": "Jagarnathpur",
-            "name_np": "जगरनाथपुर",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 208,
-            "wards": 6
-        },
-        {
-            "id": 20808,
-            "name": "Jirabhawani",
-            "name_np": "जिराभवानी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 208,
-            "wards": 5
-        }
-    ]
+    {
+      "id": 20802,
+      "name": "Bahudarmai",
+      "name_np": "बहुदरमाई",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20808",
+      "source_id": 139,
+      "aliases": [],
+      "website": "http://www.bahudarmaimun.gov.np/"
+    },
+    {
+      "id": 20803,
+      "name": "Parsagadhi",
+      "name_np": "पर्सागढी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20806",
+      "source_id": 140,
+      "aliases": [],
+      "website": "http://www.parsagadhimun.gov.np/"
+    },
+    {
+      "id": 20804,
+      "name": "Pokhariya",
+      "name_np": "पोखरिया",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 10,
+      "postal_code": "20809",
+      "source_id": 141,
+      "aliases": [],
+      "website": "http://www.pokhariyamun.gov.np/"
+    },
+    {
+      "id": 20805,
+      "name": "Bindabasini",
+      "name_np": "बिन्दबासिनी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20814",
+      "source_id": 142,
+      "aliases": [],
+      "website": "http://www.bindabasinimun.gov.np/"
+    },
+    {
+      "id": 20809,
+      "name": "Dhobini",
+      "name_np": "धोबीनी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20811",
+      "source_id": 143,
+      "aliases": [],
+      "website": "http://www.dhobinimun.gov.np/"
+    },
+    {
+      "id": 20806,
+      "name": "Chhipaharmai",
+      "name_np": "छिपहरमाई",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20812",
+      "source_id": 144,
+      "aliases": [],
+      "website": "http://www.chhipaharmaimun.gov.np/"
+    },
+    {
+      "id": 20807,
+      "name": "Jagarnathpur",
+      "name_np": "जगरनाथपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20803",
+      "source_id": 145,
+      "aliases": [],
+      "website": "http://www.jagarnathpurmun.gov.np/"
+    },
+    {
+      "id": 20808,
+      "name": "Jirabhawani",
+      "name_np": "जिरा भवानी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20802",
+      "source_id": 146,
+      "aliases": [],
+      "website": "http://www.jirabhawanimun.gov.np/"
+    },
+    {
+      "id": 20810,
+      "name": "Kalikamai",
+      "name_np": "कालिकामाई",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20810",
+      "source_id": 147,
+      "aliases": [],
+      "website": "http://www.kalikamaimun.gov.np/"
+    },
+    {
+      "id": 20811,
+      "name": "Pakaha Mainpur",
+      "name_np": "पकाहा मैनपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20813",
+      "source_id": 148,
+      "aliases": [],
+      "website": "http://www.pakahamainpurmun.gov.np/"
+    },
+    {
+      "id": 20812,
+      "name": "Paterwa Sugauli",
+      "name_np": "पटेर्वा सुगौली",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20804",
+      "source_id": 149,
+      "aliases": [],
+      "website": "http://www.paterwasugaulimun.gov.np/"
+    },
+    {
+      "id": 20813,
+      "name": "Sakhuwa Prasauni",
+      "name_np": "सखुवा प्रसौनी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20805",
+      "source_id": 150,
+      "aliases": [],
+      "website": "http://www.sakhuwaprasaunimun.gov.np/"
+    },
+    {
+      "id": 20814,
+      "name": "Thori",
+      "name_np": "ठोरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 208,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20801",
+      "source_id": 151,
+      "aliases": [],
+      "website": "http://www.thorimun.gov.np/"
+    }
+  ]
 }

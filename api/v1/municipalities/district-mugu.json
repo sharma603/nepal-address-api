@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "district_id": 602,
+    "district": "Mugu",
+    "province_id": 6,
+    "total": 4
+  },
+  "municipalities": [
+    {
+      "id": 60201,
+      "name": "Khatyad",
+      "name_np": "खत्याड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 602,
+      "province_id": 6,
+      "wards": 11,
+      "postal_code": "60204",
+      "source_id": 635,
+      "aliases": [],
+      "website": "http://www.khatyadmun.gov.np/"
+    },
+    {
+      "id": 60202,
+      "name": "Soru",
+      "name_np": "सोरु",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 602,
+      "province_id": 6,
+      "wards": 11,
+      "postal_code": "60203",
+      "source_id": 636,
+      "aliases": [],
+      "website": "http://www.sorumun.gov.np/"
+    },
+    {
+      "id": 60203,
+      "name": "Mugum Karmarong",
+      "name_np": "मुगुम कार्मारोंग",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 602,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60201",
+      "source_id": 637,
+      "aliases": [],
+      "website": "http://www.mugumkarmarongmun.gov.np/"
+    },
+    {
+      "id": 60204,
+      "name": "Chhayanath Rara",
+      "name_np": "छायाँनाथ रारा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 602,
+      "province_id": 6,
+      "wards": 14,
+      "postal_code": "60202",
+      "source_id": 638,
+      "aliases": [],
+      "website": "http://www.chhayanathraramun.gov.np/"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 30309,
+    "municipality": "Tamakoshi",
+    "district_id": 303,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3010601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3010602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3010603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3010604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3010605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3010606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3010607",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,43 +1,177 @@
 {
-    "meta": {
-        "municipality_id": 20801,
-        "municipality": "Birgunj",
-        "type": "Metropolitan City",
-        "district_id": 208,
-        "total_wards": 32
+  "meta": {
+    "municipality_id": 20801,
+    "municipality": "Birgunj",
+    "district_id": 208,
+    "province_id": 2,
+    "type": "Metropolitan City",
+    "total_wards": 32,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2080701",
+      "villages_toles": []
     },
-    "wards": [
-        { "ward_no": 1, "villages_toles": ["Bhanu Chowk", "Maisthan"] },
-        { "ward_no": 2, "villages_toles": ["Chhapakaiya", "Rani Ghat"] },
-        { "ward_no": 3, "villages_toles": ["Murli", "Belwa"] },
-        { "ward_no": 4, "villages_toles": ["Birta", "Link Road"] },
-        { "ward_no": 5, "villages_toles": ["Resham Kothi", "Adarshnagar"] },
-        { "ward_no": 6, "villages_toles": ["Geeta Mandir", "Pani Tanki"] },
-        { "ward_no": 7, "villages_toles": ["Alau", "Sirsiya"] },
-        { "ward_no": 8, "villages_toles": ["Inaruwa", "Ramgadhawa"] },
-        { "ward_no": 9, "villages_toles": ["Parwanipur", "Lipanimal"] },
-        { "ward_no": 10, "villages_toles": ["Basdilwa", "Hussaini Chowk"] },
-        { "ward_no": 11, "villages_toles": ["Sugauwa", "Bindabasini"] },
-        { "ward_no": 12, "villages_toles": ["Dhobini", "Laxmipur"] },
-        { "ward_no": 13, "villages_toles": ["Jagarnathpur", "Pipra"] },
-        { "ward_no": 14, "villages_toles": ["Nagawa", "Bhediharwa"] },
-        { "ward_no": 15, "villages_toles": ["Bahudarmai", "Gamdahawa"] },
-        { "ward_no": 16, "villages_toles": ["Pokhariya", "Basatpur"] },
-        { "ward_no": 17, "villages_toles": ["Bishrampur", "Harpatgunj"] },
-        { "ward_no": 18, "villages_toles": ["Sathiwan", "Hardiya"] },
-        { "ward_no": 19, "villages_toles": ["Bahaurwa", "Chorni"] },
-        { "ward_no": 20, "villages_toles": ["Prasurampur", "Bairiya"] },
-        { "ward_no": 21, "villages_toles": ["Patelnagar", "Sukhsaina"] },
-        { "ward_no": 22, "villages_toles": ["Manihari", "Bhediharwa"] },
-        { "ward_no": 23, "villages_toles": ["Itiyahi", "Sabaithawa"] },
-        { "ward_no": 24, "villages_toles": ["Bagahi", "Pidarari"] },
-        { "ward_no": 25, "villages_toles": ["Khutawa", "Belwa"] },
-        { "ward_no": 26, "villages_toles": ["Pratapiya", "Sankat Mochan"] },
-        { "ward_no": 27, "villages_toles": ["Ramnagar", "Bairiya"] },
-        { "ward_no": 28, "villages_toles": ["Pathlaiya", "Belhi"] },
-        { "ward_no": 29, "villages_toles": ["Ekdara", "Bathanaha"] },
-        { "ward_no": 30, "villages_toles": ["Tilathi", "Sakhuwa"] },
-        { "ward_no": 31, "villages_toles": ["Maheshpur", "Ghurna"] },
-        { "ward_no": 32, "villages_toles": ["Narayanpur", "Sultanpur"] }
-    ]
+    {
+      "ward_no": 2,
+      "postal_code": "2080702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2080703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2080704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2080705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2080706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2080707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2080708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2080709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2080710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2080711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2080712",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2080713",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2080714",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2080715",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2080716",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2080717",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2080718",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2080719",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2080720",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2080721",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2080722",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2080723",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2080724",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "2080725",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 26,
+      "postal_code": "2080726",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 27,
+      "postal_code": "2080727",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 28,
+      "postal_code": "2080728",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 29,
+      "postal_code": "2080729",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 30,
+      "postal_code": "2080730",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 31,
+      "postal_code": "2080731",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 32,
+      "postal_code": "2080732",
+      "villages_toles": []
+    }
+  ]
 }

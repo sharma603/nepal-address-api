@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 70808,
+    "municipality": "Kailari",
+    "district_id": 708,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7081201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7081202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7081203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7081204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7081205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7081206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7081207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7081208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7081209",
+      "villages_toles": []
+    }
+  ]
+}

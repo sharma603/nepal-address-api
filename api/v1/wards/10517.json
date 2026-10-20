@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 10517,
+    "municipality": "Jahada",
+    "district_id": 105,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1121701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1121702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1121703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1121704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1121705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1121706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1121707",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 20710,
+    "municipality": "Pheta",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2070701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2070702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2070703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2070704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2070705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2070706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2070707",
+      "villages_toles": []
+    }
+  ]
+}

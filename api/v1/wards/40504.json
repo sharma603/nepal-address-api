@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 40504,
+    "municipality": "Madi",
+    "district_id": 405,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4050101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4050102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4050103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4050104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4050105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4050106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4050107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "4050108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "4050109",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "4050110",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "4050111",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "4050112",
+      "villages_toles": []
+    }
+  ]
+}

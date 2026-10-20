@@ -1,163 +1,252 @@
 {
-    "meta": {
-        "district_id": 105,
-        "district": "Morang",
-        "province_id": 1,
-        "total": 17
+  "meta": {
+    "district_id": 105,
+    "district": "Morang",
+    "province_id": 1,
+    "total": 17
+  },
+  "municipalities": [
+    {
+      "id": 10502,
+      "name": "Sundar Haraicha",
+      "name_np": "सुन्दरहरैचा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 12,
+      "postal_code": "11204",
+      "source_id": 52,
+      "aliases": [],
+      "website": "http://www.sundarharaichamun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 10501,
-            "name": "Biratnagar",
-            "name_np": "विराटनगर",
-            "type": "Metropolitan City",
-            "type_np": "महानगरपालिका",
-            "district_id": 105,
-            "wards": 19
-        },
-        {
-            "id": 10502,
-            "name": "Sundar Haraicha",
-            "name_np": "सुन्दरहरैचा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 12
-        },
-        {
-            "id": 10503,
-            "name": "Belbari",
-            "name_np": "बेलबारी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 11
-        },
-        {
-            "id": 10504,
-            "name": "Pathari-Sanischare",
-            "name_np": "पथरी शनिश्चरे",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 10
-        },
-        {
-            "id": 10505,
-            "name": "Urlabari",
-            "name_np": "उर्लाबारी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 9
-        },
-        {
-            "id": 10506,
-            "name": "Rangeli",
-            "name_np": "रङेली",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 9
-        },
-        {
-            "id": 10507,
-            "name": "Letang",
-            "name_np": "लेटाङ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 9
-        },
-        {
-            "id": 10508,
-            "name": "Ratuwamai",
-            "name_np": "रतुवामाई",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 10
-        },
-        {
-            "id": 10509,
-            "name": "Sunawarshi",
-            "name_np": "सुनवर्षी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 105,
-            "wards": 9
-        },
-        {
-            "id": 10510,
-            "name": "Kerabari",
-            "name_np": "केराबारी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 10
-        },
-        {
-            "id": 10511,
-            "name": "Miklajung",
-            "name_np": "मिक्लाजुङ",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 9
-        },
-        {
-            "id": 10512,
-            "name": "Kanepokhari",
-            "name_np": "कानेपोखरी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 7
-        },
-        {
-            "id": 10513,
-            "name": "Budhiganga",
-            "name_np": "बुढीगङ्गा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 7
-        },
-        {
-            "id": 10514,
-            "name": "Gramthan",
-            "name_np": "ग्रामथान",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 7
-        },
-        {
-            "id": 10515,
-            "name": "Katahari",
-            "name_np": "कटहरी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 7
-        },
-        {
-            "id": 10516,
-            "name": "Dhanpalthan",
-            "name_np": "धनपालथान",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 7
-        },
-        {
-            "id": 10517,
-            "name": "Jahada",
-            "name_np": "जहदा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 105,
-            "wards": 7
-        }
-    ]
+    {
+      "id": 10503,
+      "name": "Belbari",
+      "name_np": "बेलवारी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 11,
+      "postal_code": "11205",
+      "source_id": 53,
+      "aliases": [],
+      "website": "http://www.belbarimun.gov.np/"
+    },
+    {
+      "id": 10504,
+      "name": "Pathari Shanischare",
+      "name_np": "पथरी शनिश्चरे",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11207",
+      "source_id": 54,
+      "aliases": [
+        "Pathari-Sanischare"
+      ],
+      "website": "http://www.patharishanishcharemun.gov.np/"
+    },
+    {
+      "id": 10508,
+      "name": "Ratuwamai",
+      "name_np": "रतुवामाई",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11209",
+      "source_id": 55,
+      "aliases": [],
+      "website": "http://www.ratuwamaimun.gov.np/"
+    },
+    {
+      "id": 10505,
+      "name": "Urlabari",
+      "name_np": "उर्लावारी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11208",
+      "source_id": 56,
+      "aliases": [],
+      "website": "http://www.urlabarimun.gov.np/"
+    },
+    {
+      "id": 10506,
+      "name": "Rangeli",
+      "name_np": "रंगेली",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11211",
+      "source_id": 57,
+      "aliases": [],
+      "website": "http://www.rangelimun.gov.np/"
+    },
+    {
+      "id": 10509,
+      "name": "Sunawarshi",
+      "name_np": "सुनवर्षि",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11210",
+      "source_id": 58,
+      "aliases": [],
+      "website": "http://www.sunawarshimun.gov.np/"
+    },
+    {
+      "id": 10507,
+      "name": "Letang",
+      "name_np": "लेटाङ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11202",
+      "source_id": 59,
+      "aliases": [],
+      "website": "http://www.letangmun.gov.np/"
+    },
+    {
+      "id": 10501,
+      "name": "Biratnagar",
+      "name_np": "विराटनगर",
+      "type": "Metropolitan City",
+      "type_np": "महानगरपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 19,
+      "postal_code": "11214",
+      "source_id": 60,
+      "aliases": [],
+      "website": "http://www.biratnagarmun.gov.np/"
+    },
+    {
+      "id": 10517,
+      "name": "Jahada",
+      "name_np": "जहदा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11217",
+      "source_id": 61,
+      "aliases": [],
+      "website": "http://www.jahadamun.gov.np/"
+    },
+    {
+      "id": 10513,
+      "name": "Budi Ganga",
+      "name_np": "बुढीगंगा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11213",
+      "source_id": 62,
+      "aliases": [
+        "Budhiganga"
+      ],
+      "website": "https://budhigangamunmorang.gov.np/"
+    },
+    {
+      "id": 10515,
+      "name": "Katahari",
+      "name_np": "कटहरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11215",
+      "source_id": 63,
+      "aliases": [],
+      "website": "http://www.kataharimun.gov.np/"
+    },
+    {
+      "id": 10516,
+      "name": "Dhanpalthan",
+      "name_np": "धनपालथान",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11216",
+      "source_id": 64,
+      "aliases": [],
+      "website": "http://www.dhanapalthanmun.gov.np/"
+    },
+    {
+      "id": 10512,
+      "name": "Kanepokhari",
+      "name_np": "कानेपोखरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11206",
+      "source_id": 65,
+      "aliases": [],
+      "website": "http://www.kanepokharimun.gov.np/"
+    },
+    {
+      "id": 10514,
+      "name": "Gramthan",
+      "name_np": "ग्रामथान",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11212",
+      "source_id": 66,
+      "aliases": [],
+      "website": "http://www.gramthanmun.gov.np/"
+    },
+    {
+      "id": 10510,
+      "name": "Kerabari",
+      "name_np": "केरावारी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11203",
+      "source_id": 67,
+      "aliases": [],
+      "website": "http://www.kerabarimun.gov.np/"
+    },
+    {
+      "id": 10511,
+      "name": "Miklajung",
+      "name_np": "मिक्लाजुङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 105,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11201",
+      "source_id": 68,
+      "aliases": [],
+      "website": "http://www.miklajungmunmorang.gov.np/"
+    }
+  ]
 }

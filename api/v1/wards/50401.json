@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "municipality_id": 50401,
+    "municipality": "Resunga",
+    "district_id": 504,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 14,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5040901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5040902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5040903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5040904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5040905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5040906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5040907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5040908",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5040909",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5040910",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5040911",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5040912",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "5040913",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "5040914",
+      "villages_toles": []
+    }
+  ]
+}

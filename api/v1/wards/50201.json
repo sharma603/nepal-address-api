@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 50201,
+    "municipality": "Rolpa",
+    "district_id": 502,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5020701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5020702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5020703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5020704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5020705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5020706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5020707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5020708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5020709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5020710",
+      "villages_toles": []
+    }
+  ]
+}

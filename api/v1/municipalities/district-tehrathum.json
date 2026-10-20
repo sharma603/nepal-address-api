@@ -1,46 +1,96 @@
 {
-    "meta":  {
-                 "district_id":  108,
-                 "district":  "Tehrathum",
-                 "province_id":  1,
-                 "total":  6
-             },
-    "municipalities":  [
-                           {
-                               "id":  10801,
-                               "name":  "Myanglung",
-                               "name_np":  "म्याङलुङ",
-                               "type":  "Municipality"
-                           },
-                           {
-                               "id":  10802,
-                               "name":  "Laligurans",
-                               "name_np":  "लालीगुराँस",
-                               "type":  "Municipality"
-                           },
-                           {
-                               "id":  10803,
-                               "name":  "Aathrai",
-                               "name_np":  "आठराई",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10804,
-                               "name":  "Chhathar",
-                               "name_np":  "छथर",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10805,
-                               "name":  "Menchhayayem",
-                               "name_np":  "मेन्छयायेम",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10806,
-                               "name":  "Phedap",
-                               "name_np":  "फेदाप",
-                               "type":  "Rural Municipality"
-                           }
-                       ]
+  "meta": {
+    "district_id": 108,
+    "district": "Terhathum",
+    "province_id": 1,
+    "total": 6
+  },
+  "municipalities": [
+    {
+      "id": 10801,
+      "name": "Myanglung",
+      "name_np": "म्याङलुङ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 108,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "10804",
+      "source_id": 124,
+      "aliases": [],
+      "website": "http://www.myanglungmun.gov.np/"
+    },
+    {
+      "id": 10802,
+      "name": "Laligurans",
+      "name_np": "लालीगुराँस",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 108,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10805",
+      "source_id": 125,
+      "aliases": [],
+      "website": "http://www.laliguransmun.gov.np/"
+    },
+    {
+      "id": 10803,
+      "name": "Aathrai",
+      "name_np": "आठराई",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 108,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "10801",
+      "source_id": 126,
+      "aliases": [],
+      "website": "http://www.aathraimun.gov.np/"
+    },
+    {
+      "id": 10806,
+      "name": "Phedap",
+      "name_np": "फेदाप",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 108,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "10802",
+      "source_id": 127,
+      "aliases": [],
+      "website": "http://www.phedapmun.gov.np/"
+    },
+    {
+      "id": 10804,
+      "name": "Chhathar",
+      "name_np": "छथर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 108,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10806",
+      "source_id": 128,
+      "aliases": [],
+      "website": "http://www.chhatharmun.gov.np/"
+    },
+    {
+      "id": 10805,
+      "name": "Menchayayem",
+      "name_np": "मेन्छयायेम",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 108,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "10803",
+      "source_id": 129,
+      "aliases": [
+        "Menchhayayem"
+      ],
+      "website": "http://www.menchhayayemmun.gov.np/"
+    }
+  ]
 }

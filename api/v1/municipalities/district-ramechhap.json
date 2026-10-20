@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 302,
+    "district": "Ramechhap",
+    "province_id": 3,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 30201,
+      "name": "Manthali",
+      "name_np": "मन्थली",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 14,
+      "postal_code": "31005",
+      "source_id": 359,
+      "aliases": [],
+      "website": "http://www.manthalimun.gov.np/"
+    },
+    {
+      "id": 30202,
+      "name": "Ramechhap",
+      "name_np": "रामेछाप",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 9,
+      "postal_code": "31004",
+      "source_id": 360,
+      "aliases": [],
+      "website": "http://www.ramechhapmun.gov.np/"
+    },
+    {
+      "id": 30203,
+      "name": "Umakunda",
+      "name_np": "उमाकुण्ड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 7,
+      "postal_code": "31001",
+      "source_id": 361,
+      "aliases": [],
+      "website": "http://www.umakundamun.gov.np/"
+    },
+    {
+      "id": 30204,
+      "name": "Khandadevi",
+      "name_np": "खाँडादेवी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 9,
+      "postal_code": "31006",
+      "source_id": 362,
+      "aliases": [],
+      "website": "http://www.khandadevimun.gov.np/"
+    },
+    {
+      "id": 30205,
+      "name": "Doramba",
+      "name_np": "दोरम्बा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 7,
+      "postal_code": "31007",
+      "source_id": 363,
+      "aliases": [],
+      "website": "http://www.dorambamun.gov.np/"
+    },
+    {
+      "id": 30206,
+      "name": "Gokulganga",
+      "name_np": "गोकुलगङ्गा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 6,
+      "postal_code": "31002",
+      "source_id": 364,
+      "aliases": [],
+      "website": "http://www.gokulgangamun.gov.np/"
+    },
+    {
+      "id": 30207,
+      "name": "LikhuTamakoshi",
+      "name_np": "लिखु तामाकोशी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 7,
+      "postal_code": "31003",
+      "source_id": 365,
+      "aliases": [],
+      "website": "http://www.likhumunramechhap.gov.np/"
+    },
+    {
+      "id": 30208,
+      "name": "Sunapati",
+      "name_np": "सुनापती",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 302,
+      "province_id": 3,
+      "wards": 5,
+      "postal_code": "31008",
+      "source_id": 366,
+      "aliases": [],
+      "website": "http://www.sunapatimun.gov.np/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 70804,
+    "municipality": "Lamkichuha",
+    "district_id": 708,
+    "province_id": 7,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7080701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7080702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7080703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7080704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7080705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7080706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7080707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7080708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7080709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "7080710",
+      "villages_toles": []
+    }
+  ]
+}

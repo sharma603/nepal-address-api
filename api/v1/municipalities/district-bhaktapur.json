@@ -1,46 +1,66 @@
 {
-    "meta": {
-        "district_id": 307,
-        "district": "Bhaktapur",
-        "province_id": 3,
-        "total": 4
+  "meta": {
+    "district_id": 307,
+    "district": "Bhaktapur",
+    "province_id": 3,
+    "total": 4
+  },
+  "municipalities": [
+    {
+      "id": 30701,
+      "name": "Bhaktapur",
+      "name_np": "भक्तपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 307,
+      "province_id": 3,
+      "wards": 10,
+      "postal_code": "30702",
+      "source_id": 274,
+      "aliases": [],
+      "website": "http://www.bhaktapurmun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 30701,
-            "name": "Bhaktapur",
-            "name_np": "भक्तपुर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 307,
-            "wards": 10
-        },
-        {
-            "id": 30702,
-            "name": "Madhyapur Thimi",
-            "name_np": "मध्यपुर थिमि",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 307,
-            "wards": 9
-        },
-        {
-            "id": 30703,
-            "name": "Changunarayan",
-            "name_np": "चाँगुनारायण",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 307,
-            "wards": 9
-        },
-        {
-            "id": 30704,
-            "name": "Suryabinayak",
-            "name_np": "सूर्यविनायक",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 307,
-            "wards": 10
-        }
-    ]
+    {
+      "id": 30703,
+      "name": "Changunarayan",
+      "name_np": "चाँगुनारायण",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 307,
+      "province_id": 3,
+      "wards": 9,
+      "postal_code": "30701",
+      "source_id": 275,
+      "aliases": [],
+      "website": "http://www.changunarayanmun.gov.np/"
+    },
+    {
+      "id": 30704,
+      "name": "Suryabinayak",
+      "name_np": "सूर्यविनायक",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 307,
+      "province_id": 3,
+      "wards": 10,
+      "postal_code": "30704",
+      "source_id": 276,
+      "aliases": [],
+      "website": "http://www.suryabinayakmun.gov.np/"
+    },
+    {
+      "id": 30702,
+      "name": "Madhyapur Thimi",
+      "name_np": "मध्यपुर थिमी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 307,
+      "province_id": 3,
+      "wards": 9,
+      "postal_code": "30703",
+      "source_id": 277,
+      "aliases": [],
+      "website": "http://www.madhyapurthimimun.gov.np/"
+    }
+  ]
 }

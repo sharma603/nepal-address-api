@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 70408,
+    "municipality": "Pancheshwar",
+    "district_id": 704,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7040601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7040602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7040603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7040604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7040605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7040606",
+      "villages_toles": []
+    }
+  ]
+}

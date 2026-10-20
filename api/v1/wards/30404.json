@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 30404,
+    "municipality": "Balephi",
+    "district_id": 304,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3020801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3020802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3020803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3020804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3020805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3020806",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3020807",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3020808",
+      "villages_toles": []
+    }
+  ]
+}

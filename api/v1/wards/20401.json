@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 20401,
+    "municipality": "Jaleshor",
+    "district_id": 204,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2041501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2041502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2041503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2041504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2041505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2041506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2041507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2041508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2041509",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2041510",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2041511",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2041512",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "municipality_id": 60408,
+    "municipality": "Guthichaur",
+    "district_id": 604,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 5,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6040501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6040502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6040503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6040504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6040505",
+      "villages_toles": []
+    }
+  ]
+}

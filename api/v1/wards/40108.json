@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 40108,
+    "municipality": "Bhimsen Thapa",
+    "district_id": 401,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4010601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4010602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4010603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4010604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4010605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4010606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4010607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "4010608",
+      "villages_toles": []
+    }
+  ]
+}

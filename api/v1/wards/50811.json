@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 50811,
+    "municipality": "Gaidahawa",
+    "district_id": 508,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5080501",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5080502",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5080503",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5080504",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5080505",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5080506",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5080507",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5080508",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5080509",
+      "villages_toles": []
+    }
+  ]
+}

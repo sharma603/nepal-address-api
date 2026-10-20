@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 10403,
+    "municipality": "Birtamod",
+    "district_id": 104,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1111201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1111202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1111203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1111204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1111205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1111206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1111207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1111208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1111209",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "1111210",
+      "villages_toles": []
+    }
+  ]
+}

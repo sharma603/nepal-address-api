@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 60202,
+    "municipality": "Soru",
+    "district_id": 602,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6020301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6020302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6020303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6020304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6020305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6020306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6020307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6020308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "6020309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "6020310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "6020311",
+      "villages_toles": []
+    }
+  ]
+}

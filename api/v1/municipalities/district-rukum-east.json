@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "district_id": 501,
+    "district": "Rukum East",
+    "province_id": 5,
+    "total": 3
+  },
+  "municipalities": [
+    {
+      "id": 50101,
+      "name": "Putha Uttarganga",
+      "name_np": "पुथा उत्तरगंगा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 501,
+      "province_id": 5,
+      "wards": 14,
+      "postal_code": "50101",
+      "source_id": 568,
+      "aliases": [],
+      "website": "http://www.puthauttargangamun.gov.np/"
+    },
+    {
+      "id": 50102,
+      "name": "Bhume",
+      "name_np": "भूमे",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 501,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "50103",
+      "source_id": 569,
+      "aliases": [],
+      "website": "http://www.bhumemun.gov.np/"
+    },
+    {
+      "id": 50103,
+      "name": "Sisne",
+      "name_np": "सिस्ने",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 501,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "50102",
+      "source_id": 570,
+      "aliases": [],
+      "website": "http://www.sisnemun.gov.np/"
+    }
+  ]
+}

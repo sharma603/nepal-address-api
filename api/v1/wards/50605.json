@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 50605,
+    "municipality": "Bagnaskali",
+    "district_id": 506,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5060401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5060402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5060403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5060404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5060405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5060406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5060407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5060408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5060409",
+      "villages_toles": []
+    }
+  ]
+}

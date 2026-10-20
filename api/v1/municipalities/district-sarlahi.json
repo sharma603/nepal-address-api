@@ -1,109 +1,298 @@
 {
-    "meta": {
-        "district_id": 205,
-        "district": "Sarlahi",
-        "province_id": 2,
-        "total": 20
+  "meta": {
+    "district_id": 205,
+    "district": "Sarlahi",
+    "province_id": 2,
+    "total": 20
+  },
+  "municipalities": [
+    {
+      "id": 20509,
+      "name": "Bagmati",
+      "name_np": "बागमती",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20503",
+      "source_id": 186,
+      "aliases": [],
+      "website": "http://www.bagmatimunsarlahi.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 20501,
-            "name": "Malangwa",
-            "name_np": "मलङ्गवा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 12
-        },
-        {
-            "id": 20502,
-            "name": "Barahathawa",
-            "name_np": "बरहथवा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 18
-        },
-        {
-            "id": 20503,
-            "name": "Harion",
-            "name_np": "हरिवन",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 11
-        },
-        {
-            "id": 20504,
-            "name": "Ishwarpur",
-            "name_np": "ईश्वरपुर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 15
-        },
-        {
-            "id": 20505,
-            "name": "Lalbandi",
-            "name_np": "लालबन्दी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 17
-        },
-        {
-            "id": 20506,
-            "name": "Godaita",
-            "name_np": "गोडैता",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 12
-        },
-        {
-            "id": 20507,
-            "name": "Balara",
-            "name_np": "बलरा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 11
-        },
-        {
-            "id": 20508,
-            "name": "Kabilasi",
-            "name_np": "कविलासी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 10
-        },
-        {
-            "id": 20509,
-            "name": "Bagmati",
-            "name_np": "बागमती",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 12
-        },
-        {
-            "id": 20510,
-            "name": "Haripur",
-            "name_np": "हरिपुर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 9
-        },
-        {
-            "id": 20511,
-            "name": "Haripurwa",
-            "name_np": "हरिपुर्वा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 205,
-            "wards": 9
-        }
-    ]
+    {
+      "id": 20507,
+      "name": "Balara",
+      "name_np": "बलरा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20516",
+      "source_id": 187,
+      "aliases": [],
+      "website": "http://www.balramun.gov.np/"
+    },
+    {
+      "id": 20502,
+      "name": "Barahathwa",
+      "name_np": "बरहथवा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 18,
+      "postal_code": "20504",
+      "source_id": 188,
+      "aliases": [
+        "Barahathawa"
+      ],
+      "website": "http://www.barhathwamun.gov.np/"
+    },
+    {
+      "id": 20506,
+      "name": "Godaita",
+      "name_np": "गोडैटा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20517",
+      "source_id": 189,
+      "aliases": [],
+      "website": "http://www.godaitamun.gov.np/"
+    },
+    {
+      "id": 20503,
+      "name": "Hariwan",
+      "name_np": "हरिवन",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20502",
+      "source_id": 190,
+      "aliases": [
+        "Harion"
+      ],
+      "website": "http://www.harionmun.gov.np/"
+    },
+    {
+      "id": 20510,
+      "name": "Haripur",
+      "name_np": "हरिपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20505",
+      "source_id": 191,
+      "aliases": [],
+      "website": "http://www.haripurmun.gov.np/"
+    },
+    {
+      "id": 20511,
+      "name": "Haripurwa",
+      "name_np": "हरिपुर्वा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20507",
+      "source_id": 192,
+      "aliases": [],
+      "website": "http://www.haripurwamun.gov.np/"
+    },
+    {
+      "id": 20504,
+      "name": "Ishowrpur",
+      "name_np": "ईश्वरपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 15,
+      "postal_code": "20506",
+      "source_id": 193,
+      "aliases": [
+        "Ishwarpur"
+      ],
+      "website": "http://www.ishworpurmun.gov.np/"
+    },
+    {
+      "id": 20508,
+      "name": "Kabilasi",
+      "name_np": "कविलासी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 10,
+      "postal_code": "20511",
+      "source_id": 194,
+      "aliases": [],
+      "website": "http://www.kawilasimun.gov.np/"
+    },
+    {
+      "id": 20505,
+      "name": "Lalbandi",
+      "name_np": "लालबन्दी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 17,
+      "postal_code": "20501",
+      "source_id": 195,
+      "aliases": [],
+      "website": "http://www.lalbandimun.gov.np/"
+    },
+    {
+      "id": 20501,
+      "name": "Malangawa",
+      "name_np": "मलंगवा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 12,
+      "postal_code": "20520",
+      "source_id": 196,
+      "aliases": [
+        "Malangwa"
+      ],
+      "website": "http://www.malangwamun.gov.np/"
+    },
+    {
+      "id": 20512,
+      "name": "Basbariya",
+      "name_np": "बसबरीया",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20513",
+      "source_id": 197,
+      "aliases": [],
+      "website": "http://www.basbariyamun.gov.np/"
+    },
+    {
+      "id": 20513,
+      "name": "Bisnu",
+      "name_np": "विष्णु",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 8,
+      "postal_code": "20518",
+      "source_id": 198,
+      "aliases": [],
+      "website": "http://www.bishnumun.gov.np/"
+    },
+    {
+      "id": 20514,
+      "name": "Brahampuri",
+      "name_np": "ब्रह्मपुरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20509",
+      "source_id": 199,
+      "aliases": [],
+      "website": "http://www.brahmapurimun.gov.np/"
+    },
+    {
+      "id": 20515,
+      "name": "Chakraghatta",
+      "name_np": "चक्रघट्टा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20512",
+      "source_id": 200,
+      "aliases": [],
+      "website": "http://www.chakraghattamun.gov.np/"
+    },
+    {
+      "id": 20516,
+      "name": "Chandranagar",
+      "name_np": "चन्द्रनगर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20510",
+      "source_id": 201,
+      "aliases": [],
+      "website": "http://www.chandranagarmun.gov.np/"
+    },
+    {
+      "id": 20517,
+      "name": "Dhankaul",
+      "name_np": "धनकौल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20514",
+      "source_id": 202,
+      "aliases": [],
+      "website": "http://www.dhankaulmun.gov.np/"
+    },
+    {
+      "id": 20518,
+      "name": "Kaudena",
+      "name_np": "कौडेना",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20519",
+      "source_id": 203,
+      "aliases": [],
+      "website": "http://www.kaudenamun.gov.np/"
+    },
+    {
+      "id": 20519,
+      "name": "Parsa",
+      "name_np": "पर्सा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20508",
+      "source_id": 204,
+      "aliases": [],
+      "website": "http://www.parsamun.gov.np/"
+    },
+    {
+      "id": 20520,
+      "name": "Ramnagar",
+      "name_np": "रामनगर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 205,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20515",
+      "source_id": 205,
+      "aliases": [],
+      "website": "http://www.ramnagarmun.gov.np/"
+    }
+  ]
 }

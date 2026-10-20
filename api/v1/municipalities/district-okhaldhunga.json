@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 112,
+    "district": "Okhaldhunga",
+    "province_id": 1,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 11201,
+      "name": "Siddhicharan",
+      "name_np": "सिद्दिचरण",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 12,
+      "postal_code": "10402",
+      "source_id": 69,
+      "aliases": [],
+      "website": "http://www.siddhicharanmun.gov.np/"
+    },
+    {
+      "id": 11202,
+      "name": "Khiji Demba",
+      "name_np": "खिजिदेम्बा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10404",
+      "source_id": 70,
+      "aliases": [],
+      "website": "http://www.khijidembamun.gov.np/"
+    },
+    {
+      "id": 11203,
+      "name": "Chisankhugadhi",
+      "name_np": "चिशंखुगढी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 8,
+      "postal_code": "10401",
+      "source_id": 71,
+      "aliases": [],
+      "website": "http://www.chishankhugadhimun.gov.np/"
+    },
+    {
+      "id": 11204,
+      "name": "Molung",
+      "name_np": "मोलुङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 8,
+      "postal_code": "10403",
+      "source_id": 72,
+      "aliases": [],
+      "website": "http://www.molungmun.gov.np/"
+    },
+    {
+      "id": 11205,
+      "name": "Sunkoshi",
+      "name_np": "सुनकोशी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "10407",
+      "source_id": 73,
+      "aliases": [],
+      "website": "http://www.sunkoshimunokhaldhunga.gov.np/"
+    },
+    {
+      "id": 11206,
+      "name": "Champadevi",
+      "name_np": "चम्पादेवी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "10406",
+      "source_id": 74,
+      "aliases": [],
+      "website": "http://www.champadevimun.gov.np/"
+    },
+    {
+      "id": 11207,
+      "name": "Manebhanjyang",
+      "name_np": "मानेभञ्याङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10408",
+      "source_id": 75,
+      "aliases": [],
+      "website": "http://www.manebhanjyangmun.gov.np/"
+    },
+    {
+      "id": 11208,
+      "name": "Likhu",
+      "name_np": "लिखु",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 112,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "10405",
+      "source_id": 76,
+      "aliases": [],
+      "website": "https://likhumunokhaldhunga.gov.np/"
+    }
+  ]
+}

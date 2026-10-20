@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 70908,
+    "municipality": "Laljhadi",
+    "district_id": 709,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7090601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7090602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7090603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7090604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7090605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7090606",
+      "villages_toles": []
+    }
+  ]
+}

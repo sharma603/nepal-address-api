@@ -1,46 +1,124 @@
 {
-    "meta": {
-        "district_id": 604,
-        "district": "Jumla",
-        "province_id": 6,
-        "total": 8
+  "meta": {
+    "district_id": 604,
+    "district": "Jumla",
+    "province_id": 6,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 60405,
+      "name": "Tatopani",
+      "name_np": "तातोपानी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 8,
+      "postal_code": "60406",
+      "source_id": 618,
+      "aliases": [],
+      "website": "http://www.tatopanimun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 60401,
-            "name": "Chandannath",
-            "name_np": "चन्दननाथ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 604,
-            "wards": 10
-        },
-        {
-            "id": 60402,
-            "name": "Kankasundari",
-            "name_np": "कनकासुन्दरी",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 604,
-            "wards": 8
-        },
-        {
-            "id": 60403,
-            "name": "Sinja",
-            "name_np": "सिञ्जा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 604,
-            "wards": 6
-        },
-        {
-            "id": 60404,
-            "name": "Hima",
-            "name_np": "हिमा",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 604,
-            "wards": 7
-        }
-    ]
+    {
+      "id": 60406,
+      "name": "Patarasi",
+      "name_np": "पातारासी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 7,
+      "postal_code": "60401",
+      "source_id": 619,
+      "aliases": [],
+      "website": "http://www.patarasimun.gov.np/"
+    },
+    {
+      "id": 60407,
+      "name": "Tila",
+      "name_np": "तिला",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "60407",
+      "source_id": 620,
+      "aliases": [],
+      "website": "http://www.tilamun.gov.np/"
+    },
+    {
+      "id": 60402,
+      "name": "Kanaka Sundari",
+      "name_np": "कनकासुन्दरी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 8,
+      "postal_code": "60402",
+      "source_id": 621,
+      "aliases": [
+        "Kankasundari"
+      ],
+      "website": "http://www.kankasundarimun.gov.np/"
+    },
+    {
+      "id": 60403,
+      "name": "Sinja",
+      "name_np": "सिंजा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60403",
+      "source_id": 622,
+      "aliases": [],
+      "website": "http://www.sinjamun.gov.np/"
+    },
+    {
+      "id": 60404,
+      "name": "Hima",
+      "name_np": "हिमा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 7,
+      "postal_code": "60408",
+      "source_id": 623,
+      "aliases": [],
+      "website": "http://www.himamun.gov.np/"
+    },
+    {
+      "id": 60408,
+      "name": "Guthichaur",
+      "name_np": "गुठिचौर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 5,
+      "postal_code": "60405",
+      "source_id": 624,
+      "aliases": [],
+      "website": "http://www.guthichaurmun.gov.np/"
+    },
+    {
+      "id": 60401,
+      "name": "Chandannath",
+      "name_np": "चन्दननाथ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 604,
+      "province_id": 6,
+      "wards": 10,
+      "postal_code": "60404",
+      "source_id": 625,
+      "aliases": [],
+      "website": "http://www.chandannathmun.gov.np/"
+    }
+  ]
 }

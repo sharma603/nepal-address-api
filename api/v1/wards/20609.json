@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 20609,
+    "municipality": "Phatuwa Bijayapur",
+    "district_id": 206,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2060301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2060302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2060303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2060304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2060305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2060306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2060307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2060308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2060309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2060310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2060311",
+      "villages_toles": []
+    }
+  ]
+}

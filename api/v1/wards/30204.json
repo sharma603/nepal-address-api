@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 30204,
+    "municipality": "Khandadevi",
+    "district_id": 302,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3100601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3100602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3100603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3100604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3100605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3100606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3100607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3100608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3100609",
+      "villages_toles": []
+    }
+  ]
+}

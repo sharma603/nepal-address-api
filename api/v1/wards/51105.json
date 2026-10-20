@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 51105,
+    "municipality": "Duduwa",
+    "district_id": 511,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5110701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5110702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5110703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5110704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5110705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5110706",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 10703,
+    "municipality": "Mahalaxmi",
+    "district_id": 107,
+    "province_id": 1,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1070101",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1070102",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1070103",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1070104",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1070105",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1070106",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1070107",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1070108",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "1070109",
+      "villages_toles": []
+    }
+  ]
+}

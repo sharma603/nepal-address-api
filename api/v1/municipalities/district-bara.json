@@ -1,91 +1,240 @@
 {
-    "meta": {
-        "district_id": 207,
-        "district": "Bara",
-        "province_id": 2,
-        "total": 16
+  "meta": {
+    "district_id": 207,
+    "district": "Bara",
+    "province_id": 2,
+    "total": 16
+  },
+  "municipalities": [
+    {
+      "id": 20701,
+      "name": "Kalaiya",
+      "name_np": "कलैया",
+      "type": "Sub-Metropolitan City",
+      "type_np": "उपमहानगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 27,
+      "postal_code": "20708",
+      "source_id": 152,
+      "aliases": [],
+      "website": "http://www.kalaiyamun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 20701,
-            "name": "Kalaiya",
-            "name_np": "कलैया",
-            "type": "Sub-Metropolitan City",
-            "type_np": "उप-महानगरपालिका",
-            "district_id": 207,
-            "wards": 27
-        },
-        {
-            "id": 20702,
-            "name": "Jeetpur Simara",
-            "name_np": "जीतपुर सिमरा",
-            "type": "Sub-Metropolitan City",
-            "type_np": "उप-महानगरपालिका",
-            "district_id": 207,
-            "wards": 24
-        },
-        {
-            "id": 20703,
-            "name": "Nijgadh",
-            "name_np": "निजगढ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 207,
-            "wards": 13
-        },
-        {
-            "id": 20704,
-            "name": "Simraungadh",
-            "name_np": "सिम्रौनगढ",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 207,
-            "wards": 11
-        },
-        {
-            "id": 20705,
-            "name": "Kolhabi",
-            "name_np": "कोल्हवी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 207,
-            "wards": 11
-        },
-        {
-            "id": 20706,
-            "name": "Mahagadhimai",
-            "name_np": "महागढीमाई",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 207,
-            "wards": 11
-        },
-        {
-            "id": 20707,
-            "name": "Pacharauta",
-            "name_np": "पचरौता",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 207,
-            "wards": 9
-        },
-        {
-            "id": 20708,
-            "name": "Adarsh Kotwal",
-            "name_np": "आदर्श कोतवाल",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 207,
-            "wards": 8
-        },
-        {
-            "id": 20709,
-            "name": "Karaiya Mai",
-            "name_np": "करैयामाई",
-            "type": "Rural Municipality",
-            "type_np": "गाउँपालिका",
-            "district_id": 207,
-            "wards": 8
-        }
-    ]
+    {
+      "id": 20702,
+      "name": "Jitpur Simara",
+      "name_np": "जीतपुर सिमरा",
+      "type": "Sub-Metropolitan City",
+      "type_np": "उपमहानगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 24,
+      "postal_code": "20703",
+      "source_id": 153,
+      "aliases": [
+        "Jeetpur Simara"
+      ],
+      "website": "http://www.jeetpursimaramun.gov.np/"
+    },
+    {
+      "id": 20705,
+      "name": "Kolhabi",
+      "name_np": "कोल्हवी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20702",
+      "source_id": 154,
+      "aliases": [],
+      "website": "http://www.kolhabimun.gov.np/"
+    },
+    {
+      "id": 20703,
+      "name": "Nijgadh",
+      "name_np": "निजगढ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 13,
+      "postal_code": "20701",
+      "source_id": 155,
+      "aliases": [],
+      "website": "http://www.nijgadhmun.gov.np/"
+    },
+    {
+      "id": 20706,
+      "name": "Mahagadhimai",
+      "name_np": "महागढीमाई",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20714",
+      "source_id": 156,
+      "aliases": [],
+      "website": "http://www.mahagadimaimun.gov.np/"
+    },
+    {
+      "id": 20704,
+      "name": "Simaraungadh",
+      "name_np": "सिम्रौनगढ",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 11,
+      "postal_code": "20712",
+      "source_id": 157,
+      "aliases": [
+        "Simraungadh"
+      ],
+      "website": "http://www.simraungadhmun.gov.np/"
+    },
+    {
+      "id": 20707,
+      "name": "Pacharauta",
+      "name_np": "पचरौता",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 9,
+      "postal_code": "20713",
+      "source_id": 158,
+      "aliases": [],
+      "website": "http://www.pachrautamun.gov.np/"
+    },
+    {
+      "id": 20710,
+      "name": "Pheta",
+      "name_np": "फेटा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20707",
+      "source_id": 159,
+      "aliases": [],
+      "website": "http://www.phetamun.gov.np/"
+    },
+    {
+      "id": 20711,
+      "name": "Bishrampur",
+      "name_np": "विश्रामपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20706",
+      "source_id": 160,
+      "aliases": [],
+      "website": "http://www.bishrampurmun.gov.np/"
+    },
+    {
+      "id": 20712,
+      "name": "Prasauni",
+      "name_np": "प्रसौनी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20705",
+      "source_id": 161,
+      "aliases": [],
+      "website": "http://www.prasaunimun.gov.np/"
+    },
+    {
+      "id": 20708,
+      "name": "Adarsh Kotwal",
+      "name_np": "आदर्श कोटवाल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 8,
+      "postal_code": "20711",
+      "source_id": 162,
+      "aliases": [],
+      "website": "http://www.aadarshakotwalmun.gov.np/"
+    },
+    {
+      "id": 20709,
+      "name": "Karaiyamai",
+      "name_np": "करैयामाई",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 8,
+      "postal_code": "20709",
+      "source_id": 163,
+      "aliases": [
+        "Karaiya Mai"
+      ],
+      "website": "http://www.karaiyamaimun.gov.np/"
+    },
+    {
+      "id": 20713,
+      "name": "Devtal",
+      "name_np": "देवताल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 7,
+      "postal_code": "20715",
+      "source_id": 164,
+      "aliases": [],
+      "website": "http://www.devtalmun.gov.np/"
+    },
+    {
+      "id": 20714,
+      "name": "Parwanipur",
+      "name_np": "परवानीपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 5,
+      "postal_code": "20704",
+      "source_id": 165,
+      "aliases": [],
+      "website": "http://www.parwanipurmun.gov.np/"
+    },
+    {
+      "id": 20715,
+      "name": "Baragadhi",
+      "name_np": "बारागढी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 6,
+      "postal_code": "20710",
+      "source_id": 166,
+      "aliases": [],
+      "website": "http://www.baragadhimun.gov.np/"
+    },
+    {
+      "id": 20716,
+      "name": "Suwarna",
+      "name_np": "सुवर्ण",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 207,
+      "province_id": 2,
+      "wards": 8,
+      "postal_code": "20716",
+      "source_id": 167,
+      "aliases": [],
+      "website": "http://www.suwarnamun.gov.np/"
+    }
+  ]
 }

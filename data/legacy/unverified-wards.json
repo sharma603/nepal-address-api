@@ -1,0 +1,2763 @@
+{
+  "wards/birgunj.json": {
+    "meta": {
+      "municipality_id": 20801,
+      "municipality": "Birgunj",
+      "type": "Metropolitan City",
+      "district_id": 208,
+      "total_wards": 32
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Bhanu Chowk",
+          "Maisthan"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Chhapakaiya",
+          "Rani Ghat"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Murli",
+          "Belwa"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Birta",
+          "Link Road"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Resham Kothi",
+          "Adarshnagar"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Geeta Mandir",
+          "Pani Tanki"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Alau",
+          "Sirsiya"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Inaruwa",
+          "Ramgadhawa"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Parwanipur",
+          "Lipanimal"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Basdilwa",
+          "Hussaini Chowk"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Sugauwa",
+          "Bindabasini"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Dhobini",
+          "Laxmipur"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Jagarnathpur",
+          "Pipra"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Nagawa",
+          "Bhediharwa"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Bahudarmai",
+          "Gamdahawa"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Pokhariya",
+          "Basatpur"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Bishrampur",
+          "Harpatgunj"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Sathiwan",
+          "Hardiya"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Bahaurwa",
+          "Chorni"
+        ]
+      },
+      {
+        "ward_no": 20,
+        "villages_toles": [
+          "Prasurampur",
+          "Bairiya"
+        ]
+      },
+      {
+        "ward_no": 21,
+        "villages_toles": [
+          "Patelnagar",
+          "Sukhsaina"
+        ]
+      },
+      {
+        "ward_no": 22,
+        "villages_toles": [
+          "Manihari",
+          "Bhediharwa"
+        ]
+      },
+      {
+        "ward_no": 23,
+        "villages_toles": [
+          "Itiyahi",
+          "Sabaithawa"
+        ]
+      },
+      {
+        "ward_no": 24,
+        "villages_toles": [
+          "Bagahi",
+          "Pidarari"
+        ]
+      },
+      {
+        "ward_no": 25,
+        "villages_toles": [
+          "Khutawa",
+          "Belwa"
+        ]
+      },
+      {
+        "ward_no": 26,
+        "villages_toles": [
+          "Pratapiya",
+          "Sankat Mochan"
+        ]
+      },
+      {
+        "ward_no": 27,
+        "villages_toles": [
+          "Ramnagar",
+          "Bairiya"
+        ]
+      },
+      {
+        "ward_no": 28,
+        "villages_toles": [
+          "Pathlaiya",
+          "Belhi"
+        ]
+      },
+      {
+        "ward_no": 29,
+        "villages_toles": [
+          "Ekdara",
+          "Bathanaha"
+        ]
+      },
+      {
+        "ward_no": 30,
+        "villages_toles": [
+          "Tilathi",
+          "Sakhuwa"
+        ]
+      },
+      {
+        "ward_no": 31,
+        "villages_toles": [
+          "Maheshpur",
+          "Ghurna"
+        ]
+      },
+      {
+        "ward_no": 32,
+        "villages_toles": [
+          "Narayanpur",
+          "Sultanpur"
+        ]
+      }
+    ]
+  },
+  "wards/mithila.json": {
+    "meta": {
+      "municipality_id": 20302,
+      "municipality": "Mithila",
+      "type": "Municipality",
+      "district_id": 203,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Mithila Bazar",
+          "Dhalkebar"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Harpur",
+          "Bhagwatpur"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Aurahi",
+          "Gaushala Road"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Phulparasi",
+          "Lakhnaur"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Hanumanpatti",
+          "Kataiya"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Bharatpur",
+          "Sonpur"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Basantnagar",
+          "Kamtaul"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Danushipur",
+          "Laxminiya"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Singhia",
+          "Rajanpur"
+        ]
+      }
+    ]
+  },
+  "wards/lalitpur.json": {
+    "meta": {
+      "municipality_id": 30601,
+      "municipality": "Lalitpur",
+      "type": "Metropolitan City",
+      "district_id": 306,
+      "total_wards": 29
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Mangalbazar",
+          "Sundaridhoka"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Lagankhel",
+          "Kumaripati"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Jawalakhel",
+          "Pulchowk"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Sanepa",
+          "Ekantakuna"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Satdobato",
+          "Tikathali"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Nakhu",
+          "Imadol"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Gwarko",
+          "Kupandol"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Jhamsikhel",
+          "Chakupat"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Sukedhara",
+          "Bagdole"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Balkhu",
+          "Kalimati"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Patan Dhoka",
+          "Ashoka"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Mahalaxmisthan",
+          "Tibhuwan"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Thaiba",
+          "Lubhu"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Godavari",
+          "Chapagaun"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Bungamati",
+          "Khokana"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Harisiddhi",
+          "Thaecho"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Sunakothi",
+          "Khumaltar"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Nakhkhu",
+          "Dhapakhel"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Sainbu",
+          "Bhaisepati"
+        ]
+      },
+      {
+        "ward_no": 20,
+        "villages_toles": [
+          "Badikhel",
+          "Pyutar"
+        ]
+      },
+      {
+        "ward_no": 21,
+        "villages_toles": [
+          "Lamatar",
+          "Chalnakhel"
+        ]
+      },
+      {
+        "ward_no": 22,
+        "villages_toles": [
+          "Phulchoki",
+          "Tika Bhairab"
+        ]
+      },
+      {
+        "ward_no": 23,
+        "villages_toles": [
+          "Lele",
+          "Magarsthali"
+        ]
+      },
+      {
+        "ward_no": 24,
+        "villages_toles": [
+          "Champi",
+          "Bandegaun"
+        ]
+      },
+      {
+        "ward_no": 25,
+        "villages_toles": [
+          "Kalupur",
+          "Mahadevsthan"
+        ]
+      },
+      {
+        "ward_no": 26,
+        "villages_toles": [
+          "Kupondole",
+          "Thapathali"
+        ]
+      },
+      {
+        "ward_no": 27,
+        "villages_toles": [
+          "Sunchhok",
+          "Sisneri"
+        ]
+      },
+      {
+        "ward_no": 28,
+        "villages_toles": [
+          "Karyabinayak",
+          "Pyangaon"
+        ]
+      },
+      {
+        "ward_no": 29,
+        "villages_toles": [
+          "Dakshinkali Road",
+          "Hatiban"
+        ]
+      }
+    ]
+  },
+  "wards/janakpur.json": {
+    "meta": {
+      "municipality_id": 20301,
+      "municipality": "Janakpur",
+      "type": "Sub-Metropolitan City",
+      "district_id": 203,
+      "total_wards": 24
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Janakpur Dham",
+          "Ram Mandir Road"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Ramanand Chowk",
+          "Pipra"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Musahar Basti",
+          "Kuwa"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Dhanauji",
+          "Mahinathpur"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Parsa",
+          "Hanumannagar"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Dhalkebar",
+          "Laxminiya"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Gaushala",
+          "Phulparasi"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Kamala Bridge",
+          "Singhia"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Jankibash",
+          "Kataiya"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Danushipur",
+          "Bhagwatpur"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Janaki Temple Area",
+          "Vivah Panchami"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Ramkhelawan",
+          "Sundarpur"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Bhiswa",
+          "Laxmipur"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Saptari Road",
+          "Amahi"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Dhenganapur",
+          "Musafirkhana"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Ramnagar",
+          "Bairiya"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Pathlaiya",
+          "Belhi"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Ekdara",
+          "Bathanaha"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Tilathi",
+          "Sakhuwa"
+        ]
+      },
+      {
+        "ward_no": 20,
+        "villages_toles": [
+          "Maheshpur",
+          "Ghurna"
+        ]
+      },
+      {
+        "ward_no": 21,
+        "villages_toles": [
+          "Narayanpur",
+          "Sultanpur"
+        ]
+      },
+      {
+        "ward_no": 22,
+        "villages_toles": [
+          "Alinagar",
+          "Dhankaul"
+        ]
+      },
+      {
+        "ward_no": 23,
+        "villages_toles": [
+          "Bideha",
+          "Parsauni"
+        ]
+      },
+      {
+        "ward_no": 24,
+        "villages_toles": [
+          "Kusmaha",
+          "Badhaiya"
+        ]
+      }
+    ]
+  },
+  "wards/inaruwa.json": {
+    "meta": {
+      "municipality_id": 10603,
+      "municipality": "Inaruwa",
+      "type": "Municipality",
+      "district_id": 106,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Inaruwa Bazar",
+          "Koshi Bridge"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Barahakshetra",
+          "Golbazar"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Chatara",
+          "Bhutahi"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Harinagara",
+          "Rampur"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Madhumalla",
+          "Phulbari"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Koshi Tappu",
+          "Laukahi"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Sundarpur",
+          "Shantipur"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Laxmipur",
+          "Rajapur"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Devisthan",
+          "Haripur"
+        ]
+      }
+    ]
+  },
+  "wards/tikapur.json": {
+    "meta": {
+      "municipality_id": 70802,
+      "municipality": "Tikapur",
+      "type": "Municipality",
+      "district_id": 708,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Tikapur Bazar",
+          "Park Road"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Siddharthanagar",
+          "Manigram"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Birendranagar",
+          "Ghantaghar"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Karnali Bridge Area",
+          "Sauraha"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Belhiya",
+          "Bhairahawa Road"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Janakpur",
+          "Ram Mandir"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Dhangadhi",
+          "Attariya"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Pokhara",
+          "Lakeside"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Kathmandu",
+          "New Road"
+        ]
+      }
+    ]
+  },
+  "wards/biratnagar.json": {
+    "meta": {
+      "municipality_id": 10501,
+      "municipality": "Biratnagar",
+      "type": "Metropolitan City",
+      "district_id": 105,
+      "total_wards": 19
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Rangeli Road",
+          "Traffic Chowk",
+          "Gograha"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Rani",
+          "Budhiganga",
+          "Hanuman Chowk"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Jogbani Road",
+          "Station Road"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Bairgachhi",
+          "Tilathi"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Tinpaini",
+          "Beldangi"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Kanchanbari",
+          "Mahadeva"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Chata",
+          "Urlabari Link"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Majhgachhi",
+          "Bankali"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Amtola",
+          "Shantinagar"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Dhaijan",
+          "Biratchowk"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Bhrikutinagar",
+          "Lalbandi"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Purano Bazar",
+          "New Road"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Sahidchowk",
+          "Goshwara"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Tankisinwari",
+          "Milannagar"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Belbari Road",
+          "Baijanath"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Gaurigunj",
+          "Madhumalla"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Sundarpur",
+          "Hattisar"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Suryodaya",
+          "Rajarani"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Duhabi",
+          "Baliya"
+        ]
+      }
+    ]
+  },
+  "wards/kirtipur.json": {
+    "meta": {
+      "municipality_id": 30802,
+      "municipality": "Kirtipur",
+      "type": "Municipality",
+      "district_id": 308,
+      "total_wards": 10
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Kirtipur Bazar",
+          "Nagaun"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Panga",
+          "Chitlang"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Naikap",
+          "Balambu"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Thankot",
+          "Chalnakhel"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Lumanti",
+          "Machhegaun"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Syuchatar",
+          "Gairigaun"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Khairenitar",
+          "Bafal"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Bhaisepati",
+          "Taukhel"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Danda Gaun",
+          "Champi"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Khokana",
+          "Bungamati"
+        ]
+      }
+    ]
+  },
+  "wards/birendranagar.json": {
+    "meta": {
+      "municipality_id": 61001,
+      "municipality": "Birendranagar",
+      "type": "Municipality",
+      "district_id": 610,
+      "total_wards": 16
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Surkhet Bazar",
+          "Erikhola"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Itram",
+          "Shantinagar"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Birendranagar Chowk",
+          "Ghantaghar"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Kalinchowk",
+          "Kuwali"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Chisapani",
+          "Balkumari"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Latikoili",
+          "Subbakuna"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Bangesimal",
+          "Tatopani"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Jarbuta",
+          "Satkhani"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Dandapara",
+          "Ghariani"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Bulbule Tal",
+          "Kankrebihar"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Mulpani",
+          "Bame"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Dharapani",
+          "Guranse"
+        ]
+      }
+    ]
+  },
+  "wards/dhangadhi.json": {
+    "meta": {
+      "municipality_id": 70801,
+      "municipality": "Dhangadhi",
+      "type": "Sub-Metropolitan City",
+      "district_id": 708,
+      "total_wards": 19
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Dhangadhi Bazar",
+          "Park Mode"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Santoshi Chowk",
+          "Campus Road"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Chaturakali",
+          "Bhadrapur"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Uttar Behadi",
+          "Shantipura"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Hasanpur",
+          "Pipal Chowk"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Jhalari",
+          "Attariya Road"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Manhera",
+          "Dhangadhi Gate"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Puranobazar",
+          "Madi"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Bangra",
+          "Phulbari"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Ghodaghodi",
+          "Tikapur Road"
+        ]
+      }
+    ]
+  },
+  "wards/bhaktapur.json": {
+    "meta": {
+      "municipality_id": 30701,
+      "municipality": "Bhaktapur",
+      "type": "Municipality",
+      "district_id": 307,
+      "total_wards": 10
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Taumadhi",
+          "Dattatraya"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Suryamadhi",
+          "Golmadhi"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Tadhunchen",
+          "Chuping"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Kamal Binayak",
+          "Nagarkot Road"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Sipadol",
+          "Sallaghari"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Dudhpati",
+          "Mahadevsthan"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Chunikhel",
+          "Jhaukhel"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Gatathok",
+          "Lokanthali"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Nilbarahi",
+          "Thimi"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Bode",
+          "Madhyapur"
+        ]
+      }
+    ]
+  },
+  "wards/sundar-haraicha.json": {
+    "meta": {
+      "municipality_id": 10502,
+      "municipality": "Sundar Haraicha",
+      "type": "Municipality",
+      "district_id": 105,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Haraicha Bazar",
+          "Katahari"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Phulbari",
+          "Baijanathpur"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Dhanushadham",
+          "Kamala"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Sundarpur",
+          "Kerabari"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Madhuban",
+          "Haraicha Chowk"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Beldangi",
+          "Majhgachhi"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Laxmipur",
+          "Dhusari"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Shreepur",
+          "Mahuwa"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Rajarani",
+          "Devisthan"
+        ]
+      }
+    ]
+  },
+  "wards/butwal.json": {
+    "meta": {
+      "municipality_id": 50801,
+      "municipality": "Butwal",
+      "type": "Sub-Metropolitan City",
+      "district_id": 508,
+      "total_wards": 19
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Traffic Chowk",
+          "Puspalal Park"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Milanchowk",
+          "Amarpath"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Golpark",
+          "Chauraha"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Devinagar",
+          "Kalikanagar"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Yogikuti",
+          "Manigram"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Belhiya",
+          "Bhairahawa Road"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Siddharthanagar",
+          "Lumbini Gate"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Nayabazar",
+          "Old Buspark"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Siddhababa",
+          "Phulbari"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Shivanagar",
+          "Deepnagar"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Janakinagar",
+          "Shantinagar"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Tamnagar",
+          "Nayagaun"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Motipur",
+          "Semlar"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Madauli",
+          "Sauraha"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Tikuligadh",
+          "Bhalwari"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Mangalapur",
+          "Karniya"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Lumbini",
+          "Buddha Chowk"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Khairiya",
+          "Piprahawa"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Basantapur",
+          "Dandakhet"
+        ]
+      }
+    ]
+  },
+  "wards/kathmandu.json": {
+    "meta": {
+      "municipality_id": 30801,
+      "municipality": "Kathmandu",
+      "type": "Metropolitan City",
+      "district_id": 308,
+      "total_wards": 32
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Naradevi",
+          "Ason",
+          "Indrachowk"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Kilagal",
+          "Bangemudha",
+          "Nhyakan"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Mangalbazar",
+          "Patan Gate",
+          "Lagankhel"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Sundhara",
+          "Dharahara",
+          "Tudikhel"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "New Road",
+          "Bhotahiti",
+          "Ranipokhari"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Thamel",
+          "Jyatha",
+          "Paknajol"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Chetrapati",
+          "Khichapokhari"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Dillibazar",
+          "Putalisadak",
+          "Kamaladi"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Maharajgunj",
+          "Lazimpat",
+          "Baluwatar"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Bansbari",
+          "Nayabazar",
+          "Goldhunga"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Bouddha",
+          "Chabahil",
+          "Gaushala"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Jorpati",
+          "Kapan",
+          "Gokarneshwor"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Koteshwor",
+          "Tinkune",
+          "Sinamangal"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Baneshwor",
+          "Naya Baneshwor",
+          "Minbhawan"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Bagbazar",
+          "Bhotahiti",
+          "Jamal"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Balaju",
+          "Swayambhu",
+          "Sitapaila"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Naikap",
+          "Ichangu",
+          "Dahachok"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Tokha",
+          "Tusal",
+          "Jitpur Phedi"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Budhanilkantha",
+          "Shivapuri",
+          "Kakani"
+        ]
+      },
+      {
+        "ward_no": 20,
+        "villages_toles": [
+          "Gongabu",
+          "Samakhushi",
+          "Machhapokhari"
+        ]
+      },
+      {
+        "ward_no": 21,
+        "villages_toles": [
+          "Baniyatar",
+          "Manmaiju",
+          "Sitapaila"
+        ]
+      },
+      {
+        "ward_no": 22,
+        "villages_toles": [
+          "Kalanki",
+          "Kalimati",
+          "Teku"
+        ]
+      },
+      {
+        "ward_no": 23,
+        "villages_toles": [
+          "Kirtipur",
+          "Naikap",
+          "Lumanti"
+        ]
+      },
+      {
+        "ward_no": 24,
+        "villages_toles": [
+          "Thankot",
+          "Chandragiri",
+          "Balambu"
+        ]
+      },
+      {
+        "ward_no": 25,
+        "villages_toles": [
+          "Gothatar",
+          "Jadibuti",
+          "Tinthana"
+        ]
+      },
+      {
+        "ward_no": 26,
+        "villages_toles": [
+          "Matatirtha",
+          "Dahachok",
+          "Dharke"
+        ]
+      },
+      {
+        "ward_no": 27,
+        "villages_toles": [
+          "Ramkot",
+          "Ranibari",
+          "Mudkhu"
+        ]
+      },
+      {
+        "ward_no": 28,
+        "villages_toles": [
+          "Swyambhu",
+          "Swayambhunath",
+          "Pauwatar"
+        ]
+      },
+      {
+        "ward_no": 29,
+        "villages_toles": [
+          "Gairigaun",
+          "Hattisar",
+          "Narayanhiti"
+        ]
+      },
+      {
+        "ward_no": 30,
+        "villages_toles": [
+          "Naxal",
+          "Battisputali",
+          "Sanepa"
+        ]
+      },
+      {
+        "ward_no": 31,
+        "villages_toles": [
+          "Kuleshwor",
+          "Kaldhara",
+          "Satungal"
+        ]
+      },
+      {
+        "ward_no": 32,
+        "villages_toles": [
+          "Dallu",
+          "Chhauni",
+          "Pachali"
+        ]
+      }
+    ]
+  },
+  "wards/chandannath.json": {
+    "meta": {
+      "municipality_id": 60401,
+      "municipality": "Chandannath",
+      "type": "Municipality",
+      "district_id": 604,
+      "total_wards": 10
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Chandannath Bazar",
+          "Khalanga"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Tallokot",
+          "Mathillokot"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Tatopani",
+          "Hima"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Sinja",
+          "Kankasundari"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Mugu Road",
+          "Gamgadhi"
+        ]
+      }
+    ]
+  },
+  "wards/pokhara.json": {
+    "meta": {
+      "municipality_id": 40501,
+      "municipality": "Pokhara",
+      "type": "Metropolitan City",
+      "district_id": 405,
+      "total_wards": 33
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Prithvi Chowk",
+          "Chipledhunga"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Bagar",
+          "Nadipur"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Ramghat",
+          "Seti Bridge"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Baidam",
+          "Lakeside"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Lakeside North",
+          "Khahare"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Shiva Chowk",
+          "Matepani"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Mustang Chowk",
+          "Simalchaur"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Bijaypur",
+          "Lekhnath"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Rithepani",
+          "Khudi"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Phewa Tal",
+          "Camping Chowk"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Mahendrapul",
+          "Sano Pokhara"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Chautara",
+          "Gharipatan"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Pokhara Bazar",
+          "Ashok Path"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Gairidhara",
+          "Ratna Mandir"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Armala",
+          "Dobilla"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Nayabazar",
+          "Hemja"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Lamachaur",
+          "Batulechar"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Raipur",
+          "Batulechaur"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Bhimsenthan",
+          "Harichowr"
+        ]
+      },
+      {
+        "ward_no": 20,
+        "villages_toles": [
+          "Pumdi Bhumdi",
+          "Rupakot"
+        ]
+      },
+      {
+        "ward_no": 21,
+        "villages_toles": [
+          "Begnas",
+          "Rupa Tal"
+        ]
+      },
+      {
+        "ward_no": 22,
+        "villages_toles": [
+          "Majhthana",
+          "Nirmal Pokhari"
+        ]
+      },
+      {
+        "ward_no": 23,
+        "villages_toles": [
+          "Kaskikot",
+          "Naudanda"
+        ]
+      },
+      {
+        "ward_no": 24,
+        "villages_toles": [
+          "Dhikurpokhari",
+          "Sarangkot"
+        ]
+      },
+      {
+        "ward_no": 25,
+        "villages_toles": [
+          "Argali",
+          "Chapakot"
+        ]
+      },
+      {
+        "ward_no": 26,
+        "villages_toles": [
+          "Lumle",
+          "Chandrakot"
+        ]
+      },
+      {
+        "ward_no": 27,
+        "villages_toles": [
+          "Lwang",
+          "Ghandruk"
+        ]
+      },
+      {
+        "ward_no": 28,
+        "villages_toles": [
+          "Dhampus",
+          "Panchase"
+        ]
+      },
+      {
+        "ward_no": 29,
+        "villages_toles": [
+          "Hemja",
+          "Deurali"
+        ]
+      },
+      {
+        "ward_no": 30,
+        "villages_toles": [
+          "Bhadaure Tamagi",
+          "Thumki"
+        ]
+      },
+      {
+        "ward_no": 31,
+        "villages_toles": [
+          "Lekhnath Bazar",
+          "Khudi Bazar"
+        ]
+      },
+      {
+        "ward_no": 32,
+        "villages_toles": [
+          "Rivan",
+          "Sedi Bagar"
+        ]
+      },
+      {
+        "ward_no": 33,
+        "villages_toles": [
+          "Bhimad",
+          "Damauli Road"
+        ]
+      }
+    ]
+  },
+  "wards/urlabari.json": {
+    "meta": {
+      "municipality_id": 10505,
+      "municipality": "Urlabari",
+      "type": "Municipality",
+      "district_id": 105,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Urlabari Bazar",
+          "Naya Bazar"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Dharan Road",
+          "Surunga"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Rampur",
+          "Birgunj Tole"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Kanchanbari",
+          "Shreepur"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Sundar Basti",
+          "Devi Tole"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Majha Bazar",
+          "Indrapur"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Gopalpur",
+          "Motipur"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Haripur",
+          "Laxmipur"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Pathari",
+          "Shantipur"
+        ]
+      }
+    ]
+  },
+  "wards/siraha.json": {
+    "meta": {
+      "municipality_id": 20201,
+      "municipality": "Siraha",
+      "type": "Municipality",
+      "district_id": 202,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Siraha Bazar",
+          "Golbazar"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Lalbandi",
+          "Bhagwanpur"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Narsinghpur",
+          "Mahuwa"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Harinagar",
+          "Phulkaha"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Kamalpur",
+          "Sukhipur"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Bhagwatpur",
+          "Devisthan"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Shantipur",
+          "Indrapur"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Laxmipur",
+          "Kataiya"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Rajapur",
+          "Motipur"
+        ]
+      }
+    ]
+  },
+  "wards/putalibazar.json": {
+    "meta": {
+      "municipality_id": 40901,
+      "municipality": "Putalibazar",
+      "type": "Municipality",
+      "district_id": 409,
+      "total_wards": 14
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Putalibazar Bazar",
+          "Naudanda"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Syangja Bazar",
+          "Galyang Road"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Siddharthanagar",
+          "Taukhel"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Bhaisepati",
+          "Chitlang"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Khairenitar",
+          "Bafal"
+        ]
+      }
+    ]
+  },
+  "wards/dharan.json": {
+    "meta": {
+      "municipality_id": 10602,
+      "municipality": "Dharan",
+      "type": "Sub-Metropolitan City",
+      "district_id": 106,
+      "total_wards": 20
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Pindeshwor",
+          "Bijaypur"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Chainpur Road",
+          "Budhabare"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Pahade Bazar",
+          "Dhankuta Road"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Bhedetar Road",
+          "Barahachhetra"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Lohar Bazar",
+          "Mahendrapath"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "New Bazar",
+          "Hattisar"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Bijaypur Khola",
+          "Damak Road"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Jhumka",
+          "Rani"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Bhaluwa",
+          "Sundar Basti"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Birat Chowk",
+          "Bhanu Chowk"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Bhanu Chowk",
+          "Station Road"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Sainik Basti",
+          "Bijaypur"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Koshi Tappu",
+          "Chatara"
+        ]
+      },
+      {
+        "ward_no": 14,
+        "villages_toles": [
+          "Machchhapokhari",
+          "Golbazar"
+        ]
+      },
+      {
+        "ward_no": 15,
+        "villages_toles": [
+          "Rani Bazar",
+          "Bhardaha"
+        ]
+      },
+      {
+        "ward_no": 16,
+        "villages_toles": [
+          "Lalit Bazar",
+          "Amardaha"
+        ]
+      },
+      {
+        "ward_no": 17,
+        "villages_toles": [
+          "Lakhantari",
+          "Rajbiraj Road"
+        ]
+      },
+      {
+        "ward_no": 18,
+        "villages_toles": [
+          "Dhulabari",
+          "Belbari"
+        ]
+      },
+      {
+        "ward_no": 19,
+        "villages_toles": [
+          "Itahari Road",
+          "Duhabi"
+        ]
+      },
+      {
+        "ward_no": 20,
+        "villages_toles": [
+          "Katahari",
+          "Bhutahi"
+        ]
+      }
+    ]
+  },
+  "wards/dipayal-silgadhi.json": {
+    "meta": {
+      "municipality_id": 70601,
+      "municipality": "Dipayal Silgadhi",
+      "type": "Municipality",
+      "district_id": 706,
+      "total_wards": 9
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Dipayal Bazar",
+          "Silgadhi"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Shikhar",
+          "Bangesimal"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Jarbuta",
+          "Satkhani"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Dandapara",
+          "Ghariani"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Bulbule",
+          "Kankrebihar"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Mulpani",
+          "Bame"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Dharapani",
+          "Guranse"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Baglung",
+          "Parbat"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Myagdi",
+          "Mustang"
+        ]
+      }
+    ]
+  },
+  "wards/kapilvastu.json": {
+    "meta": {
+      "municipality_id": 50901,
+      "municipality": "Kapilvastu",
+      "type": "Municipality",
+      "district_id": 509,
+      "total_wards": 12
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Taulihawa Bazar",
+          "Tilaurakot"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Gautambudhha",
+          "Mayadevi"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Bhakari",
+          "Dharmapaniya"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Pipari",
+          "Semari"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Banganga",
+          "Kudarat"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Thunhiya",
+          "Bhalwari"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Lumbini Road",
+          "Paklihawa"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Niglihawa",
+          "Gotihawa"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Kunuwa",
+          "Bhagawanpur"
+        ]
+      }
+    ]
+  },
+  "wards/siddharthanagar.json": {
+    "meta": {
+      "municipality_id": 50802,
+      "municipality": "Siddharthanagar",
+      "type": "Municipality",
+      "district_id": 508,
+      "total_wards": 13
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Bhairahawa Bazar",
+          "Belhiya"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Lumbini Road",
+          "Buddha Chowk"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Milanchowk",
+          "Galla Mandi"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Bankasiya",
+          "Basantapur"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Meudi",
+          "Dandakhet"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Piprahawa",
+          "Janaki Mandir"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Khairiya",
+          "Semari"
+        ]
+      },
+      {
+        "ward_no": 8,
+        "villages_toles": [
+          "Paklihawa",
+          "Hatari"
+        ]
+      },
+      {
+        "ward_no": 9,
+        "villages_toles": [
+          "Kunuwa",
+          "Bhagawanpur"
+        ]
+      },
+      {
+        "ward_no": 10,
+        "villages_toles": [
+          "Asari",
+          "Mahadevi"
+        ]
+      },
+      {
+        "ward_no": 11,
+        "villages_toles": [
+          "Shantinagar",
+          "Deepnagar"
+        ]
+      },
+      {
+        "ward_no": 12,
+        "villages_toles": [
+          "Tamnagar",
+          "Nayagaun"
+        ]
+      },
+      {
+        "ward_no": 13,
+        "villages_toles": [
+          "Motipur",
+          "Semlar"
+        ]
+      }
+    ]
+  },
+  "wards/pipra.json": {
+    "meta": {
+      "municipality_id": 20413,
+      "municipality": "Pipra",
+      "type": "Rural Municipality",
+      "district_id": 204,
+      "total_wards": 7
+    },
+    "wards": [
+      {
+        "ward_no": 1,
+        "villages_toles": [
+          "Pipra Bazar",
+          "Sahodawa"
+        ]
+      },
+      {
+        "ward_no": 2,
+        "villages_toles": [
+          "Bishrampur",
+          "Ekrahi"
+        ]
+      },
+      {
+        "ward_no": 3,
+        "villages_toles": [
+          "Sarsawa",
+          "Parsa"
+        ]
+      },
+      {
+        "ward_no": 4,
+        "villages_toles": [
+          "Damhi Maheshpur",
+          "Khadak"
+        ]
+      },
+      {
+        "ward_no": 5,
+        "villages_toles": [
+          "Loharpatti Road",
+          "Phulparasi"
+        ]
+      },
+      {
+        "ward_no": 6,
+        "villages_toles": [
+          "Ratauli",
+          "Tola 6"
+        ]
+      },
+      {
+        "ward_no": 7,
+        "villages_toles": [
+          "Belhi",
+          "Sakhuwa"
+        ]
+      }
+    ]
+  }
+}

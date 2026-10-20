@@ -1,55 +1,140 @@
 {
-    "meta": {
-        "district_id": 610,
-        "district": "Surkhet",
-        "province_id": 6,
-        "total": 9
+  "meta": {
+    "district_id": 610,
+    "district": "Surkhet",
+    "province_id": 6,
+    "total": 9
+  },
+  "municipalities": [
+    {
+      "id": 61006,
+      "name": "Simta",
+      "name_np": "सिम्ता",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 9,
+      "postal_code": "61001",
+      "source_id": 639,
+      "aliases": [],
+      "website": "http://www.simtamun.gov.np/"
     },
-    "municipalities": [
-        {
-            "id": 61001,
-            "name": "Birendranagar",
-            "name_np": "वीरेन्द्रनगर",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 610,
-            "wards": 16
-        },
-        {
-            "id": 61002,
-            "name": "Bheriganga",
-            "name_np": "भेरीगंगा",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 610,
-            "wards": 13
-        },
-        {
-            "id": 61003,
-            "name": "Gurbhakot",
-            "name_np": "गुर्भाकोट",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 610,
-            "wards": 14
-        },
-        {
-            "id": 61004,
-            "name": "Panchpuri",
-            "name_np": "पञ्चपुरी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 610,
-            "wards": 11
-        },
-        {
-            "id": 61005,
-            "name": "Lekhbeshi",
-            "name_np": "लेकवेशी",
-            "type": "Municipality",
-            "type_np": "नगरपालिका",
-            "district_id": 610,
-            "wards": 10
-        }
-    ]
+    {
+      "id": 61007,
+      "name": "Barahatal",
+      "name_np": "बराहताल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 10,
+      "postal_code": "61007",
+      "source_id": 640,
+      "aliases": [],
+      "website": "http://www.barahatalmun.gov.np/"
+    },
+    {
+      "id": 61008,
+      "name": "Chaukune",
+      "name_np": "चौकुने",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 10,
+      "postal_code": "61009",
+      "source_id": 641,
+      "aliases": [],
+      "website": "http://www.chaukunemun.gov.np/"
+    },
+    {
+      "id": 61009,
+      "name": "Chingad",
+      "name_np": "चिङ्गाड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "61002",
+      "source_id": 642,
+      "aliases": [],
+      "website": "http://www.chingadmun.gov.np/"
+    },
+    {
+      "id": 61003,
+      "name": "Gurbhakot",
+      "name_np": "गुर्भाकोट",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 14,
+      "postal_code": "61004",
+      "source_id": 643,
+      "aliases": [],
+      "website": "http://www.gurbhakotmun.gov.np/"
+    },
+    {
+      "id": 61001,
+      "name": "Birendranagar",
+      "name_np": "बीरेन्द्रनगर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 16,
+      "postal_code": "61006",
+      "source_id": 644,
+      "aliases": [],
+      "website": "http://www.birendranagarmun.gov.np/"
+    },
+    {
+      "id": 61002,
+      "name": "Bheriganga",
+      "name_np": "भेरीगंगा",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 13,
+      "postal_code": "61005",
+      "source_id": 645,
+      "aliases": [],
+      "website": "http://www.bherigangamun.gov.np/"
+    },
+    {
+      "id": 61004,
+      "name": "Panchapuri",
+      "name_np": "पञ्चपुरी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 11,
+      "postal_code": "61008",
+      "source_id": 646,
+      "aliases": [
+        "Panchpuri"
+      ],
+      "website": "http://www.panchapurimun.gov.np/"
+    },
+    {
+      "id": 61005,
+      "name": "Lekbeshi",
+      "name_np": "लेकवेशी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 610,
+      "province_id": 6,
+      "wards": 10,
+      "postal_code": "61003",
+      "source_id": 647,
+      "aliases": [
+        "Lekhbeshi"
+      ],
+      "website": "http://www.lekbeshimun.gov.np/"
+    }
+  ]
 }

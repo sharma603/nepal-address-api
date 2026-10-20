@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 70409,
+    "municipality": "Surnaya",
+    "district_id": 704,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7040401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7040402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7040403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7040404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7040405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7040406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7040407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7040408",
+      "villages_toles": []
+    }
+  ]
+}

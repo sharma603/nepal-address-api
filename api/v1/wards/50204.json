@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 50204,
+    "municipality": "Sunil Smiriti",
+    "district_id": 502,
+    "province_id": 5,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5020901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5020902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5020903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5020904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5020905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5020906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5020907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5020908",
+      "villages_toles": []
+    }
+  ]
+}

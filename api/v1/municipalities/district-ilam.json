@@ -1,70 +1,152 @@
 {
-    "meta":  {
-                 "district_id":  103,
-                 "district":  "Ilam",
-                 "province_id":  1,
-                 "total":  10
-             },
-    "municipalities":  [
-                           {
-                               "id":  10301,
-                               "name":  "Ilam",
-                               "name_np":  "इलाम",
-                               "type":  "Municipality"
-                           },
-                           {
-                               "id":  10302,
-                               "name":  "Deumai",
-                               "name_np":  "देउमाई",
-                               "type":  "Municipality"
-                           },
-                           {
-                               "id":  10303,
-                               "name":  "Mai",
-                               "name_np":  "माई",
-                               "type":  "Municipality"
-                           },
-                           {
-                               "id":  10304,
-                               "name":  "Suryodaya",
-                               "name_np":  "सूर्योदय",
-                               "type":  "Municipality"
-                           },
-                           {
-                               "id":  10305,
-                               "name":  "Phakphokthum",
-                               "name_np":  "फाकफोकथुम",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10306,
-                               "name":  "Mai Jogmai",
-                               "name_np":  "माईजोगमाई",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10307,
-                               "name":  "Chulachuli",
-                               "name_np":  "चुलाचुली",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10308,
-                               "name":  "Rong",
-                               "name_np":  "रोङ",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10309,
-                               "name":  "Mangsebung",
-                               "name_np":  "माङसेबुङ",
-                               "type":  "Rural Municipality"
-                           },
-                           {
-                               "id":  10310,
-                               "name":  "Sandakpur",
-                               "name_np":  "सन्दकपुर",
-                               "type":  "Rural Municipality"
-                           }
-                       ]
+  "meta": {
+    "district_id": 103,
+    "district": "Ilam",
+    "province_id": 1,
+    "total": 10
+  },
+  "municipalities": [
+    {
+      "id": 10304,
+      "name": "Suryodaya",
+      "name_np": "सूर्योदय",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 14,
+      "postal_code": "11009",
+      "source_id": 17,
+      "aliases": [],
+      "website": "http://www.suryodayamun.gov.np/"
+    },
+    {
+      "id": 10301,
+      "name": "Ilam",
+      "name_np": "ईलाम",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 12,
+      "postal_code": "11003",
+      "source_id": 18,
+      "aliases": [],
+      "website": "http://www.ilammun.gov.np/"
+    },
+    {
+      "id": 10302,
+      "name": "Deumai",
+      "name_np": "देउमाई",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 9,
+      "postal_code": "11004",
+      "source_id": 19,
+      "aliases": [],
+      "website": "http://www.deumaimun.gov.np/"
+    },
+    {
+      "id": 10306,
+      "name": "Maijogmai",
+      "name_np": "माईजोगमाई",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "11001",
+      "source_id": 20,
+      "aliases": [
+        "Mai Jogmai"
+      ],
+      "website": "http://www.maijogmaimun.gov.np/"
+    },
+    {
+      "id": 10305,
+      "name": "Phakphokthum",
+      "name_np": "फाकफोकथुम",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 7,
+      "postal_code": "11005",
+      "source_id": 21,
+      "aliases": [],
+      "website": "फाकफोकथुम"
+    },
+    {
+      "id": 10303,
+      "name": "Mai",
+      "name_np": "माई",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 10,
+      "postal_code": "11008",
+      "source_id": 22,
+      "aliases": [],
+      "website": "http://www.maimun.gov.np/"
+    },
+    {
+      "id": 10307,
+      "name": "Chulachuli",
+      "name_np": "चुलाचुली",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "11007",
+      "source_id": 23,
+      "aliases": [],
+      "website": "http://www.chulachulimun.gov.np/"
+    },
+    {
+      "id": 10308,
+      "name": "Rong",
+      "name_np": "रोङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "11010",
+      "source_id": 24,
+      "aliases": [],
+      "website": "http://www.rongmun.gov.np/"
+    },
+    {
+      "id": 10309,
+      "name": "Mangsebung",
+      "name_np": "माङसेबुङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 6,
+      "postal_code": "11006",
+      "source_id": 25,
+      "aliases": [],
+      "website": "http://www.mansebungmun.gov.np/"
+    },
+    {
+      "id": 10310,
+      "name": "Sandakpur",
+      "name_np": "सन्दकपुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 103,
+      "province_id": 1,
+      "wards": 5,
+      "postal_code": "11002",
+      "source_id": 26,
+      "aliases": [],
+      "website": "http://www.sandakpurmun.gov.np/"
+    }
+  ]
 }

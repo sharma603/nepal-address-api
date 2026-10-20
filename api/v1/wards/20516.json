@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 20516,
+    "municipality": "Chandranagar",
+    "district_id": 205,
+    "province_id": 2,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2051001",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2051002",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2051003",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2051004",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2051005",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2051006",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2051007",
+      "villages_toles": []
+    }
+  ]
+}

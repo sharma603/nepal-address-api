@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "district_id": 705,
+    "district": "Dadeldhura",
+    "province_id": 7,
+    "total": 7
+  },
+  "municipalities": [
+    {
+      "id": 70501,
+      "name": "Navadurga",
+      "name_np": "नवदुर्गा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 5,
+      "postal_code": "70501",
+      "source_id": 725,
+      "aliases": [],
+      "website": "http://www.navadurgamun.gov.np/"
+    },
+    {
+      "id": 70502,
+      "name": "Aalitaal",
+      "name_np": "आलिताल",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 8,
+      "postal_code": "70506",
+      "source_id": 726,
+      "aliases": [],
+      "website": "http://www.aalitalmun.gov.np/"
+    },
+    {
+      "id": 70503,
+      "name": "Ganyapadhura",
+      "name_np": "गन्यापधुरा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 5,
+      "postal_code": "70507",
+      "source_id": 727,
+      "aliases": [],
+      "website": "http://www.ganyapadhuramun.gov.np/"
+    },
+    {
+      "id": 70504,
+      "name": "Bhageshwar",
+      "name_np": "भागेश्वर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 5,
+      "postal_code": "70504",
+      "source_id": 728,
+      "aliases": [],
+      "website": "http://www.bhageshwormun.gov.np/"
+    },
+    {
+      "id": 70505,
+      "name": "Ajaymeru",
+      "name_np": "अजयमेरु",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 6,
+      "postal_code": "70503",
+      "source_id": 729,
+      "aliases": [],
+      "website": "http://www.ajayamerumun.gov.np/"
+    },
+    {
+      "id": 70506,
+      "name": "Amargadhi",
+      "name_np": "अमरगढी",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 11,
+      "postal_code": "70502",
+      "source_id": 730,
+      "aliases": [],
+      "website": "http://www.amargadhimun.gov.np/"
+    },
+    {
+      "id": 70507,
+      "name": "Parshuram",
+      "name_np": "परशुराम",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 705,
+      "province_id": 7,
+      "wards": 12,
+      "postal_code": "70505",
+      "source_id": 731,
+      "aliases": [],
+      "website": "http://www.parshurammun.gov.np/"
+    }
+  ]
+}

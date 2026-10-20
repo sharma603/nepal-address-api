@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "municipality_id": 20801,
+    "municipality": "Birgunj",
+    "district_id": 208,
+    "province_id": 2,
+    "type": "Metropolitan City",
+    "total_wards": 32,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2080701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2080702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2080703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2080704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2080705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2080706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2080707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2080708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2080709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2080710",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2080711",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2080712",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "2080713",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "2080714",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "2080715",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "2080716",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "2080717",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "2080718",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "2080719",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "2080720",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "2080721",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "2080722",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "2080723",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "2080724",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "2080725",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 26,
+      "postal_code": "2080726",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 27,
+      "postal_code": "2080727",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 28,
+      "postal_code": "2080728",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 29,
+      "postal_code": "2080729",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 30,
+      "postal_code": "2080730",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 31,
+      "postal_code": "2080731",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 32,
+      "postal_code": "2080732",
+      "villages_toles": []
+    }
+  ]
+}

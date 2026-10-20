@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "municipality_id": 50806,
+    "municipality": "Lumbini Sanskritik",
+    "district_id": 508,
+    "province_id": 5,
+    "type": "Municipality",
+    "total_wards": 13,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "5081301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "5081302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "5081303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "5081304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "5081305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "5081306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "5081307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "5081308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "5081309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "5081310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "5081311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "5081312",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "5081313",
+      "villages_toles": []
+    }
+  ]
+}

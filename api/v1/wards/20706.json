@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 20706,
+    "municipality": "Mahagadhimai",
+    "district_id": 207,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2071401",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2071402",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2071403",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2071404",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2071405",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2071406",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2071407",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2071408",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2071409",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2071410",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2071411",
+      "villages_toles": []
+    }
+  ]
+}

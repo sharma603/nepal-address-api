@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 20803,
+    "municipality": "Parsagadhi",
+    "district_id": 208,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2080601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2080602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2080603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2080604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2080605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2080606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2080607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2080608",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2080609",
+      "villages_toles": []
+    }
+  ]
+}

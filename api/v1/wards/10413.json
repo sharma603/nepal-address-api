@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 10413,
+    "municipality": "Jhapa",
+    "district_id": 104,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1111001",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1111002",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1111003",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1111004",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1111005",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1111006",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1111007",
+      "villages_toles": []
+    }
+  ]
+}

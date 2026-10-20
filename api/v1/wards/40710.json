@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 40710,
+    "municipality": "Myagde",
+    "district_id": 407,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4070301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4070302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4070303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4070304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4070305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4070306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4070307",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "municipality_id": 20509,
+    "municipality": "Bagmati",
+    "district_id": 205,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 12,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2050301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2050302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2050303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2050304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2050305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2050306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2050307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2050308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2050309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2050310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "2050311",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "2050312",
+      "villages_toles": []
+    }
+  ]
+}

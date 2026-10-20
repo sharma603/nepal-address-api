@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 60104,
+    "municipality": "Jagadulla",
+    "district_id": 601,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6010301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6010302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6010303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6010304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6010305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6010306",
+      "villages_toles": []
+    }
+  ]
+}

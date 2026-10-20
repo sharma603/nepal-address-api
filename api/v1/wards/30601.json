@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "municipality_id": 30601,
+    "municipality": "Lalitpur",
+    "district_id": 306,
+    "province_id": 3,
+    "type": "Metropolitan City",
+    "total_wards": 29,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3080201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3080202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3080203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3080204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3080205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3080206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3080207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3080208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3080209",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3080210",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3080211",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 12,
+      "postal_code": "3080212",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 13,
+      "postal_code": "3080213",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 14,
+      "postal_code": "3080214",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 15,
+      "postal_code": "3080215",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 16,
+      "postal_code": "3080216",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 17,
+      "postal_code": "3080217",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 18,
+      "postal_code": "3080218",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 19,
+      "postal_code": "3080219",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 20,
+      "postal_code": "3080220",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 21,
+      "postal_code": "3080221",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 22,
+      "postal_code": "3080222",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 23,
+      "postal_code": "3080223",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 24,
+      "postal_code": "3080224",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 25,
+      "postal_code": "3080225",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 26,
+      "postal_code": "3080226",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 27,
+      "postal_code": "3080227",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 28,
+      "postal_code": "3080228",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 29,
+      "postal_code": "3080229",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 70405,
+    "municipality": "Dogdakedar",
+    "district_id": 704,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7040201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7040202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7040203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7040204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7040205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7040206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7040207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7040208",
+      "villages_toles": []
+    }
+  ]
+}

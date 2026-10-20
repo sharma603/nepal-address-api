@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 10705,
+    "municipality": "Chaubise",
+    "district_id": 107,
+    "province_id": 1,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "1070701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "1070702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "1070703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "1070704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "1070705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "1070706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "1070707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "1070708",
+      "villages_toles": []
+    }
+  ]
+}

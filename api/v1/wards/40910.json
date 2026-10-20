@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "municipality_id": 40910,
+    "municipality": "Harinas",
+    "district_id": 409,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 7,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4090701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4090702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4090703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4090704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4090705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4090706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4090707",
+      "villages_toles": []
+    }
+  ]
+}

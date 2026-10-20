@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 40503,
+    "municipality": "Machhapuchchhre",
+    "district_id": 405,
+    "province_id": 4,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "4050201",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "4050202",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "4050203",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "4050204",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "4050205",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "4050206",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "4050207",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "4050208",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "4050209",
+      "villages_toles": []
+    }
+  ]
+}

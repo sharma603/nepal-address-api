@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "municipality_id": 20307,
+    "municipality": "MithilaBihari",
+    "district_id": 203,
+    "province_id": 2,
+    "type": "Municipality",
+    "total_wards": 10,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "2030701",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "2030702",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "2030703",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "2030704",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "2030705",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "2030706",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "2030707",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "2030708",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "2030709",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "2030710",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "municipality_id": 30105,
+    "municipality": "Tinpatan",
+    "district_id": 301,
+    "province_id": 3,
+    "type": "Rural Municipality",
+    "total_wards": 11,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "3110301",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "3110302",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "3110303",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "3110304",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "3110305",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "3110306",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "3110307",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "3110308",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "3110309",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 10,
+      "postal_code": "3110310",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 11,
+      "postal_code": "3110311",
+      "villages_toles": []
+    }
+  ]
+}

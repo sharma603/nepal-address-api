@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "municipality_id": 70203,
+    "municipality": "Kedarsyu",
+    "district_id": 702,
+    "province_id": 7,
+    "type": "Rural Municipality",
+    "total_wards": 9,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "7020901",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "7020902",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "7020903",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "7020904",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "7020905",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "7020906",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "7020907",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "7020908",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 9,
+      "postal_code": "7020909",
+      "villages_toles": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "municipality_id": 60106,
+    "municipality": "Chharka Tongsong",
+    "district_id": 601,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 6,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6010801",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6010802",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6010803",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6010804",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6010805",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6010806",
+      "villages_toles": []
+    }
+  ]
+}

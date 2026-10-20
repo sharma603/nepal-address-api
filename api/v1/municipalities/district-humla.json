@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "district_id": 603,
+    "district": "Humla",
+    "province_id": 6,
+    "total": 7
+  },
+  "municipalities": [
+    {
+      "id": 60301,
+      "name": "Simkot",
+      "name_np": "सिमकोट",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 8,
+      "postal_code": "60303",
+      "source_id": 611,
+      "aliases": [],
+      "website": "http://www.simkotmun.gov.np/"
+    },
+    {
+      "id": 60302,
+      "name": "Sarkegad",
+      "name_np": "सर्केगाड",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 8,
+      "postal_code": "60305",
+      "source_id": 612,
+      "aliases": [],
+      "website": "http://www.sarkegadmun.gov.np/"
+    },
+    {
+      "id": 60303,
+      "name": "Adanchuli",
+      "name_np": "अदानचुली",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60306",
+      "source_id": 613,
+      "aliases": [],
+      "website": "http://www.adanchulimun.gov.np/"
+    },
+    {
+      "id": 60304,
+      "name": "Kharpunath",
+      "name_np": "खार्पुनाथ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 5,
+      "postal_code": "60302",
+      "source_id": 614,
+      "aliases": [],
+      "website": "http://www.kharpunathmun.gov.np/"
+    },
+    {
+      "id": 60305,
+      "name": "Tanjakot",
+      "name_np": "ताँजाकोट",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 5,
+      "postal_code": "60307",
+      "source_id": 615,
+      "aliases": [],
+      "website": "http://www.tajakotmun.gov.np/"
+    },
+    {
+      "id": 60306,
+      "name": "Chankheli",
+      "name_np": "चंखेली",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60301",
+      "source_id": 616,
+      "aliases": [],
+      "website": "http://www.chankhelimun.gov.np/"
+    },
+    {
+      "id": 60307,
+      "name": "Namkha",
+      "name_np": "नाम्खा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 603,
+      "province_id": 6,
+      "wards": 6,
+      "postal_code": "60304",
+      "source_id": 617,
+      "aliases": [],
+      "website": "http://www.namkhamun.gov.np/"
+    }
+  ]
+}

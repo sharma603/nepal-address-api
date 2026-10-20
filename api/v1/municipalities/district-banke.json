@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "district_id": 511,
+    "district": "Banke",
+    "province_id": 5,
+    "total": 8
+  },
+  "municipalities": [
+    {
+      "id": 51101,
+      "name": "Nepalgunj",
+      "name_np": "नेपालगंज",
+      "type": "Sub-Metropolitan City",
+      "type_np": "उपमहानगरपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 23,
+      "postal_code": "51106",
+      "source_id": 571,
+      "aliases": [],
+      "website": "http://www.nepalgunjmun.gov.np/"
+    },
+    {
+      "id": 51102,
+      "name": "Kohalpur",
+      "name_np": "कोहलपुर",
+      "type": "Municipality",
+      "type_np": "नगरपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 15,
+      "postal_code": "51102",
+      "source_id": 572,
+      "aliases": [],
+      "website": "http://www.kohalpurmun.gov.np/"
+    },
+    {
+      "id": 51103,
+      "name": "Rapti-Sonari",
+      "name_np": "राप्ती सोनारी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 9,
+      "postal_code": "51101",
+      "source_id": 573,
+      "aliases": [],
+      "website": "http://www.raptisonarimun.gov.np/"
+    },
+    {
+      "id": 51104,
+      "name": "Narainapur",
+      "name_np": "नरैनापुर",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 6,
+      "postal_code": "51108",
+      "source_id": 574,
+      "aliases": [],
+      "website": "http://www.narainapurmun.gov.np/"
+    },
+    {
+      "id": 51105,
+      "name": "Duduwa",
+      "name_np": "डुडुवा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 6,
+      "postal_code": "51107",
+      "source_id": 575,
+      "aliases": [],
+      "website": "http://www.duduwamun.gov.np/"
+    },
+    {
+      "id": 51106,
+      "name": "Janaki",
+      "name_np": "जानकी",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 6,
+      "postal_code": "51105",
+      "source_id": 576,
+      "aliases": [],
+      "website": "http://www.janakimunbanke.gov.np/"
+    },
+    {
+      "id": 51107,
+      "name": "Khajura",
+      "name_np": "खजुरा",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "51104",
+      "source_id": 577,
+      "aliases": [],
+      "website": "http://www.khajuramun.gov.np/"
+    },
+    {
+      "id": 51108,
+      "name": "Baijanath",
+      "name_np": "बैजनाथ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 511,
+      "province_id": 5,
+      "wards": 8,
+      "postal_code": "51103",
+      "source_id": 578,
+      "aliases": [],
+      "website": "http://www.baijanathmun.gov.np/"
+    }
+  ]
+}

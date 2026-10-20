@@ -1,6 +1,7 @@
 const provinces = require('./api/v1/provinces.json');
 const provincesIndex = require('./api/v1/index/provinces-index.json');
 const districtsIndex = require('./api/v1/index/districts-index.json');
+const municipalitiesIndex = require('./api/v1/index/municipalities-index.json');
 const searchDistricts = require('./api/v1/search/districts.json');
 const searchMunicipalities = require('./api/v1/search/municipalities.json');
 const path = require('path');
@@ -20,7 +21,7 @@ const NepalAddress = {
      * @param {number} provinceId 
      */
     getDistricts: (provinceId) => {
-        const filePath = provincesIndex.index[provinceId];
+        const filePath = Object.hasOwn(provincesIndex.index, provinceId) && provincesIndex.index[provinceId];
         if (!filePath) return [];
         return require(`./api/v1/${filePath}`).districts;
     },
@@ -30,7 +31,7 @@ const NepalAddress = {
      * @param {number} districtId 
      */
     getMunicipalities: (districtId) => {
-        const filePath = districtsIndex.index[districtId];
+        const filePath = Object.hasOwn(districtsIndex.index, districtId) && districtsIndex.index[districtId];
         if (!filePath) return [];
         return require(`./api/v1/${filePath}`).municipalities;
     },
@@ -40,10 +41,20 @@ const NepalAddress = {
      * @param {string} query 
      */
     search: (query) => {
-        const q = query.toLowerCase();
-        const districts = searchDistricts.filter(d => d.name.toLowerCase().includes(q));
-        const municipalities = searchMunicipalities.filter(m => m.name.toLowerCase().includes(q));
+        const q = String(query ?? '').trim().toLowerCase();
+        if (!q) return { districts: [], municipalities: [] };
+        const matches = row => [row.name, row.name_np, ...(row.aliases || [])]
+            .some(name => name && name.toLowerCase().includes(q));
+        const districts = searchDistricts.filter(matches);
+        const municipalities = searchMunicipalities.filter(matches);
         return { districts, municipalities };
+    },
+
+    /** Get verified ward numbers and available (incomplete) village/tole suggestions. */
+    getWards: (municipalityId) => {
+        const filePath = Object.hasOwn(municipalitiesIndex.index, municipalityId)
+            && municipalitiesIndex.index[municipalityId];
+        return filePath ? require(`./api/v1/${filePath}`).wards : [];
     },
 
     /**

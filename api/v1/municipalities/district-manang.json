@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "district_id": 402,
+    "district": "Manang",
+    "province_id": 4,
+    "total": 4
+  },
+  "municipalities": [
+    {
+      "id": 40201,
+      "name": "Chame",
+      "name_np": "चामे",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 402,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40203",
+      "source_id": 427,
+      "aliases": [],
+      "website": "http://www.chamemun.gov.np/"
+    },
+    {
+      "id": 40202,
+      "name": "Nason",
+      "name_np": "नासोँ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 402,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "40204",
+      "source_id": 428,
+      "aliases": [],
+      "website": "http://www.nasonmun.gov.np/"
+    },
+    {
+      "id": 40203,
+      "name": "NarpaBhumi",
+      "name_np": "नार्पा भूमि",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 402,
+      "province_id": 4,
+      "wards": 5,
+      "postal_code": "40201",
+      "source_id": 429,
+      "aliases": [],
+      "website": "http://www.narpabhumimun.gov.np/"
+    },
+    {
+      "id": 40204,
+      "name": "Manang Ngisyang",
+      "name_np": "मनाङ ङिस्याङ",
+      "type": "Rural Municipality",
+      "type_np": "गाउँपालिका",
+      "district_id": 402,
+      "province_id": 4,
+      "wards": 9,
+      "postal_code": "40202",
+      "source_id": 430,
+      "aliases": [],
+      "website": "http://www.manangngisyangmun.gov.np/"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "municipality_id": 60405,
+    "municipality": "Tatopani",
+    "district_id": 604,
+    "province_id": 6,
+    "type": "Rural Municipality",
+    "total_wards": 8,
+    "ward_count_sources": [
+      "local-states-nepal",
+      "postal-directory"
+    ],
+    "village_tole_coverage": "incomplete"
+  },
+  "wards": [
+    {
+      "ward_no": 1,
+      "postal_code": "6040601",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 2,
+      "postal_code": "6040602",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 3,
+      "postal_code": "6040603",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 4,
+      "postal_code": "6040604",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 5,
+      "postal_code": "6040605",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 6,
+      "postal_code": "6040606",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 7,
+      "postal_code": "6040607",
+      "villages_toles": []
+    },
+    {
+      "ward_no": 8,
+      "postal_code": "6040608",
+      "villages_toles": []
+    }
+  ]
+}
